@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101319">
+  <meta name="description" content="Enter a title. Let the reader, the question, and the moment open a walkable book-room.">
+  <title>LIBER EFMW — The Walkable Borges Library</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="LIBER EFMW home">
+        <span class="brand-mark" aria-hidden="true">Ω</span>
+        <span class="brand-name">LIBER <b>EFMW</b></span>
+        <span class="brand-divider" aria-hidden="true"></span>
+        <span class="brand-edition">THE WALKABLE BORGES LIBRARY</span>
+      </a>
+      <div class="session-indicator"><span class="status-light" id="statusLight"></span><span id="statusText">THE STACKS ARE QUIET</span></div>
+      <button class="top-action immersion-button" id="immersionButton" type="button" aria-pressed="false" title="Open full-screen immersion">IMMERSION <span aria-hidden="true">⛶</span></button>
+      <button class="top-action" id="aboutButton" type="button">ABOUT THE OPERATOR <span aria-hidden="true">↗</span></button>
+    </header>
+
+    <main class="layout" id="top">
+      <section class="world-column" aria-label="Library world">
+        <div class="world-frame" id="worldFrame">
+          <canvas id="libraryCanvas" aria-label="A perspective view down a lamp-lit library aisle"></canvas>
+          <div class="world-vignette" aria-hidden="true"></div>
+          <div class="world-topline">
+            <span class="world-kicker"><span class="tiny-star">✳</span> <span id="worldMode">LOBBY / UNCOLLAPSED</span></span>
+            <span class="world-coordinates" id="coordinates">x: ∅ &nbsp;·&nbsp; t: 00 &nbsp;·&nbsp; u: waiting</span>
+          </div>
+          <div class="portal-caption" aria-live="polite">
+            <span class="portal-overline" id="portalOverline">THE READER IS THE APERTURE</span>
+            <strong id="portalTitle">The unentered library</strong>
+            <span id="portalNote">A question is a door. A title is a key.</span>
+          </div>
+          <div class="world-controls" aria-label="View controls">
+            <span><kbd>←</kbd><kbd>→</kbd> LOOK</span>
+            <span><kbd>1</kbd><kbd>2</kbd><kbd>3</kbd> CHOOSE</span>
+            <button type="button" id="soundButton" class="sound-button" aria-pressed="false" title="Ambient sound is off"><span aria-hidden="true">♫</span> SOUND OFF</button>
+          </div>
+          <div class="world-readout"><span class="readout-dot"></span><span id="worldReadout">POSSIBILITY SPACE / STABLE</span></div>
+        </div>
+
+        <div class="world-caption">
+          <div>
+            <div class="caption-label">BOOK = INFINITY ∩ READER ∩ NEED ∩ MOMENT</div>
+            <p id="sceneCaption">The Library does not open all at once. It waits for the small, exact pressure of your attention.</p>
+          </div>
+          <div class="caption-mark" aria-hidden="true">23<span>R</span></div>
+        </div>
+      </section>
+
+      <aside class="workbench" aria-label="Reader's desk">
+        <section class="entry-panel" id="entryPanel">
+          <div class="panel-eyebrow"><span class="eyebrow-rule"></span> READER / APERTURE</div>
+          <h1>The Library waits<br>for a title.</h1>
+          <p class="entry-copy">Name a book that exists, a book that might exist, or the book you need right now. Then step inside.</p>
+
+          <form id="entryForm" autocomplete="off">
+            <label for="titleInput">BOOK TITLE <span class="required-mark">REQUIRED</span></label>
+            <input id="titleInput" name="title" maxlength="120" placeholder="A title, real or imagined…" required>
+
+            <label for="needInput">WHAT BRINGS YOU HERE? <span class="optional-mark">OPTIONAL</span></label>
+            <textarea id="needInput" name="need" maxlength="240" rows="2" placeholder="A question, a feeling, a thing you want to see…"></textarea>
+
+            <div class="focus-row">
+              <label for="focusInput">READING LENS</label>
+              <select id="focusInput" name="focus">
+                <option value="wonder">Wonder</option>
+                <option value="understanding">Understanding</option>
+                <option value="memory">Memory</option>
+                <option value="surprise">Surprise</option>
+                <option value="quiet">Quiet</option>
+              </select>
+            </div>
+
+            <button class="enter-button" type="submit"><span>ENTER THE BOOK-ROOM</span><span class="button-arrow" aria-hidden="true">↗</span></button>
+          </form>
+
+          <div class="examples">
+            <span class="examples-label">TRY A TITLE</span>
+            <div class="example-list">
+              <button type="button" class="example-chip" data-title="2001: A Space Odyssey" data-need="Where does intelligence go next?">2001: A Space Odyssey</button>
+              <button type="button" class="example-chip" data-title="If on a winter's night a traveler" data-need="What does an unfinished beginning ask of a reader?">If on a winter’s night a traveler</button>
+              <button type="button" class="example-chip" data-title="The Book That Opens When Called" data-need="Show me the first page that knows I am here.">The Book That Opens When Called</button>
+            </div>
+          </div>
+
+          <div class="entry-footnote"><span aria-hidden="true">◉</span> This is an interpretive simulation. It creates new text; it does not reproduce a source book.</div>
+        </section>
+
+        <section class="journey-panel" id="journeyPanel" hidden>
+          <div class="journey-heading">
+            <div class="panel-eyebrow"><span class="eyebrow-rule"></span> CURRENT COLLAPSE <span class="step-counter" id="stepCounter">01</span></div>
+            <div class="active-title-row"><h1 id="activeTitle">The book title</h1><button type="button" class="icon-button" id="restartButton" title="Begin another book" aria-label="Begin another book">＋</button></div>
+            <div class="room-pills"><span class="room-pill" id="roomPill">ROOM</span><span class="room-pill room-pill-muted" id="lensPill">WONDER</span><span class="room-pill room-pill-muted">POSSIBLE EDITION</span></div>
+          </div>
+
+          <article class="reading-card" aria-live="polite" aria-atomic="true">
+            <div class="reading-card-top"><span class="folio-label"><span class="folio-icon">¶</span> FIELD NOTES / <span id="folioNumber">001</span></span><span class="reading-status">INTERPRETIVE TEXT</span></div>
+            <h2 id="roomHeading">The Threshold Room</h2>
+            <div class="story-copy" id="storyCopy"></div>
+            <div class="reader-question" id="readerQuestion" hidden></div>
+            <div class="margin-mark" aria-hidden="true">—</div>
+          </article>
+
+          <div class="collapse-meter">
+            <div class="meter-heading"><span>RECURSIVE COHERENCE</span><span id="coherenceValue">—</span></div>
+            <div class="meter-track"><span id="coherenceBar"></span></div>
+            <div class="meter-subline"><span>reader-state × room fit</span><button type="button" id="scoreToggle" aria-expanded="false">SCORE NOTES <span aria-hidden="true">＋</span></button></div>
+            <div class="score-notes" id="scoreNotes" hidden></div>
+          </div>
+
+          <div class="choice-section">
+            <div class="choice-heading"><span>WHERE DOES YOUR ATTENTION GO?</span><span class="choice-hint">CHOOSE A DOOR</span></div>
+            <div class="choice-list" id="choiceList"></div>
+          </div>
+
+          <div class="journey-footer">
+            <div class="path-label">YOUR PATH</div>
+            <div class="path-trail" id="pathTrail" aria-label="Reading path"></div>
+            <div class="journey-actions"><button type="button" id="shelveButton">CLOSE &amp; SHELVE</button><button type="button" id="exportButton">SAVE READING <span aria-hidden="true">↓</span></button></div>
+          </div>
+        </section>
+      </aside>
+    </main>
+
+    <footer class="footerbar"><span>LIBER EFMW <span class="footer-separator">/</span> COLLAPSE Ω <span class="footer-separator">/</span> PROTOTYPE 0.1</span><span class="footer-right">LOCAL SESSION ONLY <span class="footer-separator">·</span> <button id="footerAbout" type="button">OPERATOR NOTES</button></span></footer>
+  </div>
+
+  <dialog id="aboutDialog" class="about-dialog">
+    <form method="dialog"><button class="dialog-close" aria-label="Close">×</button></form>
+    <div class="dialog-eyebrow">LIBER EFMW / OPERATOR NOTES</div>
+    <h2>The reader is the aperture.</h2>
+    <p class="dialog-lead">The Borges Library is a generative book-room: a title, a reader, a question, and a moment resolve into one bounded place to explore.</p>
+    <div class="equation-block"><div class="equation-label">SYMBOLIC OPERATOR</div><code>B<sub>EFMW</sub>(x,t,u) = Collapse<sub>Ω</sub>[ ∫<sub>Γ</sub> e<sup>iS/ℏ</sup> R<sub>23</sub>(φ) M<sub>text</sub>(ψ) O<sub>u</sub>(t) dΓ ]</code></div>
+    <p>In this prototype, <b>Collapse Ω</b> is implemented as a small, transparent scoring rule over candidate rooms. Title and prompt supply semantic cues; reader focus supplies a lens; the path already taken discourages repetition. The selected room then produces an original interpretive passage and three next actions.</p>
+    <div class="equation-block equation-block-small"><div class="equation-label">RUNNABLE APPROXIMATION</div><code>room* = argmax [ 0.34C + 0.28R + 0.20U + 0.12V − 0.16N ]</code><div class="equation-key">C coherence · R resonance · U usefulness · V novelty · N disorientation</div></div>
+    <p class="dialog-caution">This is an operational literary simulation, not a numerical evaluation of a physical path integral and not evidence that EFMW is established physics. The browser version uses no model API, sends no reader input anywhere, and stores the optional reading path only in this browser.</p>
+    <div class="dialog-bottom"><span>INCOMPLETENESS IS ALLOWED.</span><span>DO NOT HEAL THE WOUND THAT IS THE ARTWORK.</span></div>
+  </dialog>
+
+  <script src="engine.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

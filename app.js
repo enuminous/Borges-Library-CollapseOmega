@@ -8,7 +8,7 @@
   const saveKey = 'liber-efmw-session-v01';
 
   const ui = {
-    worldFrame: $('#worldFrame'), entryPanel: $('#entryPanel'), journeyPanel: $('#journeyPanel'),
+    worldFrame: $('#worldFrame'), entryPanel: $('#entryPanel'), journeyPanel: $('#journeyPanel'), sampleFeed: $('#sampleFeed'),
     titleInput: $('#titleInput'), needInput: $('#needInput'), focusInput: $('#focusInput'),
     worldMode: $('#worldMode'), coordinates: $('#coordinates'), portalOverline: $('#portalOverline'),
     portalTitle: $('#portalTitle'), portalNote: $('#portalNote'), worldReadout: $('#worldReadout'),
@@ -28,6 +28,12 @@
   let lastFrame = 0;
 
   const colorSet = ['#8b744b', '#a4a179', '#735e52', '#8b9490', '#b19a67', '#776a89', '#496e69', '#a28774'];
+  const SAMPLE_PAGES = [
+    { folio: '014', title: 'Index of Unasked Questions', need: 'What pattern lets a better question find meaning?', focus: 'understanding' },
+    { folio: '023', title: 'The Archive of Almost-Remembered Things', need: 'What remains when the details go quiet?', focus: 'memory' },
+    { folio: '001', title: 'The Door That Opens When Called', need: 'What waits on the other side?', focus: 'surprise' },
+    { folio: '087', title: 'A Small Astronomy of Returning', need: 'What does distance make possible?', focus: 'wonder' }
+  ];
 
   function cleanText(text, max = 240) {
     return String(text || '').replace(/\s+/g, ' ').trim().slice(0, max);
@@ -125,6 +131,7 @@
     const room = result.room;
     ui.entryPanel.hidden = true;
     ui.journeyPanel.hidden = false;
+    ui.sampleFeed.hidden = true;
     ui.activeTitle.textContent = journey.title;
     ui.stepCounter.textContent = String(journey.step).padStart(2, '0');
     ui.roomPill.textContent = room.short;
@@ -216,6 +223,7 @@
     journey = null;
     ui.journeyPanel.hidden = true;
     ui.entryPanel.hidden = false;
+    ui.sampleFeed.hidden = false;
     ui.titleInput.value = '';
     ui.needInput.value = '';
     setWorld(null, 0);
@@ -250,7 +258,56 @@
   function chooseExample(button) {
     ui.titleInput.value = button.dataset.title || '';
     ui.needInput.value = button.dataset.need || '';
+    if (button.dataset.focus) ui.focusInput.value = button.dataset.focus;
     ui.entryForm.requestSubmit();
+  }
+
+  function renderSamplePages() {
+    const grid = $('#samplePageGrid');
+    if (!grid) return;
+    grid.replaceChildren();
+
+    SAMPLE_PAGES.forEach((sample) => {
+      const context = { title: sample.title, need: sample.need, focus: sample.focus };
+      const result = BorgesEngine.collapse({ ...context, visited: [], step: 1, lastAction: 'entry' });
+      const passage = BorgesEngine.compose(context, result.room, 'entry');
+      const article = document.createElement('article');
+      article.className = 'sample-page';
+
+      const meta = document.createElement('div');
+      meta.className = 'sample-page-meta';
+      const folio = document.createElement('span');
+      folio.className = 'sample-page-folio';
+      folio.textContent = 'POSSIBLE PAGE / ' + sample.folio;
+      const room = document.createElement('span');
+      room.className = 'sample-page-room';
+      room.textContent = result.room.short;
+      meta.append(folio, room);
+
+      const title = document.createElement('h3');
+      title.textContent = sample.title;
+      const excerpt = document.createElement('p');
+      excerpt.className = 'sample-page-copy';
+      excerpt.textContent = passage.architecture + ' ' + passage.event;
+
+      const footer = document.createElement('div');
+      footer.className = 'sample-page-footer';
+      const note = document.createElement('span');
+      note.textContent = 'ORIGINAL INTERPRETIVE TEXT';
+      const open = document.createElement('button');
+      open.type = 'button';
+      open.className = 'sample-page-open';
+      open.dataset.title = sample.title;
+      open.dataset.need = sample.need;
+      open.dataset.focus = sample.focus;
+      open.setAttribute('aria-label', 'Open ' + sample.title + ' in the Library');
+      open.innerHTML = 'ENTER THIS BOOK <span aria-hidden="true">↗</span>';
+      open.addEventListener('click', () => chooseExample(open));
+      footer.append(note, open);
+
+      article.append(meta, title, excerpt, footer);
+      grid.appendChild(article);
+    });
   }
 
   function resizeCanvas() {
@@ -571,6 +628,7 @@
   ui.worldFrame.addEventListener('pointerleave', () => { if (!dragging) { look.x *= .92; look.y *= .92; } });
   window.addEventListener('resize', resizeCanvas);
   if ('ResizeObserver' in window) new ResizeObserver(resizeCanvas).observe(ui.worldFrame);
+  renderSamplePages();
   resizeCanvas();
   drawWorld(performance.now());
 

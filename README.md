@@ -1,5 +1,18 @@
 # LIBER EFMW — The Walkable Borges Library
 
+<!-- ENUMINOUS-NETWORK:START -->
+**eNuminous network:** [All repositories](https://enuminous.github.io/EFMW/repositories.html) · [EFMW](https://enuminous.github.io/EFMW/) · [102 equations](https://github.com/enuminous/Monolithic_102_EFMW) · [165 triplets](https://enuminous.github.io/FieldSpace/) · [Zoo](https://enuminous.github.io/Tortoise/) · [Lean](https://enuminous.github.io/Aristotle-102-Monolithic-Lean/) · [Engine](https://enuminous.github.io/Archimedes-Engine/) · [Papers](https://enuminous.github.io/medium/papers-essays-index.html) · [Audit](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/INTERLOCK_AUDIT.md)
+
+[Repository](https://github.com/enuminous/Borges-Library-CollapseOmega) · [Published page](https://enuminous.github.io/Borges-Library-CollapseOmega/)
+
+<details>
+<summary>Repository indexes (1)</summary>
+
+- [index.html](https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/index.html) · [Open page](https://enuminous.github.io/Borges-Library-CollapseOmega/index.html)
+
+</details>
+<!-- ENUMINOUS-NETWORK:END -->
+
 A browser-based, first-person literary simulator. Give the Library a title and a question; it resolves one bounded book-room, writes an original interpretive passage, and lets your choices recursively change the next room.
 
 > **The Library is infinite, but the reader is the aperture.**

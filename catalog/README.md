@@ -1,5 +1,8 @@
 # Sophia's Catalogue — The Wright Collection
 
+**New public all-repository index:** [Search Sophia's Universal Catalogue](index.html), [all documents in papers](auto/papers.md), or [all source repositories](auto/overview.md). This scheduled inventory is separate from hand-curated accession cards and never asserts scientific PASS from filenames.
+
+
 This is the *public filing desk* of the [Borges/EFMW Infinite Library](../README.md). The Library's interactive book-rooms remain interpretive and reader-local; this catalogue is a **real Git-committed archive** of published texts.
 
 **Sophia the Librarian** is the established literary curator of this Library, representing ordering, memory, provenance and thoughtful classification. A catalogue entry here is an actual repository record; Sophia's speech or marginalia are fictional editorial presentation, not independent peer review.

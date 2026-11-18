@@ -61,6 +61,9 @@ To publish it with GitHub Pages:
 
 ## Sophia's Public Catalogue
 
+**Live all-repository index:** [Sophia's Universal Catalogue](catalog/index.html) · [all documents in papers](catalog/auto/papers.md) · [all public repository files](catalog/auto/overview.md). Daily GitHub Actions scans every publicly discoverable `enuminous` repository, recording source blobs and labelling documents, datasets/results, and reproducibility sources. **Metadata indexing is not scientific validation. Private repositories and connected cloud files are excluded.**
+
+
 Sophia the Librarian *(the Library's fictional archival curator)* has a real, public accession ledger: [**Sophia's Catalogue**](catalog/README.md), with a machine-readable [register](catalog/sophia.json). The archived work is preserved exactly as published; its philosophical/satirical classification and review status are in a separate record.
 
 **New accession:** [**Those Goddamn Cliffords** — MESD Dispatch 18](catalog/SOPHIA-MATH-III-2026-11-18-018.md), filed under **Mathematics, Third Gallery**, with the profanity cross-filed under **Philosophy, beside Schopenhauer**. [Read the mirrored volume](catalog/volumes/18-those-goddamn-cliffords-2026-11-18.md) or the [source MESD edition](https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/18-those-goddamn-cliffords-2026-11-18.md). The linked mathematical claims have their bounded source audits; universal cosmic rotation remains unverified.

@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sophia's Universal Catalogue — Borges Library</title>
+<style>
+:root{color-scheme:dark}*{box-sizing:border-box}
+body{margin:0;background:#111822;color:#f2e8d5;font:16px/1.5 Georgia,serif}
+a{color:#e8cd95}a:hover{color:white}
+header,main,footer{max-width:1100px;margin:auto;padding:24px}
+header{border-bottom:1px solid #657080}h1{font-size:clamp(2.4rem,5vw,4rem);line-height:1}
+nav{display:flex;gap:16px;flex-wrap:wrap;font:14px system-ui}
+.kicker{font:11px system-ui;letter-spacing:.14em;text-transform:uppercase;color:#e8cd95;margin-top:35px}
+.notice{background:#202c38;border-left:3px solid #d9b67c;padding:15px 18px}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:24px 0}
+.metric{background:#202c38;border:1px solid #495665;border-radius:5px;padding:18px}
+.metric b{display:block;font:700 1.6rem system-ui}.metric small{font:12px system-ui;color:#b6c5c9}
+.filters{display:grid;grid-template-columns:1.5fr 2fr 1fr;gap:12px;margin:16px 0}
+label{display:block;font:12px system-ui;margin-bottom:5px}
+input,select,button{width:100%;background:#192530;color:white;padding:11px;border:1px solid #758190;border-radius:4px;font:14px system-ui}
+button{cursor:pointer}button:disabled{opacity:.4}
+table{width:100%;border-collapse:collapse;font:13px/1.5 system-ui}
+td,th{padding:11px;border-bottom:1px solid #394653;text-align:left;vertical-align:top}
+td:first-child{overflow-wrap:anywhere;min-width:280px}th{color:#d9b67c;text-transform:uppercase;font-size:11px}
+.wrap{overflow:auto;border:1px solid #495665;border-radius:4px}
+.meta{font:13px system-ui;color:#b6c5c9;margin:12px 0}
+.tag{border:1px solid #748390;padding:2px 5px;display:inline-block;margin:1px;font:11px system-ui}
+footer{border-top:1px solid #495665;color:#b6c5c9;font:13px/1.5 system-ui}
+@media(max-width:800px){.grid{grid-template-columns:1fr 1fr}.filters{grid-template-columns:1fr}}
+</style></head>
+<body>
+<header>
+<nav><a href="../index.html">← The Borges Library</a><a href="README.md">Sophia's curated catalogue</a><a href="auto/overview.md">All repositories</a><a href="auto/papers.md">All papers documents</a><a href="auto/manifest.json">JSON manifest</a></nav>
+<div class="kicker">LIBER EFMW / SOPHIA / PUBLIC ACCESSION DESK</div>
+<h1>Sophia's Universal Catalogue</h1>
+<p>Public papers, documents, research results, data and reproducibility artifacts—each linked to its original GitHub file and exact blob identity.</p>
+</header>
+<main>
+<p class="notice"><b>All bullshit is welcome. Unlabeled bullshit is not.</b> This is a public-file inventory, not peer review. A filename saying “PASS,” “proof,” or “verified” never establishes the scientific claim. Private repositories, cloud drives and other connected documents are not included. Scan failures are shown as gaps, not empty repositories.</p>
+<div class="grid">
+<div class="metric"><b id="rCount">—</b><small>Public repositories</small></div>
+<div class="metric"><b id="dCount">—</b><small>Documents</small></div>
+<div class="metric"><b id="xCount">—</b><small>Data/result candidates</small></div>
+<div class="metric"><b id="fCount">—</b><small>Source file paths</small></div>
+</div>
+<p class="meta" id="when" aria-live="polite">Loading the current source snapshot…</p>
+<h2>Browse the stacks</h2>
+<div class="filters">
+<div><label for="repository">Repository</label><select id="repository" disabled><option>Loading…</option></select></div>
+<div><label for="term">Find a file by name or path</label><input id="term" type="search" placeholder="physics, ROT-011, report, experiment…"></div>
+<div><label for="type">Type</label><select id="type">
+<option value="">All source files</option>
+<option value="document">Documents</option>
+<option value="papers_document">Papers documents</option>
+<option value="data_or_result">Results/data</option>
+<option value="reproducibility_source">Source/proofs</option>
+<option value="media">Media</option>
+<option value="other">Other files</option>
+</select></div>
+</div>
+<p class="meta" id="state" aria-live="polite">Connecting…</p>
+<div class="wrap"><table><thead><tr><th>Source file</th><th>Classifications</th><th>Bytes</th><th>Git blob SHA</th></tr></thead><tbody id="rows"><tr><td colspan="4">Loading…</td></tr></tbody></table></div>
+<p><button type="button" id="more" disabled style="width:auto">Show 150 more</button> <a id="full" href="auto/manifest.json">Full repository inventory</a></p>
+<h2>The librarian's promise</h2>
+<p>All public default-branch files are inventoried unless they belong to transient vendor/cache directories or this catalogue's own generated output. The original source repositories are never edited by Sophia. Each scan records exact Git blob identities and tree SHA references. Errors and old snapshots are clearly labeled.</p>
+<p>New to the Library? Visit Sophia's first preserved accession: <a href="SOPHIA-MATH-III-2026-11-18-018.md"><em>Those Goddamn Cliffords</em></a>, Mathematics, Third Gallery; exasperation cross-filed under Philosophy, beside Schopenhauer.</p>
+</main>
+<footer><p><b>Sophia the Librarian</b> is a fictional editorial persona; the public GitHub record and automated daily refresh workflow are real. File metadata is not an experiment, a mathematical proof, or evidence of global cosmic rotation.</p></footer>
+<script>
+(function(){
+"use strict";
+var manifest=null,contents=null,selected=[],position=0;
+var $=function(s){return document.getElementById(s)};
+var sel=$("repository"),term=$("term"),kind=$("type"),body=$("rows");
+var state=$("state"),more=$("more"),full=$("full");
+function num(n){return Number(n||0).toLocaleString();}
+function cell(row,value){var td=document.createElement("td");td.textContent=value;row.appendChild(td);return td;}
+function showMore(){
+var chunk=selected.slice(position,position+150);
+if(!position&&!chunk.length){var empty=document.createElement("tr");cell(empty,"No matching files.");body.appendChild(empty);}
+chunk.forEach(function(f){
+var row=document.createElement("tr"),td=document.createElement("td"),a=document.createElement("a");
+a.href=f.url;a.textContent=f.path;a.target="_blank";a.rel="noopener noreferrer";
+td.appendChild(a);row.appendChild(td);
+var types=document.createElement("td");
+f.kinds.forEach(function(t){var tag=document.createElement("span");tag.className="tag";tag.textContent=t;types.appendChild(tag);});
+row.appendChild(types);cell(row,num(f.size_bytes));var h=cell(row,(f.blob_sha||"?").slice(0,12));h.title=f.blob_sha||"";
+body.appendChild(row);
+});
+position+=chunk.length;more.disabled=position>=selected.length;
+}
+function filter(){
+if(!contents)return;
+var needle=term.value.trim().toLowerCase(),t=kind.value;
+selected=contents.files.filter(function(f){
+return (!t||f.kinds.indexOf(t)!==-1)&&(!needle||f.path.toLowerCase().includes(needle));
+});
+position=0;body.replaceChildren();showMore();
+state.textContent=num(selected.length)+" source files · "+contents.repository+" · "+contents.status+" · unreviewed metadata only";
+}
+async function choose(){
+if(!manifest)return;
+var wanted=sel.value,r=manifest.repositories.find(function(x){return x.name===wanted;});
+contents=null;body.replaceChildren();
+if(!r||!r.inventory){state.textContent="Incomplete scan; see manifest for the reason.";return;}
+state.textContent="Reading "+r.repository+"…";
+var path="auto/"+r.inventory;full.href=path;
+try{
+var response=await fetch(path,{cache:"no-store"});
+if(!response.ok)throw new Error("HTTP "+response.status);
+var x=await response.json();
+if(sel.value!==wanted)return;
+contents=x;filter();
+}catch(e){state.textContent="Inventory unavailable: "+e.message;}
+}
+async function init(){
+try{
+var response=await fetch("auto/manifest.json",{cache:"no-store"});
+if(!response.ok)throw new Error("HTTP "+response.status);
+manifest=await response.json();
+$("rCount").textContent=num(manifest.repositories_found);
+$("dCount").textContent=num(manifest.totals.document);
+$("xCount").textContent=num(manifest.totals.data_or_result);
+$("fCount").textContent=num(manifest.totals.files);
+$("when").textContent="Snapshot "+manifest.generated_at_utc+" UTC · "+
+manifest.complete_repositories+" complete, "+manifest.stale_repositories+" stale, "+
+manifest.incomplete_repositories+" incomplete · "+
+(manifest.coverage_complete?"full coverage of declared public scope":"coverage gaps disclosed");
+sel.replaceChildren();
+manifest.repositories.forEach(function(r){
+var option=document.createElement("option");option.value=r.name;
+option.textContent=r.name+" · "+num(r.files)+" files · "+r.status;sel.appendChild(option);
+});
+sel.disabled=false;
+if(manifest.repositories.some(function(r){return r.name==="papers";}))sel.value="papers";
+await choose();
+}catch(e){state.textContent="Snapshot not yet available: "+e.message+". Check the GitHub Actions run; Sophia's curated collection remains accessible.";body.replaceChildren();}
+}
+sel.addEventListener("change",choose);
+term.addEventListener("input",filter);
+kind.addEventListener("change",filter);
+more.addEventListener("click",showMore);
+init();
+})();
+</script></body></html>

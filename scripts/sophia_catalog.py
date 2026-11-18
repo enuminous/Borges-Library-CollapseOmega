@@ -111,28 +111,34 @@ def tree(owner, repo, token=None):
         raise RuntimeError("Empty repository or missing default branch")
     data=request_json(base+q(branch)+"?recursive=1",token)
     if not data.get("truncated"):
-        return data.get("tree",[]),data["sha"],False
-    # A truncated recursive tree is not a complete catalogue. Walk every
-    # direct subtree instead, preserving original file paths and blob SHAs.
-    root=request_json(base+q(branch),token)
-    queue=[("",root.get("tree",[]))]
-    blobs=[]
-    calls=0
-    while queue:
-        prefix,items=queue.pop()
-        for item in items:
-            path=prefix+item["path"]
-            if item["type"]=="blob":
-                blobs.append(dict(item,path=path))
-            elif item["type"]=="tree" and include(path+"/child"):
-                calls+=1
-                if calls>25000:
-                    raise RuntimeError("Fallback >25000 subtree calls")
-                subtree=request_json(base+q(item["sha"]),token)
-                if subtree.get("truncated"):
-                    raise RuntimeError("Truncated individual subtree "+path)
-                queue.append((path+"/",subtree.get("tree",[])))
-    return blobs,root["sha"],True
+        return data.get("tree",[]),data["sha"],"COMPLETE"
+
+    # Bounded subtree scan for oversized repos. Preserve the explicitly
+    # PARTIAL recursive response if complete fallback exceeds its budget.
+    try:
+        root=request_json(base+q(branch),token)
+        pending=[("",root.get("tree",[]))]
+        blobs=[]
+        calls=0
+        while pending:
+            prefix,items=pending.pop()
+            for item in items:
+                path=prefix+item["path"]
+                if item["type"]=="blob":
+                    blobs.append(dict(item,path=path))
+                elif item["type"]=="tree" and include(path+"/child"):
+                    calls+=1
+                    if calls>35:
+                        print("SOPHIA_WARNING huge tree truncated "+repo["name"],flush=True)
+                        return data.get("tree",[]),data["sha"],"PARTIAL_TRUNCATED"
+                    subtree=request_json(base+q(item["sha"]),token)
+                    if subtree.get("truncated"):
+                        return data.get("tree",[]),data["sha"],"PARTIAL_TRUNCATED"
+                    pending.append((path+"/",subtree.get("tree",[])))
+        return blobs,root["sha"],"COMPLETE_SUBTREE_FALLBACK"
+    except Exception as exc:
+        print("SOPHIA_WARNING subtree fallback error: "+str(exc),flush=True)
+        return data.get("tree",[]),data["sha"],"PARTIAL_TRUNCATED"
 
 
 def record(owner, repo, blob):

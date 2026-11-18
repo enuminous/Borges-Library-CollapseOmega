@@ -59,6 +59,14 @@ To publish it with GitHub Pages:
 2. In **Settings → Pages**, set the publishing source to **GitHub Actions**.
 3. Push to the repository's `main` branch. `.github/workflows/pages.yml` uploads the static files and deploys them.
 
+## Sophia's Public Catalogue
+
+Sophia the Librarian *(the Library's fictional archival curator)* has a real, public accession ledger: [**Sophia's Catalogue**](catalog/README.md), with a machine-readable [register](catalog/sophia.json). The archived work is preserved exactly as published; its philosophical/satirical classification and review status are in a separate record.
+
+**New accession:** [**Those Goddamn Cliffords** — MESD Dispatch 18](catalog/SOPHIA-MATH-III-2026-11-18-018.md), filed under **Mathematics, Third Gallery**, with the profanity cross-filed under **Philosophy, beside Schopenhauer**. [Read the mirrored volume](catalog/volumes/18-those-goddamn-cliffords-2026-11-18.md) or the [source MESD edition](https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/18-those-goddamn-cliffords-2026-11-18.md). The linked mathematical claims have their bounded source audits; universal cosmic rotation remains unverified.
+
+**Important distinction:** The browser's sample books are generated interpretive texts and saved reader journeys are local-only. The `catalog/` files are separate, permanently published Git records; this does not change the simulator's local storage, scoring, or original literary text.
+
 ## What the prototype does
 
 - Treats a real or imagined title as the entrance to a possible book-world.

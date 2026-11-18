@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "Sophia's public accession catalogue — Borges/EFMW Infinite Library",
+  "description": "Public provenance-linked records of deliberately shelved works. The Sophia librarian persona is fictional; the repo commit is the actual archival action.",
+  "entries": [
+    {
+      "accession_id": "SOPHIA-MATH-III-2026-11-18-018",
+      "title": "Those Goddamn Cliffords",
+      "subtitle": "How a bunch of nineteenth-century mathematicians got mixed up in an investigation of the entire universe—and refused to leave",
+      "creator": "Matthew Chenoweth Wright",
+      "publisher": "Mathematics and Elite Squad Dynamics (MESD)",
+      "publication_date": "2026-11-18",
+      "publication_label": "Dispatch 18",
+      "work_type": "scientific_satire",
+      "series": "Wright Canon / Satire Path",
+      "primary_classification": "Mathematics — Third Gallery",
+      "cross_classification": "Philosophy — beside Schopenhauer (profanity and editorial exasperation)",
+      "curator": "Sophia the Librarian (fictional library role)",
+      "filing_status": "SHELVED_PUBLICATION_VERIFIED",
+      "scientific_claim_status": "PENDING_INDEPENDENT_VERIFICATION",
+      "notes": "Established Clifford/geometric-algebra mathematics is distinguished from fictional narration. ROT-004–011 are bounded exact audits; no observed universal rotation has been established.",
+      "source": {
+        "repository": "enuminous/Mathematics-and-Elite-Squad-Dynamics",
+        "path": "articles/18-those-goddamn-cliffords-2026-11-18.md",
+        "git_blob_sha": "8eafd27cd0f95cad752275251b8be52b0c35a207",
+        "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/18-those-goddamn-cliffords-2026-11-18.md"
+      },
+      "preservation": {
+        "archive_repository": "enuminous/Borges-Library-CollapseOmega",
+        "archive_path": "catalog/volumes/18-those-goddamn-cliffords-2026-11-18.md",
+        "identical_original_bytes_required": true,
+        "original_document_unmodified": true,
+        "editorial_history": "Source publication preserved. Sophia's record and catalogue note are separate, not inserted into or substituted for the original text."
+      },
+      "cross_references": [
+        "https://github.com/enuminous/Rotation",
+        "https://github.com/enuminous/papers/blob/main/What-If-the-Whole-Universe-Is-Spinning-2026-11-18.md",
+        "https://github.com/enuminous/Rotation/blob/main/research/ROT-011_EINSTEIN_PROCA_SEC_AUDIT.md"
+      ],
+      "search_terms": [
+        "Clifford algebra",
+        "geometric product",
+        "rotor",
+        "Spin(3)",
+        "satire",
+        "universal rotation",
+        "Sophia",
+        "Schopenhauer",
+        "bivector"
+      ]
+    }
+  ]
+}

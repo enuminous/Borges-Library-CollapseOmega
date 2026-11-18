@@ -1,0 +1,110 @@
+{
+  "repository": "enuminous/EFMW-Field",
+  "default_branch": "main",
+  "tree_sha": "31d1bfb0d9acc994af19af697a1b92e1c0a9f093",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/master-lab.yml",
+      "blob_sha": "ce66ed8cac22b249eed5f9dfa944bc35572495b8",
+      "size_bytes": 881,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Field/blob/main/.github/workflows/master-lab.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/explorer.css",
+      "blob_sha": "1b4a5ec00c6cb34f55b63caaaf2f7b03cc554457",
+      "size_bytes": 14344,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Field/blob/main/assets/explorer.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/explorer.js",
+      "blob_sha": "e0dd52d17fd75de7a0cf53a78f02654decf2e6aa",
+      "size_bytes": 13052,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Field/blob/main/assets/explorer.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/labs.js",
+      "blob_sha": "585710a1e66b4df611993e85dd45427654088638",
+      "size_bytes": 70202,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Field/blob/main/data/labs.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/labs.json",
+      "blob_sha": "25e1b2f8e6facee5dd73ef1ac9e8b7fc23894f6d",
+      "size_bytes": 87079,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Field/blob/main/data/labs.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/MASTER_LAB_INDEX.md",
+      "blob_sha": "e116078e2e3bc1eddb102abea08aa26215161ba2",
+      "size_bytes": 6970,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Field/blob/main/docs/MASTER_LAB_INDEX.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "9ff6b18cc9f5dc8cc143e99d75d507a71c6f9543",
+      "size_bytes": 9881,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Field/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "2c2cb0047b1dfdd19dfe2834ba8187d923a1cd20",
+      "size_bytes": 6364,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Field/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/catalog.test.cjs",
+      "blob_sha": "a04797cf95ecdfaed70c2e5e4acf77ee13e1c3c1",
+      "size_bytes": 9208,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Field/blob/main/tests/catalog.test.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "The-Meaning-of-the-EFMW-Field-2026-11-10.md",
+      "blob_sha": "6ff465ecebf1987ed09984ac875e623060220626",
+      "size_bytes": 19330,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Field/blob/main/The-Meaning-of-the-EFMW-Field-2026-11-10.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

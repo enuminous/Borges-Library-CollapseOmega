@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Phoenix",
+  "default_branch": "main",
+  "tree_sha": "eec538f976777375a058261fc3b97d90d5605e34",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "f7e26189404b651b63f153a309b6dc166368ca7d",
+      "size_bytes": 506,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "c099e1383c990678217292f7bedff18659b6e9b7",
+      "size_bytes": 1061,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "d9cd249d181502506fd87b7f8bd8d77f8c688f8b",
+      "size_bytes": 1169,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "75088d25a7c0ad860047706996a890e04c74ec52",
+      "size_bytes": 2488,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "bd27877072ed12c7df7343972b26c800deddf018",
+      "size_bytes": 323,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "daca128bf0f384f67e9bdba024d03c394ec416b2",
+      "size_bytes": 682,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "77fafd9d32e09dc6cdf356471563e8007531ae64",
+      "size_bytes": 1779,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "f0af26caa5be1b8f215ea71b90b1d619872f7071",
+      "size_bytes": 968,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "8cfb663df16e86abda06738bcbb07ca0285bb2df",
+      "size_bytes": 1701,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "phoenix.py",
+      "blob_sha": "32a32c56b346367556249ed4be980e566b88b606",
+      "size_bytes": 2752,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/phoenix.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "ecee5e11b26d612456832a5e1a45f68388198322",
+      "size_bytes": 2823,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "recovery_model.md",
+      "blob_sha": "41e356f5c458f91187524c013d443e3a75c76a4e",
+      "size_bytes": 730,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/recovery_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_phoenix.py",
+      "blob_sha": "f793bf895f1a1366502e2fdd9b75adf85106ead6",
+      "size_bytes": 960,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/test_phoenix.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "fc0ec9447c124e7917ce0dfdc8f74200bad6adbd",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "1a8610797820df15ae28fcda24a84c3aa6b2410f",
+      "size_bytes": 2282,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Phoenix/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

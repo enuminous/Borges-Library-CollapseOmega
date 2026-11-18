@@ -1,0 +1,386 @@
+{
+  "repository": "enuminous/Topology",
+  "default_branch": "main",
+  "tree_sha": "81a54256c05406989b938e1fdad166acda670084",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/validate.yml",
+      "blob_sha": "f6265b2b730379d69c4f5bebe438958ea3f88075",
+      "size_bytes": 1496,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/.github/workflows/validate.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "d4e70917309ae0016cb5c7da99b8ffeaf1f92dbe",
+      "size_bytes": 66,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "blob_sha": "bb2128da0c78a17e0c0d47c9d4eb2751d9777790",
+      "size_bytes": 778,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/CONTRIBUTING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/claims.json",
+      "blob_sha": "d42d26f878e009198f39ef8f8ed2913bc17c0f5b",
+      "size_bytes": 30975,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/data/claims.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/source_manifest.json",
+      "blob_sha": "64413d824ecbe66bb2ff4e04c8533fd0b7542299",
+      "size_bytes": 3249,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/data/source_manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/CORRECTED_FRAMEWORK.md",
+      "blob_sha": "474b012900d27c8495b89a52728070b20a87e696",
+      "size_bytes": 5817,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/docs/CORRECTED_FRAMEWORK.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/CORRECTIONS.md",
+      "blob_sha": "e5f2a01f7218543d3e1eb0d8c2b63573945170b5",
+      "size_bytes": 23208,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/docs/CORRECTIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/EXPERIMENT_PROTOCOL.md",
+      "blob_sha": "de6bf2da9e4d1214f3f781476a5a11a934c0943a",
+      "size_bytes": 2232,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/docs/EXPERIMENT_PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/MATHEMATICS.md",
+      "blob_sha": "6f707b8da382f33c84ceb0118e4255e5d65fb200",
+      "size_bytes": 5859,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/docs/MATHEMATICS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/REFERENCES.md",
+      "blob_sha": "45d2eddfe63f7664671170379f464f20f1e4a449",
+      "size_bytes": 2562,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/docs/REFERENCES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/SCOPE.md",
+      "blob_sha": "2a881a9bc23d4a8a2102393659e817f73516a1a9",
+      "size_bytes": 3098,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/docs/SCOPE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/VERIFICATION.md",
+      "blob_sha": "0f45dbca942b278a9eecfcca555eee8fccfd3180",
+      "size_bytes": 4107,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/docs/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/circle_metric.json",
+      "blob_sha": "6819251ae5487cc5ad2389a79e3d02acf815c5ad",
+      "size_bytes": 304,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/examples/circle_metric.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/rp2_barycentric_metric.json",
+      "blob_sha": "1189accbe5df14c352b259a031fd748fb06e8c00",
+      "size_bytes": 9084,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/examples/rp2_barycentric_metric.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/rp2_cone.json",
+      "blob_sha": "c0be399d93f645b9d6b0fe1d5eee7790ea84b79e",
+      "size_bytes": 5633,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/examples/rp2_cone.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/sphere_wedge_barycentric_metric.json",
+      "blob_sha": "30fb834c6e4c9a6ce65a304cd12c55bf237cb87b",
+      "size_bytes": 3540,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/examples/sphere_wedge_barycentric_metric.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/sphere_wedge_cone.json",
+      "blob_sha": "80c1d4fe840f9611a0f1acbd0f257f9e3d7140ae",
+      "size_bytes": 3401,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/examples/sphere_wedge_cone.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "f45cf1610b34b839c2cee4b6b88f8543f8c13a1d",
+      "size_bytes": 44223,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "3c283ae99cdf1b05889c5753a7414b3c99f300ee",
+      "size_bytes": 4925,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reports/computations.json",
+      "blob_sha": "55ea3d1b9d6407c17da0b33fc2537dcb34611986",
+      "size_bytes": 8682,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/reports/computations.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reports/RESULTS.md",
+      "blob_sha": "742bafb27f842efd0dec42029fd00bd41b0d48ec",
+      "size_bytes": 2265,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/reports/RESULTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reports/verification.json",
+      "blob_sha": "2411095e150875227248b073807866fe7042df34",
+      "size_bytes": 6090,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/reports/verification.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/build_index.py",
+      "blob_sha": "612715c78cde4a62fe5b8cec4b92a2e9321d2d06",
+      "size_bytes": 12333,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/scripts/build_index.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_report.py",
+      "blob_sha": "6dbcdbbbcf261f83312718445f5380f7418386c8",
+      "size_bytes": 815,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/scripts/test_report.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/validate_ledger.py",
+      "blob_sha": "bbeebca864977db40c02889ea4f1714cf98c06ab",
+      "size_bytes": 1184,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/scripts/validate_ledger.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/verify_sources.py",
+      "blob_sha": "11e623c838ea2725267c2012cbac1d0b8a5663f2",
+      "size_bytes": 799,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/scripts/verify_sources.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_core.py",
+      "blob_sha": "c8ed402d2bcd39f82d522888bd6b7b0d4f600133",
+      "size_bytes": 12837,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/tests/test_core.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_interface.py",
+      "blob_sha": "24f371c8cffb599a69a0904389c6e840bdba456b",
+      "size_bytes": 4644,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/tests/test_interface.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "topology_lab/__init__.py",
+      "blob_sha": "3776c3317ba2281a7f7ecdc5042f694d7989f82c",
+      "size_bytes": 97,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/topology_lab/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "topology_lab/__main__.py",
+      "blob_sha": "b26e532f3d6b925ddc4f82bb7109595b2461e2e9",
+      "size_bytes": 12244,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/topology_lab/__main__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "topology_lab/audit.py",
+      "blob_sha": "a5d9d2b7ed5d858f6b7846db328e26030205e119",
+      "size_bytes": 2583,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/topology_lab/audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "topology_lab/cohomology.py",
+      "blob_sha": "27ee40ccd78557823d696d4a949353af219d7ea5",
+      "size_bytes": 3321,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/topology_lab/cohomology.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "topology_lab/complexes.py",
+      "blob_sha": "fd8322a084704c66191053714a7781a64e7b22a9",
+      "size_bytes": 6942,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/topology_lab/complexes.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "topology_lab/distances.py",
+      "blob_sha": "3fa87488f857fac97f7eda5e1b6a04269bb51a14",
+      "size_bytes": 1742,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/topology_lab/distances.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "topology_lab/gf2.py",
+      "blob_sha": "f18f8dbd8364febf75fd1c2f6111721548ee4b93",
+      "size_bytes": 2420,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/topology_lab/gf2.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "topology_lab/persistence.py",
+      "blob_sha": "678a1cd3e8414428a20a9bd6128b2152d6055622",
+      "size_bytes": 3448,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/topology_lab/persistence.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "topology_lab/theory.py",
+      "blob_sha": "00b4fa1a1dba4988902126ad6bc32e806b36be8f",
+      "size_bytes": 1305,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Topology/blob/main/topology_lab/theory.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

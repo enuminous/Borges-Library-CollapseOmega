@@ -1,0 +1,1084 @@
+{
+  "repository": "enuminous/bsa-r",
+  "default_branch": "main",
+  "tree_sha": "9e463fafd2c22d040f4587889246b93bfef860b5",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".gitignore",
+      "blob_sha": "9cc37f38d98f6b38a0db762c1459804b20b23009",
+      "size_bytes": 116,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".zenodo.json",
+      "blob_sha": "ce0a6bfa973f1b5f0e702262935232cbd32a0310",
+      "size_bytes": 1908,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/.zenodo.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-17-monolithic-zoo/MONOLITHIC_ZOO_AUDIT_bsa-r_2026-11-17.md",
+      "blob_sha": "b077fb6696faaf156dca87b163c1b8a9615c0558",
+      "size_bytes": 37985,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/audits/2026-11-17-monolithic-zoo/MONOLITHIC_ZOO_AUDIT_bsa-r_2026-11-17.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-17-monolithic-zoo/README.md",
+      "blob_sha": "7498d4384601c786ee1fb78455642b18ebf9b636",
+      "size_bytes": 3828,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/audits/2026-11-17-monolithic-zoo/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-17-monolithic-zoo/reproduce_probes.py",
+      "blob_sha": "06a260753f1ccc04402aff921b454e2af714c8cd",
+      "size_bytes": 3156,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/audits/2026-11-17-monolithic-zoo/reproduce_probes.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-17-monolithic-zoo/zoo_findings.csv",
+      "blob_sha": "69bc641b6c910fc38a35104ef1ca105273d39be7",
+      "size_bytes": 4927,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/audits/2026-11-17-monolithic-zoo/zoo_findings.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/public_traces/autogen_mast_ag2_traces.json",
+      "blob_sha": "ca5eef3537159fb81708e8401d2a03990e015077",
+      "size_bytes": 48838,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/benchmarks/public_traces/autogen_mast_ag2_traces.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/public_traces/autogen_team_openinference_cassettes.yaml",
+      "blob_sha": "d00c767140dbe22fd71023cc9328b0efa4538049",
+      "size_bytes": 13211,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/benchmarks/public_traces/autogen_team_openinference_cassettes.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/public_traces/crewai_openinference_cassettes.yaml",
+      "blob_sha": "5b9178343501bef2083b79b780467ea42ad414ec",
+      "size_bytes": 383220,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/benchmarks/public_traces/crewai_openinference_cassettes.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/public_traces/langchain_openinference_cassettes.yaml",
+      "blob_sha": "5ba545fcb537c018dd66820f9fd651a86087c24d",
+      "size_bytes": 21159,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/benchmarks/public_traces/langchain_openinference_cassettes.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/public_traces/public_traces_manifest.json",
+      "blob_sha": "4473bf0bcd76037f9acabd07f1658dedbee91a3c",
+      "size_bytes": 3195,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/benchmarks/public_traces/public_traces_manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/__init__.py",
+      "blob_sha": "97450770dda496aec9369bcfd5e83021841f9ca5",
+      "size_bytes": 9392,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/__main__.py",
+      "blob_sha": "bfdcd0c1158dff4fcc25157b317419f0a89dd33f",
+      "size_bytes": 79,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/__main__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/arenas.py",
+      "blob_sha": "b5eb19fe9f0ff2e60a516bfc7d039f7127d8ba2e",
+      "size_bytes": 19604,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/arenas.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/asar_zd_microbench.py",
+      "blob_sha": "e75b448774fef3ffff92e7684b442d35a7b67eb5",
+      "size_bytes": 11319,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/asar_zd_microbench.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/cd_q88.py",
+      "blob_sha": "00019e2027e955a4869f3e17922b0b3641c714b1",
+      "size_bytes": 16115,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/cd_q88.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/chore_bench.py",
+      "blob_sha": "0ffacc0047c683674ae5d8f3635dcc02b9a03e19",
+      "size_bytes": 61531,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/chore_bench.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/cli.py",
+      "blob_sha": "71f8bac7aed7d8118c098a95d4b58a12aa865ce3",
+      "size_bytes": 19513,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/cli.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/dma_sessions.py",
+      "blob_sha": "bdc5704f296cb9351c47f7de77fdd9e701d8e2bb",
+      "size_bytes": 14587,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/dma_sessions.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/engine_scene.py",
+      "blob_sha": "7e9a31b184b5b6fc1759a8a264300b4f866f2fe4",
+      "size_bytes": 27351,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/engine_scene.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/fp_coalgebra.py",
+      "blob_sha": "bed4cf7543cf6c6838ed9428d0999197b7968ecf",
+      "size_bytes": 24775,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/fp_coalgebra.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/group_rings.py",
+      "blob_sha": "102d30ca70002e1e6997573741a7980f02f68740",
+      "size_bytes": 21934,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/group_rings.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/hardware_pin.py",
+      "blob_sha": "14fe8a2a5ec5e312e92920f664173d0b95ab671a",
+      "size_bytes": 8197,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/hardware_pin.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/hypercube.py",
+      "blob_sha": "ed7e0af765988732b9d97d12db7c2ad547661d50",
+      "size_bytes": 16477,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/hypercube.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/ix_asm.py",
+      "blob_sha": "d84883978079fead59496d5afca38560e05afd4a",
+      "size_bytes": 36573,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/ix_asm.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/math_algebras.py",
+      "blob_sha": "a8e826a7f38c79294786975a6080de8b6621927a",
+      "size_bytes": 55067,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/math_algebras.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/mwl_importer.py",
+      "blob_sha": "bc094cdaf5a6d822e830691c2a590f099dc616dc",
+      "size_bytes": 15221,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/mwl_importer.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/refinements.py",
+      "blob_sha": "d1cf354a2cf7251a03e2b2fdd186f465f27557ef",
+      "size_bytes": 10662,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/refinements.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/round4_bridge.py",
+      "blob_sha": "0e3351edd43e90b5a026cbe00363a6c6c2483369",
+      "size_bytes": 21745,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/round4_bridge.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bsar/verse_effects.py",
+      "blob_sha": "6300270fb8ec2827968c4c9086beaae614c4d36c",
+      "size_bytes": 14251,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/bsar/verse_effects.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/.nojekyll",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/docs/.nojekyll",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/compiler-hud/bsar_benchmark_metrics.csv",
+      "blob_sha": "bbc58810adb5a7a9f97eafad0adfd382587848fd",
+      "size_bytes": 3603,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/docs/compiler-hud/bsar_benchmark_metrics.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/compiler-hud/cerebral_valley_benchmark.json",
+      "blob_sha": "d58359f8856027e6740b45c24c7b8c5d7dee2c09",
+      "size_bytes": 16219,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/docs/compiler-hud/cerebral_valley_benchmark.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/compiler-hud/cerebral_valley_metrics.csv",
+      "blob_sha": "9e46c35f325fe39679e5215d54a7ad84694f1adf",
+      "size_bytes": 1148,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/docs/compiler-hud/cerebral_valley_metrics.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/compiler-hud/index.html",
+      "blob_sha": "6672c0eef2b3f3c4f6525e09b9037ecffe1233b4",
+      "size_bytes": 31495,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/docs/compiler-hud/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/engine-design/arena-design-note.md",
+      "blob_sha": "e5fe48f111a00dbec751ef22c23acd9b3159a5bd",
+      "size_bytes": 5767,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/docs/engine-design/arena-design-note.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/engine-design/build-sheet.md",
+      "blob_sha": "c05dea0df1662bc62c438c9dddcb7bebe14a6029",
+      "size_bytes": 3689,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/docs/engine-design/build-sheet.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/engine-design/engine-vision.md",
+      "blob_sha": "93157d4f7da5b4217dbd047d3ece0320c16fe2f2",
+      "size_bytes": 7524,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/docs/engine-design/engine-vision.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/epistemic-concordance/ccc_trent_bible_xcube.json",
+      "blob_sha": "631de479a853ee7ccfbe04b6f5f60beba5c12abd",
+      "size_bytes": 151878,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/docs/epistemic-concordance/ccc_trent_bible_xcube.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/epistemic-concordance/index.html",
+      "blob_sha": "47581894ba0592d38ca1fb58e716e346cc598909",
+      "size_bytes": 177366,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/docs/epistemic-concordance/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/fluid-money/index.html",
+      "blob_sha": "fb265e8fba672e121c22e48a676258c92d0574f2",
+      "size_bytes": 38067,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/docs/fluid-money/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/index.html",
+      "blob_sha": "7080fe4ce3ceda9a87117d97d5153b2944176139",
+      "size_bytes": 5152,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/docs/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/math-lab/index.html",
+      "blob_sha": "59615050d6eceb0368d2d82e7094d377c747bbc0",
+      "size_bytes": 29811,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/docs/math-lab/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "epistemic_concordance/bsar_xcube.py",
+      "blob_sha": "05b963e7e23da4d0115b1f4da9efee129de6c5e8",
+      "size_bytes": 26784,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/epistemic_concordance/bsar_xcube.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "epistemic_concordance/compile_corpus.py",
+      "blob_sha": "582ebe60755f2c1b4412b5b206b72e2733e788ad",
+      "size_bytes": 143287,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/epistemic_concordance/compile_corpus.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "epistemic_concordance/README.md",
+      "blob_sha": "057a184825e11cab69a4fc16377b9dc49818e987",
+      "size_bytes": 2656,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/epistemic_concordance/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "epistemic_concordance/replicability_ledger.py",
+      "blob_sha": "81c32935bfa6d8503b6a7a05f1eb738439106156",
+      "size_bytes": 17658,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/epistemic_concordance/replicability_ledger.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "epistemic_concordance/test_epistemic_concordance.py",
+      "blob_sha": "0f2069c826f146a9e463306ed25ee27d9876933c",
+      "size_bytes": 7056,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/epistemic_concordance/test_epistemic_concordance.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "epistemic_concordance/trent_verified_slices.json",
+      "blob_sha": "5b8d5e1686a81d1bb6fa5fa9846faca7c6c42e0a",
+      "size_bytes": 32108,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/epistemic_concordance/trent_verified_slices.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean/CayleyDicksonBimodalRound4.lean",
+      "blob_sha": "9a03b2d804ec66cfaccf85048effde23655d1449",
+      "size_bytes": 8452,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/lean/CayleyDicksonBimodalRound4.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean/IxArenaRegions.lean",
+      "blob_sha": "551ebc49050e03ebe2684b08a1bc598e9d920e56",
+      "size_bytes": 8026,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/lean/IxArenaRegions.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean/IxMonadProcessorFlags.lean",
+      "blob_sha": "f52fa84b7dcb38998ef9ccde97fa8a919d636ba2",
+      "size_bytes": 15276,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/lean/IxMonadProcessorFlags.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean/Step2ViscousCooldown.lean",
+      "blob_sha": "3643cdbaa0dc3c58ebbd2d9aa947078723a27980",
+      "size_bytes": 16281,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/lean/Step2ViscousCooldown.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean/Step3ArbitraryDataRound2.lean",
+      "blob_sha": "4caf15da20a5166507be850b339be8e87df141ea",
+      "size_bytes": 26622,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/lean/Step3ArbitraryDataRound2.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean/Step4UltravioletGevreyRound3.lean",
+      "blob_sha": "f6d511b5d7a0d994db9205a50adbe7c16af0170d",
+      "size_bytes": 22594,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/lean/Step4UltravioletGevreyRound3.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean/Step5SpectralVarianceTaoRound4.lean",
+      "blob_sha": "066ee4cbb8d9c2f248eefe984fb6fa20d69a5ff0",
+      "size_bytes": 20240,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/lean/Step5SpectralVarianceTaoRound4.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean/Step6BiotSavartCommutatorRound5.lean",
+      "blob_sha": "1c31d001ccfee4235f6b5551e5fdb02dd8f438ce",
+      "size_bytes": 46362,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/lean/Step6BiotSavartCommutatorRound5.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean/Step7VorticityDirectionPdeRound6.lean",
+      "blob_sha": "2d229ee535e2a624b38647ce25a01cd5224b4bec",
+      "size_bytes": 53628,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/lean/Step7VorticityDirectionPdeRound6.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "be3f7b28e564e7dd05eaf59d64adba1a4065ac0e",
+      "size_bytes": 34523,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MATH_WORKBENCH.md",
+      "blob_sha": "c35ab84b756057264b290a5b981d15e715281dea",
+      "size_bytes": 10942,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/MATH_WORKBENCH.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "muse_pc_harness/endo_tool_spec.json",
+      "blob_sha": "9531866f44da4159e40499f23970c17aa6d43a9b",
+      "size_bytes": 14743,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/muse_pc_harness/endo_tool_spec.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "muse_pc_harness/endo_win32_engine.py",
+      "blob_sha": "02fa8156956a8adefd1f51db5c2ab403dbfb7b5f",
+      "size_bytes": 44916,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/muse_pc_harness/endo_win32_engine.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "muse_pc_harness/muse_mcp_server.py",
+      "blob_sha": "1075c4c3b974b1308f418076ec62f7e702e5d3cb",
+      "size_bytes": 12381,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/muse_pc_harness/muse_mcp_server.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "muse_pc_harness/muse_pc_companion.py",
+      "blob_sha": "ad8b8fd1cdcd61fd711775c3d38eb29d8f9d2279",
+      "size_bytes": 31149,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/muse_pc_harness/muse_pc_companion.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "muse_pc_harness/SKILL.md",
+      "blob_sha": "fac12bed9a06c3e2b396dbe6d633978a981be201",
+      "size_bytes": 3697,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/muse_pc_harness/SKILL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/bsar_millennium_syndicate_certificate.json",
+      "blob_sha": "d5bc414384ef845984325285358db04cac1cc2c3",
+      "size_bytes": 7348,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/bsar_millennium_syndicate_certificate.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/bsar_navier_millennium.py",
+      "blob_sha": "47cb0058f7ccb277d3dc077615eed0698f145a2f",
+      "size_bytes": 29491,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/bsar_navier_millennium.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/bsar_navier_stokes.bib",
+      "blob_sha": "86cda2fac04c89c684a797dd56ccaac06e5b0d01",
+      "size_bytes": 10626,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/bsar_navier_stokes.bib",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/bsar_navier_stokes_arxiv.pdf",
+      "blob_sha": "11c586bddd7e2ba7aa0c16bb2425f46f8d7c3b47",
+      "size_bytes": 266049,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/bsar_navier_stokes_arxiv.pdf",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/bsar_navier_stokes_arxiv.tex",
+      "blob_sha": "7b7f807fb02a57815ca1623de8706f296fb42cb8",
+      "size_bytes": 90486,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/bsar_navier_stokes_arxiv.tex",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/bsar_navier_stokes_paper.qmd",
+      "blob_sha": "b5b6bc6a15c9473fcb16ad3ff3394f20290f07cb",
+      "size_bytes": 12277,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/bsar_navier_stokes_paper.qmd",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/fourier_3d_navier_11d.py",
+      "blob_sha": "3c777c336a855c2c687babc743e34823e40b9b88",
+      "size_bytes": 25887,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/fourier_3d_navier_11d.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/provenance_waterfall_11d.py",
+      "blob_sha": "c72cb84d786949bc89557577c2477a57d890552f",
+      "size_bytes": 41581,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/provenance_waterfall_11d.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/provenance_waterfall_11d_certificate.json",
+      "blob_sha": "1119fa1f8cc58beb0c4d4de128376eba0b81e205",
+      "size_bytes": 30549,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/provenance_waterfall_11d_certificate.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/ROUND2_COLLABORATOR_SPEC.md",
+      "blob_sha": "e44dc09cdbf4cf6b5a835886cd5fb7f30c03c7f3",
+      "size_bytes": 9180,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/ROUND2_COLLABORATOR_SPEC.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/ROUND3_COLLABORATOR_SPEC.md",
+      "blob_sha": "6d6b0dc481948001a877be8553f499ba3b9a087f",
+      "size_bytes": 6471,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/ROUND3_COLLABORATOR_SPEC.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/ROUND4_FINAL_COLLABORATOR_SPEC.md",
+      "blob_sha": "5749a3319c6bb71fd2041ddc78a348df76b79d76",
+      "size_bytes": 7685,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/ROUND4_FINAL_COLLABORATOR_SPEC.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/ROUND5_COLLABORATOR_SPEC.md",
+      "blob_sha": "c5de672601c89b9d40912c30aa410ace32cfb1ad",
+      "size_bytes": 9472,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/ROUND5_COLLABORATOR_SPEC.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/ROUND6_COLLABORATOR_SPEC.md",
+      "blob_sha": "50bf1bd52c193b986339cbde96b4ed1d3e7545d9",
+      "size_bytes": 12743,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/ROUND6_COLLABORATOR_SPEC.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/SPLIT_SHEET_001.md",
+      "blob_sha": "3c2c5f1130d909f29af0ea488cb1b5e5af474e0d",
+      "size_bytes": 10656,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/SPLIT_SHEET_001.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/step3_arbitrary_data_round2.py",
+      "blob_sha": "74c2e67b4ade7203d273c0beaaee50eeb53f1f3d",
+      "size_bytes": 42603,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/step3_arbitrary_data_round2.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/step3_round2_arbitrary_data_certificate.json",
+      "blob_sha": "ef60f08e4443500e1bac4be8d58881d79ed8c3db",
+      "size_bytes": 7351,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/step3_round2_arbitrary_data_certificate.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/step4_round3_uv_gevrey_certificate.json",
+      "blob_sha": "2b5b9ae99eb1f9469cc681457ba0078244a597e1",
+      "size_bytes": 5003,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/step4_round3_uv_gevrey_certificate.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/step4_uv_gevrey_round3.py",
+      "blob_sha": "03e7502d58879b4cec6f1ed47a3f7818c9c949f0",
+      "size_bytes": 37514,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/step4_uv_gevrey_round3.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/step5_round4_spectral_variance_certificate.json",
+      "blob_sha": "2e79ac7efcf73b1fa163cf7d345dd4313a40fd18",
+      "size_bytes": 2557,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/step5_round4_spectral_variance_certificate.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/step5_spectral_variance_tao_round4.py",
+      "blob_sha": "a3616574563dc8445beb196083a44cd8a2c0b438",
+      "size_bytes": 26850,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/step5_spectral_variance_tao_round4.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/step6_biot_savart_commutator_round5.py",
+      "blob_sha": "5397d6861167e73c5722861c4dfc415eacdb4863",
+      "size_bytes": 38037,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/step6_biot_savart_commutator_round5.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/step6_round5_biot_savart_certificate.json",
+      "blob_sha": "809adcb00de09e7c223e08b71ad11b419cbd0042",
+      "size_bytes": 6045,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/step6_round5_biot_savart_certificate.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/step7_round6_vorticity_direction_certificate.json",
+      "blob_sha": "dabc2b2ba2d2f0a3188262df83a4ebfb835cc9c7",
+      "size_bytes": 4949,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/step7_round6_vorticity_direction_certificate.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "navier_stokes/step7_vorticity_direction_pde_round6.py",
+      "blob_sha": "c1853a512e712aef9fa7c51785975f777fb87bd8",
+      "size_bytes": 36976,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/navier_stokes/step7_vorticity_direction_pde_round6.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper/paper.bib",
+      "blob_sha": "15c8fecbcc2f0e607c66837726afa6f6ae771106",
+      "size_bytes": 6142,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/paper/paper.bib",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper/paper.md",
+      "blob_sha": "8cd446dd43674fff35d5c3deccd3bfe0dbb8e9b3",
+      "size_bytes": 10131,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/paper/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "papers/THESIS_SYNTHESIS_UMBRELLA.md",
+      "blob_sha": "4ec9e429c0fe0f9353052b7c93dade95b6ad4a1a",
+      "size_bytes": 14115,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/papers/THESIS_SYNTHESIS_UMBRELLA.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "papers/token_compression/bsar_token_compression.bib",
+      "blob_sha": "a410036f35f2e18b4b0fbcb901d1fa575615b9f0",
+      "size_bytes": 10812,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/papers/token_compression/bsar_token_compression.bib",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "papers/token_compression/bsar_token_compression_paper.tex",
+      "blob_sha": "52e48ac1e40ee945348c9365cae73aae5aa5e216",
+      "size_bytes": 53464,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/papers/token_compression/bsar_token_compression_paper.tex",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "blob_sha": "e13720b4985b1ef42127fdbf105c3c03396bd874",
+      "size_bytes": 927,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/PROVENANCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "c3ba954aa551ae3f7a0f0b9977f307e6a8080e0b",
+      "size_bytes": 641,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "r/bsar_navier_stokes.R",
+      "blob_sha": "5711b30c1de910c99b4e1d327c0958efc40ae51d",
+      "size_bytes": 40503,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/r/bsar_navier_stokes.R",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "r/cayley_dickson_math.R",
+      "blob_sha": "8d9854bea0d4843bbbc3927c78e51acffa8aa8b3",
+      "size_bytes": 11214,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/r/cayley_dickson_math.R",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "r/cayley_dickson_verbs.R",
+      "blob_sha": "22444a3c94c036ff9f5fa410ff871566ca83492a",
+      "size_bytes": 6828,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/r/cayley_dickson_verbs.R",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "r/validate_bsar_cd.R",
+      "blob_sha": "e25ad0f45a43661867b68fedc43eb62491bbee2a",
+      "size_bytes": 2978,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/r/validate_bsar_cd.R",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "ebbfbf66e1d13e0b1df63aa68e09aaadd1339884",
+      "size_bytes": 22369,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements-bench.lock",
+      "blob_sha": "e1ba77be26ebdb9388d8b05f960f875f3387a245",
+      "size_bytes": 246,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/requirements-bench.lock",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_bsar.py",
+      "blob_sha": "5647d938588d20b95771a319a62595c73129ad9c",
+      "size_bytes": 8014,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/tests/test_bsar.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_bsar_math.py",
+      "blob_sha": "c0483e1406879eb5120d51ae4463fbcb8d09f027",
+      "size_bytes": 11120,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/tests/test_bsar_math.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_bsar_round4_fp.py",
+      "blob_sha": "7b16c174ad10a7a961c2ee34a02be18be739ed54",
+      "size_bytes": 14537,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/tests/test_bsar_round4_fp.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_bsar_v05_engine_qol.py",
+      "blob_sha": "57c610bbeaa009f293169522dc30d54d6a1e41ec",
+      "size_bytes": 17244,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/bsa-r/blob/main/tests/test_bsar_v05_engine_qol.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

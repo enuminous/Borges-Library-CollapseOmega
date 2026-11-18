@@ -1,0 +1,182 @@
+{
+  "repository": "enuminous/Dragon",
+  "default_branch": "main",
+  "tree_sha": "0245d3460dbe503e6e12fb08a31ee4be0f1abb5f",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "0861592593a4642ae4bd00d5b724cfb347c23b9a",
+      "size_bytes": 304,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "dragon.py",
+      "blob_sha": "5da02bb455d2e37bba86bebb5bc6b7235581d17f",
+      "size_bytes": 2721,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/dragon.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_config.yaml",
+      "blob_sha": "8c62bf2ff36b5d6af542ccb6846451700a443b86",
+      "size_bytes": 344,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/example_config.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_data.csv",
+      "blob_sha": "6fb0c5eacbe39420395aff058d2173ef7ba264be",
+      "size_bytes": 37823,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/example_data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_run.py",
+      "blob_sha": "825d26043beb795ea486a9e7d4d67817859c92af",
+      "size_bytes": 366,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/example_run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "features.py",
+      "blob_sha": "fba3cdfbb764b51fcd301ae0f9396d9f53e7ebf2",
+      "size_bytes": 3600,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/features.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "freeze.py",
+      "blob_sha": "c04061ebce0577142b9463889b02020720cb3a45",
+      "size_bytes": 401,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/freeze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "d912f09948d4f3df3df8ed3a2863c41fde5f027e",
+      "size_bytes": 1851,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "a1cda1da6da9179854c747920491c9d59dbe3300",
+      "size_bytes": 459,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "81b3f33231fcfc97945861e86392d756102c1fee",
+      "size_bytes": 1192,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metrics.py",
+      "blob_sha": "4d2898386619866d58e6dd87f933af79a068d7b7",
+      "size_bytes": 987,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "models.py",
+      "blob_sha": "2dbdb702529c7ad491e3f487cc8f14286286d848",
+      "size_bytes": 1304,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/models.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "7dc597f640876b78b7c84a2f9298c3002056f5d2",
+      "size_bytes": 463,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "882c6fa54a9f582fcf2dbd9ce46c2478b3798d01",
+      "size_bytes": 5357,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "regime_schema.json",
+      "blob_sha": "4f49037a1a5e08c3abf88205ddecfed3603d47e7",
+      "size_bytes": 743,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/regime_schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "92960fc2c2068ab631f0a3757dd8e63ce0e1c4f5",
+      "size_bytes": 66,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_dragon.py",
+      "blob_sha": "90236ea158bd8a9305cb4020caa6546cd51ec738",
+      "size_bytes": 1016,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dragon/blob/main/test_dragon.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

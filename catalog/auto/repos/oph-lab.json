@@ -1,0 +1,1514 @@
+{
+  "repository": "enuminous/oph-lab",
+  "default_branch": "main",
+  "tree_sha": "f7443861b55f57370c3f713cd04b5e7e17014c25",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/oph-stage4-lean.yml",
+      "blob_sha": "b95cb3f9c4d3b03268778d683c1f3753b98875ed",
+      "size_bytes": 711,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/.github/workflows/oph-stage4-lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/research-readouts.yml",
+      "blob_sha": "b672f3ba8b21ad165791de779b673186db76125e",
+      "size_bytes": 1111,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/.github/workflows/research-readouts.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "c4cc99b7c4231d0368e02d90ed66ef8fb90a4dae",
+      "size_bytes": 62,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "claims/claim_registry.json",
+      "blob_sha": "9ab991bc7a862b0081a9bcbb37bc75951db21422",
+      "size_bytes": 9123,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/claims/claim_registry.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/AGREEMENT_AND_SURPRISE_EFMW_ANALYSIS.md",
+      "blob_sha": "a57afb47c9155198c08dc458037ccbaae486df5d",
+      "size_bytes": 7416,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/AGREEMENT_AND_SURPRISE_EFMW_ANALYSIS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/CADENCE_OPH_EFMW_COMMON_CORE_PROPOSAL.md",
+      "blob_sha": "807fe3902a0ecfbe5c16129fbc577580ed4b2705",
+      "size_bytes": 31313,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/CADENCE_OPH_EFMW_COMMON_CORE_PROPOSAL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_efmw_continuum_results.csv",
+      "blob_sha": "55d935e59a5ab30d05ca412c45badac82c242e66",
+      "size_bytes": 382,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_efmw_continuum_results.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_flux_v2/L4_N1_seed20261105.json",
+      "blob_sha": "05f1948fffa40ac7c396dc524d8a18f659627d93",
+      "size_bytes": 131727,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_flux_v2/L4_N1_seed20261105.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_flux_v2/L4_N1_seed20261106.json",
+      "blob_sha": "ce1705e4ff5029f827fda8778befe84b0053d285",
+      "size_bytes": 131906,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_flux_v2/L4_N1_seed20261106.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_flux_v2/L4_N2_seed20261105.json",
+      "blob_sha": "698ed994e5b18d56e3e2e91a0e9f29d0b40f13fd",
+      "size_bytes": 131836,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_flux_v2/L4_N2_seed20261105.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_flux_v2/L4_N2_seed20261106.json",
+      "blob_sha": "1ffc25b41fa00ca90d72bbe3c757d8c71893be28",
+      "size_bytes": 131770,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_flux_v2/L4_N2_seed20261106.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_flux_v2_summary.csv",
+      "blob_sha": "38d84b02e743affc63d441aadee767cf3063c165",
+      "size_bytes": 1658,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_flux_v2_summary.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_gravity_requirements.json",
+      "blob_sha": "56c0ef6898b7cc17f567ac8ad322e065c54422d3",
+      "size_bytes": 8207,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_gravity_requirements.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_interacting_continuum.json",
+      "blob_sha": "67025a7d07b2aac66e775acfadf6c87711cbaf50",
+      "size_bytes": 78615,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_interacting_continuum.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_mass_energy.json",
+      "blob_sha": "5f05a8298a7bf32db114df6a9c97f3fedf39fcad",
+      "size_bytes": 13744,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_mass_energy.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_n2_flux_stage3_summary.csv",
+      "blob_sha": "be7a36bf0588eb68b31e350405d0a238ba97050d",
+      "size_bytes": 4055,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_n2_flux_stage3_summary.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_n2_pilot_v1/analysis.json",
+      "blob_sha": "9b5e74215d67a47a500b72a9f523fa8854bf58fb",
+      "size_bytes": 301595,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_n2_pilot_v1/analysis.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_n2_pilot_v1/analysis_exact_v1.json",
+      "blob_sha": "c190075d9cfa0aa7abd552760388ea3c2a7ffa90",
+      "size_bytes": 301391,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_n2_pilot_v1/analysis_exact_v1.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_n2_pilot_v1/config.json",
+      "blob_sha": "eb38d64b440a98f4edd8aaf46624a57df0e03954",
+      "size_bytes": 1240,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_n2_pilot_v1/config.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_n2_pilot_v1/L12_N2_seed20261105101.json",
+      "blob_sha": "9b00c721b22e4b95a0e80cac931f327be370be94",
+      "size_bytes": 970583,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_n2_pilot_v1/L12_N2_seed20261105101.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_n2_pilot_v1/L12_N2_seed20261105102.json",
+      "blob_sha": "eada93fac3500f93556096321425782a546dab14",
+      "size_bytes": 971050,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_n2_pilot_v1/L12_N2_seed20261105102.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_n2_pilot_v1/L12_N2_seed20261105103.json",
+      "blob_sha": "1fa9fa6cbde804d876e1508c46b0ac981da95cee",
+      "size_bytes": 970905,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_n2_pilot_v1/L12_N2_seed20261105103.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_n2_pilot_v1/L12_N2_seed20261105104.json",
+      "blob_sha": "95ed6bdd9fb099023a945b3e8d6f8ae14ac2ecc4",
+      "size_bytes": 970785,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_n2_pilot_v1/L12_N2_seed20261105104.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_n2_pilot_v1/manifest.json",
+      "blob_sha": "9211b6a5c7e4208b67e87ec8403f17a1d23914a7",
+      "size_bytes": 2104,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_n2_pilot_v1/manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_n2_timing_v1.json",
+      "blob_sha": "5d98223012ef7df4ed844804ec5fb3dce6f794fe",
+      "size_bytes": 5686,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_n2_timing_v1.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_observer_contract.json",
+      "blob_sha": "f4cdb4a4926a8e96a0d09db7ebc29d8f93b46d99",
+      "size_bytes": 10151,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_observer_contract.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/oph_particle_readouts.json",
+      "blob_sha": "1e5c09c5606ebdf66019ef0d6d6f59607db95ed3",
+      "size_bytes": 36172,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/data/oph_particle_readouts.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/EFMW_ZOO_REVIEW.md",
+      "blob_sha": "e4a27d31669cc13b575e3e6f3d95f4dea8cecd69",
+      "size_bytes": 18809,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/EFMW_ZOO_REVIEW.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OPH_ANCHORED_LAPLACIAN_HEAT_BATH_TRANSFER.md",
+      "blob_sha": "ed748c98563358722836ce4c44d9b20bde98ddae",
+      "size_bytes": 18745,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/OPH_ANCHORED_LAPLACIAN_HEAT_BATH_TRANSFER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OPH_EFMW_CONTINUUM_LIMIT.md",
+      "blob_sha": "066b7ee7113fab53c6f162503791a76b17a4b5c6",
+      "size_bytes": 17575,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/OPH_EFMW_CONTINUUM_LIMIT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OPH_FINITE_LATTICE_PROGRESS_AND_FORMALIZATION.md",
+      "blob_sha": "79eea6e5876681292058832f8cb91d1f0c409f7c",
+      "size_bytes": 25141,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/OPH_FINITE_LATTICE_PROGRESS_AND_FORMALIZATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OPH_FINITE_PREMISES.md",
+      "blob_sha": "aed303d14057e71c457304a74a489e155a0e6e19",
+      "size_bytes": 6213,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/OPH_FINITE_PREMISES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OPH_GRAVITY_REQUIREMENTS.md",
+      "blob_sha": "296c9f60b48a16faa8350f550a928ba2ee5b21ba",
+      "size_bytes": 12103,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/OPH_GRAVITY_REQUIREMENTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OPH_INTERACTING_CONTINUUM_READOUTS.md",
+      "blob_sha": "c28ad93d2f6adbe90e3875da5d20acb333f5bb85",
+      "size_bytes": 7016,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/OPH_INTERACTING_CONTINUUM_READOUTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OPH_MASS_ENERGY_READOUTS.md",
+      "blob_sha": "ef72b039b4b7d5bd16cf3ae1a7dc3a699c593bde",
+      "size_bytes": 7760,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/OPH_MASS_ENERGY_READOUTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OPH_N1_CONDITIONAL_FLUX_IDENTITY.md",
+      "blob_sha": "c0ef8ba41a4a39887a9d4dd78e472f718572a342",
+      "size_bytes": 7047,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/OPH_N1_CONDITIONAL_FLUX_IDENTITY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OPH_N1_ZERO_FLUX_INDEPENDENT_CHECK.md",
+      "blob_sha": "2038462b7f999be281b0633508b9174fbe773eeb",
+      "size_bytes": 13251,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/OPH_N1_ZERO_FLUX_INDEPENDENT_CHECK.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OPH_N2_FLUX_STAGE3.md",
+      "blob_sha": "4c188643ef7127bdc619b03b9b83260edf915576",
+      "size_bytes": 14479,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/OPH_N2_FLUX_STAGE3.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OPH_N2_PARTICLE_PILOT.md",
+      "blob_sha": "d09f02f0c8540809c9966e0e51afdaebe40dc1ba",
+      "size_bytes": 20583,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/OPH_N2_PARTICLE_PILOT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OPH_N2_READOUT_CORRECTION.md",
+      "blob_sha": "4898fae95f717a933210fafb8cc696a4090aea1e",
+      "size_bytes": 4398,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/OPH_N2_READOUT_CORRECTION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OPH_OBSERVER_SPEC_CONTRACT.md",
+      "blob_sha": "e4c30f06db118ae0eec4e994fbf051ebc29d1f21",
+      "size_bytes": 10443,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/OPH_OBSERVER_SPEC_CONTRACT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OPH_PARTICLE_READOUTS.md",
+      "blob_sha": "9181f424d22646676df116f8fe5a4820293b2d97",
+      "size_bytes": 7447,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/OPH_PARTICLE_READOUTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OPH_STAGE4_LEAN_FORMALIZATION.md",
+      "blob_sha": "8dec6ce3b2b3565bf23d0b9964cc1455feccfeb2",
+      "size_bytes": 4551,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/docs/OPH_STAGE4_LEAN_FORMALIZATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "eslint.config.js",
+      "blob_sha": "04ab95943d1b55cdea173b2682e2f50cd8791177",
+      "size_bytes": 1042,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/eslint.config.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/oph_n2/pilot_v1.json",
+      "blob_sha": "eb38d64b440a98f4edd8aaf46624a57df0e03954",
+      "size_bytes": 1240,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/experiments/oph_n2/pilot_v1.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/oph_n2/preserved_evidence.json",
+      "blob_sha": "8ee905c03c868f017feb564d8b3b40dd6ee4843c",
+      "size_bytes": 1896,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/experiments/oph_n2/preserved_evidence.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/oph_n2/sources/analyze_oph_n2_pilot_exact_v1.py",
+      "blob_sha": "bbe7c41d1c7ce927964ff37b763d70108dbc6eaa",
+      "size_bytes": 17032,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/experiments/oph_n2/sources/analyze_oph_n2_pilot_exact_v1.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/oph_n2/sources/oph_n2_flux_mc_smoke_20261105.py",
+      "blob_sha": "90780b53c12f222ef45f266237f94c12cced3573",
+      "size_bytes": 8399,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/experiments/oph_n2/sources/oph_n2_flux_mc_smoke_20261105.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formalization/oph-stage4/.gitignore",
+      "blob_sha": "01f8cdb637da2370fa79960e25efa59dd8cffd6d",
+      "size_bytes": 7,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/formalization/oph-stage4/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formalization/oph-stage4/lake-manifest.json",
+      "blob_sha": "08a2d58e8addf8074ab1c28f3a2dca06ce49a3fa",
+      "size_bytes": 3569,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/formalization/oph-stage4/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formalization/oph-stage4/lakefile.lean",
+      "blob_sha": "854ce9dc37c2848a2a3195765de3763aa4df7983",
+      "size_bytes": 273,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/formalization/oph-stage4/lakefile.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formalization/oph-stage4/lean-toolchain",
+      "blob_sha": "9532ebf33701f2ff0a999f12b21fb7a675f24e6e",
+      "size_bytes": 29,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/formalization/oph-stage4/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formalization/oph-stage4/OphStage4.lean",
+      "blob_sha": "f2f266444a743dae5ac6e563eb6b546ddeff8be0",
+      "size_bytes": 9312,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/formalization/oph-stage4/OphStage4.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formalization/oph-stage4/OphStage4Audit.lean",
+      "blob_sha": "04c00f773bdbc105a8f04535491fa40c057c9341",
+      "size_bytes": 1958,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/formalization/oph-stage4/OphStage4Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formalization/oph-stage4/README.md",
+      "blob_sha": "aecfd135461963a36fb6ecc8f120891c14661e19",
+      "size_bytes": 3415,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/formalization/oph-stage4/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formalization/oph-stage4/validation.json",
+      "blob_sha": "a4138a5220033c51a79c130c8c1c174b29e73e01",
+      "size_bytes": 2681,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/formalization/oph-stage4/validation.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "8df9d03759570b585c1ba8a5ddb840f4e14e0010",
+      "size_bytes": 13073,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "package-lock.json",
+      "blob_sha": "f6b87c54c3ca4c493c8633c40166755b740f92bc",
+      "size_bytes": 135296,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/package-lock.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "package.json",
+      "blob_sha": "13ede7ff3b41a2e185a48c098ee77428ac8b4b6a",
+      "size_bytes": 902,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/package.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PLAN.md",
+      "blob_sha": "f97e993f0d52cd1ab78216e975fcbc26dbab9919",
+      "size_bytes": 26318,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/PLAN.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "public/404.html",
+      "blob_sha": "fe5d57289b0c4c6af711fe957844ddd71a785220",
+      "size_bytes": 1902,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/public/404.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "public/CNAME",
+      "blob_sha": "db9a7938479193a0f0648cd9d15ac6f33d46cdd5",
+      "size_bytes": 26,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/public/CNAME",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "public/favicon.svg",
+      "blob_sha": "62b556dccfe208c3b41e4256d739068c0cd2a522",
+      "size_bytes": 280,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/public/favicon.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "public/oph-lab-social-card-v2.png",
+      "blob_sha": "fce72ddb09513f98c68fd6b539c6d4fe633718be",
+      "size_bytes": 108108,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/public/oph-lab-social-card-v2.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "public/oph-lab-social-card-v3.png",
+      "blob_sha": "3cdc04c45304b1bce33a9bc6505deeb39dc28bd1",
+      "size_bytes": 935475,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/public/oph-lab-social-card-v3.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "public/oph-lab-social-card.png",
+      "blob_sha": "fce72ddb09513f98c68fd6b539c6d4fe633718be",
+      "size_bytes": 108108,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/public/oph-lab-social-card.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "public/oph-lab-social-card.svg",
+      "blob_sha": "802dc1433b28b7031886b0ee9c45450e7c262f6b",
+      "size_bytes": 3511,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/public/oph-lab-social-card.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "public/robots.txt",
+      "blob_sha": "a0ab3dc139893353c78ec95afb829c87790750a6",
+      "size_bytes": 79,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/public/robots.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "8c1a6ef3cf3c70d50d115cc1abfa27fc29354029",
+      "size_bytes": 23622,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements-research.txt",
+      "blob_sha": "74e2a9e5de4629b3e2309079fc8aeafe5b137bb1",
+      "size_bytes": 104,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/requirements-research.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/analyze_oph_n2_pilot.py",
+      "blob_sha": "a4dbbb95378ab87262745807a6cdc4c8f7e6cd9f",
+      "size_bytes": 18759,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/scripts/analyze_oph_n2_pilot.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/benchmark_oph_n2.py",
+      "blob_sha": "6bc7706274f0116c5f809fd0648534aadd3b9b14",
+      "size_bytes": 3471,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/scripts/benchmark_oph_n2.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/check-seo.mjs",
+      "blob_sha": "1910b5c6d79ac28af0ddafdbfea567df7efabfc4",
+      "size_bytes": 4895,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/scripts/check-seo.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/check_research_contracts.py",
+      "blob_sha": "a9568df35615331a59359f6baa9cd07c4c0674dd",
+      "size_bytes": 6427,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/scripts/check_research_contracts.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/oph_efmw_continuum_demo.py",
+      "blob_sha": "da73d9f9e6dbc1d43b0eafd78fa66c9c8dc7e260",
+      "size_bytes": 2405,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/scripts/oph_efmw_continuum_demo.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/oph_gravity_requirements.py",
+      "blob_sha": "b97acc3dda0125aee520708e4ea4ff40c43d354b",
+      "size_bytes": 13775,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/scripts/oph_gravity_requirements.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/oph_interacting_continuum.py",
+      "blob_sha": "55b911ff7afc7eb53c67d0105a04e808691d046c",
+      "size_bytes": 11759,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/scripts/oph_interacting_continuum.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/oph_mass_energy.py",
+      "blob_sha": "5c2cf6fffcdf6114bd9c1e60dd495b255f516abd",
+      "size_bytes": 13187,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/scripts/oph_mass_energy.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/oph_n2_flux_mc.py",
+      "blob_sha": "4ebc15953e5f18da7758b9881f92e51cf7f1978b",
+      "size_bytes": 10668,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/scripts/oph_n2_flux_mc.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/oph_observer_contract.py",
+      "blob_sha": "53dac850d37175949b4a226195db42b43612e887",
+      "size_bytes": 19454,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/scripts/oph_observer_contract.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/oph_particle_readouts.py",
+      "blob_sha": "428e1e72db95bc7a118789302ca89e28a728ad45",
+      "size_bytes": 11140,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/scripts/oph_particle_readouts.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/postbuild.mjs",
+      "blob_sha": "29e8894f2d50ff358e62b3c21c7a5491a234a013",
+      "size_bytes": 2614,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/scripts/postbuild.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/run_oph_n2_pilot.py",
+      "blob_sha": "07b6b0d973324abdbc70d892ff976e004b9ea1df",
+      "size_bytes": 7138,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/scripts/run_oph_n2_pilot.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/seo-module.mjs",
+      "blob_sha": "0b8501f65810664593b28aeaa5500bd89766e430",
+      "size_bytes": 793,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/scripts/seo-module.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/summarize_oph_flux.py",
+      "blob_sha": "f38a823a058bf6cc409e2fd3bd0b2d36d12e215b",
+      "size_bytes": 4915,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/scripts/summarize_oph_flux.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/App.tsx",
+      "blob_sha": "1d7cbbbca5fa3bf02e7e43e2b40316f798dc9b5c",
+      "size_bytes": 4273,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/App.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/components/Explainer.tsx",
+      "blob_sha": "91f056181e72e421e7b5d9d4eed8d3551cc5ca2d",
+      "size_bytes": 1030,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/components/Explainer.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/components/Layout.css",
+      "blob_sha": "6de08d925886e6a9c5bb5097568cc4d23761ab07",
+      "size_bytes": 4264,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/components/Layout.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/components/Layout.tsx",
+      "blob_sha": "d07337bb67d39e75a8c863e445587ab65ebbf8f8",
+      "size_bytes": 8413,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/components/Layout.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/components/ResearchReadouts.tsx",
+      "blob_sha": "5ba8f135a27e6fc532541d6511723fa54aafa154",
+      "size_bytes": 2101,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/components/ResearchReadouts.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/components/SeoManager.tsx",
+      "blob_sha": "5000655e1c9a7b187fd80d3fde5e6f6c29cf85ab",
+      "size_bytes": 2384,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/components/SeoManager.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/components/WalkthroughNav.tsx",
+      "blob_sha": "643bbb65afe3ed2f4028e4fa1f000b12b596b7db",
+      "size_bytes": 1487,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/components/WalkthroughNav.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/content/glossaryEntries.ts",
+      "blob_sha": "bde3fbe8c54e7af9bc1df12f49d17a16192cd054",
+      "size_bytes": 32397,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/content/glossaryEntries.ts",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/content/neutrinoSurface.ts",
+      "blob_sha": "245db788550036e2a0d3b7d7d16e5d51b58b30f2",
+      "size_bytes": 5363,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/content/neutrinoSurface.ts",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/content/paperSurface.ts",
+      "blob_sha": "3f3c800b1a87e30060cd8a92ed8f3c161e82291a",
+      "size_bytes": 31529,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/content/paperSurface.ts",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/content/quarkPDrivenEvaluator.ts",
+      "blob_sha": "23759af024fdb5e1d843743761bd34b8e0935b86",
+      "size_bytes": 4407,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/content/quarkPDrivenEvaluator.ts",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/content/quarkPDrivenEvaluatorContract.json",
+      "blob_sha": "c3f8e52926eeaf77e4442ed41f50ff6941448e51",
+      "size_bytes": 4127,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/content/quarkPDrivenEvaluatorContract.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/content/unificationSurface.ts",
+      "blob_sha": "dba86f5289e70dd6b9da85d77cab1c9ff4cb6273",
+      "size_bytes": 6188,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/content/unificationSurface.ts",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/core/ophMath.ts",
+      "blob_sha": "21d1311672a2f051f0bc3c41671a46abb148a2cf",
+      "size_bytes": 31220,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/core/ophMath.ts",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/index.css",
+      "blob_sha": "7fd390aa29fbe3c09c9c79ffc64d460aa2ae072b",
+      "size_bytes": 21380,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/index.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/lib/analytics.ts",
+      "blob_sha": "ceb7266d2bdf8d03c75511bc95613688b9b2d2df",
+      "size_bytes": 1491,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/lib/analytics.ts",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/main.tsx",
+      "blob_sha": "0d9037329f381a40d7ee7278fe13357d5504fd4d",
+      "size_bytes": 331,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/main.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/Axioms.tsx",
+      "blob_sha": "4815e5cdadfdfe3267d9a9557e15272350ae9510",
+      "size_bytes": 20032,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/Axioms.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/ClassicalPhysics.tsx",
+      "blob_sha": "8acd0ac3d029b3e7f9e233e78171f55900a34074",
+      "size_bytes": 22438,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/ClassicalPhysics.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/ConsensusProtocol.tsx",
+      "blob_sha": "7b62550134feb59dbb0a13dc84bbd0e6edfdabef",
+      "size_bytes": 9172,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/ConsensusProtocol.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/DarkMatter.tsx",
+      "blob_sha": "3a53982f887b3fddd69626011302ec5288b95a8a",
+      "size_bytes": 17139,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/DarkMatter.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/DeSitter.tsx",
+      "blob_sha": "793d227227eb5adc846569f8db4d538b2fc14852",
+      "size_bytes": 18880,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/DeSitter.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/Entanglement.tsx",
+      "blob_sha": "0f8c89e09b2208ec14b3c97364d56fca7d01013e",
+      "size_bytes": 15576,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/Entanglement.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/EntanglementGeometry.tsx",
+      "blob_sha": "b59380723c1732cfa42f5a552fd3d7a20642b28d",
+      "size_bytes": 16157,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/EntanglementGeometry.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/Entropy.tsx",
+      "blob_sha": "484c096e2b92ad95bf9f899ab7df95f812188ab9",
+      "size_bytes": 13233,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/Entropy.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/ErrorCorrection.tsx",
+      "blob_sha": "d08844e732d709b9659d9fe726005ee010ea8979",
+      "size_bytes": 14222,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/ErrorCorrection.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/GaugeSymmetry.tsx",
+      "blob_sha": "8bc170d0639a6850fcb49f38e1b469aee2413812",
+      "size_bytes": 13383,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/GaugeSymmetry.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/Glossary.tsx",
+      "blob_sha": "4f58eacec235666d5ba2c41ce3eaec1e15a20441",
+      "size_bytes": 9580,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/Glossary.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/Gravity.tsx",
+      "blob_sha": "bffde073227cb81c60602bc64027f996ae5e4b1c",
+      "size_bytes": 20992,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/Gravity.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/Hints.tsx",
+      "blob_sha": "412e5685df654240d2e49a8050b401e9b19602b1",
+      "size_bytes": 9384,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/Hints.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/Home.tsx",
+      "blob_sha": "0065f15e8969249d05d733dae3a3058935464212",
+      "size_bytes": 21171,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/Home.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/Lorentz.tsx",
+      "blob_sha": "1574b36b3c3c5ce3d3d359b43c2964274b0348d3",
+      "size_bytes": 14789,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/Lorentz.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/Masses.tsx",
+      "blob_sha": "b61d8ed3bb0a9a19f4b13bdb1bcf5a81a5d4a345",
+      "size_bytes": 21135,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/Masses.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/ModularFlow.tsx",
+      "blob_sha": "6666bd367d1da673b6598af14924c999b68b4f7f",
+      "size_bytes": 11062,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/ModularFlow.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/Neutrinos.tsx",
+      "blob_sha": "20994e92164c9d656db77865785210d6360d0020",
+      "size_bytes": 7657,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/Neutrinos.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/NoObjectiveReality.tsx",
+      "blob_sha": "fd3db5295ed9723791e1fd1a6cda3550c0acde46",
+      "size_bytes": 12163,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/NoObjectiveReality.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/Predictions.tsx",
+      "blob_sha": "753d435d826f5baaa102378f6dce80cebb52bb0f",
+      "size_bytes": 14393,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/Predictions.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/QftEmerges.tsx",
+      "blob_sha": "9b9767b8a00126ac2771e21992a6190cbe99fac4",
+      "size_bytes": 23346,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/QftEmerges.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/QuantumMechanics.tsx",
+      "blob_sha": "a93e06b179ca379de0acf48b9f10ace89bc8cda2",
+      "size_bytes": 13654,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/QuantumMechanics.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/Resources.tsx",
+      "blob_sha": "23b3c8949de9757b3eef6156265500b547ebe2ce",
+      "size_bytes": 19891,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/Resources.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/ScreenMicrophysics.tsx",
+      "blob_sha": "9a6819659bb33f8589ae4a204154288afc62e3ea",
+      "size_bytes": 5616,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/ScreenMicrophysics.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/StandardModel.tsx",
+      "blob_sha": "6256f05783dfaf1119b3416f07599fb8657b1e21",
+      "size_bytes": 22420,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/StandardModel.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/Synthesis.tsx",
+      "blob_sha": "3ef104ec233386e6d6b902f2d67fdc0a68b5615b",
+      "size_bytes": 25322,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/Synthesis.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/TheScreen.tsx",
+      "blob_sha": "d07c1e38ef8694d4ed1ebda7f88b2ba910b80127",
+      "size_bytes": 13414,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/TheScreen.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/pages/Unification.tsx",
+      "blob_sha": "ba05ace7c4960103a1f7dd974942eabb84996c91",
+      "size_bytes": 22462,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/pages/Unification.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/routes/walkthrough.ts",
+      "blob_sha": "9824795df3803e3efd4551b659f0ee3708f78a4c",
+      "size_bytes": 4062,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/routes/walkthrough.ts",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/seo-data.json",
+      "blob_sha": "d873bb4d8dc85e1d1190d53210b0e71d3a71ede6",
+      "size_bytes": 8109,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/seo-data.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/seo.ts",
+      "blob_sha": "daa75e32250288ad8b79b232d77340bceded02f8",
+      "size_bytes": 2237,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/seo.ts",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/state/labState.tsx",
+      "blob_sha": "469c2003d4eae10660701ca48dd9c40a5efd4d15",
+      "size_bytes": 14340,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/state/labState.tsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/vite-env.d.ts",
+      "blob_sha": "11f02fe2a0061d6e6e1f271b21da95423b448b32",
+      "size_bytes": 38,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/src/vite-env.d.ts",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_flux_readout.py",
+      "blob_sha": "cc1096b39248434d8e40774c014c848010aae920",
+      "size_bytes": 4319,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/tests/test_flux_readout.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_gravity_requirements.py",
+      "blob_sha": "b588725f739e2526194ad590e3d4036f3c6b1d98",
+      "size_bytes": 6382,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/tests/test_gravity_requirements.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_interacting_continuum.py",
+      "blob_sha": "491eabe8ef712f5cdc0ebdb824f2d5c3dd2081d4",
+      "size_bytes": 4324,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/tests/test_interacting_continuum.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_mass_energy.py",
+      "blob_sha": "27426625de225f73f810994bd83d778577db9fbe",
+      "size_bytes": 5575,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/tests/test_mass_energy.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_n1_conditional_flux.py",
+      "blob_sha": "02064dc640bde272e00545bc42ee9edd246316a7",
+      "size_bytes": 4526,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/tests/test_n1_conditional_flux.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_n2_pilot.py",
+      "blob_sha": "d84c0618b48ab0904ef79bb06c1c0d2eee890d03",
+      "size_bytes": 9653,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/tests/test_n2_pilot.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_observer_contract.py",
+      "blob_sha": "8f8144ad9dded4b95248a4fb8f88dd35833b3b5a",
+      "size_bytes": 8735,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/tests/test_observer_contract.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_particle_readouts.py",
+      "blob_sha": "88db1678e9bf0327b9b952bf67d8c431d6fc3924",
+      "size_bytes": 5327,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/tests/test_particle_readouts.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_research_contracts.py",
+      "blob_sha": "30b312236c872acb7461ed6e13863f7f1699fc5c",
+      "size_bytes": 1404,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/tests/test_research_contracts.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tracking/parallel_work_queue.md",
+      "blob_sha": "b0de7a0246902e82f7ab66be67d229d8adac168c",
+      "size_bytes": 2904,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/tracking/parallel_work_queue.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tracking/premise_register.json",
+      "blob_sha": "fb4a9d84dc8b2bccf2f7f03948ceb7a2ea06d186",
+      "size_bytes": 7243,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/tracking/premise_register.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tsconfig.app.json",
+      "blob_sha": "2877c218045ab3ecac7b5b933bdf36946d828a54",
+      "size_bytes": 689,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/tsconfig.app.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tsconfig.json",
+      "blob_sha": "1ffef600d959ec9e396d5a260bd3f5b927b2cef8",
+      "size_bytes": 119,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/tsconfig.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tsconfig.node.json",
+      "blob_sha": "953116cc58eac4ad32f57cd13ef373f60163ab51",
+      "size_bytes": 587,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/tsconfig.node.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "vite.config.ts",
+      "blob_sha": "08d9db3033a824b1c86525dc7ae3560914388651",
+      "size_bytes": 146,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/oph-lab/blob/main/vite.config.ts",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

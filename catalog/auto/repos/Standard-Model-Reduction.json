@@ -1,0 +1,71 @@
+{
+  "repository": "enuminous/Standard-Model-Reduction",
+  "default_branch": "main",
+  "tree_sha": "aa569b13a594735774c7b643d44aebff4d5ad17c",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/pages.yml",
+      "blob_sha": "d1391a821e78890c4438c9f89bb44b8f639c5983",
+      "size_bytes": 1020,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Standard-Model-Reduction/blob/main/.github/workflows/pages.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "3e487f4dafa5ca32c3cc3c9219d4f83a8ab2d208",
+      "size_bytes": 27828,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Standard-Model-Reduction/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "ffe38fd09404c75fe05b5d926e572af71187a242",
+      "size_bytes": 12742,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Standard-Model-Reduction/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "standard_model_check_results.txt",
+      "blob_sha": "71a90274055a64d256b681c9ecfdeef12d9adc49",
+      "size_bytes": 1562,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Standard-Model-Reduction/blob/main/standard_model_check_results.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "three_line_standard_model_geometric_reduction.md",
+      "blob_sha": "c88257811c598708ac68cc77cd6b402d036a0671",
+      "size_bytes": 15045,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Standard-Model-Reduction/blob/main/three_line_standard_model_geometric_reduction.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify_standard_model_reduction.py",
+      "blob_sha": "d592fdf100ed92dc25ac1edfba7497e32fe67f13",
+      "size_bytes": 3988,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Standard-Model-Reduction/blob/main/verify_standard_model_reduction.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

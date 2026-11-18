@@ -1,0 +1,699 @@
+{
+  "repository": "enuminous/Archimedes-3D",
+  "default_branch": "main",
+  "tree_sha": "0324e4c7bc931e7fc8a8b0a861b127f7549f1d88",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "2bb56b9f4434179fb605c999d3a5d25305d579ea",
+      "size_bytes": 1427,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/static.yml",
+      "blob_sha": "460f782006e8bb929c92b9357c59c8b1d73f18c7",
+      "size_bytes": 1250,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/.github/workflows/static.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "app.js",
+      "blob_sha": "b5b91c0b0a11a9c4992faf97957fddd7090af882",
+      "size_bytes": 19543,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/app.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Archimedes-Engine.html",
+      "blob_sha": "624d766f83196f75d0f987503613dd3848040052",
+      "size_bytes": 118581,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/Archimedes-Engine.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Archimedes-World3D.html",
+      "blob_sha": "c6e7f6c7615118069c34ee5953b8eff2a71c867b",
+      "size_bytes": 91248,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/Archimedes-World3D.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "blob_sha": "72c196471cc1574b1ae7a727133530b33b68f62b",
+      "size_bytes": 1375,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/CHANGELOG.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "56e4949dedf7772dab6d27ca604e3748440818c7",
+      "size_bytes": 639,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/ARCHIMEDES-SOURCE.md",
+      "blob_sha": "37bde74d19a38294fdcc06644f0c34c27b8b14c5",
+      "size_bytes": 9678,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/docs/ARCHIMEDES-SOURCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "blob_sha": "9e67824189c4cd80eb93580a91daa58efd061bd6",
+      "size_bytes": 7152,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/docs/ARCHITECTURE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/MATHEMATICS.md",
+      "blob_sha": "9825b4c7d024ce81cf1e23569db497d862732ede",
+      "size_bytes": 23000,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/docs/MATHEMATICS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/docs/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/ROADMAP.md",
+      "blob_sha": "1eb7e03c1d06151d2bb6265ec37a4f390ace8a6c",
+      "size_bytes": 3011,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/docs/ROADMAP.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/SOURCE-MAPPING.md",
+      "blob_sha": "6fe09628fe073326410cc31ef47c10d240034f9e",
+      "size_bytes": 5844,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/docs/SOURCE-MAPPING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "blob_sha": "64186e2f8d03d38d9533a3cd9e7035c1d521110e",
+      "size_bytes": 6067,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/docs/VALIDATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "engine.js",
+      "blob_sha": "5204393f3d050873f1be15dc263490596651369b",
+      "size_bytes": 21615,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/engine.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/pulse-and-blackout.json",
+      "blob_sha": "6bfc453a640eca692b91f1dc6e88a9e82e793f1e",
+      "size_bytes": 119421,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/examples/pulse-and-blackout.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/examples/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/world3d-pulse-and-probe.json",
+      "blob_sha": "8bea690c14b2d8e912dc0173c1a060d3e12cf32f",
+      "size_bytes": 193923,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/examples/world3d-pulse-and-probe.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/Audit.lean",
+      "blob_sha": "28c4ee989cef37c299a7a489d747929812dc8bd9",
+      "size_bytes": 1202,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/formal/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/COVERAGE.md",
+      "blob_sha": "416e2decfc61a9e6a1d21c70e406f1a784364191",
+      "size_bytes": 1714,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/formal/COVERAGE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lake-manifest.json",
+      "blob_sha": "8a34096e1b904af2f3dcc5a8d5f0d477c05710c6",
+      "size_bytes": 3484,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/formal/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lakefile.toml",
+      "blob_sha": "1cd6c02a92a49de5cb54f06f24b4002ef32bc90b",
+      "size_bytes": 235,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/formal/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/formal/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/formal/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/VERIFICATION.md",
+      "blob_sha": "54d57fa977ba3253ba419a91d3e0bb1a8e9dd58f",
+      "size_bytes": 885,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/formal/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/World3D.lean",
+      "blob_sha": "4ae5ed34ea6efa43f6df53e78bb94c786184f473",
+      "size_bytes": 2589,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/formal/World3D.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "icon.svg",
+      "blob_sha": "a13d57c5383d784203a2cb9c2de97ec0179dc480",
+      "size_bytes": 352,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/icon.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "736b4fc480b20be0f90203ac5817e5f17daf1b81",
+      "size_bytes": 21477,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.json",
+      "blob_sha": "2a40a32416ad198b4d54f4847dbefdeb33172c10",
+      "size_bytes": 1051,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/MANIFEST.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "package.json",
+      "blob_sha": "934e8dc118d7a206cd85acce065de885cfeb9a32",
+      "size_bytes": 594,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/package.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "bccf7b812938aea475c8b8eae307b1532da195e1",
+      "size_bytes": 10930,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/experiment.json",
+      "blob_sha": "90140b29c7aa1f2d8ba930b8ebd4dd791597daf9",
+      "size_bytes": 35222,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/results/experiment.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/EXPERIMENT.md",
+      "blob_sha": "1fa3ca1d3584e85027b722973d0e642c9a182b39",
+      "size_bytes": 1852,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/results/EXPERIMENT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/package-checks.json",
+      "blob_sha": "8f11a0d9584b5de5fae1e077421be86abec0f319",
+      "size_bytes": 230,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/results/package-checks.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/results/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/tests.tap",
+      "blob_sha": "941fa6b00260e293d7c61e7d40685ef12cb0f898",
+      "size_bytes": 6486,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/results/tests.tap",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/world3d-experiment.json",
+      "blob_sha": "463133073ea7fed12082885d3882660261863625",
+      "size_bytes": 7757,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/results/world3d-experiment.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/WORLD3D-EXPERIMENT.md",
+      "blob_sha": "42c870ee79d0135609ac0928d3edc81efed16fc6",
+      "size_bytes": 1696,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/results/WORLD3D-EXPERIMENT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RIGHTS.md",
+      "blob_sha": "4fa642db9493707ebeb9dda2d88b3e291667af53",
+      "size_bytes": 990,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/RIGHTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/build.js",
+      "blob_sha": "01cd1d648a7f7689663947df1e7ea4c2edf8e326",
+      "size_bytes": 677,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/scripts/build.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/experiment.js",
+      "blob_sha": "e2728ab475232fb610fc4042d9cf7b1ce354f2b1",
+      "size_bytes": 4871,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/scripts/experiment.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/experiment3d.js",
+      "blob_sha": "d6ee5aff37b9018aa2a9d49e2b31be562a202d53",
+      "size_bytes": 2169,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/scripts/experiment3d.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/package.js",
+      "blob_sha": "5374fdbde6e785dc4f5c2f4144d6847a7bc98fc3",
+      "size_bytes": 2583,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/scripts/package.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/scripts/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/render-world3d.py",
+      "blob_sha": "d6724914299802d1b7ffff17672b67061b984f91",
+      "size_bytes": 5567,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/scripts/render-world3d.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/standalone.js",
+      "blob_sha": "692301453c70f7a30a5d892200f9af7cc2b4119d",
+      "size_bytes": 1279,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/scripts/standalone.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/world3d-standalone.js",
+      "blob_sha": "9d5c36a96a5d3909e4e8bb470b00aec8f1957428",
+      "size_bytes": 1085,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/scripts/world3d-standalone.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "blob_sha": "db94823504c80674cb28bec1c211edb911e6fee6",
+      "size_bytes": 5057,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/SHA256SUMS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "styles.css",
+      "blob_sha": "9b4f7f0a41bf24571ca32942326cc8026627b053",
+      "size_bytes": 15607,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/styles.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/browser.cjs",
+      "blob_sha": "6530bdc7612dbabdd7966e0c85ea42bb7929ca44",
+      "size_bytes": 4939,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/tests/browser.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/engine.test.js",
+      "blob_sha": "d9840c5c711828b999efecdaf78465abc07c1b50",
+      "size_bytes": 7143,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/tests/engine.test.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/tests/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/ui.test.js",
+      "blob_sha": "c8137b5929a36b706a2bf67c6faf79095891a4b1",
+      "size_bytes": 8544,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/tests/ui.test.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/world3d-ui.test.js",
+      "blob_sha": "6ae1249921d5411481e102bd7c2d0082c6bd69f8",
+      "size_bytes": 6137,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/tests/world3d-ui.test.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/world3d.test.js",
+      "blob_sha": "58935f60ffad3b5d7a44d73e80884d23fa941efe",
+      "size_bytes": 6541,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/tests/world3d.test.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "world3d/controller.js",
+      "blob_sha": "75c04a7ffe29bff082a880581ab5b454fcca0515",
+      "size_bytes": 2817,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/world3d/controller.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "world3d/engine3d.js",
+      "blob_sha": "2fa75244fc0507f7bd85a6daebb10282bd0078ed",
+      "size_bytes": 20736,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/world3d/engine3d.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "world3d/index.html",
+      "blob_sha": "eecf015b97bc1c28c33519948c89ece9a3557c2b",
+      "size_bytes": 19401,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/world3d/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "world3d/MATHEMATICS.md",
+      "blob_sha": "7680ea0705d7acce92c9044f627095408254db23",
+      "size_bytes": 9394,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/world3d/MATHEMATICS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "world3d/preview.png",
+      "blob_sha": "9253b39fe6e2f3a9d85b124a26313555b1972531",
+      "size_bytes": 58135,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/world3d/preview.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "world3d/PROVENANCE.md",
+      "blob_sha": "c37166d20a85098f1033e3fbe7f1050c34de6928",
+      "size_bytes": 1455,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/world3d/PROVENANCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "world3d/README.md",
+      "blob_sha": "09fe1680f74b91acce5e0452a7c1e237083908d5",
+      "size_bytes": 5979,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/world3d/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "world3d/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/world3d/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "world3d/renderer.js",
+      "blob_sha": "1eb160e8b4f7753f0edabdcbcfe06ac9e5a1497e",
+      "size_bytes": 13982,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/world3d/renderer.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "world3d/VALIDATION.md",
+      "blob_sha": "698c725f67fd9d7d76013c2f45daa107c0fde5ec",
+      "size_bytes": 3453,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/world3d/VALIDATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "world3d/world.css",
+      "blob_sha": "5b2e2c4a361dc2f257f7bee28f491f3d4550c83b",
+      "size_bytes": 14664,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/world3d/world.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "world3d/world.js",
+      "blob_sha": "c432d2e1c6638f2dd0aac9046c30290e5432fdca",
+      "size_bytes": 13925,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-3D/blob/main/world3d/world.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

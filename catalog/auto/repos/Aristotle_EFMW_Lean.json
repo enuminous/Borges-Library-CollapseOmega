@@ -1,0 +1,313 @@
+{
+  "repository": "enuminous/Aristotle_EFMW_Lean",
+  "default_branch": "main",
+  "tree_sha": "9603d44bba9f0b3eef1f5ead7d8266cd76ea54db",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/blank.yml",
+      "blob_sha": "00a87eccfcf0e857dd4d334a9a1b4116b48a615a",
+      "size_bytes": 1241,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/.github/workflows/blank.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/static.yml",
+      "blob_sha": "460f782006e8bb929c92b9357c59c8b1d73f18c7",
+      "size_bytes": 1250,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/.github/workflows/static.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ARISTOTLE_SUMMARY.md",
+      "blob_sha": "61d0d9cdd0225c18da5aa80004bbe7278504d300",
+      "size_bytes": 7097,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/ARISTOTLE_SUMMARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "00e9617dfd710d49763d3c2ddd7f705cfa91e30c",
+      "size_bytes": 2153,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/EFMW/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW_STATUS.md",
+      "blob_sha": "d5d0a0c1ae398f040a02dde1edf56a5d53e6ad4c",
+      "size_bytes": 7976,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/EFMW_STATUS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "aeb39396c017ed2670cfcfcdb76059ad9cf46349",
+      "size_bytes": 10325,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "57bef473f4e93ba8f5d0387c29642e4327c08cda",
+      "size_bytes": 3109,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "d1331e3725185586634d12846a2ef43f829fc639",
+      "size_bytes": 234,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "10cbf6ce9a1309c247ea0357cb257e4b9134c6d5",
+      "size_bytes": 2280,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/EFMW.lean",
+      "blob_sha": "d09fcbcf4b0440ce631823a0e8e81078a2d1b628",
+      "size_bytes": 752,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/RequestProject/EFMW.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/EFMW/ActionsAndFluids.lean",
+      "blob_sha": "ca065d00e7f4c6f93fe2b0a006954913fcd69229",
+      "size_bytes": 4778,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/RequestProject/EFMW/ActionsAndFluids.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/EFMW/CognitiveFields.lean",
+      "blob_sha": "ab7a8fcc0728a3c6b88d7a355582e11805f7d9f9",
+      "size_bytes": 9748,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/RequestProject/EFMW/CognitiveFields.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/EFMW/Coherence.lean",
+      "blob_sha": "fce4516ddc707d3b77f386b17eddadace03af3e8",
+      "size_bytes": 10439,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/RequestProject/EFMW/Coherence.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/EFMW/Cosmology.lean",
+      "blob_sha": "e5188cedea29dd48cca64634bd033ffd7468c7ac",
+      "size_bytes": 5499,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/RequestProject/EFMW/Cosmology.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/EFMW/Dynamics.lean",
+      "blob_sha": "5f2bd4c058ea936aa6f138c1ad3ca06bd0e8fcd0",
+      "size_bytes": 11226,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/RequestProject/EFMW/Dynamics.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/EFMW/GoldenScaling.lean",
+      "blob_sha": "e4e0cee465e17bd864316b0d08227efea219ef39",
+      "size_bytes": 3821,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/RequestProject/EFMW/GoldenScaling.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/EFMW/Information.lean",
+      "blob_sha": "4e131f1bf63ae14640065614cf0823a8fae6f05d",
+      "size_bytes": 7493,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/RequestProject/EFMW/Information.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/EFMW/PhysicalTest.lean",
+      "blob_sha": "e2cd2f6891c48a66633cd91cb3a95d77ab063a68",
+      "size_bytes": 14933,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/RequestProject/EFMW/PhysicalTest.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/EFMW/QuantumSector.lean",
+      "blob_sha": "14006d467242e13d694530f83eea9d03f078acd8",
+      "size_bytes": 5885,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/RequestProject/EFMW/QuantumSector.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/EFMW/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/RequestProject/EFMW/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/EFMW/ScalarField.lean",
+      "blob_sha": "77e67329cd1eb617a869b45de0512ae90f87744b",
+      "size_bytes": 11895,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/RequestProject/EFMW/ScalarField.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/EFMW/Synthesis.lean",
+      "blob_sha": "7ad639525a1cb7a83a81784850d144d355d3f3f2",
+      "size_bytes": 5317,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/RequestProject/EFMW/Synthesis.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/EFMW/Systems.lean",
+      "blob_sha": "bd9ec28c97586bebe018015753d25a0419f328ff",
+      "size_bytes": 9104,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/RequestProject/EFMW/Systems.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Main.lean",
+      "blob_sha": "308f9cfb58cc562160bcd62ba1e20174f161311d",
+      "size_bytes": 563,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/RequestProject/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/RequestProject/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "54d57fa977ba3253ba419a91d3e0bb1a8e9dd58f",
+      "size_bytes": 885,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Aristotle_EFMW_Lean/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

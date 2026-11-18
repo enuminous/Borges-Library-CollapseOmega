@@ -1,0 +1,192 @@
+{
+  "repository": "enuminous/Spider",
+  "default_branch": "main",
+  "tree_sha": "2b39210635957a0aff94851ccf8a3d6d55e8b8d6",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "baselines.py",
+      "blob_sha": "2621c029c0656538315412a03c34d77fc52beae0",
+      "size_bytes": 2073,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/baselines.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cascade_schema.json",
+      "blob_sha": "47faab7c0b7e30816743cffa2a02213dbbcfb7a0",
+      "size_bytes": 735,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/cascade_schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "323558c3c4475acb8c17e6452948ae0f5cbb1599",
+      "size_bytes": 302,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_config.yaml",
+      "blob_sha": "f14316196f607d34e0915af5cb70afea828cea21",
+      "size_bytes": 214,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/example_config.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_edges.csv",
+      "blob_sha": "6df54b05d587395bcc535665f34a5b16eef94296",
+      "size_bytes": 97,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/example_edges.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_nodes.csv",
+      "blob_sha": "fe5a9edb703a7ac415afa744694875a7ed277948",
+      "size_bytes": 50910,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/example_nodes.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_run.py",
+      "blob_sha": "878b240a6569fc89b24cd37ba8f12a3bc3dfa35a",
+      "size_bytes": 388,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/example_run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "features.py",
+      "blob_sha": "107c467ab5f6610e589cab01405f49fec60a097a",
+      "size_bytes": 3955,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/features.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "freeze.py",
+      "blob_sha": "c0ff9c24bbc4fb265f2e12978184ce7ac4f44bf0",
+      "size_bytes": 433,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/freeze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "5f84e833d9e5ee74aca671c9c485634fc308f22c",
+      "size_bytes": 1851,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "79719fc120a524ad10e1a44d1de510cffc80530d",
+      "size_bytes": 1087,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "c9f9c020073b067333caab74001ba0bdffa9d41f",
+      "size_bytes": 1281,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metrics.py",
+      "blob_sha": "3297eef8b6125d70b4f9564f477546d7c2b0eb16",
+      "size_bytes": 1094,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "d011fa96b2a32eb394df19ced0d0ec9fe91d8669",
+      "size_bytes": 486,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "659e80023a6dd64d55addce5d8d3b1876c804edc",
+      "size_bytes": 4782,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "92960fc2c2068ab631f0a3757dd8e63ce0e1c4f5",
+      "size_bytes": 66,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "spider.py",
+      "blob_sha": "4a073d8a12025f7f4db5d4229e4ac92f629f5684",
+      "size_bytes": 2348,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/spider.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_spider.py",
+      "blob_sha": "a9e7528d482822be16eb046903c7f67ea6ac9975",
+      "size_bytes": 818,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Spider/blob/main/test_spider.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "repository": "enuminous/Borges-Library-CollapseOmega",
+  "default_branch": "main",
+  "tree_sha": "e07624fbe6688624da1889e0303f57339829ac8a",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/pages.yml",
+      "blob_sha": "859ddc3531f22e53601939a2aad0722942c8c370",
+      "size_bytes": 732,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/.github/workflows/pages.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/sophia-catalog.yml",
+      "blob_sha": "4c2d1af33a8bac00e80458e47a018bb6d16e6ee1",
+      "size_bytes": 1668,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/.github/workflows/sophia-catalog.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "app.js",
+      "blob_sha": "d11c3cc5aea9b9fab22e713b92a746d42aba2108",
+      "size_bytes": 27647,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/app.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "catalog/index.html",
+      "blob_sha": "05207e792e5da64b7ca7bca1e0c67fea37f7da31",
+      "size_bytes": 9170,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/catalog/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "catalog/README.md",
+      "blob_sha": "55e18c7abd47533eb8802457f4928f992626e18e",
+      "size_bytes": 2460,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/catalog/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "catalog/SOPHIA-MATH-III-2026-11-18-018.md",
+      "blob_sha": "52abedf0f37eafe5830764492477eda01747800d",
+      "size_bytes": 2558,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/catalog/SOPHIA-MATH-III-2026-11-18-018.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "catalog/sophia.json",
+      "blob_sha": "76ec66f339761cf9d6a7c998c3e781c62809ad47",
+      "size_bytes": 2783,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/catalog/sophia.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "catalog/volumes/18-those-goddamn-cliffords-2026-11-18.md",
+      "blob_sha": "8eafd27cd0f95cad752275251b8be52b0c35a207",
+      "size_bytes": 11198,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/catalog/volumes/18-those-goddamn-cliffords-2026-11-18.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "engine.js",
+      "blob_sha": "16723ce0362968d155f30bd97a83eae72dd2f0dc",
+      "size_bytes": 12792,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/engine.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "9d7cb3d35b4edda0e5b86e9b8333075fd226f246",
+      "size_bytes": 20067,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "840b688a63295a74a14956c42fdd433add8487c9",
+      "size_bytes": 8990,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/build_standalone.py",
+      "blob_sha": "9507c1519a15e0c6ce51d5e20a0a9017cd96de2d",
+      "size_bytes": 896,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/scripts/build_standalone.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/scripts/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/sophia_catalog.py",
+      "blob_sha": "b2de55326a7459fbfc59e807b912bd026e75026e",
+      "size_bytes": 15250,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/scripts/sophia_catalog.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "standalone.html",
+      "blob_sha": "1c645b8968151ec5291712a97b66ec61bd075395",
+      "size_bytes": 73185,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/standalone.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "styles.css",
+      "blob_sha": "a222562fa8df93c55b18af13fee7c18aaf2b64db",
+      "size_bytes": 21797,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/styles.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/test/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/engine.test.cjs",
+      "blob_sha": "555500be80b6dffe00dfd206378c791785cd1dc6",
+      "size_bytes": 2029,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/tests/engine.test.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/tests/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_sophia_catalog.py",
+      "blob_sha": "3211ed9ff260a7195e82fbe1af0b48131872699c",
+      "size_bytes": 1659,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Borges-Library-CollapseOmega/blob/main/tests/test_sophia_catalog.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

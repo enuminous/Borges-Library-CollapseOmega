@@ -1,0 +1,182 @@
+{
+  "repository": "enuminous/Crab",
+  "default_branch": "main",
+  "tree_sha": "c9b28566e08579a2162fc5da226e5d8c7f83f0d6",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "baselines.py",
+      "blob_sha": "af1df536276360bc721a00a39aa3f97e03d26313",
+      "size_bytes": 1373,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/baselines.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "4027c5f5360677aab2c1ab56679ef744f5c353ba",
+      "size_bytes": 281,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "contradiction_schema.json",
+      "blob_sha": "5e730317bb1d21b41373c2b912b1c1fb4f94ba76",
+      "size_bytes": 677,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/contradiction_schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "crab.py",
+      "blob_sha": "83c8496226d0921b9ec0b69d08d4f742b210d890",
+      "size_bytes": 2445,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/crab.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_config.yaml",
+      "blob_sha": "cd8c4061db9c2265467657a7947d834e466134ea",
+      "size_bytes": 166,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/example_config.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_data.csv",
+      "blob_sha": "953a14f9d3ad7303ade07bc51e5f3a4589f359a6",
+      "size_bytes": 35937,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/example_data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_run.py",
+      "blob_sha": "76c4d25ffae06b811e3af0be6eddb5dccd9a53e8",
+      "size_bytes": 348,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/example_run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "features.py",
+      "blob_sha": "aea19e73a42749b5432dfa7c4d9cf8c2eee4a8b9",
+      "size_bytes": 3472,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/features.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "freeze.py",
+      "blob_sha": "c0ff9c24bbc4fb265f2e12978184ce7ac4f44bf0",
+      "size_bytes": 433,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/freeze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "71b4d45d6651ddb63c15182fcda214ace95aecde",
+      "size_bytes": 1837,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "79719fc120a524ad10e1a44d1de510cffc80530d",
+      "size_bytes": 1087,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "3f4dcb629547b205ef8dbe0f6db2506ddfd157df",
+      "size_bytes": 1198,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metrics.py",
+      "blob_sha": "8382f300c3e1683de4a64835ddb51bbc6baa97f2",
+      "size_bytes": 1152,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "3e1f63a49cef74e1ccd4e2eccba33d09fcffdf85",
+      "size_bytes": 463,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "6605d3f945bcb9885d2cd5e2f1ea0134b34281c3",
+      "size_bytes": 4637,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "92960fc2c2068ab631f0a3757dd8e63ce0e1c4f5",
+      "size_bytes": 66,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_crab.py",
+      "blob_sha": "fead8f00b62136aa5b5bef4c6e2efe6917797496",
+      "size_bytes": 722,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Crab/blob/main/test_crab.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

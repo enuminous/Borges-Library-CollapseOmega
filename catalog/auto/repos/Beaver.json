@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Beaver",
+  "default_branch": "main",
+  "tree_sha": "7e2d3fe03fceac1ac372af80aa9d960752dd5c00",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "fd1f2e47649a47ccf9e6581c8f5ff1e16fd3c3fa",
+      "size_bytes": 691,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "089271dcd947701575a0711744b12a399a59022d",
+      "size_bytes": 1005,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "beaver.py",
+      "blob_sha": "53da5753c3df61c6ac4a95e57d433729c1dfc1cf",
+      "size_bytes": 2650,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/beaver.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "b1f94bd7db92df99802fdfff53773537b801f416",
+      "size_bytes": 814,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "0a5b6c71bfc27339e17ccd3656f44fc541a1d006",
+      "size_bytes": 1661,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "b1292370382077185a9fe7718b0efc0dec54ca6a",
+      "size_bytes": 306,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "6a25a654b63446ebf763603cff480baecd1108d9",
+      "size_bytes": 571,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "031123892a5aae07f1c5e6823fa6d47e600663e4",
+      "size_bytes": 1820,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "6e9ec72c57ac3b751df278ff3dbbf2bdd3b58211",
+      "size_bytes": 965,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "69fe925eeb8b3d45edcec87dc2d22d96ded24348",
+      "size_bytes": 1734,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "d72cf33bbb31a5e137186bbb100a9dfd38f667b5",
+      "size_bytes": 2899,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "repair_model.md",
+      "blob_sha": "d58f363a058587e1fc0f77a3388a9f0e83b9cd17",
+      "size_bytes": 845,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/repair_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_beaver.py",
+      "blob_sha": "27254bb843508e5751ea43b05a21ea169c0a8e40",
+      "size_bytes": 1119,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/test_beaver.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "fc0ec9447c124e7917ce0dfdc8f74200bad6adbd",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "5085e4a9fd447be4be63fb1a6753b49257ba6b83",
+      "size_bytes": 2115,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Beaver/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

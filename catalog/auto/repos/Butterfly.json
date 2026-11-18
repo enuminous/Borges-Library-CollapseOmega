@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Butterfly",
+  "default_branch": "main",
+  "tree_sha": "2143e6112a869e2a3a0c57448f88936debdf5717",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "f64d867e43f3eff09faef9cdf64e433cc13e2d72",
+      "size_bytes": 651,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "782106fcadb9dcfa25516f801ecbd80da38e1985",
+      "size_bytes": 1118,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "2140bfe2845df8adcc982f1d788d6056d0e6ba72",
+      "size_bytes": 1050,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "3f6c451195f576d16b050d6845689124b5771d21",
+      "size_bytes": 1794,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "butterfly.py",
+      "blob_sha": "a4904c7566be282eacada5cfc54f2d720837e474",
+      "size_bytes": 3281,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/butterfly.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "883a824215c8b823d67c97c365382ab9379d024e",
+      "size_bytes": 331,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "8bb35c81f5af5fceb51b09610379eed20186fc2e",
+      "size_bytes": 417,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "1916e7ee7f01a7772d881ace918ab59974f780a7",
+      "size_bytes": 1790,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "18f7ce27018807b14d1f0f6279039422d35de241",
+      "size_bytes": 1069,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "101298882226944669285beb98f1c506f87cf9fe",
+      "size_bytes": 2308,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "propagation_model.md",
+      "blob_sha": "6c12717cac5c916a88d99f1d8aa787ad1d779ff4",
+      "size_bytes": 806,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/propagation_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "61a67fdad01b70d3618395d84d852fd0587f1b7b",
+      "size_bytes": 3085,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_butterfly.py",
+      "blob_sha": "b166d1f0de8ac33bf09b8501ed01e99593147836",
+      "size_bytes": 1294,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/test_butterfly.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "eaf1e5eca8a4dd052b485957d834cbbc0117fca3",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "c0805d6657291c17b6539c8de7f7af396b499935",
+      "size_bytes": 2930,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Butterfly/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

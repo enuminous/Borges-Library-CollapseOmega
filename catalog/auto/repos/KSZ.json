@@ -1,0 +1,355 @@
+{
+  "repository": "enuminous/KSZ",
+  "default_branch": "main",
+  "tree_sha": "ef78a559cc011212c43e3e6a73ce0adbd44ce428",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "AUDIT.md",
+      "blob_sha": "65d6c32848d49e796b5cceb1dcd955576fe51b6d",
+      "size_bytes": 2572,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/AUDIT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "build_viewer.py",
+      "blob_sha": "f7cd9fbc0df025fe0c1a3f2bc88c0983379d78a1",
+      "size_bytes": 577,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/build_viewer.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data_act.csv",
+      "blob_sha": "b01e9e314985afa3df56b866a056de6e9e3f994b",
+      "size_bytes": 825,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/data_act.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data_cov_act.txt",
+      "blob_sha": "86f70547e5a0c7ad885ce0d0f8905bd031f49768",
+      "size_bytes": 5166,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/data_cov_act.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data_cov_g.txt",
+      "blob_sha": "4380cd58f66123dd7e44d294d0a6e501568d4d90",
+      "size_bytes": 5625,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/data_cov_g.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data_cov_sqrtg.txt",
+      "blob_sha": "41297ea0dff6c3c9fc120c13d88cbc76f0414012",
+      "size_bytes": 5625,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/data_cov_sqrtg.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data_sdss.csv",
+      "blob_sha": "2ae5843b6b253356aeda981c5a64f996a449735d",
+      "size_bytes": 695,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/data_sdss.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "DERIVATION.md",
+      "blob_sha": "bb4ca2f69b81399531d6b1fa6e62d1754fb8f4c6",
+      "size_bytes": 5991,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/DERIVATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "fetch_data.py",
+      "blob_sha": "97031b64b536c7624f4bd48b0cb206e4eb2dfbfb",
+      "size_bytes": 883,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/fetch_data.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "fitted_curves.csv",
+      "blob_sha": "df316bf6c2d20fadf9f37150fff316c0206fb698",
+      "size_bytes": 1181,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/fitted_curves.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "gaussian_results.csv",
+      "blob_sha": "94b85472b7e725b9654c54f7a2196e18d5eeb9b1",
+      "size_bytes": 11591,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/gaussian_results.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "1c7da4b2e02141fc6f5f3f436fd28d6bf34678a7",
+      "size_bytes": 385266,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ksz.py",
+      "blob_sha": "f5a39f129091500422e1a8ae41284923b1bfc0d4",
+      "size_bytes": 5321,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/ksz.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE_NOTICE.md",
+      "blob_sha": "d47391a72f669bc54a23939c594a2e453a055ad1",
+      "size_bytes": 414,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/LICENSE_NOTICE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "literature_provenance.json",
+      "blob_sha": "68caf18377277b1fdab77e610a93bc609b9f41a6",
+      "size_bytes": 483,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/literature_provenance.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "e0d2dfd6cc50aa2dd6d82dcce5eb0e3dee4a0e7e",
+      "size_bytes": 2735,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "protocol.json",
+      "blob_sha": "f7015a9e70019ec212cf1f330f77bb48a06756c2",
+      "size_bytes": 1188,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/protocol.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "raw_act.hdf",
+      "blob_sha": "fe3792d0999232c6ffb0721d4b50325cc58132f6",
+      "size_bytes": 193808,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/raw_act.hdf",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "1c259518b82b7bfb4b8e18d64eeb4138afc4be48",
+      "size_bytes": 3946,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "REPORT.md",
+      "blob_sha": "6763f2d1ec48ae2461aa9ef9ea37e9ea6aa0d46e",
+      "size_bytes": 7130,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/REPORT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "9c098280219cd3fc1fed9595567e9bec64c11bac",
+      "size_bytes": 59,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results.json",
+      "blob_sha": "892ea29e42422dc782db539d47cc9884b4440be0",
+      "size_bytes": 32416,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results.png",
+      "blob_sha": "f7980501f4d7a43454e96c880cdeb3bb16b0c42b",
+      "size_bytes": 256543,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/results.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results.svg",
+      "blob_sha": "f8302807c7009ec8226f6a0e83a981f15914100d",
+      "size_bytes": 125445,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/results.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "run.py",
+      "blob_sha": "4c00736498f2f4f2f105c6212c92e5a67ca46900",
+      "size_bytes": 9509,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "run_log.txt",
+      "blob_sha": "148e084739a89f0164b59ac346c18c3d2b4442da",
+      "size_bytes": 2188,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/run_log.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SOURCES.md",
+      "blob_sha": "cb99df9fcb489890e4257d1a4b6d391e945fef4c",
+      "size_bytes": 2419,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/SOURCES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_ksz.py",
+      "blob_sha": "fb5012cbf93e022ca27ecd4ad013dff610573a19",
+      "size_bytes": 3508,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/test_ksz.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_log.txt",
+      "blob_sha": "8cd10fb826d0d3d3ee0e1f40339d8cb0fff19e3c",
+      "size_bytes": 1347,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/test_log.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_viewer.cjs",
+      "blob_sha": "68f5320122edeb6f9f40384a0a63624415a808cf",
+      "size_bytes": 2168,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/test_viewer.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "upstream_sources.json",
+      "blob_sha": "b333a5822fe7ce0a1599946d7aae8b07545be15a",
+      "size_bytes": 1902,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/upstream_sources.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VALIDATION.md",
+      "blob_sha": "4b06b415634ebf5ac5afa428c19848af3b19e853",
+      "size_bytes": 1344,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/VALIDATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify_manifest.py",
+      "blob_sha": "168ad9bb8383b2cc42c216b8725d3ac5ed073346",
+      "size_bytes": 561,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/verify_manifest.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "viewer_template.html",
+      "blob_sha": "7ebdee637a36e8803ba92ee313824ae7fa43dbb6",
+      "size_bytes": 16640,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/KSZ/blob/main/viewer_template.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

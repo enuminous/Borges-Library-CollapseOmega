@@ -1,0 +1,1090 @@
+{
+  "repository": "enuminous/EFMW_Post156_Zoo_Audit",
+  "default_branch": "main",
+  "tree_sha": "fd4ac30ffdbb44c78e7ea69e2424beaa9f3fdb93",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean-audit.yml",
+      "blob_sha": "1debcbd45df19b0c8baa2ccc0f7299aa945c1183",
+      "size_bytes": 1428,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/.github/workflows/lean-audit.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/research-engine.yml",
+      "blob_sha": "375e559ec656c9fcc15df6e1beb974fb323c20b5",
+      "size_bytes": 2276,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/.github/workflows/research-engine.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "5cc8417016874f4f9af0b4222e17582211394748",
+      "size_bytes": 50,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "c4573c9d45587e9574d54a29949de8f4d4e76b28",
+      "size_bytes": 310,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CLAIMS_EVIDENCE_REGISTER.md",
+      "blob_sha": "8857854cb584acbc282ed00d69a80fe1b14f1690",
+      "size_bytes": 4213,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/CLAIMS_EVIDENCE_REGISTER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/CANDIDATE_LAWS.md",
+      "blob_sha": "ea4a1f0887851dfeb92a01daf997c4b33b0625d8",
+      "size_bytes": 2389,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/docs/CANDIDATE_LAWS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/COUNTING_RULES.md",
+      "blob_sha": "794367f2f47fba53e277b10f1a177cbd64b9046a",
+      "size_bytes": 2128,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/docs/COUNTING_RULES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/FIELDSPACE_CLOSURE_AUDIT.md",
+      "blob_sha": "b8598ef045c679e3ffbb221153a4993c0e129c54",
+      "size_bytes": 6614,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/docs/FIELDSPACE_CLOSURE_AUDIT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/NEW_DERIVATIONS.md",
+      "blob_sha": "81c83fad14d7017bf6f2e645c7d7fa48d7995c56",
+      "size_bytes": 2399,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/docs/NEW_DERIVATIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/PROJECTED_GLUING_REPAIR.md",
+      "blob_sha": "f4a9f55d8130de9701e90a19423500b4b4dde3f4",
+      "size_bytes": 7762,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/docs/PROJECTED_GLUING_REPAIR.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/docs/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWPost156Audit/DerivedCandidates.lean",
+      "blob_sha": "b7785f25d26cba2567f7b3dfc4e78d1308129711",
+      "size_bytes": 3056,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/EFMWPost156Audit/DerivedCandidates.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWPost156Audit/FieldSpaceClosure.lean",
+      "blob_sha": "2143c9b43a1c84a3eeb28d1b8bb3b3a3d65df4cf",
+      "size_bytes": 4712,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/EFMWPost156Audit/FieldSpaceClosure.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWPost156Audit/ProjectedGluing.lean",
+      "blob_sha": "1c6d261a7011dab5915d8556e07116080e32f3e0",
+      "size_bytes": 14238,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/EFMWPost156Audit/ProjectedGluing.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWPost156Audit/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/EFMWPost156Audit/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "174585b3af60cb5454e4aa8c269f1c34e397713e",
+      "size_bytes": 3477,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "6b2974255c1944c91b320a8a959bcc499ac51327",
+      "size_bytes": 395,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean/ProofAudit.lean",
+      "blob_sha": "ca0ca6f88f309a7e838f96cb8686eb2d5affd43c",
+      "size_bytes": 2557,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/lean/ProofAudit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean/README.md",
+      "blob_sha": "969c7e8b2ea9f29bf8978c8f74977ae9709f0f12",
+      "size_bytes": 1497,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/lean/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/lean/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "9f3ea68b27c697fe07e9ebb7e07aa83fde506449",
+      "size_bytes": 9071,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "portfolio/DUPLICATE_FILES_2026-10-16.json",
+      "blob_sha": "719dfbfa855a1c9ef950503e8060b06700edc001",
+      "size_bytes": 128022,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/DUPLICATE_FILES_2026-10-16.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "portfolio/failed-ci-jobs.json",
+      "blob_sha": "551b5a97834af63669a63d7bb75affcad68a9932",
+      "size_bytes": 5040,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/failed-ci-jobs.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "portfolio/findings.json",
+      "blob_sha": "27510740b0e32da394e534d860dd6e4275d0d6b3",
+      "size_bytes": 203004,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/findings.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "portfolio/INTERLOCK_AUDIT.md",
+      "blob_sha": "987dfecf1b12f6512b9387c745c4863e435e1fb5",
+      "size_bytes": 29563,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/INTERLOCK_AUDIT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "portfolio/LIFECYCLE_PUBLICATION_2026-10-16.json",
+      "blob_sha": "31f6b56e9a5f750bb81320b151a9c7da7b46a4c0",
+      "size_bytes": 9153,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/LIFECYCLE_PUBLICATION_2026-10-16.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "portfolio/navigation-refresh-2026-10-13.json",
+      "blob_sha": "c6d560c75c0528bc10522a9951886b8639e8999e",
+      "size_bytes": 48617,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/navigation-refresh-2026-10-13.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "portfolio/navigation-template.html",
+      "blob_sha": "bc4ed288afbfce7a259e4a0c2103fe8405e5cc83",
+      "size_bytes": 7156,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/navigation-template.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "portfolio/navigation.json",
+      "blob_sha": "f78409c394fe23859c72ec841c93dd835aec75af",
+      "size_bytes": 1217,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/navigation.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "portfolio/navigation.py",
+      "blob_sha": "bff4901b3505d5f7a336dc925fa0621fb8c2d286",
+      "size_bytes": 7059,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/navigation.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "portfolio/NAVIGATION_REFRESH_2026-10-13.md",
+      "blob_sha": "a99d6684452858bf9de09a72df55e409d5ccc962",
+      "size_bytes": 4957,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/NAVIGATION_REFRESH_2026-10-13.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "portfolio/README.md",
+      "blob_sha": "fbb33392669d089887fcb9a7e4fd7d2d1258c13e",
+      "size_bytes": 3061,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "portfolio/repositories.json",
+      "blob_sha": "99e6039db5b90ed76d967c55b81fa038e68e1cbb",
+      "size_bytes": 100137,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/repositories.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "portfolio/REPOSITORY_LIFECYCLE_2026-10-16.json",
+      "blob_sha": "b08aec658aa573e98b30ab0a2383cd805835a685",
+      "size_bytes": 73334,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/REPOSITORY_LIFECYCLE_2026-10-16.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "portfolio/REPOSITORY_LIFECYCLE_2026-10-16.md",
+      "blob_sha": "ac686fcaa4e90dc542a0e917b000a458d1496c90",
+      "size_bytes": 19981,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/REPOSITORY_LIFECYCLE_2026-10-16.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "portfolio/rollout.json",
+      "blob_sha": "95a9dd97171087208102eb33b14a133b4642cf42",
+      "size_bytes": 99022,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/rollout.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "portfolio/verification.json",
+      "blob_sha": "98882ed1807dd74050ffbdc22155f73a9ff2fefd",
+      "size_bytes": 37517,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/verification.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "4078b0d9bc3e9fd24b633839a35ddf38662430f8",
+      "size_bytes": 9592,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "registry/BASELINE.md",
+      "blob_sha": "e98647583cbd7c4af391b3289712d5eb7f5dcb46",
+      "size_bytes": 1020,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/registry/BASELINE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "registry/POST_156_REGISTRY.csv",
+      "blob_sha": "58dd7aedbe163811b5028197c7dd3bef63e12403",
+      "size_bytes": 3962,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/registry/POST_156_REGISTRY.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "registry/POST_156_REGISTRY.md",
+      "blob_sha": "762eac67711bb8bbb8a59d92b41fcb1c92b85556",
+      "size_bytes": 2769,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/registry/POST_156_REGISTRY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "registry/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/registry/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "registry/summary.json",
+      "blob_sha": "fd16401dc9f414f0af7fb8ec7e374e0a29c50163",
+      "size_bytes": 1139,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/registry/summary.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RELEASE_AND_REPRODUCIBILITY_POLICY.md",
+      "blob_sha": "d3cea9687f7a094fbd7921ff20cc864ca38313e3",
+      "size_bytes": 2331,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/RELEASE_AND_REPRODUCIBILITY_POLICY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/__init__.py",
+      "blob_sha": "02b6ee8e0c1e5da843277b35813bed670701557a",
+      "size_bytes": 99,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/__main__.py",
+      "blob_sha": "11a7423a9f3fedb88f73e0f8e61b74f423154865",
+      "size_bytes": 3746,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/__main__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/catalog.py",
+      "blob_sha": "ee16a892131c7d68a378e69f91015c53dcaec98f",
+      "size_bytes": 2369,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/catalog.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/dashboard.html",
+      "blob_sha": "3c4b8205571dadb15ebdf38fc04284ae0156e11c",
+      "size_bytes": 24218,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/dashboard.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/dashboard.py",
+      "blob_sha": "10a47140608a1dc608d391e753ac1e8e8389f987",
+      "size_bytes": 974,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/dashboard.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/data/equations.json",
+      "blob_sha": "5e68eec5ebfed0764d0c55404249de082ce02f03",
+      "size_bytes": 40348,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/data/equations.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/data/prior-equation-audit.json",
+      "blob_sha": "8cb0f12d827ef5e4cdd73013ed2330f3cc3f98fb",
+      "size_bytes": 114353,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/data/prior-equation-audit.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/data/provenance.json",
+      "blob_sha": "9d995ec5c1c0691337dd4fa34b8ad976d8acb78c",
+      "size_bytes": 2871,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/data/provenance.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/data/triplets.json",
+      "blob_sha": "ece68a8ce282f34c23fe0683372d21471ac9491a",
+      "size_bytes": 93960,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/data/triplets.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/data/zoo-coverage.json",
+      "blob_sha": "377fb251c44cc2c956fed0015bf59b8971d13139",
+      "size_bytes": 26820,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/data/zoo-coverage.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/data/zoo-LICENSE",
+      "blob_sha": "62c3e4a9d0c33c730c119fc5813fec3dfacf08d3",
+      "size_bytes": 1244,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/data/zoo-LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/data/zoo-ranked-components.json",
+      "blob_sha": "89df713d2defaf74749efed2c88879d1fa4989ed",
+      "size_bytes": 8896,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/data/zoo-ranked-components.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/data/zoo-reference-fixtures.json",
+      "blob_sha": "5b75dbb9c3e99bfb53d58271e835f21685768d56",
+      "size_bytes": 17808,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/data/zoo-reference-fixtures.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/data/zoo-specifications.json",
+      "blob_sha": "b28dbac6f3ed5390b8944f5be06909cab7a23170",
+      "size_bytes": 85673,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/data/zoo-specifications.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/engine.py",
+      "blob_sha": "94e00307e8bad852c3c23882ebdc81af95c922a1",
+      "size_bytes": 13973,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/engine.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/examples/__init__.py",
+      "blob_sha": "ab08e6aecc93db241fe8fa252421e6af89ebf24e",
+      "size_bytes": 78,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/examples/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/examples/cases.py",
+      "blob_sha": "4c8bf2213d89d08edf58041777fab3583187d253",
+      "size_bytes": 5181,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/examples/cases.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/examples/demo.py",
+      "blob_sha": "b3bbed42097ca652b558ec1b559ff1a51d3f9515",
+      "size_bytes": 5153,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/examples/demo.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/kernels.py",
+      "blob_sha": "27c30dff3d5e6bbed260c826ba7f050f54d73823",
+      "size_bytes": 21184,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/kernels.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/README.md",
+      "blob_sha": "20d24cf63d545191bdab404f1a9bdb22860f1f9d",
+      "size_bytes": 13860,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/results/demo-v0.1/demo-ledger.jsonl",
+      "blob_sha": "417062b68d094f09b2e77165162c5b0073e2106f",
+      "size_bytes": 139792,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/results/demo-v0.1/demo-ledger.jsonl",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/results/demo-v0.1/index.html",
+      "blob_sha": "e8059571682509de3267855e31b9171407bbce0f",
+      "size_bytes": 415255,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/results/demo-v0.1/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/results/demo-v0.1/kernel-inputs.json",
+      "blob_sha": "f3905e13996dc1e59f09496d233ae532bf7c6a84",
+      "size_bytes": 15376,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/results/demo-v0.1/kernel-inputs.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/results/demo-v0.1/mapping-proposal.json",
+      "blob_sha": "46a3ad44a293ad13c7bcf15e0dc36f33df65e061",
+      "size_bytes": 1409,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/results/demo-v0.1/mapping-proposal.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/results/demo-v0.1/status.json",
+      "blob_sha": "1390a284849e991a3d0ffc99f087b8496144c007",
+      "size_bytes": 939,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/results/demo-v0.1/status.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/results/demo-v0.1/tortoise-input.json",
+      "blob_sha": "b196043fc9acf0ebeeb8d4ac9a97ed231f17ddec",
+      "size_bytes": 49,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/results/demo-v0.1/tortoise-input.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/results/demo-v0.1/tortoise-plan.json",
+      "blob_sha": "4682561a857eefa44c8d328f3ec8654f21206180",
+      "size_bytes": 1630,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/results/demo-v0.1/tortoise-plan.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/results/fieldspace-tests.log",
+      "blob_sha": "b379e410b09fed5e7d02d25142a55a9c64067d99",
+      "size_bytes": 104,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/results/fieldspace-tests.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/results/github-ci.json",
+      "blob_sha": "02f4c0c8350911d8f0441e540826982738c0f325",
+      "size_bytes": 1249,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/results/github-ci.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/results/python-tests.log",
+      "blob_sha": "ba9a22c78046bed5451d00e9560da8547c4d8d34",
+      "size_bytes": 2986,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/results/python-tests.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/results/VERIFICATION.md",
+      "blob_sha": "c645d89eab8150d5ff2ba578b196664218633570",
+      "size_bytes": 3284,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/results/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/tests/__init__.py",
+      "blob_sha": "8e2c673d81f9ffddea99c04a96b74d4da92bc328",
+      "size_bytes": 73,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/tests/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/tests/dashboard.cjs",
+      "blob_sha": "f5b185ec5a56bec0f22be764e7810006cd250791",
+      "size_bytes": 3069,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/tests/dashboard.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research_engine/tests/test_engine.py",
+      "blob_sha": "e5696a05c55054808b04b8220a4ea2675993bd26",
+      "size_bytes": 13775,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/tests/test_engine.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/fieldspace/overlaps.csv",
+      "blob_sha": "f0411602a5e3cd8276596a808257cc11aa895240",
+      "size_bytes": 87587,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/results/fieldspace/overlaps.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/fieldspace/projected_overlaps.csv",
+      "blob_sha": "3d311a39cc47dd0d59a3757764a7953117659f35",
+      "size_bytes": 375497,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/results/fieldspace/projected_overlaps.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/fieldspace/summary.json",
+      "blob_sha": "3949e93446431cf110d47af74d44e4086d35ac12",
+      "size_bytes": 1736,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/results/fieldspace/summary.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/lean/axioms.log",
+      "blob_sha": "d73c3ad67ce70b38c8d7b92f84dc79b5d28467fd",
+      "size_bytes": 2089,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/results/lean/axioms.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/lean/build.log",
+      "blob_sha": "eeb534605fc04df2fb34ed3056d8e389bc262667",
+      "size_bytes": 361,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/results/lean/build.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/lean/first-build-failure.log",
+      "blob_sha": "6b88a07f6d432d05733e22af49b5d1716629e3ca",
+      "size_bytes": 2835,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/results/lean/first-build-failure.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/lean/projected-gluing/axioms.log",
+      "blob_sha": "6fad17c6469eff562b649df3dcd6fe6ae8c48b45",
+      "size_bytes": 4000,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/results/lean/projected-gluing/axioms.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/lean/projected-gluing/build.log",
+      "blob_sha": "d4a6e4fcf2070980bd510c1801f33cf0aed78dd8",
+      "size_bytes": 866,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/results/lean/projected-gluing/build.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/lean/projected-gluing/checker-controls.log",
+      "blob_sha": "e0a47a52b5aeb4abb7572624a5833a87dc59a8ac",
+      "size_bytes": 168,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/results/lean/projected-gluing/checker-controls.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/lean/projected-gluing/first-build-failure.log",
+      "blob_sha": "228353d93add91322ef47b2c0653f672abfbfd6c",
+      "size_bytes": 9419,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/results/lean/projected-gluing/first-build-failure.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/lean/projected-gluing/second-build-failure.log",
+      "blob_sha": "e57a2b5b85a0aacdd30cfc8d203bba5eb58a27ff",
+      "size_bytes": 4643,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/results/lean/projected-gluing/second-build-failure.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/lean/projected-gluing/VERIFICATION.md",
+      "blob_sha": "7d762a2930a0e073435f9c173a46ceea5a8dc84a",
+      "size_bytes": 3191,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/results/lean/projected-gluing/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/lean/projected-gluing/version.log",
+      "blob_sha": "606f0f08386c2353a010b7881848d971b423d244",
+      "size_bytes": 106,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/results/lean/projected-gluing/version.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/lean/VERIFICATION.md",
+      "blob_sha": "147ccc88671784a344a0b3ec78a0559a12055fc3",
+      "size_bytes": 2114,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/results/lean/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/lean/version.log",
+      "blob_sha": "606f0f08386c2353a010b7881848d971b423d244",
+      "size_bytes": 106,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/results/lean/version.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "REVIEW_START_HERE.md",
+      "blob_sha": "d042ae7eccd9b8fd5f720ba96b47440cc53d960d",
+      "size_bytes": 3280,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/REVIEW_START_HERE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/audit_fieldspace.py",
+      "blob_sha": "dccb28a9336c6708c454b84ba0ae5e0d36e0c4a4",
+      "size_bytes": 9962,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/scripts/audit_fieldspace.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/check_axioms.py",
+      "blob_sha": "e96cf75b71f9a0b3e8e107d4c1a9242e0c3c0a12",
+      "size_bytes": 1109,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/scripts/check_axioms.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_fieldspace_audit.py",
+      "blob_sha": "e6c273c4ab58413b5ea20a8b603fb11e0869c2c1",
+      "size_bytes": 2604,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/scripts/test_fieldspace_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/fieldspace/EFMW_165_field_equations.txt",
+      "blob_sha": "ac6313fe4a2b02a28ac8fb34519c5f96f6ea2bd8",
+      "size_bytes": 64859,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/sources/fieldspace/EFMW_165_field_equations.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/fieldspace/PROVENANCE.md",
+      "blob_sha": "5bad0b153bc572a48f78fd53a8c2b23905f56c76",
+      "size_bytes": 1390,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/sources/fieldspace/PROVENANCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/fieldspace/UPSTREAM_GLOBAL_RECONSTRUCTION.md",
+      "blob_sha": "26f2ffe833469d6d086de9057f80bb2736ef7bff",
+      "size_bytes": 2751,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/sources/fieldspace/UPSTREAM_GLOBAL_RECONSTRUCTION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/fieldspace/UPSTREAM_GLUING_AUDIT.md",
+      "blob_sha": "686cb45cbfc274e64c2d94f0149bc4b25a2d2071",
+      "size_bytes": 2636,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/sources/fieldspace/UPSTREAM_GLUING_AUDIT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/PROVENANCE.md",
+      "blob_sha": "17bf8ff4f28d7d65b3c0b098babc666d97d29c7a",
+      "size_bytes": 2620,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/sources/PROVENANCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/sources/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "WHAT_THIS_DOES_NOT_CLAIM.md",
+      "blob_sha": "0237c71f31f34d488b28c41d7724da947aecdfb5",
+      "size_bytes": 1939,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/WHAT_THIS_DOES_NOT_CLAIM.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "zoo/CANONICAL_46_PASS.md",
+      "blob_sha": "bbe788fff8bac77fda9b53a631f735bc1513ad6e",
+      "size_bytes": 4440,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/zoo/CANONICAL_46_PASS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "zoo/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/zoo/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

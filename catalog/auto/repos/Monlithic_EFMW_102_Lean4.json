@@ -1,0 +1,1224 @@
+{
+  "repository": "enuminous/Monlithic_EFMW_102_Lean4",
+  "default_branch": "main",
+  "tree_sha": "dd7ce0628ece1169c7a42675b3ad051ee4ba7744",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "00a87eccfcf0e857dd4d334a9a1b4116b48a615a",
+      "size_bytes": 1241,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "ee7fd3fb142b6bc41fb029544e54bf1c5020e785",
+      "size_bytes": 6266,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW_102_ITERATIVE_PROOF_AUDIT_PASS1.md",
+      "blob_sha": "70b24412730542c9817e4e28437f25916d0ad0ae",
+      "size_bytes": 27174,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/EFMW_102_ITERATIVE_PROOF_AUDIT_PASS1.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "equation-map.json",
+      "blob_sha": "38111e2daf45cdaf1be5f7b20c3e40d8c45a7502",
+      "size_bytes": 30334,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/equation-map.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FORMALIZATION_STATUS.md",
+      "blob_sha": "c1bcf445be2bc546ec2486df14053315d9101180",
+      "size_bytes": 464,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/FORMALIZATION_STATUS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "97be4f9bd6b7e6105ccb4d576d448993976f3760",
+      "size_bytes": 3487,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.lean",
+      "blob_sha": "ff17cb7a827b4e5a72c171f2be52b8c1aba41d23",
+      "size_bytes": 225,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/lakefile.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "7aca1d8a939cc24c413eddd793671cdce7070b74",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102.lean",
+      "blob_sha": "d3aabc98672c5ffd18ee4e226cc6db6dee148397",
+      "size_bytes": 25,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/All.lean",
+      "blob_sha": "e636612a022d18ee7240b27594279ab769915bb5",
+      "size_bytes": 2843,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/All.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/Catalog.lean",
+      "blob_sha": "a9eb304a3fe29598532364544106f0dbaf70e21a",
+      "size_bytes": 47808,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/Catalog.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/Formalized.lean",
+      "blob_sha": "b1e0dcd9095cd649be7394bca724ba3dce0844b7",
+      "size_bytes": 3828,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/Formalized.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME001.lean",
+      "blob_sha": "7f8b7502bec73b68b19ca0ab49bf4b860b179f10",
+      "size_bytes": 333,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME001.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME002.lean",
+      "blob_sha": "3ca3484eabaf0aa92148d9d459423d61c75fff78",
+      "size_bytes": 346,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME002.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME003.lean",
+      "blob_sha": "aa0b7cfea16f48a2c4063bdf4fb6f4499a1637fa",
+      "size_bytes": 288,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME003.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME004.lean",
+      "blob_sha": "8697faeb265cfe577151bc4a2f169e8e0c2bf38d",
+      "size_bytes": 291,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME004.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME005.lean",
+      "blob_sha": "2d9103e118fb1989431da3fcb723639f8b1a810f",
+      "size_bytes": 322,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME005.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME006.lean",
+      "blob_sha": "5146c3b100c9860a8dd5959f471a0e4692ffe509",
+      "size_bytes": 395,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME006.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME007.lean",
+      "blob_sha": "fc02297e1024ad3e38bb00bbae2ba2a8dbff4fba",
+      "size_bytes": 319,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME007.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME008.lean",
+      "blob_sha": "c10a335befb27ab2bf71cdedb683b3b2142c74db",
+      "size_bytes": 352,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME008.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME009.lean",
+      "blob_sha": "11898c22a92a4b1be2d2a5af59636da19742b944",
+      "size_bytes": 375,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME009.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME010.lean",
+      "blob_sha": "abf28395a5eb846eaaea7bbe283ad4d000b7362d",
+      "size_bytes": 286,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME010.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME011.lean",
+      "blob_sha": "3560d5bc4025e8f658986d96ec0618acc4983236",
+      "size_bytes": 331,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME011.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME012.lean",
+      "blob_sha": "ec14a37d8cb6b465e0651bfc3e7a9c66cc153dbb",
+      "size_bytes": 266,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME012.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME013.lean",
+      "blob_sha": "7a76970ce05943e790317d8f5a303ac512e353bb",
+      "size_bytes": 389,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME013.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME014.lean",
+      "blob_sha": "72f030abaf72bb362637ac7fd5a80a48d932ff63",
+      "size_bytes": 343,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME014.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME015.lean",
+      "blob_sha": "20c266a8922b9794efb7b49ac5e99c5b0f6da447",
+      "size_bytes": 318,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME015.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME016.lean",
+      "blob_sha": "f321147bc55c252db1af62641761bddb0c5256f2",
+      "size_bytes": 249,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME016.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME017.lean",
+      "blob_sha": "368f846f0c13634bc9e57195da3e4b13d14c041b",
+      "size_bytes": 256,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME017.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME018.lean",
+      "blob_sha": "a644085eabc79051fe9e5c0c3419831376c65746",
+      "size_bytes": 270,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME018.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME019.lean",
+      "blob_sha": "04cad18b9bf894375c7e29af2a3aa7372f7c596e",
+      "size_bytes": 275,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME019.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME020.lean",
+      "blob_sha": "adb6db27e1616140e942747033440e47ea96677e",
+      "size_bytes": 264,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME020.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME021.lean",
+      "blob_sha": "f49b5839b43b2b8496f857f5fcebd56188f2d011",
+      "size_bytes": 274,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME021.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME022.lean",
+      "blob_sha": "5f74845da89527fb7462aeb4b1014829c0921a1e",
+      "size_bytes": 301,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME022.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME023.lean",
+      "blob_sha": "0b067106fea9359b708251aa04147c28ed689bac",
+      "size_bytes": 258,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME023.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME024.lean",
+      "blob_sha": "2247e8c828470b2e091f4e29094d69b9af4d9153",
+      "size_bytes": 383,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME024.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME025.lean",
+      "blob_sha": "37f33a328e802f4e222548dcdb62cdd4fd19bbf0",
+      "size_bytes": 282,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME025.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME026.lean",
+      "blob_sha": "d7213de47dd6745c63c4ae04e7b9c5b1440b5c26",
+      "size_bytes": 342,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME026.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME027.lean",
+      "blob_sha": "0a7860baa18e3b2f0dfcf0780228659de62ace63",
+      "size_bytes": 316,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME027.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME028.lean",
+      "blob_sha": "c7957b83d962455f8bf9cbcda5769453eb1cd4bb",
+      "size_bytes": 283,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME028.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME029.lean",
+      "blob_sha": "f5947ed1c97fcb0040a13f29196dca59e47f5fbc",
+      "size_bytes": 291,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME029.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME030.lean",
+      "blob_sha": "9bcf38307fe9e104045e78e42b84af2c2a51a855",
+      "size_bytes": 293,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME030.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME031.lean",
+      "blob_sha": "940aac21d78680eb141e89d3c98ffc858c671a2e",
+      "size_bytes": 302,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME031.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME032.lean",
+      "blob_sha": "d94624643280e15de30ec005a93cf0823f0b7989",
+      "size_bytes": 301,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME032.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME033.lean",
+      "blob_sha": "81eeea3ffa561ec60074231cac320c8ceb2b8763",
+      "size_bytes": 298,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME033.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME034.lean",
+      "blob_sha": "7182b7d391bc0d99218ea7ff5f8e6c4bd61987eb",
+      "size_bytes": 301,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME034.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME035.lean",
+      "blob_sha": "67ab82e4f8ac74c758caa09ce32a34ccc95406c7",
+      "size_bytes": 280,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME035.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME036.lean",
+      "blob_sha": "b47a48f125f015946a8588dff8165b52a8c827e3",
+      "size_bytes": 370,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME036.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME037.lean",
+      "blob_sha": "40b33496840c4cd87da59cfcfbe157797d2f518a",
+      "size_bytes": 324,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME037.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME038.lean",
+      "blob_sha": "030c9b133e9eeb52eeda6f16183e40fc534dbd21",
+      "size_bytes": 301,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME038.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME039.lean",
+      "blob_sha": "d46b6dd1406924756bb938f54c37bfef9d42e717",
+      "size_bytes": 361,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME039.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME040.lean",
+      "blob_sha": "c3151a8d1a78771897310e0c1b832275f7970c35",
+      "size_bytes": 330,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME040.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME041.lean",
+      "blob_sha": "3cee28aaad65539e911f4cb63019c45ec929b5a2",
+      "size_bytes": 252,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME041.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME042.lean",
+      "blob_sha": "7afdd4f1bc9ff9a26443d697ed40596d3b835010",
+      "size_bytes": 280,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME042.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME043.lean",
+      "blob_sha": "147ec930d5741a2bac8d6b5b9db5a916f554bdb8",
+      "size_bytes": 253,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME043.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME044.lean",
+      "blob_sha": "439074e3befdf599b36c74da9f9511ec0f66d072",
+      "size_bytes": 344,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME044.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME045.lean",
+      "blob_sha": "66e43f1c581126dcf774b976f300f77043a95294",
+      "size_bytes": 284,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME045.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME046.lean",
+      "blob_sha": "b10d03890aa8dcb908b356ae4b6df4d179ab9f1b",
+      "size_bytes": 330,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME046.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME047.lean",
+      "blob_sha": "00af911a1e07226f52322b07fd10e9a24a6b1882",
+      "size_bytes": 297,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME047.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME048.lean",
+      "blob_sha": "678a123c1f73640913a564be792593b54b7cc2f4",
+      "size_bytes": 287,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME048.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME049.lean",
+      "blob_sha": "0c5628daa49cd7f14f4c356ede469746f165ed86",
+      "size_bytes": 270,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME049.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME050.lean",
+      "blob_sha": "b08b78755653e0c63c90248bd0cda89524c88e67",
+      "size_bytes": 279,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME050.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME051.lean",
+      "blob_sha": "487b34eb932937b63b311e6531f7e00c1e4572d3",
+      "size_bytes": 302,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME051.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME052.lean",
+      "blob_sha": "1c72ff46bacd089d6542d1066658fd05d1371d75",
+      "size_bytes": 326,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME052.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME053.lean",
+      "blob_sha": "caf253adfe88f897e336e446417bbf4dcca0ff91",
+      "size_bytes": 307,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME053.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME054.lean",
+      "blob_sha": "c4cc12e4b732b59391fc821607d6496f47d4a4db",
+      "size_bytes": 321,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME054.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME055.lean",
+      "blob_sha": "d0609eb592d2ac92be675d09824e9f28703c6719",
+      "size_bytes": 259,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME055.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME056.lean",
+      "blob_sha": "e9b258bcaa2ba5f1b90f49cdf7358037a7cf4c58",
+      "size_bytes": 351,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME056.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME057.lean",
+      "blob_sha": "b5fab239ad67c99f5ef2430686d667f558131fa8",
+      "size_bytes": 323,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME057.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME058.lean",
+      "blob_sha": "4d0ebbe1de44215152d7f249aed2d5a4df8b9680",
+      "size_bytes": 285,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME058.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME059.lean",
+      "blob_sha": "195a377198d07a6a592df365683776bf54713150",
+      "size_bytes": 351,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME059.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME060.lean",
+      "blob_sha": "50c98991afd212d05bf3bb67b936bf45d7357e3c",
+      "size_bytes": 305,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME060.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME061.lean",
+      "blob_sha": "fcf23f42c1ed3cc65236590ebb6ac446493de1f9",
+      "size_bytes": 293,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME061.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME062.lean",
+      "blob_sha": "adfa73c9071f2ca64cdbe989d09a32bbf1ea0201",
+      "size_bytes": 288,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME062.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME063.lean",
+      "blob_sha": "14045f8160aefaa53939508755b79c4c67bd48a1",
+      "size_bytes": 283,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME063.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME064.lean",
+      "blob_sha": "c350782fdb88fb178732a26fe5bceffbd5daa761",
+      "size_bytes": 316,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME064.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME065.lean",
+      "blob_sha": "5b5b9b3d897750654647b73fbb5ea5e001ed988a",
+      "size_bytes": 324,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME065.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME066.lean",
+      "blob_sha": "c8c048aef936953b3bf27c72a430a4fb12a426cf",
+      "size_bytes": 305,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME066.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME067.lean",
+      "blob_sha": "800aeb30f7e29d0b1e70e669d65166be8eb2424b",
+      "size_bytes": 349,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME067.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME068.lean",
+      "blob_sha": "91c6042c092eac87c3d5291c212ab70b498c8e52",
+      "size_bytes": 296,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME068.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME069.lean",
+      "blob_sha": "7459515123868d444fd2a726accca15a94f7d804",
+      "size_bytes": 290,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME069.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME070.lean",
+      "blob_sha": "250b982ec5de6d1771cc5e95f3c2b0a0837bb826",
+      "size_bytes": 292,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME070.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME071.lean",
+      "blob_sha": "4a01704a0de4eaefe164d254005d4f6b68aff18c",
+      "size_bytes": 293,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME071.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME072.lean",
+      "blob_sha": "c3e6b4ebe623036a718a037b7dae84eedbf89b67",
+      "size_bytes": 310,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME072.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME073.lean",
+      "blob_sha": "e0703bd8c58e58a490199da3e36d8a79ba76ed95",
+      "size_bytes": 278,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME073.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME074.lean",
+      "blob_sha": "f8cae18fbd0a6c0cee13ed4ea2d04ac14bbcb777",
+      "size_bytes": 275,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME074.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME075.lean",
+      "blob_sha": "5ee57e093145a3c214358e59dd347ff8e776ba66",
+      "size_bytes": 281,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME075.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME076.lean",
+      "blob_sha": "2b4b6cae3cff2f15a2d39c17d2d651d0ccf41630",
+      "size_bytes": 274,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME076.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME077.lean",
+      "blob_sha": "068d937cd2889ccb50f599d92b7e1465d606bf88",
+      "size_bytes": 309,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME077.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME078.lean",
+      "blob_sha": "315315c9e1a186c50e787d64c9e46f06de86f322",
+      "size_bytes": 272,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME078.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME079.lean",
+      "blob_sha": "d84a2141d192cc2e5dedc01f0abb6894def8926e",
+      "size_bytes": 266,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME079.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME080.lean",
+      "blob_sha": "c3edcd75ae685f1ad847a6215d12bd5461d17f47",
+      "size_bytes": 251,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME080.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME081.lean",
+      "blob_sha": "f6a3b8da5bafe4c1b89ce0cc29fd24ff0662573d",
+      "size_bytes": 290,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME081.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME082.lean",
+      "blob_sha": "ce9ab096657cffeb9aaaef1e41126424541dbb50",
+      "size_bytes": 269,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME082.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME083.lean",
+      "blob_sha": "78d04bcc40824da2a8a122f092d9a42d7dcae6fc",
+      "size_bytes": 273,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME083.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME084.lean",
+      "blob_sha": "f0288ff4879415146c41395ceaceda9b6736782e",
+      "size_bytes": 276,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME084.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME085.lean",
+      "blob_sha": "e09fa1155cb671d53c903aae99ac571ed30776c0",
+      "size_bytes": 256,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME085.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME086.lean",
+      "blob_sha": "6469a85c49f71884ffd1ce3bc0619d5fd3ced997",
+      "size_bytes": 275,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME086.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME087.lean",
+      "blob_sha": "29e2a3bfe78d40e618ccfd4a3573a5a66f3192f9",
+      "size_bytes": 301,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME087.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME088.lean",
+      "blob_sha": "7d4137f213b4ec6f1978e85c0407914c69fba9ff",
+      "size_bytes": 272,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME088.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME089.lean",
+      "blob_sha": "4d655fb19fd9be84f74995789abf1abb8664bcc0",
+      "size_bytes": 279,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME089.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME090.lean",
+      "blob_sha": "6bbe25daa5ddae2e62a40db7c13284bfebd1655c",
+      "size_bytes": 304,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME090.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME091.lean",
+      "blob_sha": "11a4c9bc91346f79c5a6eea922690508976cd59a",
+      "size_bytes": 286,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME091.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME092.lean",
+      "blob_sha": "dad0e5c09f59b58ac684fbf3409344c53b323ef4",
+      "size_bytes": 281,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME092.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME093.lean",
+      "blob_sha": "4a40560c32e0808fdf7b59ea8c976e30433bb218",
+      "size_bytes": 253,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME093.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME094.lean",
+      "blob_sha": "6878a39002f1c1febe40d2cc9010bf2ab134048b",
+      "size_bytes": 250,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME094.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME095.lean",
+      "blob_sha": "e4d0d4cda355040a1eb0d5851b7fd0822bc965c1",
+      "size_bytes": 289,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME095.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME096.lean",
+      "blob_sha": "b9deaf99e9f2606ba0513355d0a73cf77018964d",
+      "size_bytes": 269,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME096.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME097.lean",
+      "blob_sha": "4389a255694f4de7daae9fbad23407a0782ec8f7",
+      "size_bytes": 288,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME097.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME098.lean",
+      "blob_sha": "e8d14f6575c1907c128174ce245f6e7050963def",
+      "size_bytes": 294,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME098.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME099.lean",
+      "blob_sha": "2e8268d5fed0a07490430f726caa4e43748b16a7",
+      "size_bytes": 362,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME099.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME100.lean",
+      "blob_sha": "4fe1650e3eb89f695374a9296c71b2a378e28f98",
+      "size_bytes": 257,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME100.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME101.lean",
+      "blob_sha": "24ebe75afa1588ea6113be812a58541b5c4a1967",
+      "size_bytes": 268,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME101.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/ME102.lean",
+      "blob_sha": "437a9e4a638e460efe31e537b77c3954e18f78fb",
+      "size_bytes": 651,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/ME102.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Monolithic102/Schema.lean",
+      "blob_sha": "8cb8d59cde5c75e4e30efb50ed0094e5c1ae34b7",
+      "size_bytes": 419,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/Monolithic102/Schema.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MONOLITHIC_102_SOURCE.md",
+      "blob_sha": "a328e4ce7c0b80565148ad28fa63eb3337e69335",
+      "size_bytes": 21048,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/MONOLITHIC_102_SOURCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "36711f7163ae1c85a5505a6774541dc0f282b690",
+      "size_bytes": 4966,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SOURCE_SHA256.txt",
+      "blob_sha": "651dd2ac8f386809d84b5495eab55a3fbc07f68f",
+      "size_bytes": 98,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/SOURCE_SHA256.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "72de186296e75b0aaaca2ca728778f7ee557b353",
+      "size_bytes": 1732,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

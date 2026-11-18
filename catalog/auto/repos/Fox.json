@@ -1,0 +1,182 @@
+{
+  "repository": "enuminous/Fox",
+  "default_branch": "main",
+  "tree_sha": "817bbde7cc5eace10df8d8ffef6af3aaa32ee736",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "baselines.py",
+      "blob_sha": "7292b310c4b1bc2c02df111c91b799d374ff866d",
+      "size_bytes": 1719,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/baselines.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "b2f849ad5a70476f3cd7c6e280b225885907be68",
+      "size_bytes": 262,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_config.yaml",
+      "blob_sha": "0f8e855e76ff79f652fb764d927d165409e2904b",
+      "size_bytes": 187,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/example_config.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_data.csv",
+      "blob_sha": "b35e6f4e1d748b1cc111ba7bc7ff6b1d29cb7e8d",
+      "size_bytes": 43708,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/example_data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_run.py",
+      "blob_sha": "7173957015b0cb447a15a8aadfc4794bee2285c7",
+      "size_bytes": 382,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/example_run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "features.py",
+      "blob_sha": "bf4a45f0335387d3f4c78465f1d539088969bb90",
+      "size_bytes": 3413,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/features.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "feedback_schema.json",
+      "blob_sha": "88a37024e06b202ba32db8866ba412949eef867b",
+      "size_bytes": 709,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/feedback_schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "fox.py",
+      "blob_sha": "214ffd3781e034bcbd231d78e370e4ee4c6d291d",
+      "size_bytes": 2506,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/fox.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "freeze.py",
+      "blob_sha": "c0ff9c24bbc4fb265f2e12978184ce7ac4f44bf0",
+      "size_bytes": 433,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/freeze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "0f821eb933b2e463be340b024e28ff620f84542f",
+      "size_bytes": 1830,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "79719fc120a524ad10e1a44d1de510cffc80530d",
+      "size_bytes": 1087,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "be54551f1a450278488dd4d9f0a8e53b7817d9dc",
+      "size_bytes": 1191,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metrics.py",
+      "blob_sha": "927d7d4a0149d43f79a37a4151723a2561d71d09",
+      "size_bytes": 1088,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "f7b01d704b58e09c56918f8b5d8779d73b145a26",
+      "size_bytes": 460,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "2a4b73fc6e1e0d805ffa9db685ad194812118a60",
+      "size_bytes": 4884,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "92960fc2c2068ab631f0a3757dd8e63ce0e1c4f5",
+      "size_bytes": 66,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_fox.py",
+      "blob_sha": "f0ef15ca41275b7a6a07bfabe286de97549db3e4",
+      "size_bytes": 726,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Fox/blob/main/test_fox.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "repository": "enuminous/JEV-EFMW-Syncretic-Layer",
+  "default_branch": "main",
+  "tree_sha": "7e83fc9143c7dfdb34da330e06eff33008e29e70",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "experiments/common.py",
+      "blob_sha": "d70c9e2f8333302450997fcb85fb94c9770a5c7f",
+      "size_bytes": 96,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/experiments/common.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/PROTOCOL.md",
+      "blob_sha": "e734d9a50317f246afcabb4b8aaac0364e1469f6",
+      "size_bytes": 392,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/experiments/PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/experiments/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/run_001.py",
+      "blob_sha": "b9a352ff4b1b96cf85271eeb9f06ad82889a2dc0",
+      "size_bytes": 897,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/experiments/run_001.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/run_002.py",
+      "blob_sha": "8547f58fb64767ec4f5a2050627dbfa742755829",
+      "size_bytes": 1006,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/experiments/run_002.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/run_003.py",
+      "blob_sha": "697b7884516e9764a3b32b7e530851135f97865b",
+      "size_bytes": 1143,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/experiments/run_003.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "3082169280b370c9b045ff903af7b24834299c6e",
+      "size_bytes": 485,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "54b832a2e0cbce6c0630e1fc4bd9a44339e726f9",
+      "size_bytes": 2738,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "358b6504a2d8b8d80b056a469bc2cc3eaa97a605",
+      "size_bytes": 24,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/README.md",
+      "blob_sha": "28575209aba20f2d84b9f104cc7e1c439b760a5f",
+      "size_bytes": 136,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/results/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/results/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/__init__.py",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/src/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/detectors.py",
+      "blob_sha": "23024746ebfa1aa0144035accd876a7b209855e7",
+      "size_bytes": 780,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/src/detectors.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/eval.py",
+      "blob_sha": "8d1f6e1e879f05f1396027857953c97c3b590de0",
+      "size_bytes": 504,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/src/eval.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/src/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/sim.py",
+      "blob_sha": "2f19058be2b65ac2ece27df1ce284353b2ec103b",
+      "size_bytes": 910,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/src/sim.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/tests/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_detectors.py",
+      "blob_sha": "af6b5d6f39ee28ecaee44d3c0b00351baf5963a2",
+      "size_bytes": 187,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/JEV-EFMW-Syncretic-Layer/blob/main/tests/test_detectors.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

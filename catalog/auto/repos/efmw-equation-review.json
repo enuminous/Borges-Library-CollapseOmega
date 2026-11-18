@@ -1,0 +1,253 @@
+{
+  "repository": "enuminous/efmw-equation-review",
+  "default_branch": "main",
+  "tree_sha": "c1395bf1866cdf575374976e0e3783f5f3d76085",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".gitignore",
+      "blob_sha": "2348c91f7a198200e6bba5fdbb4386917bbb542b",
+      "size_bytes": 29,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/equation_inventory.csv",
+      "blob_sha": "4c69f29cfc19dc7bc8058b06a12e19db564fe4d2",
+      "size_bytes": 2318,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/data/equation_inventory.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/substack_completeness_report.csv",
+      "blob_sha": "4ee72005f7a723e9ceaa321767df8d783cae19a9",
+      "size_bytes": 345,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/data/substack_completeness_report.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence_projection_update.md",
+      "blob_sha": "5acaf50a8f213d367aba66d5395bc0626ac5751b",
+      "size_bytes": 3344,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/evidence_projection_update.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "media/HPEt04zbwAA8ab_.jpg",
+      "blob_sha": "c42aa9dc7e1c16501ba311f6342fbb0582813bc1",
+      "size_bytes": 386306,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/media/HPEt04zbwAA8ab_.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "media/HPEt278a4AAGw0F.jpg",
+      "blob_sha": "a26473a9c39245df22d3c8922baa4b772c4d9a85",
+      "size_bytes": 470063,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/media/HPEt278a4AAGw0F.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "media/HPEt2A7bUAAgbv1.jpg",
+      "blob_sha": "865db3cd07f05366674053c5a31855c851e9470b",
+      "size_bytes": 427338,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/media/HPEt2A7bUAAgbv1.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "media/HPEt3wWakAAiQGX.jpg",
+      "blob_sha": "fb5d7090f7c3e7fd94d629427fa1c6e98681230b",
+      "size_bytes": 402095,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/media/HPEt3wWakAAiQGX.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "media/HPEt48_aYAAFIZR.jpg",
+      "blob_sha": "5ea5115e1bf1d6ef966304a27ee8c0581cd91fbb",
+      "size_bytes": 439904,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/media/HPEt48_aYAAFIZR.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "media/HPEt54MagAADLVY.jpg",
+      "blob_sha": "5a15ec82971dba33daeffa05293ba46bb2e374d0",
+      "size_bytes": 143629,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/media/HPEt54MagAADLVY.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "media/HPEt6c8aEAA8RED.jpg",
+      "blob_sha": "86744a1fa667b4e7e95b6715e4f7d896ec6b99c4",
+      "size_bytes": 408902,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/media/HPEt6c8aEAA8RED.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "media/HPEt7HYaEAAaNnP.jpg",
+      "blob_sha": "7bb5dee2005f3e2c40419cc7f1124a6b6ec7980e",
+      "size_bytes": 400218,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/media/HPEt7HYaEAAaNnP.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "media/HPEt8KsaQAE7jFa.jpg",
+      "blob_sha": "3dfd93140e9ec2195810523312bd5ccd38254e8b",
+      "size_bytes": 502564,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/media/HPEt8KsaQAE7jFa.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "media/HPEtxcYbUAA_WEW.jpg",
+      "blob_sha": "d93b98f43ef88b49f7af3a90b23bac8e96496614",
+      "size_bytes": 488089,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/media/HPEtxcYbUAA_WEW.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "media/HPEtyHhaYAADqSv.jpg",
+      "blob_sha": "a3fd93144e45606618c1b88d22018e51a7e0ee61",
+      "size_bytes": 444034,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/media/HPEtyHhaYAADqSv.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "media/HPEtyxjaoAAREmH.jpg",
+      "blob_sha": "0ec8c75c8b77faa14648759772a00daf34597b3c",
+      "size_bytes": 438489,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/media/HPEtyxjaoAAREmH.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "media/HPEtznbbAAAdHiS.jpg",
+      "blob_sha": "c41367244cf38349815435e2951a1da44fbf2176",
+      "size_bytes": 438569,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/media/HPEtznbbAAAdHiS.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "71768ed8218eb73154f91a2a3b055bc649e99260",
+      "size_bytes": 6000,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "review.md",
+      "blob_sha": "ec95ddbf78dc518227b6b0a1722d76f4aedbd31a",
+      "size_bytes": 8283,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/review.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/audit.py",
+      "blob_sha": "2b00a76e5628b8810146b8dec707755d0df378ed",
+      "size_bytes": 1518,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/scripts/audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/control_reproduction.py",
+      "blob_sha": "e3d0a521cbec7e7ab5f60a3da643930d9aa37add",
+      "size_bytes": 2829,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/scripts/control_reproduction.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "substack_addendum.md",
+      "blob_sha": "d6753cc666e148396bc5e44b12b124a96f844687",
+      "size_bytes": 9309,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/substack_addendum.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_audit.py",
+      "blob_sha": "89f7a9345c31ef9c6fcda9438b075059f65388cf",
+      "size_bytes": 621,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/tests/test_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_control_reproduction.py",
+      "blob_sha": "799418efce31dafb40133ca0b654a0e6fa6483c3",
+      "size_bytes": 643,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/efmw-equation-review/blob/main/tests/test_control_reproduction.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

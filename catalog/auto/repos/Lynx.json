@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Lynx",
+  "default_branch": "main",
+  "tree_sha": "69b7f6bb3862376f3edbe508a4e1647efb4e28cb",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "700aba706ab36e06de3f174263b1f6cfd2623ffd",
+      "size_bytes": 471,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "d34a508b118892d218d9a38e339ee16287b9b28f",
+      "size_bytes": 1031,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "dfd6f61f24507b453396d4f2c7ffc3e3a26a6789",
+      "size_bytes": 498,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "de7a701b1078db69eba7eb07b988ff8eb0e5f06c",
+      "size_bytes": 1832,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "663622439adb88e2aa5b38ae32f2934575675251",
+      "size_bytes": 277,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "b3aad2cac17d00133134f00f06865778ebe126e2",
+      "size_bytes": 258,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "5aab415ab5a210f4e05c84a1b44b78acc33ada2e",
+      "size_bytes": 1755,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "5835c02a27e8c3472db1d8fbb392a580ba458d9f",
+      "size_bytes": 901,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lynx.py",
+      "blob_sha": "7d9492965f0479a62654ea4bbcc5d00a8637c6f5",
+      "size_bytes": 1976,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/lynx.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "novelty_model.md",
+      "blob_sha": "d381728789aa525075240e9d20d9f19c03c95ef3",
+      "size_bytes": 802,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/novelty_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "ea3ca99175ede31fb32573c13fe0325d18ff16f4",
+      "size_bytes": 1489,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "cfa6367cb0bf2f0cb57fe079e272883e33436e54",
+      "size_bytes": 2815,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_lynx.py",
+      "blob_sha": "32e9ea8fcd59303ca0c4a9c5aaf53485c0d44239",
+      "size_bytes": 885,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/test_lynx.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "fc0ec9447c124e7917ce0dfdc8f74200bad6adbd",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "4b87aa0f40aa186966cc9a774d6496f2565908a2",
+      "size_bytes": 2027,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Lynx/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

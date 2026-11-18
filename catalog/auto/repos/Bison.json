@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Bison",
+  "default_branch": "main",
+  "tree_sha": "24c552ddb8f4d3a87099e276504e131c885b8813",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "db13387c1fce90356b30bd3c90bd217cf2fe08f3",
+      "size_bytes": 588,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "46c2f553b6f2e97979cf1bbceadb3c2992b5f228",
+      "size_bytes": 969,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "99efc90149ce04966b14e3d0e94b0a745db9a376",
+      "size_bytes": 902,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "79d2ce432f2fe3d3ecde87cc5ca2a203a0325602",
+      "size_bytes": 1547,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bison.py",
+      "blob_sha": "e42dfe871f28a7928bd47cf1410ff105729b8e0d",
+      "size_bytes": 2751,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/bison.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "46ad337109e3844910cacc2a86514c8c7a189a6a",
+      "size_bytes": 290,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "0fd1452c9c64dfb53857016da8d4f83b52ac980f",
+      "size_bytes": 442,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "a7ea711491c7c5deed6470c452f9ce9d6a531c78",
+      "size_bytes": 1747,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "ed504d2f2d8a72bf96966e36c81f47255231ed43",
+      "size_bytes": 993,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "overload_model.md",
+      "blob_sha": "f53a21c1c46a9ba3fc244d831d8e506eafd35648",
+      "size_bytes": 1090,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/overload_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "562a6872b363feabc7a206267e2adb2658d6d64e",
+      "size_bytes": 1674,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "720e1904668604de55c82438722fde257462c3d6",
+      "size_bytes": 2871,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_bison.py",
+      "blob_sha": "528ed1c8aae7fe16ddbdc17b220557eaeaa7169f",
+      "size_bytes": 724,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/test_bison.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "fc0ec9447c124e7917ce0dfdc8f74200bad6adbd",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "58d3ba3437ed9619f03c19ffa3b1a29f31ea87ab",
+      "size_bytes": 2517,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Bison/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

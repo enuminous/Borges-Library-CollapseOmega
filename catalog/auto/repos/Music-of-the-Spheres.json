@@ -1,0 +1,180 @@
+{
+  "repository": "enuminous/Music-of-the-Spheres",
+  "default_branch": "main",
+  "tree_sha": "62604e05716457147d17caddd5ea463e47739f1c",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "cd04ce70316ceddfced425272f850419b4f9d9db",
+      "size_bytes": 1237,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/pages.yml",
+      "blob_sha": "9de15bc32fba58f0ad55108fa3a6581747842b47",
+      "size_bytes": 1936,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/.github/workflows/pages.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/site.yml",
+      "blob_sha": "e155b4ada7ccdb643664734a73514005108864a1",
+      "size_bytes": 558,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/.github/workflows/site.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW_PROTOCOL.md",
+      "blob_sha": "e37b50de2eb1f7da87ba85245973e5474578bd7d",
+      "size_bytes": 4956,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/EFMW_PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "GreekCosmos.lean",
+      "blob_sha": "4bc3b941eebc1b6407860dbaac3b301a13e10fe3",
+      "size_bytes": 1598,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/GreekCosmos.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "GreekFoundations.lean",
+      "blob_sha": "fc70d8c162de4e1f6fad9730df89c31b18519dad",
+      "size_bytes": 2508,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/GreekFoundations.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "GreekHarmonics.lean",
+      "blob_sha": "c30a6f0df5a70b07f0fb7b950a4db6b1298bc743",
+      "size_bytes": 2074,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/GreekHarmonics.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "HARMONIC_COSMOS.md",
+      "blob_sha": "7385e8d2ac4706521782061581e088ddbb1ab2a5",
+      "size_bytes": 14400,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/HARMONIC_COSMOS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "HISTORICAL_ATLAS.md",
+      "blob_sha": "18cab20045a8b96f5cf3fe32eaae3f0b26534a2d",
+      "size_bytes": 5592,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/HISTORICAL_ATLAS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "a01825e218c2ce928b33a3b996f39890d819b8f5",
+      "size_bytes": 61525,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "679c08eef665e760ddd2e69c3cc4c4df0ca54d02",
+      "size_bytes": 43,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "30f14e9260f14d1648a5a620747046cf49361def",
+      "size_bytes": 343,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "a6aff065db2882c535684f8c5bcd4f16e9a23915",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MusicOfTheSpheres.lean",
+      "blob_sha": "66044d8f09c503144cbb279b3d85485ed953c860",
+      "size_bytes": 485,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/MusicOfTheSpheres.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.el.md",
+      "blob_sha": "8c269a5b04d6171f413c1900e4e222fed81435c5",
+      "size_bytes": 4382,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/README.el.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "00cfd556a24420ca9de0e61d5eecfb461ff64063",
+      "size_bytes": 12212,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify_site.mjs",
+      "blob_sha": "493ac99048fef75f8f72fb22439fc38df8319649",
+      "size_bytes": 5853,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Music-of-the-Spheres/blob/main/verify_site.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

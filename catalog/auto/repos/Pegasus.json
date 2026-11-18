@@ -1,0 +1,223 @@
+{
+  "repository": "enuminous/Pegasus",
+  "default_branch": "main",
+  "tree_sha": "41d57615f16c43ea8858e35cd1250d44c3c7df97",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/verify.yml",
+      "blob_sha": "7adbfa375971d8c87d4647871b2190c93e1622ad",
+      "size_bytes": 607,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/.github/workflows/verify.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "309336f51bea7953365188e7a0aa2916131cf9e4",
+      "size_bytes": 55,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "animal.json",
+      "blob_sha": "fed1c8fcc734f76a60d8965541f1854d04c3924a",
+      "size_bytes": 1398,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/animal.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/INPUT_FORMAT.md",
+      "blob_sha": "0cc230ecd0b1989122d7f9fe93f619211402d27c",
+      "size_bytes": 3991,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/docs/INPUT_FORMAT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/REFERENCES.md",
+      "blob_sha": "9fa446e616de6b7a51a3bb58c33f83ce337aeac4",
+      "size_bytes": 1990,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/docs/REFERENCES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/source-claims.json",
+      "blob_sha": "f23621e70a0d264712d4e679d710b723f2dfd239",
+      "size_bytes": 6592,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/examples/source-claims.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/toy-hybrid.json",
+      "blob_sha": "d413f8eff8f1f9e423c362c11bd3de10a7f37485",
+      "size_bytes": 976,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/examples/toy-hybrid.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "freeze.json",
+      "blob_sha": "2d4bc6e9cd35e33300efd3d06a9b064182d033f7",
+      "size_bytes": 1882,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/freeze.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pegasus/__init__.py",
+      "blob_sha": "d210093fb413223b07627449472e233f34c73bc7",
+      "size_bytes": 95,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/pegasus/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pegasus/__main__.py",
+      "blob_sha": "2e40d829beb428146f4f6189e973c0984944ec23",
+      "size_bytes": 1219,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/pegasus/__main__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pegasus/audit.py",
+      "blob_sha": "24c5617bd6912e3c49bd6e9cff0e9bb65a1d7232",
+      "size_bytes": 13400,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/pegasus/audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "4c43bdf95f56f5992cc08a647b50d6a8d81d4b52",
+      "size_bytes": 359,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "6a09329ea726b2f5d49e8eddfdbc55e6488412d2",
+      "size_bytes": 4786,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reports/FIRST_AUDIT.md",
+      "blob_sha": "9cdb91150942d4cbcf5ddcba6c1eebdb17bca525",
+      "size_bytes": 4583,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/reports/FIRST_AUDIT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reports/source-claims.json",
+      "blob_sha": "29db495d12fb7982bb4e49f021a1822bcbd6cd25",
+      "size_bytes": 9546,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/reports/source-claims.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reports/toy-hybrid.json",
+      "blob_sha": "68222123e75544ca06dffcd697dd835502d605f5",
+      "size_bytes": 2862,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/reports/toy-hybrid.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/replay.py",
+      "blob_sha": "7e83f1010a284c88480eea3b0ed4b804b61ae121",
+      "size_bytes": 877,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/scripts/replay.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/pegasus-source.jpeg",
+      "blob_sha": "477ccf90bcc6c196733dd177b005c20574ace653",
+      "size_bytes": 228614,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/sources/pegasus-source.jpeg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/TRANSCRIPTION.md",
+      "blob_sha": "0b430dee12e4c276d0b890ccc1563863fdc39136",
+      "size_bytes": 3434,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/sources/TRANSCRIPTION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SPEC.md",
+      "blob_sha": "e13722a936ef305263f513c4ca0d549b318b5270",
+      "size_bytes": 11189,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/SPEC.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_pegasus.py",
+      "blob_sha": "c4acb31bfc8ae7e1fcadcadf0f3cc562f09133bd",
+      "size_bytes": 6185,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Pegasus/blob/main/tests/test_pegasus.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

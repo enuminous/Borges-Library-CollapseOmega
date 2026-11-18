@@ -1,0 +1,321 @@
+{
+  "repository": "enuminous/Dude-Physics",
+  "default_branch": "main",
+  "tree_sha": "ef51d2e69b6f32b5958654aca88994a0dd046553",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "app.js",
+      "blob_sha": "5dedb8476260c3f8423beb8a86f51aa9ee9545ef",
+      "size_bytes": 4907,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/app.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "browser_check.py",
+      "blob_sha": "6e4bffe88881a21c4ee8d85a9965c77c93d294fe",
+      "size_bytes": 5087,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/browser_check.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "build.py",
+      "blob_sha": "b2d7f3b7285200d08858ed105fcfab8f8a6f7603",
+      "size_bytes": 9372,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/build.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "813d90e46952c1a908a967862e42d5080cf2025a",
+      "size_bytes": 678,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CLAIMS.md",
+      "blob_sha": "6f9dd1ece8151992e977ca15e11d22986cb7e7d5",
+      "size_bytes": 3431,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/CLAIMS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "blob_sha": "e013582d45e042ee3eb9f11baa39ffd80c676105",
+      "size_bytes": 1735,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/CONTRIBUTING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "DUDE_PHYSICS.md",
+      "blob_sha": "2bacaed3d19fbc517958632303eca677fac78d9b",
+      "size_bytes": 10882,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/DUDE_PHYSICS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW.md",
+      "blob_sha": "321547ef8f98beca75a770350333f6c057d30e42",
+      "size_bytes": 5497,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/EFMW.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EMERGENT_DUDEISM.md",
+      "blob_sha": "02ad073e709cfccb40d01b601ce71ee47259e4c9",
+      "size_bytes": 3630,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/EMERGENT_DUDEISM.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "IMAGE_PROMPT.txt",
+      "blob_sha": "fa326cd2a270346b996f52a55a231c4cb395abd8",
+      "size_bytes": 3324,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/IMAGE_PROMPT.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "da0caafb925de0d929e7604fa8ca1f23f2b483b3",
+      "size_bytes": 29663,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.template.html",
+      "blob_sha": "94315b0bf1da207e99856d920fb22e8dbb7b31bd",
+      "size_bytes": 9358,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/index.template.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "inventory.js",
+      "blob_sha": "53bf12febf4801c38ebc728fc7b20d95297dd3a9",
+      "size_bytes": 12506,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/inventory.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "inventory.json",
+      "blob_sha": "660e2bc4ad7d8fe24ce9ed448bafb4cc8b2bd5d6",
+      "size_bytes": 10051,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/inventory.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "INVENTORY.md",
+      "blob_sha": "f240ae5dac13d8b80198a1e4da21085dd7688207",
+      "size_bytes": 7072,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/INVENTORY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE_NOTICE.md",
+      "blob_sha": "96b5de21b080009a3089ff14b3578a2ffb6fe5a8",
+      "size_bytes": 1423,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/LICENSE_NOTICE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "blob_sha": "4b5a3622fe8196d583807c08f9e229888ab8b4af",
+      "size_bytes": 3691,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/PROVENANCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reading.html",
+      "blob_sha": "a07caaebae21ec010c91a8e5dbae724fcb92b984",
+      "size_bytes": 44957,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/reading.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "6760e5ff5790ae1bd5f5325c109ced166a963776",
+      "size_bytes": 4216,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "release.py",
+      "blob_sha": "2ea64991c44245dc74c720db13ae7b2c8f310899",
+      "size_bytes": 2364,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/release.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "room-original.jpeg",
+      "blob_sha": "be7f9d90c3159fab66d90dc1c8589a2194f0eab1",
+      "size_bytes": 50398,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/room-original.jpeg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "room.png",
+      "blob_sha": "68f1c92d5d963d48b388418c7a530c508176a5d5",
+      "size_bytes": 3151564,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/room.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RUG_THEORY.md",
+      "blob_sha": "3ff73e20f6194b23fe510e840965a7d52467fe58",
+      "size_bytes": 3376,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/RUG_THEORY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SHA256SUMS",
+      "blob_sha": "2c1b4cceab8e4ab1f3db4661e9c4e6f3285d7a80",
+      "size_bytes": 2631,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/SHA256SUMS",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "source-manifest.json",
+      "blob_sha": "4f91a01dd7f383c2adc536514a6c1ff56a36f6ad",
+      "size_bytes": 1550,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/source-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SOURCES.md",
+      "blob_sha": "98d1759a78274e7857062176d371779ce6ddd338",
+      "size_bytes": 3314,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/SOURCES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "styles.css",
+      "blob_sha": "fb39bc2c6d2216162d478661950b054896b94a1f",
+      "size_bytes": 12954,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/styles.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test.cjs",
+      "blob_sha": "8381e16520798024eaf74f1d5f0d8b1ba155275d",
+      "size_bytes": 2903,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/test.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "THE_ROOM.md",
+      "blob_sha": "0ed144dbe37fe9d79f743cbde7a7b342e36f4967",
+      "size_bytes": 3150,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/THE_ROOM.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "b3e6ee92322e3ee55ed5f2730911d802db976ffc",
+      "size_bytes": 4586,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify.py",
+      "blob_sha": "ae8f6db7a7ceb6b3124a1b0ce6a03a0c88667e0f",
+      "size_bytes": 5305,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dude-Physics/blob/main/verify.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

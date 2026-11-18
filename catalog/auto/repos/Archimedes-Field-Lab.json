@@ -1,0 +1,100 @@
+{
+  "repository": "enuminous/Archimedes-Field-Lab",
+  "default_branch": "main",
+  "tree_sha": "e562a20926a22f91d5267b02a45011e1ccc48b2e",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/static.yml",
+      "blob_sha": "4f3488d040c6c7a4a6ffdcb027ec9d0a636c1d39",
+      "size_bytes": 973,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-Field-Lab/blob/main/.github/workflows/static.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "1c79d774291acd53d133aec8402347e77b11bcc3",
+      "size_bytes": 9432,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-Field-Lab/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "package.json",
+      "blob_sha": "72002a254b20e628c1fc582ab509f988ad774072",
+      "size_bytes": 299,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-Field-Lab/blob/main/package.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "1ecf87dc287355422f66c945a9637e3c817d346c",
+      "size_bytes": 4377,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-Field-Lab/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SCIENCE_MODEL.md",
+      "blob_sha": "0434248f4a6ccd968fa8547ec35a7f7d52f0ca49",
+      "size_bytes": 985,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-Field-Lab/blob/main/SCIENCE_MODEL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/main.js",
+      "blob_sha": "5da9fef6bb764750cc154ccc0a30b37b38867c2a",
+      "size_bytes": 14847,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-Field-Lab/blob/main/src/main.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-Field-Lab/blob/main/src/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/style.css",
+      "blob_sha": "ff9701b5c9fb90ed8969e93ca7d4371e49cdbd77",
+      "size_bytes": 3381,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-Field-Lab/blob/main/src/style.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "vite.config.js",
+      "blob_sha": "b1183aa14da76afdbbfbc95486a244ddbc80f755",
+      "size_bytes": 106,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Archimedes-Field-Lab/blob/main/vite.config.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

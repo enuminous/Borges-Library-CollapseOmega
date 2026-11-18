@@ -1,0 +1,71 @@
+{
+  "repository": "enuminous/math-Sat3",
+  "default_branch": "main",
+  "tree_sha": "9cc3d1e7f8f0249e81428f3a78585353a00f0275",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "audits/EFMW_PRELIMINARY_AUDIT_2026-11-04.md",
+      "blob_sha": "9ea1dfc46c578e595cb1ec595c62c60466fdadda",
+      "size_bytes": 12868,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/math-Sat3/blob/main/audits/EFMW_PRELIMINARY_AUDIT_2026-11-04.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean/lean_proofs_12_5.zip",
+      "blob_sha": "e8bbfc3ec18cfa07b2a3417597b4f7b73c51715c",
+      "size_bytes": 214222,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/math-Sat3/blob/main/lean/lean_proofs_12_5.zip",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean/lean_proofs_17_7.zip",
+      "blob_sha": "9fa1afc0ccf8ee0758a557206dbf3d351882a8c0",
+      "size_bytes": 476735,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/math-Sat3/blob/main/lean/lean_proofs_17_7.zip",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean/lean_proofs_7_3.zip",
+      "blob_sha": "4a24fdc246987d2c639073a323c4c209049c5f72",
+      "size_bytes": 211862,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/math-Sat3/blob/main/lean/lean_proofs_7_3.zip",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "preprint/3SAT_Circuit_Lower_Bound.pdf",
+      "blob_sha": "6f566c84cc6ea6bca70c7b9dd5ef19cc24591744",
+      "size_bytes": 166615,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/math-Sat3/blob/main/preprint/3SAT_Circuit_Lower_Bound.pdf",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "07ebd69e7074116c9f774175c003217fc68cd327",
+      "size_bytes": 2071,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/math-Sat3/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

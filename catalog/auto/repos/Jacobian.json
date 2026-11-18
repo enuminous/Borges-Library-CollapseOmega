@@ -1,0 +1,549 @@
+{
+  "repository": "enuminous/Jacobian",
+  "default_branch": "main",
+  "tree_sha": "b1cf48fa6ece97c7cd31844c61d03174f91db1b2",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean-replay.yml",
+      "blob_sha": "3835e9a7952762f0e37a122100593e8dcdf016e7",
+      "size_bytes": 1271,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/.github/workflows/lean-replay.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "730815d36c9dc16bf62d6070a296ce0f9dcffb0d",
+      "size_bytes": 45,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".nojekyll",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/.nojekyll",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/build_index.py",
+      "blob_sha": "3325c7a452e769d9785add3396a1ecd2e3884a25",
+      "size_bytes": 16678,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/build_index.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/checks.py",
+      "blob_sha": "0c63cfc97906c3a63a48d45563765b9800a87f91",
+      "size_bytes": 12828,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/checks.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence-manifest.json",
+      "blob_sha": "99578f87c0e469c1b8978f857b00d934f328bd7f",
+      "size_bytes": 4079,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/arxiv-comparison.json",
+      "blob_sha": "9451a956e14354ae57c8335368b6695c868ea679",
+      "size_bytes": 1480,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/arxiv-comparison.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/checks.json",
+      "blob_sha": "e54d48754fb8894319a0cf26e7f30ef1ef09f7a4",
+      "size_bytes": 18229,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/checks.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/archive-digests.txt",
+      "blob_sha": "aa63b1ce03f8932b7b256132fd8a835cd6d1afbc",
+      "size_bytes": 1227,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/archive-digests.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/axiom-decision.txt",
+      "blob_sha": "3e49e1d76da11a515b180b51b42106c0519a76f4",
+      "size_bytes": 203,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/axiom-decision.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/cache-status.txt",
+      "blob_sha": "678bce4fb8b95aa32bcd9b9513eb8c043ab5c0f9",
+      "size_bytes": 40,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/cache-status.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/elan-version.txt",
+      "blob_sha": "9291b51f2f96a6ecae3920171346eae8cc07be98",
+      "size_bytes": 34,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/elan-version.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/environment.txt",
+      "blob_sha": "d7bfbfcb6661fa0fc097effa406639c1006ea75a",
+      "size_bytes": 197,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/environment.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/exit-codes.txt",
+      "blob_sha": "ba20c1d9458fd108dff50456e24a3387e865330c",
+      "size_bytes": 149,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/exit-codes.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/fetch-source.txt",
+      "blob_sha": "a2af2dd923e954eb1f70395b2fdc8db59714602a",
+      "size_bytes": 436,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/fetch-source.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/FinalTheorem.txt",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/FinalTheorem.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/GeometricBridge.txt",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/GeometricBridge.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/KernelAudit.txt",
+      "blob_sha": "c7bfdefa0eef72961899fe95577eb9438260b257",
+      "size_bytes": 228,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/KernelAudit.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/lake-build.txt",
+      "blob_sha": "fe816d20cc663de8f1efd03f5b8d08a5be299799",
+      "size_bytes": 21687,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/lake-build.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/lake-version.txt",
+      "blob_sha": "83d558aadbd3cddb9cd11aab6b9ca02fd0159ccb",
+      "size_bytes": 53,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/lake-version.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/lean-version.txt",
+      "blob_sha": "b4a931bee92ecb3f13db5f1743dc2652e6cc640a",
+      "size_bytes": 270,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/lean-version.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/mathlib-cache.txt",
+      "blob_sha": "80d85abaf18927865d08f6300468bcfa61573a5e",
+      "size_bytes": 7378,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/mathlib-cache.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/overall-exit.txt",
+      "blob_sha": "573541ac9702dd3969c9bc859d2b91ec1f7e6e56",
+      "size_bytes": 2,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/overall-exit.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/provenance.txt",
+      "blob_sha": "787d23665d035255ab2c508188bf1bb743873505",
+      "size_bytes": 591,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/provenance.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/source-after-check.txt",
+      "blob_sha": "99988db44850d61e36526a8053225f4b0d9bf12a",
+      "size_bytes": 130,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/source-after-check.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/source-before.sha256",
+      "blob_sha": "62f6b6a8ac485e98814f48951f2b63753347f739",
+      "size_bytes": 440,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/source-before.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/evidence/ci/source-digests.txt",
+      "blob_sha": "555f567587f979acfc7f8725e5db4170072acd52",
+      "size_bytes": 811,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/evidence/ci/source-digests.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/method/circus.py",
+      "blob_sha": "65421922766c9178c1b188703ac21c03f95be6dd",
+      "size_bytes": 1964,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/method/circus.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/method/circus_LICENSE",
+      "blob_sha": "e718669dd73de713dbca9dc7e07b64627d63dd7a",
+      "size_bytes": 137,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/method/circus_LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/method/elephant.py",
+      "blob_sha": "31d4ae3b6ed8af1f50f6268283efd36ab819589d",
+      "size_bytes": 3044,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/method/elephant.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/method/elephant_LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/method/elephant_LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/method/pins.json",
+      "blob_sha": "0146aa23cda3a6262e4fec263f2d6f91f871a86a",
+      "size_bytes": 1651,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/method/pins.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/method/salmon.py",
+      "blob_sha": "e6c803aacafdce7a4cba65cdb0d1128de4d479d8",
+      "size_bytes": 2078,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/method/salmon.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/method/salmon_LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/method/salmon_LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/method/weasel.py",
+      "blob_sha": "e893701c01fda3819dbf73d61c69223457fac2a5",
+      "size_bytes": 2791,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/method/weasel.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/method/weasel_LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/method/weasel_LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/method/zoo-monster.py",
+      "blob_sha": "ae86fbb2712ee4c5736519eb6bdb9f0d9e65aced",
+      "size_bytes": 2364,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/method/zoo-monster.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/method/zoo-monster_LICENSE",
+      "blob_sha": "e718669dd73de713dbca9dc7e07b64627d63dd7a",
+      "size_bytes": 137,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/method/zoo-monster_LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/PROTOCOL.md",
+      "blob_sha": "9e6effa5d5f0c2fd058d88cc6884e38e4ff0c552",
+      "size_bytes": 2911,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/publication-checks.json",
+      "blob_sha": "802c58fc67eaf43ed8b4d0f552807b64d1cdae75",
+      "size_bytes": 480,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/publication-checks.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/REPORT.md",
+      "blob_sha": "7c141651f44b2e79bd4057d93afc484f12ef5477",
+      "size_bytes": 18410,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/REPORT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/results.json",
+      "blob_sha": "c44c6db6e24f046498cc66dc680baa593ee22fa5",
+      "size_bytes": 68585,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/roster.json",
+      "blob_sha": "44b5a31af3ad6b877a5816b086caa48b501c714a",
+      "size_bytes": 65599,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/roster.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-05/ZOO_OPERATIONS.md",
+      "blob_sha": "6d33da91919aea75f90fe38ebfd29f972fb96ef4",
+      "size_bytes": 41465,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/audits/2026-11-05/ZOO_OPERATIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "e290880206504ab4d33db89c2df36cd67d4a613e",
+      "size_bytes": 82391,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Makefile",
+      "blob_sha": "0bdcb8bbd09bdfc98bc8f765a95e2922107674d7",
+      "size_bytes": 161,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/Makefile",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "726a7fbfe3c2ec1bb8786d2a1fee67f1934e3503",
+      "size_bytes": 4606,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/check-axioms.py",
+      "blob_sha": "08998091459302e9e1900169272d3aec420f0a1e",
+      "size_bytes": 1218,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/scripts/check-axioms.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/fetch-source.sh",
+      "blob_sha": "44aaf0d996cec06382809aa21b85ce275fd71f18",
+      "size_bytes": 3447,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/scripts/fetch-source.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/verify.sh",
+      "blob_sha": "63b429cb3da6630894e8f4625e90eb63165d8989",
+      "size_bytes": 2726,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/scripts/verify.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "adc81980aa856184731fd2118ce4888fdf3bd2ca",
+      "size_bytes": 2983,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jacobian/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

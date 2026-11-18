@@ -1,0 +1,111 @@
+{
+  "repository": "enuminous/Zoo-Monster",
+  "default_branch": "main",
+  "tree_sha": "50cec891b88470570d138618168252e8450f1736",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "animal.yaml",
+      "blob_sha": "4680631bb4c70f4384923e23c75d99fee3c2f88a",
+      "size_bytes": 1339,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Zoo-Monster/blob/main/animal.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/demo-report.json",
+      "blob_sha": "7585ed6c30d794bc5e90b582bd04df4ee205c13a",
+      "size_bytes": 1999,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Zoo-Monster/blob/main/examples/demo-report.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "19184a2f1afb998c0f26b1f1909555cb08e040cd",
+      "size_bytes": 1542,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Zoo-Monster/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "e718669dd73de713dbca9dc7e07b64627d63dd7a",
+      "size_bytes": 137,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Zoo-Monster/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "53fb06b911aee68ff77bad1953463ec01dead81a",
+      "size_bytes": 8318,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Zoo-Monster/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "schemas/report.schema.json",
+      "blob_sha": "7fe975ecb4df7b3f64321685d5f3875cac7bfe41",
+      "size_bytes": 4934,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Zoo-Monster/blob/main/schemas/report.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/monster.py",
+      "blob_sha": "ae86fbb2712ee4c5736519eb6bdb9f0d9e65aced",
+      "size_bytes": 2364,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Zoo-Monster/blob/main/src/monster.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "templates/preregistration.json",
+      "blob_sha": "30b254aaa565723e0fcd516c852fde3e559e701f",
+      "size_bytes": 1222,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Zoo-Monster/blob/main/templates/preregistration.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "templates/stress-report.json",
+      "blob_sha": "7cef2c7ec34758511a53863165250164a42e98ca",
+      "size_bytes": 720,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Zoo-Monster/blob/main/templates/stress-report.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_monster.py",
+      "blob_sha": "754414de9ef153b98e44f3661466bb8de47681b7",
+      "size_bytes": 1692,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Zoo-Monster/blob/main/tests/test_monster.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

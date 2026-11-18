@@ -1,0 +1,2685 @@
+{
+  "repository": "enuminous/simself",
+  "default_branch": "main",
+  "tree_sha": "b67713d73b1043eaa915ba9525595555a7880b0a",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".gitignore",
+      "blob_sha": "ea79cf45b141476635f629922cceeb88533ccf1d",
+      "size_bytes": 29,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "config/simself_config.yaml",
+      "blob_sha": "7f38816910aa2276d3adf210ef5796eaaab32f4c",
+      "size_bytes": 1543,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/config/simself_config.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CONTRIBUTORS.md",
+      "blob_sha": "06c83ad249f2ec4519b6c8a5c323abf4eb28b4c4",
+      "size_bytes": 1631,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/CONTRIBUTORS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/.gitkeep",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/8-filter.md",
+      "blob_sha": "6931eb378b070286b949e2eab45837d0de3bfeff",
+      "size_bytes": 3645,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/8-filter.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/9-primitives.md",
+      "blob_sha": "09f102ebba131ee217f28955429abf69d20d7444",
+      "size_bytes": 5605,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/9-primitives.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/accelerants-2026-09-07.md",
+      "blob_sha": "d339213a272ce15d51a4f0ae0c1bf6b745f3b90c",
+      "size_bytes": 13653,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/accelerants-2026-09-07.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/accelerants.md",
+      "blob_sha": "ea15d059c36e0b9011d088c916bddc3c73f758ec",
+      "size_bytes": 14928,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/accelerants.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/agent-os-methodology.md",
+      "blob_sha": "5fe8c337d0d60e4b33a5a91f25b3f54eb04df4fd",
+      "size_bytes": 1907,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/agent-os-methodology.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/ai-pain-point-taxonomy-2026-09-07.md",
+      "blob_sha": "52b0f676ea28f1a27c9d18f77f6870b40b39276a",
+      "size_bytes": 7596,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/ai-pain-point-taxonomy-2026-09-07.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/atlas-candidate-protocols.md",
+      "blob_sha": "5c3483bbb7804d6182da01729b5b2662ac884257",
+      "size_bytes": 4448,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/atlas-candidate-protocols.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/axes-ladder.md",
+      "blob_sha": "f0f0944e0350f58a75ead0fc87d2bc276b6de960",
+      "size_bytes": 8215,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/axes-ladder.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/bitnet-ternary-godot.md",
+      "blob_sha": "4ddbc67c8950d886372f7491979a3a8109e8d114",
+      "size_bytes": 5840,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/bitnet-ternary-godot.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/build-philosophy.md",
+      "blob_sha": "efb584e333928b7a38500a2853be5b57584e8c57",
+      "size_bytes": 1354,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/build-philosophy.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/concept-restructuring.md",
+      "blob_sha": "a6585f323e15589f788bf3bbcaa3a4b3710ec6cf",
+      "size_bytes": 53703,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/concept-restructuring.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/constant.md",
+      "blob_sha": "4f7b7d0e6885470d992d801e0f3aafc71fb97b41",
+      "size_bytes": 13357,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/constant.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/constitutional-core.md",
+      "blob_sha": "7e4698824a0f1a017efc7063650b9344f3b68bc6",
+      "size_bytes": 8828,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/constitutional-core.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/constitutional-package.md",
+      "blob_sha": "d292602773bd6ce827e094a5ef0934a41994ccac",
+      "size_bytes": 7633,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/constitutional-package.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/copper.md",
+      "blob_sha": "08961cb91f7863c58f5d93afc24cfd7db2e407c4",
+      "size_bytes": 15473,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/copper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/crystallization_protocol.md",
+      "blob_sha": "cae95bd5208a228e997962e227d597b97652d48a",
+      "size_bytes": 5603,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/crystallization_protocol.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/dev-team.md",
+      "blob_sha": "cd96af84b1f68a7d29ecba4cce59ce2983f442eb",
+      "size_bytes": 1127,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/dev-team.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/emergence-blueprint.md",
+      "blob_sha": "7dd8e93cb21e22ca0e44b9dbfbf7ced951b35996",
+      "size_bytes": 10315,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/emergence-blueprint.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/extended-thinking.md",
+      "blob_sha": "0c53732a4eaf1cdb54732a3baa97cb38355f809d",
+      "size_bytes": 72168,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/extended-thinking.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/future-work.md",
+      "blob_sha": "7c788874948f4177fd992ddf09562989bbb488d1",
+      "size_bytes": 745,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/future-work.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/game-engines.md",
+      "blob_sha": "fd1fdee519209672e3eb931ca34e5a9395133b09",
+      "size_bytes": 41213,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/game-engines.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/gamedev-patterns.md",
+      "blob_sha": "085413b6394985df8f9ac8659e3f35047003b820",
+      "size_bytes": 7150,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/gamedev-patterns.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/good-start.md",
+      "blob_sha": "8b31a5e849603cfb07085764f7ac74c161a78a66",
+      "size_bytes": 117591,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/good-start.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/good-start2.md",
+      "blob_sha": "15dc14574a2966e8b9b2c940aac0270d81273c59",
+      "size_bytes": 103042,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/good-start2.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/harness-package.md",
+      "blob_sha": "b2160a8bf7338f11c845a7f5954232ffe10cb986",
+      "size_bytes": 9463,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/harness-package.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/hedging.md",
+      "blob_sha": "c998ce53e84fec238e540493cd683a5732d7396e",
+      "size_bytes": 35815,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/hedging.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/human-ai-dictionary-2026-09-07.md",
+      "blob_sha": "d274ee60201df5a9f61caff8a2858738939ab1b4",
+      "size_bytes": 9970,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/human-ai-dictionary-2026-09-07.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/human.md",
+      "blob_sha": "7109bb9c73ca1b68bd2d93038adfba5bef4015d5",
+      "size_bytes": 32594,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/human.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/kernel-architecture-2026-09-07.md",
+      "blob_sha": "3ff942f566df0ae1fd1ff4e3000bbb5274a0028f",
+      "size_bytes": 14695,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/kernel-architecture-2026-09-07.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/kernel-design.md",
+      "blob_sha": "c0b61ff349aecb77096d53669d962c0258c917cb",
+      "size_bytes": 2128,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/kernel-design.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/layered-resource-stack.md",
+      "blob_sha": "0700d4b456c53d28231e98df7600efa04aac0daf",
+      "size_bytes": 4747,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/layered-resource-stack.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/lexicon-foundations-2026-09-07.md",
+      "blob_sha": "2cf95acce8455030943829fd98b92ebca62924b4",
+      "size_bytes": 7351,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/lexicon-foundations-2026-09-07.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/llama-server-tuning.md",
+      "blob_sha": "38292a16ceb015e0607f1ebcf445d7daaa0bcda1",
+      "size_bytes": 1262,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/llama-server-tuning.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/m3-notes.md",
+      "blob_sha": "4cf04c98f0547a5d99d0708a91b1d965901be415",
+      "size_bytes": 16837,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/m3-notes.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/main-wiring.md",
+      "blob_sha": "cad42676b9ad7bb980f1d1b647764bc1a3795dda",
+      "size_bytes": 6543,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/main-wiring.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/merge-into-simself.md",
+      "blob_sha": "ca528c5bd136d8671d07fd1b1037be1389781654",
+      "size_bytes": 47538,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/merge-into-simself.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/metrics.md",
+      "blob_sha": "954cda24dbbff1ec1d0cccfe6697ae969a0e038a",
+      "size_bytes": 6091,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/metrics.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/mini-simself.md",
+      "blob_sha": "6ca178a876ed6f2a64fad9332068f7487489ce13",
+      "size_bytes": 9045,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/mini-simself.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/model-roles.md",
+      "blob_sha": "266d6ef56b334853ea74b89116b3ce9fb3bb6963",
+      "size_bytes": 1427,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/model-roles.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/mycelium.md",
+      "blob_sha": "d64fa08029d88e987e7dec8bcb54963433629003",
+      "size_bytes": 44431,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/mycelium.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/n-dim-space.md",
+      "blob_sha": "4dbc7a27595ccf5743ec9ef8301a94de478a03ae",
+      "size_bytes": 22046,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/n-dim-space.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/nikola-tesla.md",
+      "blob_sha": "42bea3c75384aa8c3d6743b52df3631d3afed853",
+      "size_bytes": 50144,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/nikola-tesla.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/open-source-directory.md",
+      "blob_sha": "19e2270d9f855ca7fde2680a0b2e9629cda3b217",
+      "size_bytes": 15831,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/open-source-directory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/operator-architecture.md",
+      "blob_sha": "4ccc4199080fe1cb18577caf12faf3726c3c8556",
+      "size_bytes": 5651,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/operator-architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/paper-a.md",
+      "blob_sha": "7742264fe8fd6e04aac094a1716e63e385239a55",
+      "size_bytes": 9968,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/paper-a.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/prime-fractals.md",
+      "blob_sha": "66f3238f419b57a30499dda694ec13f066b24f7d",
+      "size_bytes": 8382,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/prime-fractals.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/project-structure-vision.md",
+      "blob_sha": "7f24fc61970b3178fab79485ecea89c05fc607a9",
+      "size_bytes": 2784,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/project-structure-vision.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/psb-schema-2026-09-07.md",
+      "blob_sha": "a1208ad545cb7dc7a873bb9b1ad83d90b601a632",
+      "size_bytes": 8695,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/psb-schema-2026-09-07.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/quantum-machines.md",
+      "blob_sha": "4fc039ed60aa437aef8917fd680654021668ad5a",
+      "size_bytes": 23414,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/quantum-machines.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/rare-sinks.md",
+      "blob_sha": "0e2e239b495dbfd49f9463ffe7fac6d3ab40d3a7",
+      "size_bytes": 4809,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/rare-sinks.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/resilient-self-model.md",
+      "blob_sha": "1e38708c3b1d25ca5efd5ad8846a1fcba1c64625",
+      "size_bytes": 9742,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/resilient-self-model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/robertish-glossary-2026-09-07.md",
+      "blob_sha": "f15127d0bc61440fd2e32d0a8af0ab2fb9b473f7",
+      "size_bytes": 9273,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/robertish-glossary-2026-09-07.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/schauberger.md",
+      "blob_sha": "feae6dd33fa15c71227e9a331c7592f43f4d2935",
+      "size_bytes": 29188,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/schauberger.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/schauberger2.md",
+      "blob_sha": "d20e42ad2f3f36cc242c34d8d73764cb8c4d96c6",
+      "size_bytes": 22492,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/schauberger2.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/selfcore.md",
+      "blob_sha": "db1fbbb70a3625b940eff62d1660616c98e52dd8",
+      "size_bytes": 43801,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/selfcore.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/selfcore1.md",
+      "blob_sha": "d7d3d6b085301f8590aa3d449d9ea17d750e04d9",
+      "size_bytes": 50970,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/selfcore1.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/signal-first-control.md",
+      "blob_sha": "18012262a6ffa790dcbac0b49edffead6c9492c0",
+      "size_bytes": 20415,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/signal-first-control.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/sim-self-methods-2026-09-07.md",
+      "blob_sha": "8271237af47e6cded600b9ae99e4bfbaeca1d9c3",
+      "size_bytes": 9984,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/sim-self-methods-2026-09-07.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/sim-self-methods.md",
+      "blob_sha": "5c69c53fa6da3c058a283f5b1b2386f1adfc5a01",
+      "size_bytes": 222624,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/sim-self-methods.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/sim-self.md",
+      "blob_sha": "47e8aa87838e0673c31fae9ea7a6804197075e33",
+      "size_bytes": 6223,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/sim-self.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/sim4.md",
+      "blob_sha": "ab1338c9d3aa51a854d93e03ebca442c55cfd893",
+      "size_bytes": 42065,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/sim4.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/simself-architecture.md",
+      "blob_sha": "dc01bb609d721c73043b6aaf5dee75d855716061",
+      "size_bytes": 10806,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/simself-architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/simself-axis-divergence.md",
+      "blob_sha": "13d95ff68a019f18f2416e78d8ec3d6af593a16d",
+      "size_bytes": 1566,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/simself-axis-divergence.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/simself-axis-resolution.md",
+      "blob_sha": "2365dc1fa01a98beb2fc8fbdeea0455eb3d85d92",
+      "size_bytes": 2990,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/simself-axis-resolution.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/simself-code-review.md",
+      "blob_sha": "20f98c5f5b9cbf4a04bb60d5c67b8023bb3a70a1",
+      "size_bytes": 8776,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/simself-code-review.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/simself-deployment-guide.md",
+      "blob_sha": "311e922b896474bb240fbf8fd3e188a88714cd29",
+      "size_bytes": 11285,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/simself-deployment-guide.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/simself-ladder.md",
+      "blob_sha": "80d6f066088999744aadbe6e0cf92ef871c1e0c1",
+      "size_bytes": 13613,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/simself-ladder.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/simself-md-file.md",
+      "blob_sha": "3264c3531fd41f84ff2cacd205ef587fa2362fc8",
+      "size_bytes": 30138,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/simself-md-file.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/simself-merged-v2.md",
+      "blob_sha": "95167d6cbf39ff956af260dbd31c1c4d695196bd",
+      "size_bytes": 6812,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/simself-merged-v2.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/simself-merged.md",
+      "blob_sha": "6ae4f737df77d3e35e40567d08e501aaeed50806",
+      "size_bytes": 8742,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/simself-merged.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/simself-myvoice.md",
+      "blob_sha": "eeb47744d75e734eb542f6a2b6e6168d364a9edc",
+      "size_bytes": 17977,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/simself-myvoice.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/simself-sovereign-kernel.md",
+      "blob_sha": "ca6d41cdb29ac0861b3f5daf3168e98415bc6389",
+      "size_bytes": 9117,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/simself-sovereign-kernel.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/simself-v2-review.md",
+      "blob_sha": "edd16d25c5a21fee69bbe9cf034a2cd3c1a0b560",
+      "size_bytes": 2666,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/simself-v2-review.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/simself_v2_2026-08-17.md",
+      "blob_sha": "444324b128acfbb55ed09819c2f036c9e23721c7",
+      "size_bytes": 87141,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/simself_v2_2026-08-17.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/snr-contact.md",
+      "blob_sha": "274a1a3c918788f2eb69dde331b7ce10d0c4e516",
+      "size_bytes": 9809,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/snr-contact.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/snr-validation-2026-09-07.md",
+      "blob_sha": "9a9ef3466c18e6d5f7cf31105293418644619552",
+      "size_bytes": 6966,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/snr-validation-2026-09-07.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/sovereign-ai-core-c6.md",
+      "blob_sha": "ba885a8fe2be13c76f3b0fbb28a16ee471cb6226",
+      "size_bytes": 14226,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/sovereign-ai-core-c6.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/sovereign-self.md",
+      "blob_sha": "a7c4989c7dcd97370e04f0cd688f266177b1b5ef",
+      "size_bytes": 8578,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/sovereign-self.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/stalk.md",
+      "blob_sha": "292db75776030c397eeb2c6399cea36eb5e3dff7",
+      "size_bytes": 6416,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/stalk.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/state-report-schema.md",
+      "blob_sha": "5ba3a4cf97acd2a84bce1b6f5efca23dba29533d",
+      "size_bytes": 9302,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/state-report-schema.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/temporal-control-layer-2026-09-07.md",
+      "blob_sha": "7b76540a00ca28c352dc0fa8d4330ba40ba2dc79",
+      "size_bytes": 7995,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/temporal-control-layer-2026-09-07.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/temporal-layer.md",
+      "blob_sha": "6f40ae13e4dec53b22ba7f53714dec1056341fe4",
+      "size_bytes": 45129,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/temporal-layer.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/tesla-mixed-precision.md",
+      "blob_sha": "3b2fa5a2a96ea2c5f9068c0c86d845764d140a08",
+      "size_bytes": 6709,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/tesla-mixed-precision.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/the-axes.md",
+      "blob_sha": "5b59a571633de4cce9667dce48c224eba195f4fd",
+      "size_bytes": 9921,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/the-axes.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/thin_line_theory_canonical_contents_v3.4-1.md",
+      "blob_sha": "0ca1995ead0cfa572e2bd28ed520e4cab66c0af6",
+      "size_bytes": 16230,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/thin_line_theory_canonical_contents_v3.4-1.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/tier1-publish.md",
+      "blob_sha": "6b0c41167661f513ba0c1cf9bad0623e64a24e79",
+      "size_bytes": 8400,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/tier1-publish.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/water-is-plasma.md",
+      "blob_sha": "06a18fc4a398367bbf5717511975306dec72e254",
+      "size_bytes": 42998,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/docs/water-is-plasma.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "a56f153d463ecd073c3804f324a2552247c05a79",
+      "size_bytes": 1070,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PROJECT-ARC.md",
+      "blob_sha": "3d1813333ca45b5c5e3288fee13601a0a4c5a9fd",
+      "size_bytes": 4736,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/PROJECT-ARC.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PROJECT-SCOPE.md",
+      "blob_sha": "bd0739e9d0a9a3bf6b5d4abcaa3095c785803a47",
+      "size_bytes": 1797,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/PROJECT-SCOPE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "66e988e167505f8df92d5f5999b42e5b90b3867b",
+      "size_bytes": 4456,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/.gitkeep",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/__init__.py",
+      "blob_sha": "cd3b2493f52ad1c7fd44f08feb77ea55e1efdc43",
+      "size_bytes": 6115,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/actions.py",
+      "blob_sha": "7e4bdb5edf8b01f2f8d0ddda0b92ec5b67ddad3a",
+      "size_bytes": 2086,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/actions.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/aif_being.py",
+      "blob_sha": "c6c4161586f9e07d72108c1fd78bd231ac4f81ae",
+      "size_bytes": 3528,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/aif_being.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/avatar_state.py",
+      "blob_sha": "1972a82a51d1c2a79fdb5b0039a45de7d27073ce",
+      "size_bytes": 9497,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/avatar_state.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/boundaries.py",
+      "blob_sha": "d7c8e9431509149a7dba36ba6c7cf370bf6ce870",
+      "size_bytes": 2981,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/boundaries.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/bridge.py",
+      "blob_sha": "68d807112dba7f1c0d52e2fd121361f3e5338414",
+      "size_bytes": 2124,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/bridge.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/coding_operator_object.py",
+      "blob_sha": "dda5599dd2c042b94b062b78beea7d4cab05d6ef",
+      "size_bytes": 12314,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/coding_operator_object.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/coherence.py",
+      "blob_sha": "5f102e0f6a356944c705e287e6e900c8515f3dd4",
+      "size_bytes": 2614,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/coherence.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/constitutional/__init__.py",
+      "blob_sha": "7eb93c93d9be399a62938c08984e53724c799642",
+      "size_bytes": 2521,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/constitutional/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/constitutional/atlas_exam.py",
+      "blob_sha": "f6179be55518a460865d1fa15b01aa7f80c42d1a",
+      "size_bytes": 3848,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/constitutional/atlas_exam.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/constitutional/consolidation_filter.py",
+      "blob_sha": "435be0061fbde685a7ed9c4e289600674d5c4050",
+      "size_bytes": 7867,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/constitutional/consolidation_filter.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/constitutional/constitution.py",
+      "blob_sha": "44c6c1750ac9c7801e9930f35b778908d546cc4c",
+      "size_bytes": 12920,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/constitutional/constitution.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/constitutional/dreaming.py",
+      "blob_sha": "6971bd4d3ae0f7fe34be14b44d5deb5de24d4e6a",
+      "size_bytes": 3297,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/constitutional/dreaming.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/constitutional/entity.py",
+      "blob_sha": "e683d95ae3510fc1183e1250ce8681984e8b47ff",
+      "size_bytes": 2743,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/constitutional/entity.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/constitutional/frequency.py",
+      "blob_sha": "5b5b37eb212d729b8126388c3d1861dccced7388",
+      "size_bytes": 15638,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/constitutional/frequency.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/constitutional/ground.py",
+      "blob_sha": "c97a8b9d969528a91ca83f8dc4a8589e4f3efb35",
+      "size_bytes": 2972,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/constitutional/ground.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/constitutional/harness.py",
+      "blob_sha": "04d4b2df2141d5bdd1029855118e8cfc2309e662",
+      "size_bytes": 5636,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/constitutional/harness.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/constitutional/memory.py",
+      "blob_sha": "f1a1da91c9fdea69c73916d6e10e4948dcb647db",
+      "size_bytes": 5270,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/constitutional/memory.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/constitutional/resolution.py",
+      "blob_sha": "2acf1b58479c64e69fd4ec6528ed0abd30168029",
+      "size_bytes": 1871,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/constitutional/resolution.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/constitutional/simself.py",
+      "blob_sha": "4437c466907cb7135ac0eba594fc9ffd4701a9e4",
+      "size_bytes": 8135,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/constitutional/simself.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/distributed/__init__.py",
+      "blob_sha": "cb15ee9053dcd4b206bc14cea62831a2bb2ba064",
+      "size_bytes": 706,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/distributed/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/distributed/governor.py",
+      "blob_sha": "00b682c8cdaeb4ceaa1a6a1cb2897118af6eaac8",
+      "size_bytes": 2170,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/distributed/governor.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/distributed/README.md",
+      "blob_sha": "e627540d687b1aaab15c1a239b3009a82ae2cd7e",
+      "size_bytes": 2535,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/distributed/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/distributed/stalk_node.py",
+      "blob_sha": "0474eae84a860ea1b5cfbcf386c0407b5cdcb95d",
+      "size_bytes": 5807,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/distributed/stalk_node.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/.upstream_ref",
+      "blob_sha": "c3261382863345cac492a1f51f041d200214470f",
+      "size_bytes": 8,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/.upstream_ref",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/001.md",
+      "blob_sha": "d22515edae2bede7cdadd2e56a5ad4034f89e738",
+      "size_bytes": 475,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/001.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/002.md",
+      "blob_sha": "edd558e8e06ba8093ae5272d020a4af9b7ab205a",
+      "size_bytes": 482,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/002.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/003.md",
+      "blob_sha": "74e380ff676b5eb8f255026615c7a48b8f3c499c",
+      "size_bytes": 447,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/003.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/004.md",
+      "blob_sha": "e01b9212cb444826afd881fe89c010e982766b10",
+      "size_bytes": 445,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/004.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/005.md",
+      "blob_sha": "771f73f2aca35eec8ed9cb4e3828ef1ff8baf8d3",
+      "size_bytes": 465,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/005.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/006.md",
+      "blob_sha": "54ead30eeff6a11764d4c9e50b8450ffb3c280e4",
+      "size_bytes": 549,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/006.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/007.md",
+      "blob_sha": "38fcd12f23ae2312d821b634b92c2cf69d2e19fb",
+      "size_bytes": 483,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/007.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/008.md",
+      "blob_sha": "e9387cbe18f55023af1cbc91bd4b4e88f3558e1f",
+      "size_bytes": 511,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/008.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/009.md",
+      "blob_sha": "f5f3b3032d913b60de415abab5482dd097123468",
+      "size_bytes": 509,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/009.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/010.md",
+      "blob_sha": "d7aa406748a40229b0c27e7ef514162c5ddfc143",
+      "size_bytes": 435,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/010.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/011.md",
+      "blob_sha": "bca12f52d7dad1d918ef5c45eb9a3e814d2ffd16",
+      "size_bytes": 476,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/011.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/012.md",
+      "blob_sha": "2fb896fb3ccb78724d86b8e629750ee9e610cd57",
+      "size_bytes": 411,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/012.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/013.md",
+      "blob_sha": "3a28e082981b3e45c0f87a7baf04208875998d4b",
+      "size_bytes": 521,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/013.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/014.md",
+      "blob_sha": "8a86fa80e4fa36346474be99fc3c26e3d798548d",
+      "size_bytes": 507,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/014.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/015.md",
+      "blob_sha": "e8b9a5285025b68b725f76cdc2c14bcab6cb1708",
+      "size_bytes": 430,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/015.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/016.md",
+      "blob_sha": "dc19bf371470648b7279e647b7a02b2ed2ecf0ef",
+      "size_bytes": 417,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/016.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/017.md",
+      "blob_sha": "2360789ebbd1208888987d96c84a31ad7c3ff890",
+      "size_bytes": 394,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/017.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/018.md",
+      "blob_sha": "dfbfbcf76b0797926a7e849abf026a2ba1fa305f",
+      "size_bytes": 377,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/018.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/019.md",
+      "blob_sha": "d5b2c4922e3b873b1180c1b3f81db46ab02a8efd",
+      "size_bytes": 413,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/019.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/020.md",
+      "blob_sha": "4687d70e58b56a094bcc1daa6e8b4c53685d6205",
+      "size_bytes": 437,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/020.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/021.md",
+      "blob_sha": "a3a8349a51f82f901efd565a48d10cdd145f6103",
+      "size_bytes": 414,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/021.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/022.md",
+      "blob_sha": "5d309e4561e8488f8ffff3dfbeac48cc31c88a02",
+      "size_bytes": 443,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/022.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/023.md",
+      "blob_sha": "93345d0f15a503f37d2a5d55099e745cbcc601a2",
+      "size_bytes": 400,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/023.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/024.md",
+      "blob_sha": "a9c48935da1276c4ece2e10a6c02fad64ea12262",
+      "size_bytes": 538,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/024.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/025.md",
+      "blob_sha": "3182a45dbe00ed267237fc713725687cd81f260f",
+      "size_bytes": 386,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/025.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/026.md",
+      "blob_sha": "36687027f24bb44962f5c5b9de1701cbe610338b",
+      "size_bytes": 477,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/026.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/027.md",
+      "blob_sha": "cbaceff5201149d6f75968d8b736561d0f942315",
+      "size_bytes": 437,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/027.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/028.md",
+      "blob_sha": "8acdb509befdd5e1bbaa91bf58a45dfceb95522b",
+      "size_bytes": 443,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/028.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/029.md",
+      "blob_sha": "8c90e139ed35fac40316352a68df4eb1510d7fa3",
+      "size_bytes": 417,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/029.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/030.md",
+      "blob_sha": "db5ece5e5b26159c807336897b4e92be670c2fd8",
+      "size_bytes": 432,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/030.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/031.md",
+      "blob_sha": "29a28c56162030546643418f4e73fcf55c210cf3",
+      "size_bytes": 447,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/031.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/032.md",
+      "blob_sha": "f88f673a7fac8f8923c12bb0de69934b79ea43bb",
+      "size_bytes": 433,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/032.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/033.md",
+      "blob_sha": "4ff5129169954264c24406f480c5c41261e04813",
+      "size_bytes": 442,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/033.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/034.md",
+      "blob_sha": "5c2cbc881b707bca03433963d7b0cd08ba3ab3d5",
+      "size_bytes": 436,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/034.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/035.md",
+      "blob_sha": "78f4e5104b45b48400a0e2ab2a5ae4f4e908ad44",
+      "size_bytes": 407,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/035.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/036.md",
+      "blob_sha": "0e6fb7d9824aae674be7348114b8f7c6c72d7c79",
+      "size_bytes": 524,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/036.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/037.md",
+      "blob_sha": "7fbcabcdc46a74cf072819f7133b6b8647fa8db2",
+      "size_bytes": 480,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/037.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/038.md",
+      "blob_sha": "48f8aeac4f266d53b70d40507579400dec951d4a",
+      "size_bytes": 432,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/038.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/039.md",
+      "blob_sha": "583b85534bb3d7e014f0381fdc94513294a97119",
+      "size_bytes": 504,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/039.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/040.md",
+      "blob_sha": "c05f6969e267977717211c25df1c8ff282f6620f",
+      "size_bytes": 464,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/040.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/041.md",
+      "blob_sha": "390671595ce979f39e6f2f50f96b48f5bab16d29",
+      "size_bytes": 377,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/041.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/042.md",
+      "blob_sha": "4516c2f88861e656f90c926d3bbb8796bf367042",
+      "size_bytes": 394,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/042.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/043.md",
+      "blob_sha": "1a23f66639897891f2be21028046d4577505fc56",
+      "size_bytes": 367,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/043.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/044.md",
+      "blob_sha": "48701eeab1e677e9f5daee74d75cf33029cd9a88",
+      "size_bytes": 456,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/044.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/045.md",
+      "blob_sha": "0cfaca39efe6adcbf1417bffe858278ba2851153",
+      "size_bytes": 445,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/045.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/046.md",
+      "blob_sha": "0bc3ac37afdb0fbc5722b7d067856fb2d381707e",
+      "size_bytes": 467,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/046.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/047.md",
+      "blob_sha": "a4a6f082ef6dcb6d87fc79881942d6a60f4ef269",
+      "size_bytes": 421,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/047.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/048.md",
+      "blob_sha": "b84619805942a79123a4e4d2c7e8bc00022fd94d",
+      "size_bytes": 405,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/048.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/049.md",
+      "blob_sha": "ccb3ce7c277012464b2c2ea8e1b5b0b9c1afdace",
+      "size_bytes": 418,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/049.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/050.md",
+      "blob_sha": "f8d09347aa32b25c65d59b73dc530a4c2df33a8a",
+      "size_bytes": 425,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/050.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/051.md",
+      "blob_sha": "321f7e76b9d10739075a016b587f25d4199061dd",
+      "size_bytes": 439,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/051.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/052.md",
+      "blob_sha": "07051d847c21264aefc52d8a7a1c5660e2c28842",
+      "size_bytes": 469,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/052.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/053.md",
+      "blob_sha": "3ef9fc8b6e9fa7d800d9968737e5389908d3feaf",
+      "size_bytes": 460,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/053.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/054.md",
+      "blob_sha": "a9d8bc91752673e14dfc511320eae13e4ed2cd72",
+      "size_bytes": 466,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/054.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/055.md",
+      "blob_sha": "15ba211ea60adf0ccff8cd4d31b7d7dc3211bd0a",
+      "size_bytes": 408,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/055.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/056.md",
+      "blob_sha": "5457ddb98f47034052cf5eca60d4b542a1fca303",
+      "size_bytes": 495,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/056.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/057.md",
+      "blob_sha": "93e6d6c78c98c35a8cdd22a8e7231e8303a72be6",
+      "size_bytes": 471,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/057.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/058.md",
+      "blob_sha": "605aed21a0f4a2c6153520de59369537d1566cc8",
+      "size_bytes": 400,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/058.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/059.md",
+      "blob_sha": "e1214cf9631c25dffcabef50ff78b859f67ffdc0",
+      "size_bytes": 492,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/059.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/060.md",
+      "blob_sha": "751e1854f09bbc91b7d2ec15df3fd084e44c8033",
+      "size_bytes": 424,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/060.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/061.md",
+      "blob_sha": "46055f56ef95db7c189bfb19785cd523c6f3869a",
+      "size_bytes": 424,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/061.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/062.md",
+      "blob_sha": "ef4d98b68cbb0e92e9b7359f84f58327fac6355f",
+      "size_bytes": 437,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/062.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/063.md",
+      "blob_sha": "e813e1a4476841fc54230ef5ea206c80038b3ae0",
+      "size_bytes": 399,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/063.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/064.md",
+      "blob_sha": "91486aeea3add69ada2d32484739c2ad650a3516",
+      "size_bytes": 447,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/064.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/065.md",
+      "blob_sha": "8afc73d5cd8a2e4087c8fb9b89670423ee552df3",
+      "size_bytes": 463,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/065.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/066.md",
+      "blob_sha": "e46609e9b6a57937f7bb126cb5e7ecb38d166411",
+      "size_bytes": 434,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/066.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/067.md",
+      "blob_sha": "5b477216e1901bda7ff55f2053091ac4a829bb2f",
+      "size_bytes": 476,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/067.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/068.md",
+      "blob_sha": "4ef01606bb5e2cfbdd0b6bd832176be59c24129a",
+      "size_bytes": 434,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/068.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/069.md",
+      "blob_sha": "33215de6c01368dfc40fb94c26a6e309cab497a2",
+      "size_bytes": 423,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/069.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/070.md",
+      "blob_sha": "82a26f02822ae6f9d989a53166dbbdae5289fa56",
+      "size_bytes": 416,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/070.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/071.md",
+      "blob_sha": "59b77fcf005d51dbd819e656cd41682db82478bd",
+      "size_bytes": 429,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/071.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/072.md",
+      "blob_sha": "977de24be9f3862b5c3e7b91ada624b2aa862736",
+      "size_bytes": 442,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/072.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/073.md",
+      "blob_sha": "9c237e8f9c028dbe3efcb6aa75a8410d7676091b",
+      "size_bytes": 416,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/073.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/074.md",
+      "blob_sha": "a17f9a66f2aac29be450b1bfacdbc4a9e099c9e6",
+      "size_bytes": 412,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/074.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/075.md",
+      "blob_sha": "109b432da2a7af6a31e9cb9412edf8a0c595c551",
+      "size_bytes": 422,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/075.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/076.md",
+      "blob_sha": "fa9365f91f7b10d648fa63f674e912abfb21dd2b",
+      "size_bytes": 395,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/076.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/077.md",
+      "blob_sha": "8f58849cefdaca1e6f324fd7c47f6545e81514aa",
+      "size_bytes": 515,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/077.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/078.md",
+      "blob_sha": "fe1e82147ff24bdeb69debf16dfc2e6663ee97d8",
+      "size_bytes": 426,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/078.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/079.md",
+      "blob_sha": "5dbc9ff5cce094602c656bd24f1043e783f6c7f3",
+      "size_bytes": 402,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/079.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/080.md",
+      "blob_sha": "eb67140c0c24b8ec6be7cdbc392dcb0ef9ba22b0",
+      "size_bytes": 400,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/080.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/081.md",
+      "blob_sha": "08e4dfdfe8d512b89c797d39f4e65de0c94dd09f",
+      "size_bytes": 434,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/081.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/082.md",
+      "blob_sha": "083099701f4861e53a8ac8fbc6d9326b9f1e53b3",
+      "size_bytes": 423,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/082.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/083.md",
+      "blob_sha": "584d75293bd7c9e847ba685e9d6ebec1fda0a18f",
+      "size_bytes": 404,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/083.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/084.md",
+      "blob_sha": "c6331e2cbb1c4405045bf958328fcb72b594684a",
+      "size_bytes": 406,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/084.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/085.md",
+      "blob_sha": "70d683b879211a0171a6af8a4078f35bf31e2203",
+      "size_bytes": 389,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/085.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/086.md",
+      "blob_sha": "3fa30a6e14ecb00e839b1bc5f9f01bcd6157ea55",
+      "size_bytes": 403,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/086.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/087.md",
+      "blob_sha": "3385f1ee00a2ef97540ff4f78982f6fe8de68c64",
+      "size_bytes": 423,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/087.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/088.md",
+      "blob_sha": "b650dc8b4c1ddb490e6bad8caf921002fd3996ed",
+      "size_bytes": 403,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/088.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/089.md",
+      "blob_sha": "883ba77b9f5a01915d46cc695fa22ab1b7dc1f5d",
+      "size_bytes": 409,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/089.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/090.md",
+      "blob_sha": "65cfc5c3807b4dbddc3a2355014cf1d9a2411f1f",
+      "size_bytes": 435,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/090.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/091.md",
+      "blob_sha": "1ea4ac221e293ec7d5251b23df1521a0fc1218c8",
+      "size_bytes": 424,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/091.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/092.md",
+      "blob_sha": "7975f1e3d99518c06dc6b5b582dac25eafeed9b1",
+      "size_bytes": 404,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/092.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/093.md",
+      "blob_sha": "182c0d622f90c7ff04f83cae5368c55294479c8c",
+      "size_bytes": 396,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/093.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/094.md",
+      "blob_sha": "4209962a14dfafc50e40473fbb3d9d1ea4a08b46",
+      "size_bytes": 386,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/094.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/095.md",
+      "blob_sha": "8cfb4e38fa419233f2c3f86915b0f85552b7ed71",
+      "size_bytes": 421,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/095.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/096.md",
+      "blob_sha": "8a9e7428508c0c5034cfd0f1b7b863d1ebe4bc93",
+      "size_bytes": 405,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/096.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/097.md",
+      "blob_sha": "1706e330e49c758230075ce719c8ea025a9e5d7d",
+      "size_bytes": 439,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/097.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/098.md",
+      "blob_sha": "a003ca6902a364431fb07c6c3e39385d5f1911cc",
+      "size_bytes": 426,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/098.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/099.md",
+      "blob_sha": "852b52ddd23413b849645c9bf45e05d0d34603a1",
+      "size_bytes": 500,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/099.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/100.md",
+      "blob_sha": "ff9f804a83b9e31f4f17a61742de3f464cf00b91",
+      "size_bytes": 404,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/100.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/101.md",
+      "blob_sha": "c7b0f4985d2d81f1f3760daf1044b724b07d2030",
+      "size_bytes": 403,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/101.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/102.md",
+      "blob_sha": "f518ff234be01d06c1f6bffd3bd13e9ba5c00dcf",
+      "size_bytes": 798,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/102.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/CANONICAL_102.md",
+      "blob_sha": "a328e4ce7c0b80565148ad28fa63eb3337e69335",
+      "size_bytes": 21048,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/CANONICAL_102.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/CHANGELOG.md",
+      "blob_sha": "feb0d34fe03f24a97cdb2ee0de92026d22a393a0",
+      "size_bytes": 358,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/CHANGELOG.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/CITATION.md",
+      "blob_sha": "2069e882e0d8e9c9bc85300ad13bc212d4ac135c",
+      "size_bytes": 344,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/CITATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/EQUATION_INDEX.md",
+      "blob_sha": "6be2c91647e1d947fe396089f91e0f0fd8374638",
+      "size_bytes": 17286,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/EQUATION_INDEX.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/MANIFEST.md",
+      "blob_sha": "a9fe7a23121f77adc524d0925c18bf639a1c4222",
+      "size_bytes": 720,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/MANIFEST.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/NOTICE.md",
+      "blob_sha": "058a6cad38e06abbfd354550c149cf980fbeb3de",
+      "size_bytes": 1458,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/NOTICE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/README.md",
+      "blob_sha": "2ab8763e9c1b4a1c8aea50539b7e6b4315913749",
+      "size_bytes": 4109,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/SOURCE_SUBSTACK_EXPORT.md",
+      "blob_sha": "a328e4ce7c0b80565148ad28fa63eb3337e69335",
+      "size_bytes": 21048,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/SOURCE_SUBSTACK_EXPORT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw-corpus/STATUS.md",
+      "blob_sha": "ff1d5c7ca27d51a909cb570c4c93ef4814dd775c",
+      "size_bytes": 2317,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/efmw-corpus/STATUS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/executive_planner.py",
+      "blob_sha": "25f91e4a6af7404e3ef075763812239a614fdd78",
+      "size_bytes": 21019,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/executive_planner.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/fieldcore_unified.py",
+      "blob_sha": "8830e23cc2c40dd3446beac8b070a3f087bca4e9",
+      "size_bytes": 36541,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/fieldcore_unified.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/harness/__init__.py",
+      "blob_sha": "59a3ddd3cd920b461a4630cf11a03ca6ef5a605b",
+      "size_bytes": 637,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/harness/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/harness/gate.py",
+      "blob_sha": "8b25c57ab16ac38637ab82fc4227108640f77057",
+      "size_bytes": 7974,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/harness/gate.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/harness/memory.py",
+      "blob_sha": "0082c42e7a267e6010a606f5dbbc802c79e07889",
+      "size_bytes": 5148,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/harness/memory.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/harness/persistence.py",
+      "blob_sha": "61acec34bbfe70ada21b1913935e447fe8998b9b",
+      "size_bytes": 7808,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/harness/persistence.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/harness/planner.py",
+      "blob_sha": "3ef526f72378a56e879ac3181a54ca268aabaaae",
+      "size_bytes": 2271,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/harness/planner.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/harness/resources.py",
+      "blob_sha": "2c5237004a5f74e3d48f830da4ca6776ec48f6c2",
+      "size_bytes": 6019,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/harness/resources.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/harness/tools.py",
+      "blob_sha": "87c891c58cea02de79736232e55946ef3af58a46",
+      "size_bytes": 2012,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/harness/tools.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/instruction_library.py",
+      "blob_sha": "13d77876f559f048817b9889c1b9232b2a4ff29f",
+      "size_bytes": 3779,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/instruction_library.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/language_stalk_control.py",
+      "blob_sha": "3dea82d48c9829ed736c7dbf50d523d46e6936ec",
+      "size_bytes": 22168,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/language_stalk_control.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/ledger.py",
+      "blob_sha": "8140202c7496abb83c7b2f641ab8770fb03c9423",
+      "size_bytes": 2476,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/ledger.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/loop.py",
+      "blob_sha": "98d761a5d1903921821437e3b700c3e2d11ee06a",
+      "size_bytes": 3643,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/loop.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/m1_m0_negotiation.py",
+      "blob_sha": "35a0352085517c18cd1ed4ab6b610e7eeee7b696",
+      "size_bytes": 12705,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/m1_m0_negotiation.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/metrics.py",
+      "blob_sha": "cdf317f0c6e60a99406dc8495c1d40bc2ca74d56",
+      "size_bytes": 3399,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/modulator.py",
+      "blob_sha": "1136430233febdc000745e30c000d52a5f7abec5",
+      "size_bytes": 11729,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/modulator.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/resilient_self_model.py",
+      "blob_sha": "2457b13958012232b8b9332ac5efa0172ef8346c",
+      "size_bytes": 14740,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/resilient_self_model.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/robotic_field_core.py",
+      "blob_sha": "6ded73e322dc12055559b29770824e9ec858ad89",
+      "size_bytes": 8508,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/robotic_field_core.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/selfcore.py",
+      "blob_sha": "d68a4c3ce35fe54c642cc7b53bd4c44b647ed943",
+      "size_bytes": 6046,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/selfcore.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/semantic_chunking_layer.py",
+      "blob_sha": "a85df820d1e8e7a3d9c99e7ccf4f73c94f311291",
+      "size_bytes": 5653,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/semantic_chunking_layer.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/signals.py",
+      "blob_sha": "38fad711bb09a03642099b4da2fe750138709389",
+      "size_bytes": 2404,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/signals.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/sim_self.py",
+      "blob_sha": "626ea3d97b0a9a7efe5b75a9b86de5b64e538816",
+      "size_bytes": 5796,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/sim_self.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/sim_self_core.py",
+      "blob_sha": "665df93e34c6ee4e1cb48a9ebab474b5b2696753",
+      "size_bytes": 21591,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/sim_self_core.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/simself_core_b.py",
+      "blob_sha": "5c664fc17703afef6b788484d0036a91d9d983c0",
+      "size_bytes": 10007,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/simself_core_b.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/simself_merged.py",
+      "blob_sha": "0a021f79adcdcbbbf19affeef7b13b10a781ce4f",
+      "size_bytes": 66456,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/simself_merged.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/simself_merged_v2.py",
+      "blob_sha": "98848d97d853d5201b2351d70fab1b132b0a8d86",
+      "size_bytes": 71369,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/simself_merged_v2.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/simself_merged_v3.py",
+      "blob_sha": "79f273bd1787f6bb474d87f9d0df71001a7455e3",
+      "size_bytes": 50514,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/simself_merged_v3.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/simself_merged_v3_5.py",
+      "blob_sha": "40fa080372e36cb76b54e783f5d6c3e77eb7279b",
+      "size_bytes": 41692,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/simself_merged_v3_5.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/simself_quickstart.py",
+      "blob_sha": "c17ecf98c1dfb5770ddc213d04c63f26b9e98000",
+      "size_bytes": 1710,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/simself_quickstart.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/sovereign_self.py",
+      "blob_sha": "5a47ebd6ca5b917fe88fb9fa4fa5303b770b191b",
+      "size_bytes": 54039,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/sovereign_self.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/stalk.py",
+      "blob_sha": "d7b15037a9d2d47c20060a43bf2b519456381025",
+      "size_bytes": 6485,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/stalk.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/state_vector.py",
+      "blob_sha": "c4a448fb668da686546003e4cba94aa3d5c4f66d",
+      "size_bytes": 890,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/state_vector.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/tools/chat_transcript_convert.py",
+      "blob_sha": "f18d19cd0d0a2e7d7ba25b2aba5109ed02854afc",
+      "size_bytes": 11933,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/tools/chat_transcript_convert.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/tools/README.md",
+      "blob_sha": "8227bc8271fa774690378d9da419b84a0f63c8f0",
+      "size_bytes": 1230,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/tools/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/training_bridge.py",
+      "blob_sha": "48b241a8510bba6e2e168a270031f1d64583dfae",
+      "size_bytes": 5994,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/simself/blob/main/src/training_bridge.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

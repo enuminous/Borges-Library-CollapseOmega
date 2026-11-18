@@ -1,0 +1,182 @@
+{
+  "repository": "enuminous/Owl",
+  "default_branch": "main",
+  "tree_sha": "ee2bd9fdd30e74b4a0d38d7f67306b0283a62b40",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "alert_schema.json",
+      "blob_sha": "b3565905a592eb691646c73cf264cfe83c5e91d7",
+      "size_bytes": 791,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/alert_schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "baselines.py",
+      "blob_sha": "a48ca5652327c7a6244fce7e630119bbdd725787",
+      "size_bytes": 1112,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/baselines.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "16bd5058509a00d12782f5521efa415d9ceb0b03",
+      "size_bytes": 260,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_config.yaml",
+      "blob_sha": "3cf73612eff690c9a7345f260aba7b0d672a91d3",
+      "size_bytes": 299,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/example_config.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_data.csv",
+      "blob_sha": "a9a052cbaba7ac7c4e8550c90bcf1205bc8ae4c6",
+      "size_bytes": 32713,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/example_data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_run.py",
+      "blob_sha": "beb7959baebc5959b7e78bbfe593ae9c94a71588",
+      "size_bytes": 395,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/example_run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "freeze.py",
+      "blob_sha": "c0ff9c24bbc4fb265f2e12978184ce7ac4f44bf0",
+      "size_bytes": 433,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/freeze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "94006c1f6ce35dea49ee2d24ac23f4e950f17dc6",
+      "size_bytes": 1830,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "79719fc120a524ad10e1a44d1de510cffc80530d",
+      "size_bytes": 1087,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "5144b4dd20e3c17175f35f86e8e84f85b75a60d2",
+      "size_bytes": 1187,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metrics.py",
+      "blob_sha": "7788a07a0f802b5a9aeca25f8551d1a2036a638b",
+      "size_bytes": 2303,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "owl.py",
+      "blob_sha": "61e3d7075b51e0c5ab0118b8d60c43af68dd6985",
+      "size_bytes": 3144,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/owl.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "aa5705f8c7b549174c4837af0aa6e299715febc6",
+      "size_bytes": 480,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "8139c5231510cf59530f516c0208ce1e6bc61c1d",
+      "size_bytes": 4927,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "92960fc2c2068ab631f0a3757dd8e63ce0e1c4f5",
+      "size_bytes": 66,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "signals.py",
+      "blob_sha": "aa76928cc0c75a0328ed5eb227eea66869e0e5ec",
+      "size_bytes": 2728,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/signals.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_owl.py",
+      "blob_sha": "047101af201f52ea9b498cacbd3f139c54aba831",
+      "size_bytes": 785,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Owl/blob/main/test_owl.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

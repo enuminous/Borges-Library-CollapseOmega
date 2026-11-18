@@ -1,0 +1,20 @@
+{
+  "repository": "enuminous/Harlequinn",
+  "default_branch": "master",
+  "tree_sha": "df38b3c01b7fe54592b53a1b96013bbcf6c0914b",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "README.md",
+      "blob_sha": "8cbee11c861b55f72ee9c7faa8689701df914cfa",
+      "size_bytes": 1560,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Harlequinn/blob/master/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

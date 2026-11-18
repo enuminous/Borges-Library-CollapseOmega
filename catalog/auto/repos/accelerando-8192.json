@@ -1,0 +1,290 @@
+{
+  "repository": "enuminous/accelerando-8192",
+  "default_branch": "main",
+  "tree_sha": "b9b38d9556504654acf9b10ce6bb0a53b1905a8d",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".gitignore",
+      "blob_sha": "ff6275a581284736ee358106fb162a345d3cbbea",
+      "size_bytes": 37,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/.nojekyll",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/.nojekyll",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/app.mjs",
+      "blob_sha": "65ef16616e62b8a200cefb6ebd2eb370cd2c5ef8",
+      "size_bytes": 8072,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/app.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/assets/accelerando-8192.ttf",
+      "blob_sha": "1d7058ba5a23a93dce854aebd5b43250764ba07a",
+      "size_bytes": 936100,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/assets/accelerando-8192.ttf",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/assets/accelerando-preview.webp",
+      "blob_sha": "4ed319bafd416eefdd3a7f65d3c59055ea572856",
+      "size_bytes": 49480,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/assets/accelerando-preview.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/assets/accelerando.png",
+      "blob_sha": "81998e64b7794b659aeb2d15856d637e2df6d507",
+      "size_bytes": 1715288,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/assets/accelerando.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/assets/atlas-01-preview.webp",
+      "blob_sha": "8c8a5bff7e5c3e81168465b4335220a174dc33b9",
+      "size_bytes": 203974,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/assets/atlas-01-preview.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/assets/atlas-01.png",
+      "blob_sha": "2d029309b187c0b240781640af2ed702522dec74",
+      "size_bytes": 3228618,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/assets/atlas-01.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/assets/atlas-02-preview.webp",
+      "blob_sha": "ebb3241c2dfd477bafa8aea0fffc63b8565bd4a3",
+      "size_bytes": 211894,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/assets/atlas-02-preview.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/assets/atlas-02.png",
+      "blob_sha": "9a69e65f3385b35eaccba4dd9053775c40932d40",
+      "size_bytes": 4277727,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/assets/atlas-02.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/assets/atlas-03-preview.webp",
+      "blob_sha": "921d00fbe4d68429fbfccd5c1175e1db96e401bc",
+      "size_bytes": 219852,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/assets/atlas-03-preview.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/assets/atlas-03.png",
+      "blob_sha": "e71d12da336698753d74d51b471543718227a26d",
+      "size_bytes": 4747368,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/assets/atlas-03.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/assets/favicon.svg",
+      "blob_sha": "5898bb50c6ec4b85ba2648fd036adf18fb76cfea",
+      "size_bytes": 237,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/assets/favicon.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/assets/social-preview.png",
+      "blob_sha": "59209ee20608cde23234eeb628f4eb1c7a5a4666",
+      "size_bytes": 35928,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/assets/social-preview.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/data/alphabet.json",
+      "blob_sha": "42927be605d982598178c8a6f9b7ecf2e4304766",
+      "size_bytes": 847981,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/data/alphabet.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/downloads/8192-glyph-svgs.zip",
+      "blob_sha": "5f5a683747fe56b79b055c5a0e3ea38f8bde93fb",
+      "size_bytes": 2252374,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/downloads/8192-glyph-svgs.zip",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/downloads/accelerando-8192-complete.zip",
+      "blob_sha": "79865a8c62083c9be81fc9cf3ea3a91fd6530f64",
+      "size_bytes": 4178488,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/downloads/accelerando-8192-complete.zip",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/downloads/accelerando.svg",
+      "blob_sha": "c383c229f93717a9928fb418641340882854a2d1",
+      "size_bytes": 145212,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/downloads/accelerando.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/downloads/complete-vocabulary.svg",
+      "blob_sha": "636ed5289451c9d88bb00fb3ab62ef306e5e890d",
+      "size_bytes": 5756228,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/downloads/complete-vocabulary.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/downloads/four-images.zip",
+      "blob_sha": "5715d6a505ff395cc8cbe7fe01dcd993b0f425af",
+      "size_bytes": 13304849,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/downloads/four-images.zip",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/downloads/tokenizer.json",
+      "blob_sha": "5132ee545f41aa47f7e2b5a65bf6376082b69198",
+      "size_bytes": 1291842,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/downloads/tokenizer.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/index.html",
+      "blob_sha": "85392815609c88ce79ef1ef22243689c9f7c64f8",
+      "size_bytes": 19043,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/style.css",
+      "blob_sha": "14e3bc603f7a6dcfe8cf8b32ab478fda3152b0b5",
+      "size_bytes": 14771,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/style.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/tokenizer.mjs",
+      "blob_sha": "8c4577f2382334151de2ffcad4e27a06da72b152",
+      "size_bytes": 1397,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/docs/tokenizer.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "7f16e63586dec781403deaf16cd514a62bc26b8f",
+      "size_bytes": 4360,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/reference.json",
+      "blob_sha": "d54bff817362a3097a1c575677df0902a9769578",
+      "size_bytes": 98164,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/tests/reference.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/tokenizer.test.mjs",
+      "blob_sha": "675889a94e1586c3cc1271830d225969b7ff9102",
+      "size_bytes": 930,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/tests/tokenizer.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.txt",
+      "blob_sha": "9432bf055f63a639e76dab52b9293b59e9a933cf",
+      "size_bytes": 1146,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/accelerando-8192/blob/main/THIRD_PARTY_NOTICES.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

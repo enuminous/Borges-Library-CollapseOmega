@@ -1,0 +1,451 @@
+{
+  "repository": "enuminous/Extrauniversal-Warren-Report",
+  "default_branch": "main",
+  "tree_sha": "39d85d3e6813beedc1ff95b1d9a45e7677531540",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/evidence-correction.md",
+      "blob_sha": "40d2f19efe25e69516f83591079ede39b1c1dfa5",
+      "size_bytes": 459,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/.github/ISSUE_TEMPLATE/evidence-correction.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "blob_sha": "10b5acfbb4219930626703f3b63792b989c1a3b0",
+      "size_bytes": 380,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/.github/workflows/verify.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "569aa8a7a80ff2ba2bf26b93eadb9339c2dc969c",
+      "size_bytes": 71,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".nojekyll",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/.nojekyll",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/app.js",
+      "blob_sha": "3e7d31e8dc554f36f3216f7c9ba9280a13a2c93e",
+      "size_bytes": 1457,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/assets/app.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/favicon.svg",
+      "blob_sha": "f03c9c8f6cba5b5166514553616c8c304edcd239",
+      "size_bytes": 228,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/assets/favicon.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/style.css",
+      "blob_sha": "8207b176ac86c46bde8309a556a5d95e50f3efc5",
+      "size_bytes": 16034,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/assets/style.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CHANGELOG.html",
+      "blob_sha": "98542d50ae747d87ae85afaff6c598de56902edc",
+      "size_bytes": 2670,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/CHANGELOG.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "blob_sha": "7525141e00a158ed68623e12c9c1e3784501dffe",
+      "size_bytes": 733,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/CHANGELOG.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "ebe67c9ead940cce96008cf55d9c60aca7ef0e3b",
+      "size_bytes": 752,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CONTRIBUTING.html",
+      "blob_sha": "d130c9247f94e574b034db50fcad237969a035e1",
+      "size_bytes": 3198,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/CONTRIBUTING.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "blob_sha": "3074a64cddba3330f419cae7f74737a1a8f14891",
+      "size_bytes": 1245,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/CONTRIBUTING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/claims.csv",
+      "blob_sha": "37b8fd8fc28d58f893928b0f4559b7d5d148fff3",
+      "size_bytes": 12096,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/data/claims.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/claims.json",
+      "blob_sha": "ce0e2c907bb6837f0850144b1117bef3d8259f93",
+      "size_bytes": 17137,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/data/claims.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/provenance.json",
+      "blob_sha": "38eda55ea4e38766baa749e6079f433a4fb96255",
+      "size_bytes": 2028,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/data/provenance.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/sources.json",
+      "blob_sha": "e419dd1a4c1d9977416b8933dca535f626d7f93d",
+      "size_bytes": 9858,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/data/sources.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/CASE_STUDY.html",
+      "blob_sha": "0d0eacac1a23ec53e4a11905bc7987e6dbe53ab7",
+      "size_bytes": 12227,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/CASE_STUDY.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/CASE_STUDY.md",
+      "blob_sha": "83540df63017bc7073244780bd65297766d3fec3",
+      "size_bytes": 9519,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/CASE_STUDY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/CLAIM_REGISTER.html",
+      "blob_sha": "f0bdbdca03d9bf23552952d7d3869fbf1691b4ee",
+      "size_bytes": 19863,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/CLAIM_REGISTER.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/CLAIM_REGISTER.md",
+      "blob_sha": "a076fb2d0935f9a3e0cf9097af4ff20ea270cbc7",
+      "size_bytes": 15346,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/CLAIM_REGISTER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/EVALUATION_PROTOCOL.html",
+      "blob_sha": "4378c9fbe384c36bc188612936dda951de2508ff",
+      "size_bytes": 7585,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/EVALUATION_PROTOCOL.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/EVALUATION_PROTOCOL.md",
+      "blob_sha": "9e77ce87e5f64ac049fa5b954c8183fe57dbbcdf",
+      "size_bytes": 4821,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/EVALUATION_PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/MATHEMATICAL_AUDIT.html",
+      "blob_sha": "5d97510c387bcbbf9988b8539e709837177a64c3",
+      "size_bytes": 7566,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/MATHEMATICAL_AUDIT.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/MATHEMATICAL_AUDIT.md",
+      "blob_sha": "28e63e7aba5633def750cd0573a4630d87e79474",
+      "size_bytes": 4890,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/MATHEMATICAL_AUDIT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/PROVENANCE.html",
+      "blob_sha": "774596e65aab185542730d7b4cbe1a7fa8319506",
+      "size_bytes": 4928,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/PROVENANCE.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/PROVENANCE.md",
+      "blob_sha": "0d995cbcd255c4dd61618955657c516301365ee2",
+      "size_bytes": 2736,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/PROVENANCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/SETUP.html",
+      "blob_sha": "26b5b47b37ed8a96a5d0b228f2a0437047bc6d41",
+      "size_bytes": 4942,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/SETUP.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/SETUP.md",
+      "blob_sha": "cdbf94db60d18546d207180e99e46cb775b8f5d9",
+      "size_bytes": 2617,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/SETUP.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/SOURCES.html",
+      "blob_sha": "9f09c2165f7d1acd665860d87e428874110bedcf",
+      "size_bytes": 11633,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/SOURCES.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/SOURCES.md",
+      "blob_sha": "f03365501df7f2720138cd316509b014773a2507",
+      "size_bytes": 8752,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/SOURCES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/VALIDATION.html",
+      "blob_sha": "9b2b793866c7788d1220c34290de492b0c3b9d83",
+      "size_bytes": 3844,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/VALIDATION.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "blob_sha": "b9e9bcb628a7e0c07ca59d0db36b0323deefa61a",
+      "size_bytes": 1753,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/VALIDATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/ZOO_AUDIT.html",
+      "blob_sha": "1860c550b34ea9152a66bb977cfe48c4b229080e",
+      "size_bytes": 9826,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/ZOO_AUDIT.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/ZOO_AUDIT.md",
+      "blob_sha": "21b188c573feb515994c8a13dfe77ce09d8cdf7e",
+      "size_bytes": 6647,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/docs/ZOO_AUDIT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "abb1762ac4c632177b5ce3cba5f2fd9b40de142f",
+      "size_bytes": 40917,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "9e906aedc02323be565259ac9073cd97dc7da902",
+      "size_bytes": 561,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "cffb1c4620318df27657b944f2b6d26e07ce025e",
+      "size_bytes": 7372,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/build_site.py",
+      "blob_sha": "5100cb29436b072cb0500a759b7d386241470c30",
+      "size_bytes": 20835,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/scripts/build_site.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/package.py",
+      "blob_sha": "1ee39f4a9b36c19d9aca8aee7851ff9848bdc4ed",
+      "size_bytes": 1926,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/scripts/package.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/verify.py",
+      "blob_sha": "cf0ccf494053f7a0f39cfe5b3db8a0fab4c86899",
+      "size_bytes": 5602,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/scripts/verify.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "specimen.html",
+      "blob_sha": "2db8188c4cb83b647de462c164692becce7ca0b6",
+      "size_bytes": 86650,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/specimen.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "specimen/README.md",
+      "blob_sha": "e0a38cd0aaeebc8fd07f32f267aaec06a7d95088",
+      "size_bytes": 1467,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/specimen/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "specimen/submitted-text.txt",
+      "blob_sha": "332dcd250893db0aea6d711e7e3bb18a1d53bc80",
+      "size_bytes": 48889,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Extrauniversal-Warren-Report/blob/main/specimen/submitted-text.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

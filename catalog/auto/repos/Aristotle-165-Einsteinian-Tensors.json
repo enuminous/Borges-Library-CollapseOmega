@@ -1,0 +1,264 @@
+{
+  "repository": "enuminous/Aristotle-165-Einsteinian-Tensors",
+  "default_branch": "main",
+  "tree_sha": "995eb70f760c5abea5278fc732e0f794c2a158dc",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "00a87eccfcf0e857dd4d334a9a1b4116b48a615a",
+      "size_bytes": 1241,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Ablations.lean",
+      "blob_sha": "1f6ac126f1081cca903bad91b5c1b9f0e691c664",
+      "size_bytes": 783,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/Ablations.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ARISTOTLE_SUMMARY.md",
+      "blob_sha": "f0ac3c1171b972ae8128e6f1e47760546136506b",
+      "size_bytes": 2964,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/ARISTOTLE_SUMMARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "9107a0e1650d7092876575409878ceaf5c578bad",
+      "size_bytes": 1629,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Coupling.lean",
+      "blob_sha": "c87c305fe53b2c946e6f88f4ed149e71c250f649",
+      "size_bytes": 1852,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/Coupling.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FIELDSPACE_VERIFICATION.md",
+      "blob_sha": "8179689e8ccee2a6fec9a1ecfc5c7cfd79b3a03e",
+      "size_bytes": 3268,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/FIELDSPACE_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FIX_SCHEDULE.md",
+      "blob_sha": "e146db252f81817c10278a172690fa0f557ed985",
+      "size_bytes": 6674,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/FIX_SCHEDULE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "b1f5535909beca5ec9bac978303e7eb6a899be96",
+      "size_bytes": 36132,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "57bef473f4e93ba8f5d0387c29642e4327c08cda",
+      "size_bytes": 3109,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "63ca33047f1635f0622cd30ccea22f80083301f6",
+      "size_bytes": 375,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Main.lean",
+      "blob_sha": "308f9cfb58cc562160bcd62ba1e20174f161311d",
+      "size_bytes": 563,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "d7f6a420579bc1b4a7344368649d0ede3a95b6ce",
+      "size_bytes": 8835,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Structure.lean",
+      "blob_sha": "e38905293e03a5803dc7c05ab9d2f1c59337429b",
+      "size_bytes": 1441,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/Structure.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "bbc2a0ce1132f1de3d5bd678dcd053684987c58c",
+      "size_bytes": 1869,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Verified.lean",
+      "blob_sha": "4065e790e7fac3efcf2ad8140faf8779e27459db",
+      "size_bytes": 186,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/Verified.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Verified/Ablation.lean",
+      "blob_sha": "1f592bf9efd976cbf398d447918d4fe4cfcd78f1",
+      "size_bytes": 723,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/Verified/Ablation.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Verified/Classes.lean",
+      "blob_sha": "043a4d74a0aec50f7861778290af6532cc4235e2",
+      "size_bytes": 3110,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/Verified/Classes.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Verified/Incidence.lean",
+      "blob_sha": "a95d84cddb4ac817044cf1e2e93959f25c32a5ea",
+      "size_bytes": 650,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/Verified/Incidence.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Verified/Inventory.lean",
+      "blob_sha": "4e10f0e15fef8ecd593672c6fbe273ed7d658e61",
+      "size_bytes": 846,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/Verified/Inventory.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Verified/Overlaps.lean",
+      "blob_sha": "b4c668abc2a6f6bca9dd5d936bb017a96f4791ae",
+      "size_bytes": 5149,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/Verified/Overlaps.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Verified/Reciprocity.lean",
+      "blob_sha": "d87e4790b9d9ad56eb67e77fb6a7644a35fa79d4",
+      "size_bytes": 712,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/Verified/Reciprocity.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Verified/Sectors.lean",
+      "blob_sha": "04f27a21230e7800bf39819b709c0499c64236b4",
+      "size_bytes": 623,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-165-Einsteinian-Tensors/blob/main/Verified/Sectors.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

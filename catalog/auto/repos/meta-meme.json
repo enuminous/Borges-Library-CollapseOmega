@@ -1,0 +1,1240 @@
+{
+  "repository": "enuminous/meta-meme",
+  "default_branch": "main",
+  "tree_sha": "27f3956b2d292b7be83a55d8aeef2cf63b238d82",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".editorconfig",
+      "blob_sha": "d4a2c4405ec2e962c521a13af91bf5f7098a62a8",
+      "size_bytes": 292,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/.editorconfig",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE.md",
+      "blob_sha": "b321869945e9566c75b34418a583f4fdd50a0d8c",
+      "size_bytes": 319,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/.github/ISSUE_TEMPLATE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "f8bdf575884896abffe914a3bb8f3df4884d84a7",
+      "size_bytes": 1207,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".travis.yml",
+      "blob_sha": "1d562013a635c3c883fb8d9649e619f9ad8a96f8",
+      "size_bytes": 694,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/.travis.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "0xDA51PrefixClassification.md",
+      "blob_sha": "df3cacd0818e80a7fbab769e9fb716f1a66b8efe",
+      "size_bytes": 16618,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/0xDA51PrefixClassification.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "_45269eb0-90ca-423d-88c2-4549f9ac07ab.jpeg",
+      "blob_sha": "95bf8ecf875fd0dfe33d1f6c45ded216f8547d1f",
+      "size_bytes": 138459,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/_45269eb0-90ca-423d-88c2-4549f9ac07ab.jpeg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "AUTHORS.rst",
+      "blob_sha": "6e458ad81aab46645c5ed782f2b9eaef169ca02d",
+      "size_bytes": 168,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/AUTHORS.rst",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "collect.sh",
+      "blob_sha": "734139478a849c9229b580a5203ed7c303655c71",
+      "size_bytes": 93,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/collect.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "commit.sh",
+      "blob_sha": "d4ceaddf8d0d1f7412907e2aeedc2b9cce265157",
+      "size_bytes": 148,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/commit.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CONTRIBUTING.rst",
+      "blob_sha": "7e935a20e4e511b133a45b497e32b74e422c4b5a",
+      "size_bytes": 3532,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/CONTRIBUTING.rst",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cookiecutter.json",
+      "blob_sha": "5683a7e73ea4f3c8dfa5539d17a61430ae916be0",
+      "size_bytes": 804,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/cookiecutter.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "diagram.mermaid",
+      "blob_sha": "bff8ba563c8d57d0bd924ce4686adc89aaf9119a",
+      "size_bytes": 3545,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/diagram.mermaid",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/authors.rst",
+      "blob_sha": "e122f914a87b277e565fc9567af1a7545ec9872b",
+      "size_bytes": 28,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/docs/authors.rst",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/conf.py",
+      "blob_sha": "9d9f37498db2835a4b7460a30fe9d61943a83e0c",
+      "size_bytes": 4815,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/docs/conf.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/contributing.rst",
+      "blob_sha": "e582053ea018c369be05aae96cf730744f1dc616",
+      "size_bytes": 33,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/docs/contributing.rst",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/history.rst",
+      "blob_sha": "250649964bbc36f4bec2942f69238aa6f7c02c1a",
+      "size_bytes": 28,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/docs/history.rst",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/index.rst",
+      "blob_sha": "6b509bbffa9e7e951c28c66ebc30842952ce885d",
+      "size_bytes": 305,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/docs/index.rst",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/installation.rst",
+      "blob_sha": "49437dce72494ec44dd8725bee8bbf57cd058157",
+      "size_bytes": 1138,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/docs/installation.rst",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/make.bat",
+      "blob_sha": "61e03e4935fc587bf2a3d28762e96e338295ce26",
+      "size_bytes": 770,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/docs/make.bat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/Makefile",
+      "blob_sha": "cd8880671041dceb6ba77b2355b2b03fe76e513f",
+      "size_bytes": 609,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/docs/Makefile",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/readme.rst",
+      "blob_sha": "72a33558153fb57def85612b021ec596ef2a51b9",
+      "size_bytes": 27,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/docs/readme.rst",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/usage.rst",
+      "blob_sha": "3a0f27171089d0e2956745af56294db02454135f",
+      "size_bytes": 71,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/docs/usage.rst",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "emacs-lisp/timer.el",
+      "blob_sha": "fb41a71f3b0dd883b39073169f78a10e8c882bc3",
+      "size_bytes": 268,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/emacs-lisp/timer.el",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/example1.md",
+      "blob_sha": "9635a0bf78d686238e4d8823c6c9f7f445437f42",
+      "size_bytes": 6486,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/examples/example1.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/example2.md",
+      "blob_sha": "f4c1e20c544cb645bb74bc6c43c2f30310b754ee",
+      "size_bytes": 4006,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/examples/example2.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/example3.md",
+      "blob_sha": "394f4f127b95fb5be6642e3ef932a2d7d225000b",
+      "size_bytes": 1311,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/examples/example3.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Globglobbulator.md",
+      "blob_sha": "ddbb1071f8c9f7dc18068fe4f2e9724a56c6d7a3",
+      "size_bytes": 940,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/Globglobbulator.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "HISTORY.rst",
+      "blob_sha": "87f33d365bcae6beaa8bbd637ce4ce4a5183d63f",
+      "size_bytes": 85,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/HISTORY.rst",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ishtar_shamash_anim.svg",
+      "blob_sha": "5604cf5e19c138d621c0b009182febefb87c087b",
+      "size_bytes": 169789,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/ishtar_shamash_anim.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "issues.json",
+      "blob_sha": "9dec5eca227c7d106191d83a7bb0e4afe38a2053",
+      "size_bytes": 309453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/issues.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "08a18af2bf46f4dae14c30932291aa1ed4ca541a",
+      "size_bytes": 1079,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/Bard/Meme.md",
+      "blob_sha": "048653c954b2d88558fec9dfd4d13993d74049ab",
+      "size_bytes": 1839,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/Bard/Meme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/Bard/Rewrite.md",
+      "blob_sha": "5c8c224bdf079dc37f6a3d94a29ee1377b41661d",
+      "size_bytes": 1374,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/Bard/Rewrite.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/bing/Dance",
+      "blob_sha": "bde562fad218f128e419b6a28ffc5372f5e7ac16",
+      "size_bytes": 882,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/bing/Dance",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/bing/Dance.md",
+      "blob_sha": "bde562fad218f128e419b6a28ffc5372f5e7ac16",
+      "size_bytes": 882,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/bing/Dance.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/bing/Dance1",
+      "blob_sha": "5a0dd3b59a8f16f3ef70092607207bcd84e5a4a4",
+      "size_bytes": 881,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/bing/Dance1",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/bing/Dance1.md",
+      "blob_sha": "5a0dd3b59a8f16f3ef70092607207bcd84e5a4a4",
+      "size_bytes": 881,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/bing/Dance1.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/bing/narrative.md",
+      "blob_sha": "507133eaa8542e8e0dc7703557b29a127f71fa57",
+      "size_bytes": 7564,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/bing/narrative.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/bing/rules.md",
+      "blob_sha": "2fd1aabdecbe8126c7c4d734555f92884412982f",
+      "size_bytes": 1811,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/bing/rules.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/chatgpt/echo.md",
+      "blob_sha": "d660f8d2d1dabc1e74f9d467ea6a3248ca9478f4",
+      "size_bytes": 992,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/chatgpt/echo.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/chatgpt/Metameme.md",
+      "blob_sha": "0dce5da022abf0f23173a24273fbeb5be230fc91",
+      "size_bytes": 1872,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/chatgpt/Metameme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/chatgpt/narrative.md",
+      "blob_sha": "23a20b2800b5622543464b8a7a920990623e0ea1",
+      "size_bytes": 2398,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/chatgpt/narrative.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/chatgpt/New.md",
+      "blob_sha": "30d0f0f4d03fa086c7066e03f8aa0bb6d188bb5c",
+      "size_bytes": 1490,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/chatgpt/New.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/chatgpt/Quotable.md",
+      "blob_sha": "600688ec027f7e5e5e86679154cf698faec3a4bb",
+      "size_bytes": 3989,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/chatgpt/Quotable.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/claude/Commands.md",
+      "blob_sha": "1b65ffa795cd538c497925973dd53da03043d8ed",
+      "size_bytes": 1726,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/claude/Commands.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/claude/narrative.md",
+      "blob_sha": "4c2b466cbc16d40c92dac1b799c9d9edbcba1eee",
+      "size_bytes": 1151,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/claude/narrative.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/claude/Revisit",
+      "blob_sha": "e50c6f7bc55b11ec66f4e2d601b722c8f3b74325",
+      "size_bytes": 627,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/claude/Revisit",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/claude/step1.md",
+      "blob_sha": "07c778ad3a53b46fae90bfffbf3dc797765af818",
+      "size_bytes": 8571,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/claude/step1.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/claude/step2.md",
+      "blob_sha": "bec46185e729dbfed0b9514cbc6429ede121aa13",
+      "size_bytes": 1777,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/claude/step2.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/claude/step3.md",
+      "blob_sha": "e41002898a0719782854d8caa96fc4a6e5fe3c4c",
+      "size_bytes": 1908,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/claude/step3.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/claude/tvars.md",
+      "blob_sha": "00743dcf4d246108d80d1e95820dc0007f5fc8f2",
+      "size_bytes": 1364,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/claude/tvars.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/claude/tvars.txt",
+      "blob_sha": "906be00d0abb8dda69fd764accdaa01339050c0c",
+      "size_bytes": 784,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/claude/tvars.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/claude/tvars2.md",
+      "blob_sha": "906be00d0abb8dda69fd764accdaa01339050c0c",
+      "size_bytes": 784,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/claude/tvars2.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/clarifai_v1.txt",
+      "blob_sha": "0a0554a52c77ed94dc04f3d87019083fe9203be8",
+      "size_bytes": 167113,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/clarifai_v1.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/clarifai_v2.txt",
+      "blob_sha": "4d919bf7a53f8c7ba5d807b4972e8ace4fd10aa9",
+      "size_bytes": 279163,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/clarifai_v2.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/clarifai_v3.txt",
+      "blob_sha": "b68125bad1282f16bd658f017a69f2a1aadd2601",
+      "size_bytes": 6919,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/clarifai_v3.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/clarifai_v4.txt",
+      "blob_sha": "e0ceb9b0171b48a432c750fc2d91e6081d89a650",
+      "size_bytes": 351237,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/clarifai_v4.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/code_review_self.md",
+      "blob_sha": "7b4a9ddd68a90cad3c2d5b0872d2495f0868fc18",
+      "size_bytes": 12792682,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/code_review_self.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/coq1.md",
+      "blob_sha": "814ca6065f3b9522089122cf89d64447d9fbc05b",
+      "size_bytes": 860252,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/coq1.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/coq2.md",
+      "blob_sha": "a67fe817abc851045ed54bb918a72f6389de9812",
+      "size_bytes": 3408150,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/coq2.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/coq2_sorted.md",
+      "blob_sha": "373db173ca0343145aa47fdee80e2dae30f2e1d0",
+      "size_bytes": 3407902,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/coq2_sorted.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/coq3.md",
+      "blob_sha": "a470147e089f6b6414407bd16999ffbcb0027e4d",
+      "size_bytes": 16314,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/coq3.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/coq4.md",
+      "blob_sha": "5799630a1fcc167f325a44b34945d5d145ce82d6",
+      "size_bytes": 369633,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/coq4.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/coq6.md",
+      "blob_sha": "1558a370b0e19d8d9a964333939af2538d365b51",
+      "size_bytes": 15331869,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/coq6.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/coq6b.md",
+      "blob_sha": "a4f994b2e640cc857be12482831ffc8421ac956f",
+      "size_bytes": 15290768,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/coq6b.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/coq7.md",
+      "blob_sha": "20990d513559aa80eb305430374e9b7625b646cf",
+      "size_bytes": 54470,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/coq7.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/ds-unsugar.md",
+      "blob_sha": "f733978365c5332824a75662d627dfcc4f9f9a8f",
+      "size_bytes": 2398565,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/ds-unsugar.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/encode_fb.md",
+      "blob_sha": "3a6d8abf6377188e1ccddeda84f3cb3048db7b84",
+      "size_bytes": 267607,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/encode_fb.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/encode_fb2.md",
+      "blob_sha": "e938ba3ecb75579e3ede594caa85c2911fd39f24",
+      "size_bytes": 563281,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/encode_fb2.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/encode_fb3.md",
+      "blob_sha": "d7d99a200cf03b18b8425e2b309bebfd87b027fb",
+      "size_bytes": 5551,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/encode_fb3.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/encode_fb4.md",
+      "blob_sha": "fc841e06fa36ccfa16947183b74dc81742fafb6c",
+      "size_bytes": 563544,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/encode_fb4.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/encode_fb5.md",
+      "blob_sha": "780574fa63f7bc12d56439550f6f0df12141b114",
+      "size_bytes": 4149106,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/encode_fb5.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/encode_fb6.md",
+      "blob_sha": "e25edc25f7197f4631bb6f7eb91423e51da128fa",
+      "size_bytes": 89873,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/encode_fb6.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/encode_fb7.md",
+      "blob_sha": "551dd3532828b2727254c20aa2b5839b188cca3e",
+      "size_bytes": 72468,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/encode_fb7.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/ghc_th.hs",
+      "blob_sha": "df299a075a65ce8a7e07b8ab5b2ce8300a4bb64a",
+      "size_bytes": 1908354,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/ghc_th.hs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/githubapi.md",
+      "blob_sha": "a66269f09d35274a1a8df4ce1661317b44a6f59f",
+      "size_bytes": 46412904,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/githubapi.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/godel1.md",
+      "blob_sha": "f7f35bde3696ea92f85b330cffbfc34fb47f08f2",
+      "size_bytes": 1294408,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/godel1.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/godel21.md",
+      "blob_sha": "afbebce58513f929399954c042fc5f53dc03f58b",
+      "size_bytes": 526976,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/godel21.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/godel22.md",
+      "blob_sha": "93582d1076929800c479cf9787d74810d308fbf2",
+      "size_bytes": 136118,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/godel22.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/godel24.md",
+      "blob_sha": "0e79f46fe14859577790427e7403339865fee741",
+      "size_bytes": 652857,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/godel24.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/godel25.md",
+      "blob_sha": "f43c749c66b75ddadc080c0a714bd112053f3c0c",
+      "size_bytes": 55282382,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/godel25.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/metacoq1.md",
+      "blob_sha": "515dbb753613402dee75a7aff48d4faeb49582f1",
+      "size_bytes": 2855,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/metacoq1.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/muse_3rd.md",
+      "blob_sha": "6b9a7b732d9529f6eb22c116da5b63ac6f6f268b",
+      "size_bytes": 48810301,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/muse_3rd.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/plan4.md",
+      "blob_sha": "c19517d8b8507241fe624175ef113a6fca3632f0",
+      "size_bytes": 449674,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/plan4.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/python_ast_muse.md",
+      "blob_sha": "afe844540e01dd92d9a488d1fa140dff022580ff",
+      "size_bytes": 124737,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/python_ast_muse.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/review.txt",
+      "blob_sha": "9ad3f8dec5f90d1c8041d07cb2e6a86e2f453354",
+      "size_bytes": 4245785,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/review.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/review_protobufv2.md",
+      "blob_sha": "47bbd2ea1895d301c0a7c0bbf899be76a5cd2594",
+      "size_bytes": 8489739,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/review_protobufv2.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/run_Forver1.md",
+      "blob_sha": "69b1b823d84f1f3da1d60518b48b265c8f714a21",
+      "size_bytes": 15106,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/run_Forver1.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/run_Forver2.md",
+      "blob_sha": "2ffde5f1adae7ade13d8114c8db869ef80214d47",
+      "size_bytes": 16089,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/run_Forver2.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/run_Forver3.md",
+      "blob_sha": "b7c29382aad088f0b1d7a995415f4e76d36ff00f",
+      "size_bytes": 21805,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/run_Forver3.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/run_Forver4.md",
+      "blob_sha": "4325c95c9a0277c20025fc3156639a0b23c4bf5b",
+      "size_bytes": 18430,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/run_Forver4.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/run_Forver5.md",
+      "blob_sha": "d91067489af840099603b60f13fd1be99f86d914",
+      "size_bytes": 17806,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/run_Forver5.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/run_Forver6.md",
+      "blob_sha": "4671f28d0bf98c46fce5c653ffc056938264aa0f",
+      "size_bytes": 355058,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/run_Forver6.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/run_Forver7.md",
+      "blob_sha": "caff6232bf13e88f1d552c46f4fbce7158ee5cf9",
+      "size_bytes": 393718,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/run_Forver7.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/run_Forver8.md",
+      "blob_sha": "f59a2a776007d713fe76fb516fb6ea0d04e589d0",
+      "size_bytes": 385641,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/run_Forver8.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/sage1.md",
+      "blob_sha": "d78a690727121d256ff2297af124171c97ccf1c4",
+      "size_bytes": 9520,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/sage1.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/self_muse.md",
+      "blob_sha": "0a78090ac0689ed15c90b5d9376c045e41ed3386",
+      "size_bytes": 236590,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/self_muse.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/self_review.md",
+      "blob_sha": "f8c7176e08800060e57f971cf71223ebea148bca",
+      "size_bytes": 3500477,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/self_review.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/self_review2.md",
+      "blob_sha": "41e947fcb5fc171af807cfe3c8c637ca1cde9318",
+      "size_bytes": 4680692,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/self_review2.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/selfreview.md",
+      "blob_sha": "75d19d00946819e8d2d2d85d8aa447048121b12b",
+      "size_bytes": 3261296,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/selfreview.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/selfreview_config1.md",
+      "blob_sha": "cf58ac362647a52ecced966d52c66747c3033b8b",
+      "size_bytes": 43535,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/selfreview_config1.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/short.md",
+      "blob_sha": "c27637171b47e1e1e21bb8d845bc41547ace2394",
+      "size_bytes": 1164,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/short.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/test.txt",
+      "blob_sha": "784937749b1d079a5bac5de025c165da53ac041c",
+      "size_bytes": 63,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/test.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/th_desugar.md",
+      "blob_sha": "d959a157df8ad98db26cdeacabf05b94e008a8d1",
+      "size_bytes": 121101,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/th_desugar.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/tt.txt",
+      "blob_sha": "f8e7d4439c5a6ce461317b3008ca5d794053b30e",
+      "size_bytes": 392881,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/tt.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/tt2.txt",
+      "blob_sha": "214c99bd51092ab43fd23ecb73eeaddd03024900",
+      "size_bytes": 6061,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/tt2.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/wikireview.md",
+      "blob_sha": "a8fe62d630fe00b23a7775b6822b9dfa5065b5aa",
+      "size_bytes": 7010659,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/llama2-7b-chat-codeCherryPop-qLoRA-GPTQ/wikireview.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/open-assistent/step1.md",
+      "blob_sha": "079081bb1d6c9f1c1533ab8da14fe64c604356f9",
+      "size_bytes": 1963,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/open-assistent/step1.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "llms/open-assistent/step2.md",
+      "blob_sha": "079081bb1d6c9f1c1533ab8da14fe64c604356f9",
+      "size_bytes": 1963,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/llms/open-assistent/step2.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metameme/__init__.py",
+      "blob_sha": "af1ffb9d052370c4a12b76e7469f38b639d223ec",
+      "size_bytes": 138,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/metameme/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metameme/cli.py",
+      "blob_sha": "7e628362f36c97d253bc4aaa86091dbccc908be2",
+      "size_bytes": 402,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/metameme/cli.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metameme/metameme.py",
+      "blob_sha": "913e09cc24d90557d6d06b52a2a9b4be12246ebc",
+      "size_bytes": 1190,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/metameme/metameme.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observer.svg",
+      "blob_sha": "b0cb68a9345696d3f2b69af0ca3eb4d3164c925e",
+      "size_bytes": 2628,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/observer.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Quine.org",
+      "blob_sha": "5ab2c0ab03693acd76c558aab356a02ecdd069d0",
+      "size_bytes": 3331,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/Quine.org",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "quine.v",
+      "blob_sha": "f3ccd97eff6468cd05429d46ef620a482dbf9e4a",
+      "size_bytes": 418,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/quine.v",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "ac786f813ca574a859fc244428b2f61b4f51e6a1",
+      "size_bytes": 8266,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements_dev.txt",
+      "blob_sha": "a369a7265565e416d7d0e83eb024aadae5d2bb54",
+      "size_bytes": 174,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/requirements_dev.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "setup.cfg",
+      "blob_sha": "f1d65e31355e9dc628d2fb558dceeb0b560c689d",
+      "size_bytes": 385,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/setup.cfg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "setup.py",
+      "blob_sha": "4d08d6b3e59066dcd2c2c0440696eca4e89b3fe1",
+      "size_bytes": 1441,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/setup.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/__init__.py",
+      "blob_sha": "7ac301213dca4f3854a8a270af86643f181e1605",
+      "size_bytes": 38,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/tests/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_metameme.py",
+      "blob_sha": "0b70d3c9fa21982263cace4538c179077ca930c5",
+      "size_bytes": 984,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/tests/test_metameme.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "total.txt",
+      "blob_sha": "2458dcad81e91718e46bdc482739db4bb4f23f9e",
+      "size_bytes": 46181,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/total.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tox.ini",
+      "blob_sha": "417ccb629c4636e7ec93977bc0a25792ae97eeb8",
+      "size_bytes": 539,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/meta-meme/blob/main/tox.ini",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

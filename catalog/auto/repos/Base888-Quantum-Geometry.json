@@ -1,0 +1,112 @@
+{
+  "repository": "enuminous/Base888-Quantum-Geometry",
+  "default_branch": "main",
+  "tree_sha": "830c797725cc9b53ee450b59cd2e5c55a34f04cb",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "browser_checks.json",
+      "blob_sha": "f7523d95cecaf27e6c2e635a96f6bbc03b03da4a",
+      "size_bytes": 782,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Base888-Quantum-Geometry/blob/main/browser_checks.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "f6fb57c525e2cd8dfe29350e26b6fcdca634efa3",
+      "size_bytes": 41255,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Base888-Quantum-Geometry/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE_NOTICE.md",
+      "blob_sha": "5a59dfb20dcb76fead617f65c465a9911f1c5bad",
+      "size_bytes": 666,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Base888-Quantum-Geometry/blob/main/LICENSE_NOTICE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MODEL.md",
+      "blob_sha": "11a74639da83c41eaf133c0da291d8fbd3fb6961",
+      "size_bytes": 6600,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Base888-Quantum-Geometry/blob/main/MODEL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "model.py",
+      "blob_sha": "1a7722d301570e761cb720e2f60ca362cd0607fd",
+      "size_bytes": 4588,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Base888-Quantum-Geometry/blob/main/model.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "preview.png",
+      "blob_sha": "afa77b67a6e5bf4da24590df46cd247e4a4c3ccc",
+      "size_bytes": 1116810,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Base888-Quantum-Geometry/blob/main/preview.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "0793549f7ee995726cbab533d59d2807766c7999",
+      "size_bytes": 7784,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Base888-Quantum-Geometry/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_model.py",
+      "blob_sha": "0fb71381b1d68aa21e37433df310202ccb282622",
+      "size_bytes": 2579,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Base888-Quantum-Geometry/blob/main/test_model.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.md",
+      "blob_sha": "7033f96045923c8a3d7229ad8d81bde14bdb01b3",
+      "size_bytes": 2040,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Base888-Quantum-Geometry/blob/main/TEST_RESULTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VALIDATION.md",
+      "blob_sha": "209a49071ad8e36e8dce23b7e6e54a48290bc325",
+      "size_bytes": 2974,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Base888-Quantum-Geometry/blob/main/VALIDATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

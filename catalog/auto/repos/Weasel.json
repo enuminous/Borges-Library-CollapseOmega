@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Weasel",
+  "default_branch": "main",
+  "tree_sha": "dcfd727ed40e69ac6c4637c38be2a0617cdd6e6a",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "2947f2e5a1ec4b085b6aeb8951c775590936d6be",
+      "size_bytes": 682,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "adversarial_model.md",
+      "blob_sha": "4af5810bb46d3870ce8043a3925d43daeac10ed7",
+      "size_bytes": 1038,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/adversarial_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "9fe0e3a1e3d5c714f1b1dcc5ae3bb9d36bdd9edf",
+      "size_bytes": 960,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "b66cc380e2911be71b453f4e44418a9d3858f78f",
+      "size_bytes": 1021,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "aa2d179ad1608eba539984e6ff45f45c3b0cfdea",
+      "size_bytes": 2128,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "494796ea5d6a4548f54c0d08f8e255525de31bf2",
+      "size_bytes": 313,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "018afc70335298dc3352b925114633c4f027686d",
+      "size_bytes": 555,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "1af39b0de8333d8ac22d453bb097acfad192eafa",
+      "size_bytes": 1757,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "4b9f81e437f0be42f4cf2e91701a55bff9197993",
+      "size_bytes": 962,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "cd3f06383420f695d8c52231d42cc4a26f56a747",
+      "size_bytes": 1824,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "04befa8051affaaac61adb396332bbf42ccc8678",
+      "size_bytes": 2971,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "fc0ec9447c124e7917ce0dfdc8f74200bad6adbd",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_weasel.py",
+      "blob_sha": "1efdd781e785324214cec9dfe496263a6c9be2fc",
+      "size_bytes": 1043,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/test_weasel.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "e41505e55120ded6583e85b904cd0a7619455bef",
+      "size_bytes": 2218,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "weasel.py",
+      "blob_sha": "e893701c01fda3819dbf73d61c69223457fac2a5",
+      "size_bytes": 2791,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weasel/blob/main/weasel.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

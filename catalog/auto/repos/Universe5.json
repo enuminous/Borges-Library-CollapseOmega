@@ -1,0 +1,61 @@
+{
+  "repository": "enuminous/Universe5",
+  "default_branch": "main",
+  "tree_sha": "7ed7333d1701597abffa481c3aa8fce91c207d98",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "index.html",
+      "blob_sha": "3e77ed07428a29969d8f95fd098e96c92c628346",
+      "size_bytes": 19109,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Universe5/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "e2e8f666009eeebd20a0639c50060dc442e75edf",
+      "size_bytes": 4660,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Universe5/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "universe005.py",
+      "blob_sha": "c949a0ea9b0fedbb366ab252ee6c977a32b2ee66",
+      "size_bytes": 5227,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Universe5/blob/main/universe005.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "universe005_results.json",
+      "blob_sha": "6ddd61c99df6855c186635541971304acb3c669c",
+      "size_bytes": 3757,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Universe5/blob/main/universe005_results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Universe_005_Audit.md",
+      "blob_sha": "f3454810238a85e21a094fc27f888ad01344e474",
+      "size_bytes": 2475,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Universe5/blob/main/Universe_005_Audit.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

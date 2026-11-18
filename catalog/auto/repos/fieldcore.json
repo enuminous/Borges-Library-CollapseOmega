@@ -1,0 +1,380 @@
+{
+  "repository": "enuminous/fieldcore",
+  "default_branch": "main",
+  "tree_sha": "4709214e8323e4eba05e81fcf6394d6a08aa22d3",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".gitignore",
+      "blob_sha": "872d5f6c6f29794f4d9c1f40acd6a65fb9c39d6d",
+      "size_bytes": 2165,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/.gitkeep",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/atlas-exam.md",
+      "blob_sha": "02f28dbd8a660c4c9a723997613dda4af69f3e9e",
+      "size_bytes": 1661,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/atlas-exam.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/braided-stalks.md",
+      "blob_sha": "dab820e2b07c20e1656ca9b45df063db86c34dd7",
+      "size_bytes": 2606,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/braided-stalks.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/chorus-ide-design.md",
+      "blob_sha": "bef33f1d02546b839a1e3a4b50bab1c134187e48",
+      "size_bytes": 3191,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/chorus-ide-design.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/compute-budget-and-module-m.md",
+      "blob_sha": "cebf21291c69f616ffe03bcaa43f89c5640eaf78",
+      "size_bytes": 3788,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/compute-budget-and-module-m.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/core-geometry-2026-09-08.md",
+      "blob_sha": "87e5a9ea58e962a7fd7d54b320fbb80163505fe8",
+      "size_bytes": 18792,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/core-geometry-2026-09-08.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/core-geometry.md",
+      "blob_sha": "1ebdfdd0488dcaf072effc985f585e535b7d10e6",
+      "size_bytes": 2876,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/core-geometry.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/embodied-language.md",
+      "blob_sha": "7dfdd11186cb59947c8d1b82c6f86c1a5546c1b5",
+      "size_bytes": 3221,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/embodied-language.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/emergence-rep-sheaf.md",
+      "blob_sha": "2531a6cb6bcfd38f42cf2bf0a83524df08df0538",
+      "size_bytes": 2916,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/emergence-rep-sheaf.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/fieldcore-v09-modular.md",
+      "blob_sha": "a5f2a594d45120bb0c2d88e31e4939040bf40592",
+      "size_bytes": 3432,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/fieldcore-v09-modular.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/fieldcore.md",
+      "blob_sha": "451bec4453f8fe9ecea57826759648b1b0936bcf",
+      "size_bytes": 3885,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/fieldcore.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/geometry-research-method.md",
+      "blob_sha": "e2ae69826b5a13a9d90aeb5221eba3c4140b6db9",
+      "size_bytes": 3775,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/geometry-research-method.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/insect-microstructure-schema.md",
+      "blob_sha": "bcbbce5159782e8dfc5bf6750eef3991f846c948",
+      "size_bytes": 12679,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/insect-microstructure-schema.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/insect-plasma-flight.md",
+      "blob_sha": "22a9fbef3df254fc579c09ecccb5610b56d9823c",
+      "size_bytes": 1907,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/insect-plasma-flight.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/llm-emergence-mte-resilience.md",
+      "blob_sha": "1b77c946f778a7579630e8ed487eb38bb8bc8e2b",
+      "size_bytes": 3981,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/llm-emergence-mte-resilience.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/math-transformer-gradient-flow.md",
+      "blob_sha": "027299e3e8319979a32937b6e87792f9afd5750c",
+      "size_bytes": 5643,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/math-transformer-gradient-flow.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/mmm-design.md",
+      "blob_sha": "65e3cd668d5ab651bf222d1bd2a0c6a6baefba3d",
+      "size_bytes": 2500,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/mmm-design.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/mte-simself-primitives.md",
+      "blob_sha": "0a205192e8fa73cf22124fa796e1ab6c28200269",
+      "size_bytes": 14472,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/mte-simself-primitives.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/nested-egg-toroids.md",
+      "blob_sha": "c26b04201926d2d5878d2e6b8f675a411d1cc7b9",
+      "size_bytes": 8812,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/nested-egg-toroids.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/operators-field-info-packets.md",
+      "blob_sha": "8f15f673c3f2fa2866b920308d33677fb3cbb45f",
+      "size_bytes": 12741,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/operators-field-info-packets.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/project-structure-vision.md",
+      "blob_sha": "7f24fc61970b3178fab79485ecea89c05fc607a9",
+      "size_bytes": 2784,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/project-structure-vision.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/robotics-clarity.md",
+      "blob_sha": "dcc557a5536b59ddb4ff8d6f5c635b71d25720ad",
+      "size_bytes": 3018,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/robotics-clarity.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/robotics-proving-ground.md",
+      "blob_sha": "58994c10f34007f174cd332165c7d668b1c9f078",
+      "size_bytes": 1756,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/robotics-proving-ground.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/shell-architecture.md",
+      "blob_sha": "2cceae638e05afb0e049c4bc183d4c53ffced4c5",
+      "size_bytes": 7967,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/shell-architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/stella-octangula-cluster.md",
+      "blob_sha": "53615bc7c4752a1fe2b06fdb60528012377069f9",
+      "size_bytes": 10025,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/stella-octangula-cluster.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/temporal-stalk.md",
+      "blob_sha": "4306c9bb4a90be5fc1462b5348e635244b93d1db",
+      "size_bytes": 3938,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/temporal-stalk.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/topo-sheaf-stalk.md",
+      "blob_sha": "55215b2e65e9999757bb9651d3e873ffa98a979f",
+      "size_bytes": 4226,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/topo-sheaf-stalk.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/topology-geometry-core.md",
+      "blob_sha": "550572cc429756df5d42ea9ea74aff842d68d78f",
+      "size_bytes": 13979,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/topology-geometry-core.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/w23-memory-architecture.md",
+      "blob_sha": "e8d60184de49a1ec627f67cf9cb649f9249107ba",
+      "size_bytes": 14076,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/docs/w23-memory-architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "GENESIS.md",
+      "blob_sha": "318b4c3a1e523a0630b682e348002a278254b1f6",
+      "size_bytes": 6842,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/GENESIS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "a56f153d463ecd073c3804f324a2552247c05a79",
+      "size_bytes": 1070,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "876e7f88b895d1ac1c0f1aaaa425b28baeb61a57",
+      "size_bytes": 3975,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/.gitkeep",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/src/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/modal_field_core.py",
+      "blob_sha": "e4fe9606456951555725f5caa988c3697b4af795",
+      "size_bytes": 44856,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/src/modal_field_core.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/robotic_master_controller.py",
+      "blob_sha": "1ce90afadc290f166548544bc5c0e1a8089efebd",
+      "size_bytes": 6583,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/src/robotic_master_controller.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/stalk_control.py",
+      "blob_sha": "0d3342d478e8e7edcbdb0450f5f5fdd0779361e3",
+      "size_bytes": 28983,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/fieldcore/blob/main/src/stalk_control.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "repository": "enuminous/Ligo_EFMW_Search",
+  "default_branch": "main",
+  "tree_sha": "bf7934389cd9dfa1cd671df6c83a369eda92762f",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "gw170817_efmw_coherent_check.py",
+      "blob_sha": "61efbf3aedddd7df2cc755ff71a4ef9c26fb5afd",
+      "size_bytes": 3849,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Ligo_EFMW_Search/blob/main/gw170817_efmw_coherent_check.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "gw170817_efmw_coherent_results.json",
+      "blob_sha": "9efe3eb413407234cf4319838e728e309e6db7b9",
+      "size_bytes": 4284,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Ligo_EFMW_Search/blob/main/gw170817_efmw_coherent_results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "gw170817_efmw_corrected_results.json",
+      "blob_sha": "6d356464238d1161453e63ffb3bc6b1254b2067d",
+      "size_bytes": 106217,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Ligo_EFMW_Search/blob/main/gw170817_efmw_corrected_results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "gw170817_efmw_corrected_run.py",
+      "blob_sha": "4ed17ff47065e19196ad830028de01d73cc3344b",
+      "size_bytes": 12407,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Ligo_EFMW_Search/blob/main/gw170817_efmw_corrected_run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "gw170817_efmw_results.json",
+      "blob_sha": "6219a29e03ea18d5d1ee026961c0ac4b03b10e72",
+      "size_bytes": 59266,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Ligo_EFMW_Search/blob/main/gw170817_efmw_results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "gw170817_efmw_search.py",
+      "blob_sha": "22a302dd1619c270e6eb1b26ac03ca7072539836",
+      "size_bytes": 14116,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Ligo_EFMW_Search/blob/main/gw170817_efmw_search.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "gw170817_efmw_survey_requirements.md",
+      "blob_sha": "8e899469fe8d52c0e14351858dc83fe926197401",
+      "size_bytes": 5974,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Ligo_EFMW_Search/blob/main/gw170817_efmw_survey_requirements.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "gw170817_efmw_veto_search.py",
+      "blob_sha": "1a6c2100bdcfab86b4b665bcfbcdef255d615f5b",
+      "size_bytes": 4587,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Ligo_EFMW_Search/blob/main/gw170817_efmw_veto_search.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "readme (1).md",
+      "blob_sha": "b196c32deb953739a93b87187622912bcf8e82a1",
+      "size_bytes": 5069,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Ligo_EFMW_Search/blob/main/readme%20%281%29.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "5cb9f23870e15139c9af9f22fe7963063c38049d",
+      "size_bytes": 1638,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Ligo_EFMW_Search/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "readme.md",
+      "blob_sha": "bba5a49deb3e1913fa64c5f833b40fae5a8b6c44",
+      "size_bytes": 6782,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Ligo_EFMW_Search/blob/main/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "repository": "enuminous/Phase-Vorticity-Lab",
+  "default_branch": "main",
+  "tree_sha": "fe490dfc6fb02beaab39466735f274134f6c4720",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/formal.yml",
+      "blob_sha": "6694a8fac64cf914b8d860efeef087471960b8c1",
+      "size_bytes": 744,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/.github/workflows/formal.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/pages.yml",
+      "blob_sha": "0ec6fa23242965bce1349c72385e20b26cc53b7a",
+      "size_bytes": 606,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/.github/workflows/pages.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "blob_sha": "2ba4654d5f7e17a146010ccd50900d6c6a4afd0c",
+      "size_bytes": 580,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/.github/workflows/verify.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "d54f777b6a61a01e8914f0d0329354849e321d5e",
+      "size_bytes": 84,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".nojekyll",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/.nojekyll",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/API.md",
+      "blob_sha": "6386c46547e8644c40230641b67d48faa842ce3b",
+      "size_bytes": 2472,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/docs/API.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/AUDIT.md",
+      "blob_sha": "3cba1aa906283cbcf80a01c38be34c940ad7fa2b",
+      "size_bytes": 6681,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/docs/AUDIT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/FORMAL_BRIDGE.md",
+      "blob_sha": "1ff70b22d399da05311a2893380726e528077723",
+      "size_bytes": 3548,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/docs/FORMAL_BRIDGE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/MODEL.md",
+      "blob_sha": "86add23a63be940427c2fc70ea4351c5b618ecc3",
+      "size_bytes": 6880,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/docs/MODEL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/browser-default-field.csv",
+      "blob_sha": "ac98f515fc993b85c3980d090c636b72697ecc3c",
+      "size_bytes": 168082,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/evidence/browser-default-field.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/browser-default-run.json",
+      "blob_sha": "3915213853719abfcfadab51d5c142f41585c269",
+      "size_bytes": 216450,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/evidence/browser-default-run.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/equation-register.json",
+      "blob_sha": "4da90864cfd364176c790dd6fa760de1131260ce",
+      "size_bytes": 2449,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/evidence/equation-register.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/numerical-benchmark.json",
+      "blob_sha": "a06a64a49179c6dc772d0901573041f1a62079c9",
+      "size_bytes": 4063,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/evidence/numerical-benchmark.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/numerical-tests.tap",
+      "blob_sha": "d5a494bfc6830156c20540e48f51e36a3c4ba360",
+      "size_bytes": 3335,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/evidence/numerical-tests.tap",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/provenance.json",
+      "blob_sha": "eac74c09fd5d1ed28d3cb3680271e139796d0840",
+      "size_bytes": 7266,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/evidence/provenance.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/upstream-ci-excerpt.txt",
+      "blob_sha": "360b22fa402890f2c31ac144f7ec826f3db94c58",
+      "size_bytes": 1150,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/evidence/upstream-ci-excerpt.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/upstream/COVERAGE.md",
+      "blob_sha": "a6a47d18166bce7042e080457d475b29ba8560cf",
+      "size_bytes": 12525,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/evidence/upstream/COVERAGE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/upstream/MADELUNG.md",
+      "blob_sha": "e2cf688381256d23601834ba814a7dcfda4a13c5",
+      "size_bytes": 5058,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/evidence/upstream/MADELUNG.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/upstream/ROTATION_COSMOLOGY.md",
+      "blob_sha": "c24f5c5dedf9695ac822f7f638ff65e7877a87f0",
+      "size_bytes": 10112,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/evidence/upstream/ROTATION_COSMOLOGY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/upstream/VORTICITY.md",
+      "blob_sha": "d343d11b3a1bf8f9577b9e140cb6eb126cd2773c",
+      "size_bytes": 5288,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/evidence/upstream/VORTICITY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/verification-summary.json",
+      "blob_sha": "e7a6ac40d3a798dbfcee00895ee3c78ec115cfcf",
+      "size_bytes": 1471,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/evidence/verification-summary.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/upstream-analysis/Audit.lean",
+      "blob_sha": "e17d58c093abdac25a76110e55a39cf65e7e03c9",
+      "size_bytes": 1563,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/formal/upstream-analysis/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/upstream-analysis/CatalogueAnalysis.lean",
+      "blob_sha": "f8a0ee3e11bcc94ddcde47e0cfab8160f2289d6d",
+      "size_bytes": 23317,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/formal/upstream-analysis/CatalogueAnalysis.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/upstream-analysis/Fluids.lean",
+      "blob_sha": "9d31e10fc485095f15df3fad0ae2af3cdd6c0b23",
+      "size_bytes": 17376,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/formal/upstream-analysis/Fluids.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/upstream-analysis/lake-manifest.json",
+      "blob_sha": "bfdb88550d3df5c8fa11fb9a5896bafc47578072",
+      "size_bytes": 3182,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/formal/upstream-analysis/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/upstream-analysis/lakefile.toml",
+      "blob_sha": "42bae10de985ff69542514ca657f97647e9574bf",
+      "size_bytes": 759,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/formal/upstream-analysis/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/upstream-analysis/lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/formal/upstream-analysis/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/upstream-analysis/LinearizedGravity.lean",
+      "blob_sha": "5c5ea6eeaf57a57770085e4261345017fbfde0c3",
+      "size_bytes": 30132,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/formal/upstream-analysis/LinearizedGravity.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/upstream-analysis/Madelung.lean",
+      "blob_sha": "3fa4a890ebd0ff2523b6552aa75dd7f9a8d0a3f8",
+      "size_bytes": 17898,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/formal/upstream-analysis/Madelung.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/upstream-analysis/RecursiveLagrangian.lean",
+      "blob_sha": "51704c8270c24357e3301c7fce6e1c35d8924db4",
+      "size_bytes": 18597,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/formal/upstream-analysis/RecursiveLagrangian.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/upstream-analysis/RotatingCosmology.lean",
+      "blob_sha": "5cd4139a7fe0a328abd6db600778e58f98c0fc45",
+      "size_bytes": 9061,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/formal/upstream-analysis/RotatingCosmology.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/upstream-analysis/RotationKinematics.lean",
+      "blob_sha": "4c536604096e60ac93f8363502a5071244bac00f",
+      "size_bytes": 9173,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/formal/upstream-analysis/RotationKinematics.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/upstream-analysis/ScalarAction.lean",
+      "blob_sha": "7639d8bc4c25f5c22fdaf8288742c7a427a9df68",
+      "size_bytes": 18354,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/formal/upstream-analysis/ScalarAction.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/upstream-analysis/scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/formal/upstream-analysis/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/upstream-analysis/SourceBridge.lean",
+      "blob_sha": "1185ece82ceee7145ae20ecdb75ea36ff3c3b2ba",
+      "size_bytes": 1550,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/formal/upstream-analysis/SourceBridge.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/upstream-analysis/SpecifiedModels.lean",
+      "blob_sha": "b2c84a9927d375003139b22de9570eeaa8c813b7",
+      "size_bytes": 17464,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/formal/upstream-analysis/SpecifiedModels.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/upstream-analysis/Vorticity.lean",
+      "blob_sha": "07a871a1be5a2ad4396120c0f28c7b584c478bed",
+      "size_bytes": 10566,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/formal/upstream-analysis/Vorticity.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "af5f6526e0451c77f03bb9bfa4bcc4630987c105",
+      "size_bytes": 43149,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "NOTICE.md",
+      "blob_sha": "9aa73e9c1aa24e0ba96a52c1b620d9855768c61e",
+      "size_bytes": 1188,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/NOTICE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "package.json",
+      "blob_sha": "1f57a0dc61318fc91a9fed4c62412d81adf4f6ee",
+      "size_bytes": 375,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/package.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "db1053f52b462c36a56e95a421bfada59717533f",
+      "size_bytes": 7033,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SHA256SUMS",
+      "blob_sha": "da6e33b93cf4d367bca3f20af566256a031daec2",
+      "size_bytes": 4843,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/SHA256SUMS",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/app.js",
+      "blob_sha": "97cacf1d280130435d418761b7ffd65dd67961aa",
+      "size_bytes": 13036,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/src/app.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/core.js",
+      "blob_sha": "41e8a723959a5ec54e1bad3644b1dc5b6b6f8ed8",
+      "size_bytes": 9618,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/src/core.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/shell.html",
+      "blob_sha": "7dfad61a739e61e9c0040f323ba7a194c6d01b47",
+      "size_bytes": 10134,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/src/shell.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/style.css",
+      "blob_sha": "6bf7aba6f930a20bfbbd10659c21bf572cf93d6d",
+      "size_bytes": 10395,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/src/style.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/core.test.cjs",
+      "blob_sha": "dc7fc30577ea1b7a5015c88bf1a3ed46ddb8d26d",
+      "size_bytes": 3056,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/tests/core.test.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/benchmark.cjs",
+      "blob_sha": "e8c48eab9938b2861926aed122968609bbe0cc92",
+      "size_bytes": 1447,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/tools/benchmark.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/build.py",
+      "blob_sha": "f19b6ced606570c8a98c7f6ce98b749c48d0e700",
+      "size_bytes": 537,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/tools/build.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/package.py",
+      "blob_sha": "7de5910f2e49812be1875cecbd4dadac89637824",
+      "size_bytes": 1734,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/tools/package.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/verify_formal.sh",
+      "blob_sha": "7f84c652e57cf2a5340ad7c280126c051b201289",
+      "size_bytes": 1064,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/tools/verify_formal.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/verify_snapshots.py",
+      "blob_sha": "649acd9041b97ba00779df969578e4d7cb9f3524",
+      "size_bytes": 781,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Phase-Vorticity-Lab/blob/main/tools/verify_snapshots.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

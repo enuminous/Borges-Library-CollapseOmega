@@ -1,0 +1,396 @@
+{
+  "repository": "enuminous/GW-POL",
+  "default_branch": "main",
+  "tree_sha": "2cd22b1f35adfd220d400c3df07243ff9853ec7b",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".gitignore",
+      "blob_sha": "98dbeb43997e0d3f65ee193a2f0f895debc6a1f6",
+      "size_bytes": 30,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ATTRIBUTION.txt",
+      "blob_sha": "fa6df5723148abea298b6c5d7c7aa3a5c754128d",
+      "size_bytes": 1843,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/ATTRIBUTION.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "build_report.py",
+      "blob_sha": "83b82f63a0393b73b4cb3c4db11b43e4caa46dd2",
+      "size_bytes": 8307,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/build_report.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "DERIVATION.txt",
+      "blob_sha": "a6a91063f41be5072e1dc6f99d44789f6e172b2f",
+      "size_bytes": 4634,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/DERIVATION.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "efmw-candidate.md",
+      "blob_sha": "916e04935f50cbbf07ddcd81e7c71a02954b1c96",
+      "size_bytes": 4724,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/efmw-candidate.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "efmw-commit.json",
+      "blob_sha": "9f4e0c00d7bd73d2af6bfae85cfa9ba35e976ce2",
+      "size_bytes": 11382,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/efmw-commit.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-GW-POL-002-results.zip",
+      "blob_sha": "67db7ef5d7390c4bc9d3edf8a629085169df3641",
+      "size_bytes": 351049,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/EFMW-GW-POL-002-results.zip",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "efmw-obligations.md",
+      "blob_sha": "dad9082a22bc7d77293aa88760e45828a5981f22",
+      "size_bytes": 5017,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/efmw-obligations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "efmw-readme.md",
+      "blob_sha": "243ab3403603a175f526748b10004b900bd4cb9a",
+      "size_bytes": 10163,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/efmw-readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "7349543424c3023468c971347a9f66a37a15cade",
+      "size_bytes": 197447,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.json",
+      "blob_sha": "b745b9d78ccbb01bd9557f02e8483187df8d8a62",
+      "size_bytes": 2798,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/MANIFEST.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PAPER.md",
+      "blob_sha": "c22d33b4d5d1eead9e69dd501bef315b8617f530",
+      "size_bytes": 20680,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/PAPER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pinned-sources.json",
+      "blob_sha": "014e7e76f835d37d94705dc79b3f51ec548d7d87",
+      "size_bytes": 736,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/pinned-sources.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "POL.tar.gz",
+      "blob_sha": "be0232b95dfec204ae567ce9777444f42e13b7d8",
+      "size_bytes": 14199,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/POL.tar.gz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "protocol.json",
+      "blob_sha": "c2fa6641ba4887964727d7d831816a00c393cee5",
+      "size_bytes": 1399,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/protocol.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PUBLICATION_CHECK.json",
+      "blob_sha": "55edff1852e205a847467f8e714bfc2ba8aa1c5f",
+      "size_bytes": 396,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/PUBLICATION_CHECK.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "5fe40b52993513e4a01916c4afef0e8db042b206",
+      "size_bytes": 4789,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.txt",
+      "blob_sha": "ef9e006c702999c3409c5a6ffda73b110181efdb",
+      "size_bytes": 3120,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/README.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "release/POL/o4a_pol_log_bayes_factor.json",
+      "blob_sha": "719fe2a16a634146bb2389ed33f2149b728d7c8e",
+      "size_bytes": 365,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/release/POL/o4a_pol_log_bayes_factor.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "release/POL/o4b_pol_log_bayes_factor.json",
+      "blob_sha": "d8a041d30fa1bc53e147730d3e0cc9f52796e7cd",
+      "size_bytes": 366,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/release/POL/o4b_pol_log_bayes_factor.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "release/POL/paper.style",
+      "blob_sha": "a80810a9a4099b80504ac3c29ba259d46a6ab8a8",
+      "size_bytes": 2097,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/release/POL/paper.style",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "release/POL/pol_logB.pdf",
+      "blob_sha": "68d84652ecb73fd05128d706fd13ea5ce5f68941",
+      "size_bytes": 17885,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/release/POL/pol_logB.pdf",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "release/POL/pol_macro.tex",
+      "blob_sha": "bbb400128007259cfdd90fd90738f69fea44722f",
+      "size_bytes": 1706,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/release/POL/pol_macro.tex",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "release/POL/pre_o4a_pol_log_bayes_factor.json",
+      "blob_sha": "99e7e919cd983627de65613177f797c2a3ce0dff",
+      "size_bytes": 367,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/release/POL/pre_o4a_pol_log_bayes_factor.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "release/POL/README.md",
+      "blob_sha": "423c2427b003b88d5f2c1a9e1d144cd15f84739b",
+      "size_bytes": 238,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/release/POL/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "release/POL/summary.py",
+      "blob_sha": "45b7cb123fb878b7e25557a424ce974b36fdf86e",
+      "size_bytes": 8408,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/release/POL/summary.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "report.html",
+      "blob_sha": "7349543424c3023468c971347a9f66a37a15cade",
+      "size_bytes": 197447,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/report.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "repository-manifest.json",
+      "blob_sha": "c398cc78613d72ab147d9c34f0bee29296738a0f",
+      "size_bytes": 3416,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/repository-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "471f776f67541bcaadd042782a1c0a438d0009f3",
+      "size_bytes": 46,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/aggregate.csv",
+      "blob_sha": "a5a9cab9e243d11c4ed89fdc7f6cfb0910928d0a",
+      "size_bytes": 2079,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/results/aggregate.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/pol_logB.pdf",
+      "blob_sha": "0142ea52179a30e0a9c7be420bef64365880199a",
+      "size_bytes": 17885,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/results/pol_logB.pdf",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/pol_macro.tex",
+      "blob_sha": "bbb400128007259cfdd90fd90738f69fea44722f",
+      "size_bytes": 1706,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/results/pol_macro.tex",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/results.json",
+      "blob_sha": "9de8fb47f7b2a757016164a834e50f800cf366df",
+      "size_bytes": 14120,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/results/results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/results.png",
+      "blob_sha": "4c488f9594bed6437107e6d73de20c3aa2eeb045",
+      "size_bytes": 137686,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/results/results.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/results.svg",
+      "blob_sha": "d8c76e8977867c6af582ebd3d62bcd56576f36bd",
+      "size_bytes": 75924,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/results/results.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "run.log",
+      "blob_sha": "b9897f8e72ced2553f66d593c4aa7b8180dea271",
+      "size_bytes": 3673,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/run.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "run.py",
+      "blob_sha": "be496a3b24b4d8d3d3c762def34bc4dfe0000193",
+      "size_bytes": 10624,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources.json",
+      "blob_sha": "e3f22728d4a55539eda521b732d4bd9a873d5d7f",
+      "size_bytes": 1245,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GW-POL/blob/main/sources.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

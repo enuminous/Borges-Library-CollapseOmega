@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Elephant",
+  "default_branch": "main",
+  "tree_sha": "fed6a74ca684c5bd04a8d61ad46113ddbe4ce224",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "6c9293e062c056dba09fe6c7e1c343dbaeab6618",
+      "size_bytes": 691,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "56e2d4d3acc2732a3155b62d66c7df7fa521e82e",
+      "size_bytes": 946,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "5dffa232421cb5f713975be54427fb6832a93615",
+      "size_bytes": 931,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "47dc787f4d60903ca6c761a94dbbd1e87a3b5e7f",
+      "size_bytes": 1204,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "788cd1f4015b4a0980e1832206de5e4afc05af13",
+      "size_bytes": 319,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "elephant.py",
+      "blob_sha": "31d4ae3b6ed8af1f50f6268283efd36ab819589d",
+      "size_bytes": 3044,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/elephant.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "26557fc87e51fd66a581ef8fc72d01e9622fca1e",
+      "size_bytes": 587,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "d1d59fcee5f04f8bbf88a8f55cd14472f31a5676",
+      "size_bytes": 1815,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "3609b81f07f932344a9cdd01c4efabee81bc5e55",
+      "size_bytes": 1073,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "memory_model.md",
+      "blob_sha": "f8b80d9c5f5c6b93fe05332c36f087717c6cf05d",
+      "size_bytes": 1025,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/memory_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "b0e8a861feec362c05929646d66842a42ce7cf35",
+      "size_bytes": 2241,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "710df49eb526c603d37e08f863b37931e7b58514",
+      "size_bytes": 3101,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_elephant.py",
+      "blob_sha": "fb01a3399de45d2f6d113cd455102599e4848c74",
+      "size_bytes": 1009,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/test_elephant.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "fc0ec9447c124e7917ce0dfdc8f74200bad6adbd",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "6f38c684f1740d4da6b2a1d1057590028a053d79",
+      "size_bytes": 2486,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Elephant/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

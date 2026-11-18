@@ -1,0 +1,679 @@
+{
+  "repository": "enuminous/Information-Tensor",
+  "default_branch": "main",
+  "tree_sha": "b02b04897743d34cdb846e9fac2518cd8faa4399",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/ci.yml",
+      "blob_sha": "994805ce7073becf41d021c05f5e39ac79ba3c6d",
+      "size_bytes": 849,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/.github/workflows/ci.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "eecc6847b7f0699bd3b3b82a07d61d8de24229dc",
+      "size_bytes": 67,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".nojekyll",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/.nojekyll",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "app.js",
+      "blob_sha": "62a524eb7f33401860db9aec41f1a8da1a76598e",
+      "size_bytes": 17628,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/app.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "blob_sha": "dcb7cc537e79c16b0dd02d6f17e6f8dc828a69ff",
+      "size_bytes": 285,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/CHANGELOG.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cli.cjs",
+      "blob_sha": "ff02be3755e9f766eebbb07980dcb169405b6749",
+      "size_bytes": 3587,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/cli.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "blob_sha": "040f0e14b57bc399952fd148c664b4ada9bbfea7",
+      "size_bytes": 789,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/CONTRIBUTING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/API.md",
+      "blob_sha": "15d154b57f21d3c534cffae381f92efcf4a69837",
+      "size_bytes": 5078,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/docs/API.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/EXPERIMENTS.md",
+      "blob_sha": "ad3b6b74891139f019700c20d85304c462a328a8",
+      "size_bytes": 4176,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/docs/EXPERIMENTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OPEN_OBLIGATIONS.md",
+      "blob_sha": "1c0218e395bb66e5eefb4e1c1eae52c8e45e88f0",
+      "size_bytes": 2333,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/docs/OPEN_OBLIGATIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/PROVENANCE.md",
+      "blob_sha": "08e6d71a71b0420e4b2a2cc9e513cec7f5b903cc",
+      "size_bytes": 4276,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/docs/PROVENANCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/SEMANTICS.md",
+      "blob_sha": "e0549ff140a375356541222538b805743f34dc49",
+      "size_bytes": 5794,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/docs/SEMANTICS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/THEORY.md",
+      "blob_sha": "ea589c618d9c6d698bd241110a3e3b756560bd64",
+      "size_bytes": 9192,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/docs/THEORY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "blob_sha": "418666da34d135f548d86f1a093283754d2bdbdb",
+      "size_bytes": 3774,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/docs/VALIDATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "engine/core.js",
+      "blob_sha": "9d014bb047efd67f5273d88296619c230ced1ed5",
+      "size_bytes": 14463,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/engine/core.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "engine/energy-ledger.js",
+      "blob_sha": "a6f266bb34cebdd8df0cf338fb81b2a1615bafbd",
+      "size_bytes": 2757,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/engine/energy-ledger.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "engine/semantic.js",
+      "blob_sha": "745b314bd9423b1521e55e5f29021f4d2b12b868",
+      "size_bytes": 16399,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/engine/semantic.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/claims.json",
+      "blob_sha": "6b9d89500bf7ffc80bf80ba7e3b3bf66022763b5",
+      "size_bytes": 592,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/examples/claims.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/comparison.json",
+      "blob_sha": "5375de57d297d6a0451c79b4cb00f3d8ae7d7348",
+      "size_bytes": 55,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/examples/comparison.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/conservative.json",
+      "blob_sha": "ea6089f29fc099d9bc8c184587981f38960e02d7",
+      "size_bytes": 130,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/examples/conservative.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/research-text.txt",
+      "blob_sha": "813fb1f69d1fca49778264af937ea1253f8a9eb5",
+      "size_bytes": 251,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/examples/research-text.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "icon.svg",
+      "blob_sha": "0a1c154361a553098121c6113a91e61557843a64",
+      "size_bytes": 265,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/icon.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "713f40bfdb8950825d553b9039ea758c9fd60a5c",
+      "size_bytes": 14148,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE.md",
+      "blob_sha": "bb4ccb2f516aa865d999a8d58c823ecee58f95de",
+      "size_bytes": 472,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/LICENSE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "package.json",
+      "blob_sha": "b1bceb04df9b11c5cde7f750afa70a1937fab895",
+      "size_bytes": 578,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/package.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "b61cdab0a5da6d287a5a8e5daf0bca94066b075a",
+      "size_bytes": 8705,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements-plots.txt",
+      "blob_sha": "89442067355c080d01a77f1299953aa2780f901b",
+      "size_bytes": 64,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/requirements-plots.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/witd-002/all-tests.txt",
+      "blob_sha": "40bcb4cba43059f43ab7507aa4add1164d0bfebe",
+      "size_bytes": 3126,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/research/witd-002/all-tests.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/witd-002/DERIVATION.md",
+      "blob_sha": "d427b2f50bd8e577f6c206e076aa4121a612c6d9",
+      "size_bytes": 9487,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/research/witd-002/DERIVATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/witd-002/diagnostics.cjs",
+      "blob_sha": "aaab5bee46e3024527b7cbd784d8af716fa0c2a8",
+      "size_bytes": 1685,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/research/witd-002/diagnostics.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/witd-002/diagnostics.json",
+      "blob_sha": "72713293534288f5506fb5601f14309614334d4f",
+      "size_bytes": 2337,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/research/witd-002/diagnostics.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/witd-002/figure.svg",
+      "blob_sha": "55a744ae610df8ac21d81b84c3708049ddb45488",
+      "size_bytes": 41960,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/research/witd-002/figure.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/witd-002/legacy-verification.txt",
+      "blob_sha": "558c15df37167178c4c349d09bad18beea0ab921",
+      "size_bytes": 2961,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/research/witd-002/legacy-verification.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/witd-002/plot.py",
+      "blob_sha": "bbc737041259c84b5666454bdfc648efede407f7",
+      "size_bytes": 2018,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/research/witd-002/plot.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/witd-002/PROTOCOL.md",
+      "blob_sha": "32a40022605c923db99406da63bbfe1bf8f56f4e",
+      "size_bytes": 4296,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/research/witd-002/PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/witd-002/reference.py",
+      "blob_sha": "c66129baecd4ae6f29f1de2861b2812cc90b9023",
+      "size_bytes": 1470,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/research/witd-002/reference.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/witd-002/replay.cjs",
+      "blob_sha": "80a4d743c4d4941c682aae7cafab4cf41df64d22",
+      "size_bytes": 1747,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/research/witd-002/replay.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/witd-002/results.json",
+      "blob_sha": "95bad9381ce3c26da2297bd89af9fad26e79cbb4",
+      "size_bytes": 23264,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/research/witd-002/results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/witd-002/RESULTS.md",
+      "blob_sha": "e1566b52579612d26edfb2f28042c7afd9b5862e",
+      "size_bytes": 6704,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/research/witd-002/RESULTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/witd-002/run.cjs",
+      "blob_sha": "18cf82e9e218c03bdc516cae5592554c6cd655dd",
+      "size_bytes": 7149,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/research/witd-002/run.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/comparison.json",
+      "blob_sha": "f2c809876159c37ae8dc08da16ed2c4c7281b445",
+      "size_bytes": 24516,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/results/comparison.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/conservative.csv",
+      "blob_sha": "18bfcb3a2388a1711ccaa5b63570118a61f9b2cd",
+      "size_bytes": 7738,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/results/conservative.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/conservative.json",
+      "blob_sha": "67f8511bf18f5459a3766753ce618f41d9447295",
+      "size_bytes": 142524,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/results/conservative.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/overview.png",
+      "blob_sha": "949c05fc41fcabd0b5e91f9ac776d80204ff1d8f",
+      "size_bytes": 220313,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/results/overview.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/scalar-bounded.csv",
+      "blob_sha": "5745ab21b4b8dcbea56cae8e48fa915256848a3d",
+      "size_bytes": 580,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/results/scalar-bounded.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/scalar-bounded.json",
+      "blob_sha": "9a9f39929b16bdd02765f3306b6e042848cd0326",
+      "size_bytes": 51792,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/results/scalar-bounded.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/scalar-literal.csv",
+      "blob_sha": "7adb2f5c2316ceda0150e7a9a15527e441184a14",
+      "size_bytes": 593,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/results/scalar-literal.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/scalar-literal.json",
+      "blob_sha": "e66db990dbddb18e72bf2e4b6a273af26d358ef2",
+      "size_bytes": 54167,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/results/scalar-literal.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/semantic-driven.csv",
+      "blob_sha": "fbfb7e6df3c24fd86c92176cb8a9f8df5c39a136",
+      "size_bytes": 7459,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/results/semantic-driven.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/semantic-driven.json",
+      "blob_sha": "d41dece43c1bb9c6c5b02547ecf8b397940d3e9e",
+      "size_bytes": 97420,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/results/semantic-driven.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/semantic.json",
+      "blob_sha": "4e29f920379493cf27316ca8157528c3f937ce6c",
+      "size_bytes": 8157,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/results/semantic.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/test-output.txt",
+      "blob_sha": "4710f9e2183fa53f702f6e64436aeb6152c159d4",
+      "size_bytes": 2697,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/results/test-output.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/verification.json",
+      "blob_sha": "d9e799db46a1ce8bb97e47dbf759247c8e488947",
+      "size_bytes": 339,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/results/verification.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/verify-console.txt",
+      "blob_sha": "faf7844e8af72ae7d67a64b16cfba969a785c4a3",
+      "size_bytes": 2957,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/results/verify-console.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/check_manifest.py",
+      "blob_sha": "88eb37fd9a84ea45f3f3d973146e77a24e180822",
+      "size_bytes": 394,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/scripts/check_manifest.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/package.py",
+      "blob_sha": "540f2e1823e8c513fef3e0bd62eb5bfc22bd2f01",
+      "size_bytes": 1732,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/scripts/package.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/plot_results.py",
+      "blob_sha": "ee9fb98b1638b27c9c92855d710a4dcc21b4acb6",
+      "size_bytes": 2160,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/scripts/plot_results.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/reference.py",
+      "blob_sha": "3cf5458e70c641f066ef8c8a66a909c43418941c",
+      "size_bytes": 579,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/scripts/reference.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/verify.cjs",
+      "blob_sha": "a607e51889e6d425515d3a2694b87905bfbfb7a2",
+      "size_bytes": 2262,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/scripts/verify.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SHA256SUMS",
+      "blob_sha": "dde3300024f0ee7d0a80c24fb2cf5195bf3e322c",
+      "size_bytes": 5757,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/SHA256SUMS",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/canonical-equations.json",
+      "blob_sha": "5e68eec5ebfed0764d0c55404249de082ce02f03",
+      "size_bytes": 40348,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/sources/canonical-equations.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/catalog.js",
+      "blob_sha": "2395f0327d83a6c18fd22727ce38522e029e55d4",
+      "size_bytes": 33618,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/sources/catalog.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/provenance.json",
+      "blob_sha": "db161044918e7d3a2a5d92e52a2d906ebd16c3f3",
+      "size_bytes": 873,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/sources/provenance.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "style.css",
+      "blob_sha": "221a4e6b3aa2d3f7b5b8ec28285bc7c7b4178740",
+      "size_bytes": 10276,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/style.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/energy-ledger.test.cjs",
+      "blob_sha": "bd438b8c97102a7147f54d584e79e57fd03689ce",
+      "size_bytes": 1752,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/tests/energy-ledger.test.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/engine.test.cjs",
+      "blob_sha": "e308792fb13f6d7fdf67495f6507785dd476cb68",
+      "size_bytes": 8448,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Information-Tensor/blob/main/tests/engine.test.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "repository": "enuminous/EFMW-Grid",
+  "default_branch": "main",
+  "tree_sha": "b684e906b9407716df69b3329d42aad42c54da96",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "f5c0b4533679049a2cb424dfae3ade5310916d48",
+      "size_bytes": 697,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Grid/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWGrid.lean",
+      "blob_sha": "f460922e62bd5f34933804a5399f4eb6bcc3d32d",
+      "size_bytes": 1754,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Grid/blob/main/EFMWGrid.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "f9de13d42b30276889c7f50cc6d4c9e0ce9fe33d",
+      "size_bytes": 14498,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Grid/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "145bd754b41b9c4976b4f37ec83b2495fce10fee",
+      "size_bytes": 115,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Grid/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "91694cff379323cfea2600a263d0fad9a925e206",
+      "size_bytes": 98,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Grid/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Grid/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_FORMALIZATION.md",
+      "blob_sha": "f871e7b76211e97342d62e0060f70a001b4cf997",
+      "size_bytes": 1263,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Grid/blob/main/LEAN_FORMALIZATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PROTOCOL.md",
+      "blob_sha": "bc83d116e2530aabd2cb6571c6fadd9210b8cf84",
+      "size_bytes": 3464,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Grid/blob/main/PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "108cb476a7db4c9e0ab6556e7cf54bc5f2970747",
+      "size_bytes": 4404,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Grid/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

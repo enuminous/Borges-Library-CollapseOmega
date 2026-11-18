@@ -1,0 +1,1815 @@
+{
+  "repository": "enuminous/Nightengale-Full-Zoo-Audit",
+  "default_branch": "main",
+  "tree_sha": "b2c0e7259e919bb41b62035a596c46b564d9fcb6",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "a3548b00e3dbe5c7ce75bd22eea5a2ddec54fff4",
+      "size_bytes": 1642,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "additive_control.json",
+      "blob_sha": "57e216e4aadce73c9b61525b51aa0fa46907cc29",
+      "size_bytes": 2363,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/additive_control.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Ant-effects.json",
+      "blob_sha": "be52e18ce06b743bf47811b36c1f403c9b7cce1b",
+      "size_bytes": 5675,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Ant-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Ant-inputs.csv",
+      "blob_sha": "65bf2d0ac32df1da4d59b0b25d71524e4d94ee6a",
+      "size_bytes": 15101,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Ant-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Axolotl-effects.json",
+      "blob_sha": "5f4cb11fb0a834a75438c57be96449dbe7b85085",
+      "size_bytes": 5611,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Axolotl-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Axolotl-inputs.csv",
+      "blob_sha": "dc879dd748cee1a19de22237b000b2eed342017b",
+      "size_bytes": 14816,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Axolotl-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Bat-effects.json",
+      "blob_sha": "40c3c02dc18ff03519585c4c3091e7bbaad62608",
+      "size_bytes": 5208,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Bat-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Bat-inputs.csv",
+      "blob_sha": "0e85f1c913848ddc62a28561e4b411908ee1c1c4",
+      "size_bytes": 16122,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Bat-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Beaver-effects.json",
+      "blob_sha": "ca7cb7c00929f7e22739151fe603ecc60dfb7f2f",
+      "size_bytes": 5132,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Beaver-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Beaver-inputs.csv",
+      "blob_sha": "3670b0ed4d1a22a9e128df5f352886126c0d9cec",
+      "size_bytes": 15166,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Beaver-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Bison-effects.json",
+      "blob_sha": "9f0be2fa7d426ec28701feb551ffc0291badf9a0",
+      "size_bytes": 5471,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Bison-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Bison-inputs.csv",
+      "blob_sha": "48975cd520c382e43db20d7b4933ca890f98824a",
+      "size_bytes": 14040,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Bison-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Bonobo-effects.json",
+      "blob_sha": "136fee58f22548eff1dfa1de62f2c62849713019",
+      "size_bytes": 2444,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Bonobo-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Bonobo-inputs.csv",
+      "blob_sha": "4d390f3b7a2a5168c025cdd84abdef83c8db9306",
+      "size_bytes": 9883,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Bonobo-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "build.log",
+      "blob_sha": "54babbbf0eeffa3fa693b0ebb95a0f9f35bbda42",
+      "size_bytes": 315,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/build.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Butterfly-effects.json",
+      "blob_sha": "e365cf7a9b42e147cc7eea16aa27d75b76decc88",
+      "size_bytes": 5590,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Butterfly-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Butterfly-inputs.csv",
+      "blob_sha": "9f3ae80863b1236a68710a7c84adaa85eb070685",
+      "size_bytes": 14753,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Butterfly-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Cat-effects.json",
+      "blob_sha": "e5f2ea0c0174ff446529e6c1acfb9235d0673a92",
+      "size_bytes": 2440,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Cat-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Cat-inputs.csv",
+      "blob_sha": "b6e988a6fd5977f43feef512b4fc7dff50eda114",
+      "size_bytes": 9906,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Cat-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Chameleon-effects.json",
+      "blob_sha": "fbf0ca377dbbe36a99ec57613ccc3529426b02de",
+      "size_bytes": 2452,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Chameleon-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Chameleon-inputs.csv",
+      "blob_sha": "60cc92b4645277c29be16d06d2d75b7062997115",
+      "size_bytes": 9882,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Chameleon-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "checks.json",
+      "blob_sha": "e06b976359456f402301b0d6da4c28f59ddde87a",
+      "size_bytes": 456,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/checks.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Cobra-effects.json",
+      "blob_sha": "890db7262917b198f839dd7cd8759a552d8012e9",
+      "size_bytes": 5646,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Cobra-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Cobra-inputs.csv",
+      "blob_sha": "8ed0065e517eb605bbb1da3d88d5b75e55a785a6",
+      "size_bytes": 14850,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Cobra-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "constant_control.json",
+      "blob_sha": "05535f91950b6798608cfa1e2e0db6cc388d2f2c",
+      "size_bytes": 952,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/constant_control.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "control-inputs.csv",
+      "blob_sha": "81ad6f78f65bfd66d65bc8bc13fc9807ab8bdbde",
+      "size_bytes": 39213,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/control-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Crab-effects.json",
+      "blob_sha": "cd53e38984b8b4b6a40b40df5681d9ffbc7f4b29",
+      "size_bytes": 5626,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Crab-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Crab-inputs.csv",
+      "blob_sha": "970ef0d0ecf9bcd0f035240775fbf9c730492a85",
+      "size_bytes": 15133,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Crab-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Crocodile-effects.json",
+      "blob_sha": "1aac82af58ac7a5c4917f234fc2184618654dd6f",
+      "size_bytes": 5677,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Crocodile-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Crocodile-inputs.csv",
+      "blob_sha": "f570ec71ba0d69a79ae639c452d02bfdb7db8b0c",
+      "size_bytes": 14835,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Crocodile-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Dolphin-effects.json",
+      "blob_sha": "34b7e621eb28bdbb9841e60c7678260743d4c731",
+      "size_bytes": 5665,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Dolphin-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Dolphin-inputs.csv",
+      "blob_sha": "4608c94eabd37747ca3e9f298c6957618ecc34cc",
+      "size_bytes": 15146,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Dolphin-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Dragon-effects.json",
+      "blob_sha": "a3ea1941984f5064dc06ab8d6a32f0ab90cdf08e",
+      "size_bytes": 5689,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Dragon-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Dragon-inputs.csv",
+      "blob_sha": "bc92bda3a097f0119d255077d3a384eea1986e9d",
+      "size_bytes": 15143,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Dragon-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Eagle-effects.json",
+      "blob_sha": "75fab93cad2bcbac5c719b763ab86f5bc196769f",
+      "size_bytes": 5629,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Eagle-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Eagle-inputs.csv",
+      "blob_sha": "80a4597cd5d86d74fbf0871f0eba8d0bcd6a0a08",
+      "size_bytes": 15160,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Eagle-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "effects.csv",
+      "blob_sha": "53e629a9a9842ff1135410279c158901f3320d7e",
+      "size_bytes": 26773,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/effects.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Elephant-effects.json",
+      "blob_sha": "aa041b9a83be39d37ce8b5ed6565eb308865ed1a",
+      "size_bytes": 5029,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Elephant-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Elephant-inputs.csv",
+      "blob_sha": "0e3f905cc372ff3247059d14368483db4e31219b",
+      "size_bytes": 14823,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Elephant-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Falcon-effects.json",
+      "blob_sha": "385de159fdba74fb6f844b7542646ccbe3543e3e",
+      "size_bytes": 5011,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Falcon-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Falcon-inputs.csv",
+      "blob_sha": "986170fce0a1180bf60db33c3d5a659280702556",
+      "size_bytes": 14089,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Falcon-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Fox-effects.json",
+      "blob_sha": "46922f338ee0ddba939d57240d1c915738b1701f",
+      "size_bytes": 5623,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Fox-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Fox-inputs.csv",
+      "blob_sha": "ad53a5a4b4f5b3ac911a7d62d70632a7a466d99a",
+      "size_bytes": 15143,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Fox-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Gecko-effects.json",
+      "blob_sha": "b8c970c11ad60d3069f881814559b5c047f85bdb",
+      "size_bytes": 5563,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Gecko-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Gecko-inputs.csv",
+      "blob_sha": "f80859eb3c3307028f28ac0befabc0de6167522e",
+      "size_bytes": 15172,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Gecko-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Hedgehog-effects.json",
+      "blob_sha": "d1e25aae2cd7f02a66560db9de08b62eb06d7166",
+      "size_bytes": 2245,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Hedgehog-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Hedgehog-inputs.csv",
+      "blob_sha": "f2c82cd8e9552db9cdf1b4b80bcb1d42ed796293",
+      "size_bytes": 10520,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Hedgehog-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Hive-effects.json",
+      "blob_sha": "fa95af17944cb3973055ca63be99529d8a74c217",
+      "size_bytes": 5625,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Hive-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Hive-inputs.csv",
+      "blob_sha": "7aa34e6aec969e61e23ad5e550b92d2dec753032",
+      "size_bytes": 15088,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Hive-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Horse-effects.json",
+      "blob_sha": "7d48d12b7892e8a81eb91e6595bc3d5a9840b1d5",
+      "size_bytes": 5624,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Horse-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Horse-inputs.csv",
+      "blob_sha": "542302a9b83873dc26481004093cbc00779bba22",
+      "size_bytes": 14815,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Horse-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Jellyfish-effects.json",
+      "blob_sha": "2f38d541b458e72008f9a34f958c15b06b380858",
+      "size_bytes": 5573,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Jellyfish-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Jellyfish-inputs.csv",
+      "blob_sha": "4138530c59c48439131dd1669f1393386bbacb83",
+      "size_bytes": 14824,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Jellyfish-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Ant.lean",
+      "blob_sha": "625f6b87256144f515b024980356d6c50c4debe5",
+      "size_bytes": 1688,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Ant.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Audit.lean",
+      "blob_sha": "b877d099b8bc523075fd67869f30c807ec09023d",
+      "size_bytes": 2118,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Axolotl.lean",
+      "blob_sha": "8dea8a4ffa6433fa4c9aba2d1c33fa51f28e7982",
+      "size_bytes": 1135,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Axolotl.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Bat.lean",
+      "blob_sha": "d8a7643e11aa3eae7b400bb5590676319a8e3f5a",
+      "size_bytes": 846,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Bat.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Beaver.lean",
+      "blob_sha": "0f83a9e49d4c3fd33aa7227fbaaf6c1dad58d8d7",
+      "size_bytes": 803,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Beaver.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Bison.lean",
+      "blob_sha": "bd2d35300983a20a998587802b361953f8e5b02a",
+      "size_bytes": 799,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Bison.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Bonobo.lean",
+      "blob_sha": "816b21d38a8d1114d307732f1684abd65cf550a0",
+      "size_bytes": 734,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Bonobo.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Butterfly.lean",
+      "blob_sha": "17c341ec9236b991e3d850d895feb89a20180671",
+      "size_bytes": 826,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Butterfly.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Cat.lean",
+      "blob_sha": "9c612165af141d5421f18eacf43d41dd9dcba8ad",
+      "size_bytes": 774,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Cat.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Chameleon.lean",
+      "blob_sha": "471b23c0b87c450979cddc17bf641bbb6638218b",
+      "size_bytes": 667,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Chameleon.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Cobra.lean",
+      "blob_sha": "195d2803023dfba18e4a44a019855e901ae9f112",
+      "size_bytes": 886,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Cobra.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Core.lean",
+      "blob_sha": "4fe032e03c3ea044d7651eeba99c15ee56c90fd6",
+      "size_bytes": 4310,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Core.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Crab.lean",
+      "blob_sha": "0554861ba91cdc95b34f03f99c97a6f02ac1a315",
+      "size_bytes": 1688,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Crab.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Crocodile.lean",
+      "blob_sha": "73541ca7b4c7f24abe4d8020b2c327fc5cbd6ac3",
+      "size_bytes": 975,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Crocodile.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Dolphin.lean",
+      "blob_sha": "32c43643e9ebe5ba4d353cc72e230640ea2a509c",
+      "size_bytes": 1700,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Dolphin.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Dragon.lean",
+      "blob_sha": "b336527024f9aa0c354683715101f85530635cd9",
+      "size_bytes": 1672,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Dragon.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Eagle.lean",
+      "blob_sha": "9c4480e5f2654d478e6b0803de1ce542067e7ec1",
+      "size_bytes": 1553,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Eagle.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Elephant.lean",
+      "blob_sha": "9d71864473cab787e385d3805bb76811d5ca4510",
+      "size_bytes": 1087,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Elephant.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Falcon.lean",
+      "blob_sha": "2dad87af2f42c0ad5099769d894354d0160287ab",
+      "size_bytes": 823,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Falcon.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Fox.lean",
+      "blob_sha": "a1c1f9d7497da596b233c7f100bcc7f510a4b0da",
+      "size_bytes": 1569,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Fox.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Gecko.lean",
+      "blob_sha": "f31273b6d2b66098da7ffeac88cd5d67d890217b",
+      "size_bytes": 1555,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Gecko.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Hedgehog.lean",
+      "blob_sha": "83205ffdc42dd20884d206403780369a1710e881",
+      "size_bytes": 995,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Hedgehog.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Hive.lean",
+      "blob_sha": "34e06219bc3dfe09bddaff92438970b1253f1672",
+      "size_bytes": 1576,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Hive.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Horse.lean",
+      "blob_sha": "bb388c5a162d18ec1b1e088d97f91944e874dc8d",
+      "size_bytes": 1053,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Horse.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Jellyfish.lean",
+      "blob_sha": "59861ffa83d68a47b6da93bb8a4f714d3785a7ce",
+      "size_bytes": 922,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Jellyfish.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/lake-manifest.json",
+      "blob_sha": "b3b8fec7ef541f3374567fc545270e7f223ebda1",
+      "size_bytes": 119,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/lakefile.lean",
+      "blob_sha": "cdfbd8328775a096fa36f8f85ca9ccb343ae426c",
+      "size_bytes": 682,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/lakefile.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/lean-toolchain",
+      "blob_sha": "7aca1d8a939cc24c413eddd793671cdce7070b74",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/LICENSE",
+      "blob_sha": "62c3e4a9d0c33c730c119fc5813fec3dfacf08d3",
+      "size_bytes": 1244,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Lynx.lean",
+      "blob_sha": "43a8bcd12f82e663f1a75124c9198a8360775f15",
+      "size_bytes": 754,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Lynx.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Magpie.lean",
+      "blob_sha": "6a022e8e2e4b1556406de93c605e572fbb05a669",
+      "size_bytes": 1044,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Magpie.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Main.lean",
+      "blob_sha": "c49e179cfe6baf5415c6d3debe841b2cf2dd2b26",
+      "size_bytes": 165,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Mantis.lean",
+      "blob_sha": "3ba3bd0268ff789f718efbe8e3b52918553fb3ad",
+      "size_bytes": 916,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Mantis.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Mole.lean",
+      "blob_sha": "0418cf9654909acae8d7f33c6aff1a51151b9aa2",
+      "size_bytes": 616,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Mole.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Moth.lean",
+      "blob_sha": "3a1997f391d5817a7e6453683373ba7c1f348cd2",
+      "size_bytes": 1512,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Moth.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/NightAudit.lean",
+      "blob_sha": "d0415a3299684dd441263e31d362196ce3deccf4",
+      "size_bytes": 4548,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/NightAudit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Octopus.lean",
+      "blob_sha": "5f195f3386c8006ba5c9cc5519e08c7830c276d7",
+      "size_bytes": 1568,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Octopus.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Orca.lean",
+      "blob_sha": "e7f19f2e5d9bd255613fc21946ba7c2902b1e54a",
+      "size_bytes": 760,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Orca.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Owl.lean",
+      "blob_sha": "c8e7168a73b3d344d9fca3759bae6ff5b01c4306",
+      "size_bytes": 1594,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Owl.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Penguin.lean",
+      "blob_sha": "117afe0c11301df439d4603d1edbc13c60f3de18",
+      "size_bytes": 1612,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Penguin.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Phoenix.lean",
+      "blob_sha": "e84ce7fec7b44add2a453da78d52f2135a674c5f",
+      "size_bytes": 762,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Phoenix.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/ProofAudit.lean",
+      "blob_sha": "4be018adae54b41224f17b4ca922a9727b321c88",
+      "size_bytes": 4410,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/ProofAudit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Pulse.lean",
+      "blob_sha": "1f26f73a3259116ce9bee4bb7322b849f559ab34",
+      "size_bytes": 1710,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Pulse.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Raven.lean",
+      "blob_sha": "ae09e1a0b78f636c91f690bc89b03737025d8e26",
+      "size_bytes": 1540,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Raven.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Registry.lean",
+      "blob_sha": "684e8bdb68a08840c063349ae9f66e6b651c1a56",
+      "size_bytes": 1688,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Registry.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Regression.lean",
+      "blob_sha": "f3a58259574cd91b62f3c919a3f5b1eddeaaaac7",
+      "size_bytes": 11728,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Regression.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Rhino.lean",
+      "blob_sha": "f554ee79806f8d94b95497582335bf3fe1dfe42d",
+      "size_bytes": 790,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Rhino.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Salmon.lean",
+      "blob_sha": "6908f6dd84e186b24b06dbe32f73e12270afce81",
+      "size_bytes": 826,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Salmon.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/scripts/test_adapter.py",
+      "blob_sha": "cb7cbdc4fe6a25e7a92b6be5e786bf80cbb4063d",
+      "size_bytes": 878,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/scripts/test_adapter.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Shark.lean",
+      "blob_sha": "2c0231b86216ffd5633c39f5a78fa6d21a687347",
+      "size_bytes": 1730,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Shark.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Shepherd.lean",
+      "blob_sha": "95a5c0c0872c1d9b51750c4fb542c6031df493e0",
+      "size_bytes": 1723,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Shepherd.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Spider.lean",
+      "blob_sha": "2c64453e098fe630e7e80eb5c1ec4b7cf96c6176",
+      "size_bytes": 1620,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Spider.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Termite.lean",
+      "blob_sha": "73ac3fb327dbb37ab62c46f985f02b17b87d9315",
+      "size_bytes": 832,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Termite.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Tortoise.lean",
+      "blob_sha": "f67ab8d70a89219ae35d2284c848f78ca7a77110",
+      "size_bytes": 752,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Tortoise.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Turtle.lean",
+      "blob_sha": "03bd011560a910b2989ecb6d8b0075bb6f62e47c",
+      "size_bytes": 1314,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Turtle.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/VERIFICATION.md",
+      "blob_sha": "f88cb091f3eb338b5ad4434e66a0f14b2bc071e5",
+      "size_bytes": 866,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Weasel.lean",
+      "blob_sha": "17396b0cc75eb897168d9c7996d2651a7b8521d4",
+      "size_bytes": 737,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Weasel.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Whale.lean",
+      "blob_sha": "898ac166ec362dae2ff5b6dce365a84f46cfe07a",
+      "size_bytes": 656,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Whale.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Wolf.lean",
+      "blob_sha": "8265289257a163efd8fb37e3b412694bd031fcfb",
+      "size_bytes": 847,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Wolf.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-source/Zoo.lean",
+      "blob_sha": "e3e3f7155d4e72b30f42d1cd6478b6e2c675ea54",
+      "size_bytes": 647,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/lean-source/Zoo.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE_NIGHTINGALE",
+      "blob_sha": "bd2d2708d58ab980165ca40788fe39804e30ef6a",
+      "size_bytes": 1082,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/LICENSE_NIGHTINGALE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Lynx-effects.json",
+      "blob_sha": "cb2ef1bc2733c9acb2c542735d7db6a219a1a26f",
+      "size_bytes": 5606,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Lynx-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Lynx-inputs.csv",
+      "blob_sha": "dbbbaaa879212cf0cbc2f3c529da05d0a25fc266",
+      "size_bytes": 14814,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Lynx-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Magpie-effects.json",
+      "blob_sha": "dc835e7d2cc54f274fcfa5a2275870a0bd193671",
+      "size_bytes": 5630,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Magpie-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Magpie-inputs.csv",
+      "blob_sha": "2f083b735bd341a89112f6e8aa2601bf51551339",
+      "size_bytes": 14889,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Magpie-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST_SHA256.txt",
+      "blob_sha": "231e60e3e869f61a4756c4013ed42ff58476e302",
+      "size_bytes": 14606,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/MANIFEST_SHA256.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Mantis-effects.json",
+      "blob_sha": "2ab851ec317699e6b9e83d10bd3ce22db0249344",
+      "size_bytes": 5141,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Mantis-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Mantis-inputs.csv",
+      "blob_sha": "9ba75e0fd110d2a30f18e50d191fa05919516678",
+      "size_bytes": 14696,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Mantis-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Mole-effects.json",
+      "blob_sha": "3ec54098d6b8ebc51580c479042084a59732db0f",
+      "size_bytes": 5174,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Mole-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Mole-inputs.csv",
+      "blob_sha": "7ca5af4d166cf0a76b93fa5cd001f5096a526c29",
+      "size_bytes": 14857,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Mole-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Moth-effects.json",
+      "blob_sha": "8066dc0046acd095c0ebd074ff4f8c8ecd5baac8",
+      "size_bytes": 5676,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Moth-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Moth-inputs.csv",
+      "blob_sha": "ee7cdd1978e62fd981773d730382b23938721343",
+      "size_bytes": 15155,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Moth-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "NightAudit.lean",
+      "blob_sha": "d0415a3299684dd441263e31d362196ce3deccf4",
+      "size_bytes": 4548,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/NightAudit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "nightingale.py",
+      "blob_sha": "efd4087e5bf0191b855a5c0a2c5f7a76b2df6a98",
+      "size_bytes": 8247,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/nightingale.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Octopus-effects.json",
+      "blob_sha": "daacee24be7448584bc77061a2a7d8a2577da073",
+      "size_bytes": 5630,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Octopus-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Octopus-inputs.csv",
+      "blob_sha": "4630546dade71d0622a2fee615de76ef595dfed5",
+      "size_bytes": 15135,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Octopus-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Orca-effects.json",
+      "blob_sha": "a08fcdda1d227720c4a20b49b14b2f1d616f5a41",
+      "size_bytes": 5665,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Orca-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Orca-inputs.csv",
+      "blob_sha": "33731adc2339f401a963d803d44fe4051d9f2bd9",
+      "size_bytes": 14801,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Orca-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Owl-effects.json",
+      "blob_sha": "60da6dd97e9c7ce508d48d9623f42e3a8ba3a238",
+      "size_bytes": 5639,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Owl-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Owl-inputs.csv",
+      "blob_sha": "a13591dd54f15bc52c052b0135936321dadeaf4c",
+      "size_bytes": 15150,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Owl-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Penguin-effects.json",
+      "blob_sha": "8ffe67714eecfa00388f872d132ed45e05ca257f",
+      "size_bytes": 5618,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Penguin-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Penguin-inputs.csv",
+      "blob_sha": "6143d7d7962f7e7b70b4d1486a57b28a4e835e8e",
+      "size_bytes": 15132,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Penguin-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Phoenix-effects.json",
+      "blob_sha": "c9f9c4fad9dc31cfcb1a8516a0ba0f3fa0c1f977",
+      "size_bytes": 5647,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Phoenix-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Phoenix-inputs.csv",
+      "blob_sha": "b5c0f71961b86feabb0062195de1962f3e7a1425",
+      "size_bytes": 14820,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Phoenix-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "prior-benchmark/proof-audit.log",
+      "blob_sha": "f01c6e0efce510d1f45fa9ca62d3301f75ea7ed3",
+      "size_bytes": 6777,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/prior-benchmark/proof-audit.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "prior-benchmark/published-results.json",
+      "blob_sha": "a75f6ee8ea3d8d2fca4fa1361fcaad4bbdc17a65",
+      "size_bytes": 920,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/prior-benchmark/published-results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "prior-benchmark/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/prior-benchmark/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "prior-benchmark/repaired-results.json",
+      "blob_sha": "33de0be688e801b0c8096799a7469349b8b2c1a9",
+      "size_bytes": 6388,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/prior-benchmark/repaired-results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "probe_rank.py",
+      "blob_sha": "a723f0aa6ff87673f6310eb7b05bca4bf7412ba6",
+      "size_bytes": 854,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/probe_rank.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "protocol.json",
+      "blob_sha": "cf278cfd2f64af9608c495597f8b2ea5b8bf0298",
+      "size_bytes": 25130,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/protocol.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Pulse-effects.json",
+      "blob_sha": "740875fd3092646822be293bf4bce3f0ea2288c2",
+      "size_bytes": 5625,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Pulse-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Pulse-inputs.csv",
+      "blob_sha": "7342cd3e85fa957adbdd653e8aa3abc08476dd6f",
+      "size_bytes": 15166,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Pulse-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Raven-effects.json",
+      "blob_sha": "ed82dc7651e1859d55eb8d3ef9ce0eb91918d721",
+      "size_bytes": 5671,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Raven-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Raven-inputs.csv",
+      "blob_sha": "c5f52a4e0a61683ac7363e89fc1d039403d06d2f",
+      "size_bytes": 15161,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Raven-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "57c04f52c22280d4a6b541e94145f1f65ced0cf1",
+      "size_bytes": 1666,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "readme.md",
+      "blob_sha": "35b508473545876d6294ed727b7ddc89ca9275fa",
+      "size_bytes": 7865,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reference-context-probe.json",
+      "blob_sha": "ce5889eb3c56c6e6336d07c5941d17ce1cbf6989",
+      "size_bytes": 3834,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/reference-context-probe.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "REPORT.md",
+      "blob_sha": "162ea61baaf6afa9d7be131a303c9bc6fad2d1fc",
+      "size_bytes": 17837,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/REPORT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "471c819217a05ff97a0483a81af5d70df9cb3593",
+      "size_bytes": 27,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Rhino-effects.json",
+      "blob_sha": "55119135c63a4d521bfd1f8aeb625a34eba26d2a",
+      "size_bytes": 2408,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Rhino-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Rhino-inputs.csv",
+      "blob_sha": "fb8dfa308a8fb7f31f8507c7084143be7d82dd4f",
+      "size_bytes": 9857,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Rhino-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "run.log",
+      "blob_sha": "aa11e4bbd1a951b91831c5b31ecd5f4fa3e9d397",
+      "size_bytes": 1680,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/run.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "run.py",
+      "blob_sha": "5f5a92696deec49729d181bfd6c179dcc88e7685",
+      "size_bytes": 3665,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Salmon-effects.json",
+      "blob_sha": "c4b408b893ee3c735f3fd1cc7d175a55469f637b",
+      "size_bytes": 5625,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Salmon-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Salmon-inputs.csv",
+      "blob_sha": "4e60dc70001a29665bfae5771b2624d9f43743fd",
+      "size_bytes": 14854,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Salmon-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Shark-effects.json",
+      "blob_sha": "ef0075e0a3d32b217f6a4cc0f1117d9eb329445b",
+      "size_bytes": 5662,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Shark-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Shark-inputs.csv",
+      "blob_sha": "35d81f1340d1974b8118ccd886ca9cb652262c0e",
+      "size_bytes": 15145,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Shark-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Shepherd-effects.json",
+      "blob_sha": "91e95e794bde6430c566579535c77d0ac1632620",
+      "size_bytes": 5637,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Shepherd-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Shepherd-inputs.csv",
+      "blob_sha": "406d5b91b82067ea41b9d531eebbd6533b1a7a42",
+      "size_bytes": 15113,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Shepherd-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Spider-effects.json",
+      "blob_sha": "26c8cd2022d79c02953e69f564901cd66461c382",
+      "size_bytes": 5624,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Spider-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Spider-inputs.csv",
+      "blob_sha": "69cb3dbcdc107bb22fc804ab10e83685d30ec42f",
+      "size_bytes": 15168,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Spider-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "summary.csv",
+      "blob_sha": "7f13bea60fdb6fc7c495f9d82c6e6ba9e65ca3c3",
+      "size_bytes": 5643,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/summary.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Termite-effects.json",
+      "blob_sha": "0fe9ad31398e42b707876c242fea6216724c8974",
+      "size_bytes": 5617,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Termite-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Termite-inputs.csv",
+      "blob_sha": "d72c0519aefe2441220817681c5067a77375f393",
+      "size_bytes": 14842,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Termite-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Tortoise-effects.json",
+      "blob_sha": "e2d3aa258d9c6c1951009e11983bd532e5cf97e2",
+      "size_bytes": 2447,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Tortoise-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Tortoise-inputs.csv",
+      "blob_sha": "9044cbc5617c39609a58c287768ac61d81e40b13",
+      "size_bytes": 9896,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Tortoise-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Turtle-effects.json",
+      "blob_sha": "d709ec23005752cd588fcf99059a3e6679bdb946",
+      "size_bytes": 2184,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Turtle-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Turtle-inputs.csv",
+      "blob_sha": "359e2008f5b6d599cfc5b490cbcd1c1da99236fd",
+      "size_bytes": 10142,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Turtle-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Weasel-effects.json",
+      "blob_sha": "c738f9d72542d8e5e17114cd84f78818e6c60db6",
+      "size_bytes": 2243,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Weasel-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Weasel-inputs.csv",
+      "blob_sha": "48f9eedff470d47eae8655c197020b707155fb5d",
+      "size_bytes": 10007,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Weasel-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Whale-effects.json",
+      "blob_sha": "0bf99c8c83f8d518c1144673a324026b7a24fa24",
+      "size_bytes": 5623,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Whale-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Whale-inputs.csv",
+      "blob_sha": "0777bc5185fd2105cb22c718c985631f17527966",
+      "size_bytes": 14848,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Whale-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Wolf-effects.json",
+      "blob_sha": "adad60e14805429bb8944c3de296a47f855eb016",
+      "size_bytes": 5599,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Wolf-effects.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Wolf-inputs.csv",
+      "blob_sha": "d163a0cfd6c6d0d8ed9b216d468a7b6ab1d9c8f7",
+      "size_bytes": 14826,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/blob/main/Wolf-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

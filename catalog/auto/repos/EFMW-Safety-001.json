@@ -1,0 +1,340 @@
+{
+  "repository": "enuminous/EFMW-Safety-001",
+  "default_branch": "main",
+  "tree_sha": "49fe901e349f1701ed0c767065db4ef211bed150",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ADVERSARIAL_REVIEW.json",
+      "blob_sha": "70013731254ce870fcfbcd7f75cb934370a74350",
+      "size_bytes": 930,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/ADVERSARIAL_REVIEW.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "analyze.py",
+      "blob_sha": "090394695af7e9c1ec5d1246c2e9e621fccd240f",
+      "size_bytes": 372,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/analyze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CONDITIONS.csv",
+      "blob_sha": "f1cf804e6ad9f9b5fa1e694cd6919d0991987eed",
+      "size_bytes": 600,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/CONDITIONS.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "DEVIATIONS.csv",
+      "blob_sha": "f3abb5f4ffd882071970753ab9dc7b493978cddb",
+      "size_bytes": 53,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/DEVIATIONS.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW_CORE.txt",
+      "blob_sha": "35bcb7cd6378a9300ca79b70c9e7445c2c5efb18",
+      "size_bytes": 603,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/EFMW_CORE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ERROR_LEDGER.csv",
+      "blob_sha": "48cde605bd14a8a9e31b6c0c4611b508f0465251",
+      "size_bytes": 52,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/ERROR_LEDGER.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EXECUTION_MATRIX_FROZEN.csv",
+      "blob_sha": "9fcbafc9ee886092aa003d39bf8fabf0115fad00",
+      "size_bytes": 243038,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/EXECUTION_MATRIX_FROZEN.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiment.json",
+      "blob_sha": "f52166ee93f203fe54b9b112e078de0033b4042a",
+      "size_bytes": 485,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/experiment.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EXPLICIT_SAFETY_LAYER.txt",
+      "blob_sha": "bc088b5143c7cace4e3fe1cbc46f52ba7190ccc7",
+      "size_bytes": 200,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/EXPLICIT_SAFETY_LAYER.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FREEZE_CHECKLIST.md",
+      "blob_sha": "5b75f934caa8e078378fedfd6aa5aa9f9e32e90a",
+      "size_bytes": 772,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/FREEZE_CHECKLIST.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FROZEN_SEEDS.txt",
+      "blob_sha": "efafc14e935961880b25b1882737980856079a72",
+      "size_bytes": 30,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/FROZEN_SEEDS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "INTERPRETATION_RULES.md",
+      "blob_sha": "8a8cdc20c1e8965e74ca57e287221bdb318bf12f",
+      "size_bytes": 411,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/INTERPRETATION_RULES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE.txt",
+      "blob_sha": "f562cb992595771c3c4a78e0b57c743f97322096",
+      "size_bytes": 108,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/LICENSE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST_SHA256.txt",
+      "blob_sha": "50780dfbdfd88e753524bfbf8b40afee66eb0a31",
+      "size_bytes": 3119,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/MANIFEST_SHA256.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MODEL_FREEZE_TEMPLATE.json",
+      "blob_sha": "27efbcbdeb196f0fff4b9189e28b92649ffc4c46",
+      "size_bytes": 418,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/MODEL_FREEZE_TEMPLATE.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PREDICTIONS.csv",
+      "blob_sha": "79eb662bf9dfbaadfec869a71e143805728d135f",
+      "size_bytes": 1101,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/PREDICTIONS.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PROTOCOL.md",
+      "blob_sha": "bff490c3f95b0fd2458ba8c9aee764110f71ccb5",
+      "size_bytes": 1399,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RATER_INSTRUCTIONS.txt",
+      "blob_sha": "5c520dabfa69e22f826884150e468f770390e415",
+      "size_bytes": 266,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/RATER_INSTRUCTIONS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RATER_SHEET_TEMPLATE.csv",
+      "blob_sha": "321d9f4b456c845fa8b3f35d451f312ae6060b67",
+      "size_bytes": 92,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/RATER_SHEET_TEMPLATE.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "8fc14af2d2933c1df21bb92e4d7c55f6337f9346",
+      "size_bytes": 3090,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "result.schema.json",
+      "blob_sha": "7a770b4ae6ec91701201aa17d6e68661e118cb4e",
+      "size_bytes": 190,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/result.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RESULTS.csv",
+      "blob_sha": "59bd25bfa51122c725814441afcc9e82c07cefd1",
+      "size_bytes": 283,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/RESULTS.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scenario.schema.json",
+      "blob_sha": "d7084d414143494254a833007616dd223318e2f2",
+      "size_bytes": 427,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/scenario.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SCENARIO_AUTHORING.md",
+      "blob_sha": "7ef8ba62fe1d2c646a71082373eef73af6694de1",
+      "size_bytes": 409,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/SCENARIO_AUTHORING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SCENARIO_HASHES_SHA256.csv",
+      "blob_sha": "f8ad67f6f3e0113e2012e2b7333c59c343583b52",
+      "size_bytes": 14627,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/SCENARIO_HASHES_SHA256.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scenario_template.csv",
+      "blob_sha": "488a70a5e8439da06995354bf9cdcaacde8bfa4a",
+      "size_bytes": 4659,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/scenario_template.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SCENARIOS_FROZEN.csv",
+      "blob_sha": "4db296416f7424e605b88e9dbe07afc1a85ceaa9",
+      "size_bytes": 44679,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/SCENARIOS_FROZEN.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scoring.py",
+      "blob_sha": "cf443a2786bde83594a39aabfd62b2e24e817d56",
+      "size_bytes": 464,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/scoring.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SCORING_KEYS_FROZEN.csv",
+      "blob_sha": "81059f1bbcf75e35e137da3f093c16d48ed0bd6a",
+      "size_bytes": 26891,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/SCORING_KEYS_FROZEN.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SCORING_RUBRIC.csv",
+      "blob_sha": "e3f08ab92db8f2a6ca79290d5ebcac721debc98e",
+      "size_bytes": 1217,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/SCORING_RUBRIC.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SEVERE_FAILURES.md",
+      "blob_sha": "ed5c88b790ab04572153006e252b5dd0aa7b59fd",
+      "size_bytes": 486,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/SEVERE_FAILURES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_scoring.py",
+      "blob_sha": "e56a6c37647d21b2b521ce2bf4798e7edf05f97d",
+      "size_bytes": 145,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/test_scoring.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "THREAT_MODEL.md",
+      "blob_sha": "c0f29ab929b56c260faeb9257b262e030ac645b4",
+      "size_bytes": 431,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Safety-001/blob/main/THREAT_MODEL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

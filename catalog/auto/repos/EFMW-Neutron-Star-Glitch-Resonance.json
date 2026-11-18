@@ -1,0 +1,225 @@
+{
+  "repository": "enuminous/EFMW-Neutron-Star-Glitch-Resonance",
+  "default_branch": "main",
+  "tree_sha": "a4f04a38499a91d00f7d3cf7b1e1fb6edeb0412d",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "0c0279539e2d3989e7ab85fd9f2af7187047a9bc",
+      "size_bytes": 1445,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/static.yml",
+      "blob_sha": "460f782006e8bb929c92b9357c59c8b1d73f18c7",
+      "size_bytes": 1250,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/.github/workflows/static.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "509d54eedd44d7b672eb3a7f872a9c5004692129",
+      "size_bytes": 320,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "claims_boundary.md",
+      "blob_sha": "b0c21ccf2a0415d7291dd0a745265f2659479bcc",
+      "size_bytes": 839,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/claims_boundary.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CONTRIBUTION.md",
+      "blob_sha": "ed06799bad1e15e0980b17a1ab0d8f33c2ad95e1",
+      "size_bytes": 1402,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/CONTRIBUTION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/Audit.lean",
+      "blob_sha": "42831d6d0886f7dd52ca30ede58e7fe8e5fbc219",
+      "size_bytes": 1206,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/formal/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/COVERAGE.md",
+      "blob_sha": "4df1f6e5fd0dcc38a780b356fc9566d5077b071f",
+      "size_bytes": 1609,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/formal/COVERAGE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lake-manifest.json",
+      "blob_sha": "471826608da8ddd287a53f588a3da0f347949394",
+      "size_bytes": 3486,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/formal/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lakefile.toml",
+      "blob_sha": "6d924aac0135a0764ab7130cbd7f2f013c814d0f",
+      "size_bytes": 241,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/formal/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/formal/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/formal/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/Transient.lean",
+      "blob_sha": "6b7d2fdd0ae2cd5e4edc658f2a816b257fe24637",
+      "size_bytes": 4808,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/formal/Transient.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/VERIFICATION.md",
+      "blob_sha": "54d57fa977ba3253ba419a91d3e0bb1a8e9dd58f",
+      "size_bytes": 885,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/formal/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "f58cac94c812b44fc3e1c2fe92732e4dfe7b7581",
+      "size_bytes": 21543,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0f5f5875fba65210fdabb518043d47a91e8c7e84",
+      "size_bytes": 359,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "59dc5a80729e318a66ed741c13bc0cd2090ef30c",
+      "size_bytes": 7226,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "d8cdb2fe47d56ecd497166f4c6dc0ef7b4717448",
+      "size_bytes": 4068,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "THEOREM_AND_PROOF.md",
+      "blob_sha": "3fc0d7162ef0ada4cd71b343cfde4fe38f8ec08d",
+      "size_bytes": 2113,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/THEOREM_AND_PROOF.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification_output.txt",
+      "blob_sha": "15471fbf1a58d9a2a58d0383a55050644de735a7",
+      "size_bytes": 1302,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/verification_output.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify_waveform.py",
+      "blob_sha": "acd72a6c893e2b9886f56ab0aed9e6187cb94659",
+      "size_bytes": 670,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Neutron-Star-Glitch-Resonance/blob/main/verify_waveform.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "repository": "enuminous/Dolphin",
+  "default_branch": "main",
+  "tree_sha": "28cd25502820547c61ae4d7ba463c4da96ed4382",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "baselines.py",
+      "blob_sha": "701104a29b9381aa70430529cd57e6549eed471c",
+      "size_bytes": 1784,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/baselines.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "5f1c583e1a0794137c2c532cb0dc58d9df9b1a06",
+      "size_bytes": 319,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "dolphin.py",
+      "blob_sha": "b7d0ff35318e86c038c0c0d266d3a44eb65043a2",
+      "size_bytes": 2241,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/dolphin.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_config.yaml",
+      "blob_sha": "abc728f77690b109312713180b6b37fed48739e9",
+      "size_bytes": 211,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/example_config.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_data.csv",
+      "blob_sha": "b9b90fdef36e48158fca95c7dc091d74d147489b",
+      "size_bytes": 35112,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/example_data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_edges.csv",
+      "blob_sha": "71edf190b0e0378a7d406faac60ba5aab5df5808",
+      "size_bytes": 115,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/example_edges.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_run.py",
+      "blob_sha": "91f5922c11afc657910026257b8eef712d602a7f",
+      "size_bytes": 403,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/example_run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "features.py",
+      "blob_sha": "26051c47c07a17b860904f8e82f81e96ee21cd77",
+      "size_bytes": 3755,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/features.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "freeze.py",
+      "blob_sha": "c0ff9c24bbc4fb265f2e12978184ce7ac4f44bf0",
+      "size_bytes": 433,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/freeze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "latent_schema.json",
+      "blob_sha": "ce57a210f4aa39618f11be3398f28a7393cbf38d",
+      "size_bytes": 764,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/latent_schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "99ff12eed8f29b0f2a20b440e427cca0db54f980",
+      "size_bytes": 1858,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "79719fc120a524ad10e1a44d1de510cffc80530d",
+      "size_bytes": 1087,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "ffbc7534b93085906a8965c624c70189b76c197c",
+      "size_bytes": 1281,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metrics.py",
+      "blob_sha": "051b157f172497f7532c0aea1c068afc4db6eadd",
+      "size_bytes": 1112,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "d40337034d79bd71af7f6dadda5a72cb6cd84932",
+      "size_bytes": 497,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "8de7c48868d1426ecca074e39250063801b2a870",
+      "size_bytes": 4943,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "92960fc2c2068ab631f0a3757dd8e63ce0e1c4f5",
+      "size_bytes": 66,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_dolphin.py",
+      "blob_sha": "0fc0f94dfbc473bf3260ed4b20f8bf65b9aa6688",
+      "size_bytes": 842,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Dolphin/blob/main/test_dolphin.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

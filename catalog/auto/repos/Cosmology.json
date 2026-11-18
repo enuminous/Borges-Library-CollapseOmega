@@ -1,0 +1,2710 @@
+{
+  "repository": "enuminous/Cosmology",
+  "default_branch": "main",
+  "tree_sha": "ddbc955ab298e3b166382b7fcf4ff0ca36c7b953",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/README.md",
+      "blob_sha": "ba9134f73dd69c7c233c11ac2eff0adba25266a4",
+      "size_bytes": 3305,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/.github/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/horizon-webapp.yml",
+      "blob_sha": "91e30d7267eb458859b9d698feb5ef94e38865f0",
+      "size_bytes": 904,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/.github/workflows/horizon-webapp.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/observational-publication.yml",
+      "blob_sha": "b760898c1e3a2851cc246dd486bd5ec58af6fd48",
+      "size_bytes": 921,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/.github/workflows/observational-publication.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "blob_sha": "44bbcdf2fe13389f0955a750cd86042c5697ae04",
+      "size_bytes": 1014,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/.github/workflows/verify.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "38381021fa8c0beeb415b2d653d702ad404f9360",
+      "size_bytes": 63,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "config/class-source.json",
+      "blob_sha": "d854f8d08f064d5f7f8944da26484e11511ca4f7",
+      "size_bytes": 722,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/config/class-source.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "config/class_c1q.ini",
+      "blob_sha": "5668284ea804208191f5c6777f9550ad3483fad6",
+      "size_bytes": 1377,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/config/class_c1q.ini",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "config/class_c1q_precision.ini",
+      "blob_sha": "9f3f4f9cb2e81dc6dd8aaaf090edd6c10ec158b0",
+      "size_bytes": 1388,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/config/class_c1q_precision.ini",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "config/class_lcdm.ini",
+      "blob_sha": "595ec19464b0c71d93134be7db976dec3ccd2849",
+      "size_bytes": 1266,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/config/class_lcdm.ini",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "config/model.json",
+      "blob_sha": "a56fcad4058c2d6f6f350546efb7e13d89875742",
+      "size_bytes": 1819,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/config/model.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "config/numerics.json",
+      "blob_sha": "3e2e8aeae56f7e697ca9ffe107c9838c42b98fe7",
+      "size_bytes": 764,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/config/numerics.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/AUDIT.md",
+      "blob_sha": "355439942e6cc88042b3fc3b30698f6587e60316",
+      "size_bytes": 5730,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/docs/AUDIT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/MODEL.md",
+      "blob_sha": "f6d412b5bd650f306c625c38da50e67071ad5df5",
+      "size_bytes": 11012,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/docs/MODEL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/NUMERICAL_RESULTS.md",
+      "blob_sha": "1390119cd55d675021802743c88c22cb76f021fe",
+      "size_bytes": 3592,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/docs/NUMERICAL_RESULTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/PERTURBATIONS.md",
+      "blob_sha": "863d46e2ef317329a6136dd4e6226bd761a391e7",
+      "size_bytes": 7347,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/docs/PERTURBATIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/docs/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/TEST_PROTOCOL.md",
+      "blob_sha": "9fa264f877240ed6bc6127cd8814e4008825beb1",
+      "size_bytes": 5984,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/docs/TEST_PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FREEZE.json",
+      "blob_sha": "0459b51ab51c95619274c0aa8e9733e292a1c50d",
+      "size_bytes": 3038,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/FREEZE.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "98d118967a4d2cedcaa6b4ac004140a53d4a2e5a",
+      "size_bytes": 175264,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "31bd8d54bf47a4018827516c8a8504f463f24892",
+      "size_bytes": 8965,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/.gitignore",
+      "blob_sha": "2d63ea0411e9ed50eee1bea6efbaed26b29f7eb5",
+      "size_bytes": 56,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/acquire.py",
+      "blob_sha": "87d56d123635ab51a4a8cef35307268da5fd8c87",
+      "size_bytes": 1478,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/acquire.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/acquire_planck.py",
+      "blob_sha": "f641eb03cd4e8019ef0c15971001943c22284cfd",
+      "size_bytes": 1632,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/acquire_planck.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/ARTIFACT_MANIFEST.json",
+      "blob_sha": "b6c14ac89f030e20518eff45e04384f1a68c0d7f",
+      "size_bytes": 22400,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/ARTIFACT_MANIFEST.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/build_rd_correction.py",
+      "blob_sha": "d944acc6f715d19435613e66c31b00afbfc6cb76",
+      "size_bytes": 2703,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/build_rd_correction.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/build_surrogate.py",
+      "blob_sha": "e49b307afd4502c865f586056f87a0a7807f93bf",
+      "size_bytes": 6135,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/build_surrogate.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/calibration_diagnostics.json",
+      "blob_sha": "1c64c0a8770e77ced18036790b50a5665d752263",
+      "size_bytes": 477,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/calibration_diagnostics.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/class-build.log",
+      "blob_sha": "a4837c978ca0aa8e3d3df08477d8478680043168",
+      "size_bytes": 19852,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/class-build.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/class-rebuild.log",
+      "blob_sha": "26f22d958a80e9fda94196bc02642a94e4345116",
+      "size_bytes": 2493,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/class-rebuild.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/class_combined_adapter.patch",
+      "blob_sha": "188b363b997a5303da75b712148d3d74218cfabf",
+      "size_bytes": 3388,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/class_combined_adapter.patch",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/class_model.py",
+      "blob_sha": "015d82c5299ad3652a4a3543bc241c2108045d5b",
+      "size_bytes": 2250,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/class_model.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/classy-build.log",
+      "blob_sha": "7e8dafb0b4b0a2abfe8dfca40ccc6e3fd85ede71",
+      "size_bytes": 53640,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/classy-build.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/classy-rebuild.log",
+      "blob_sha": "980ab1435a085295fe3c8550ba26cf8a22d63e91",
+      "size_bytes": 841,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/classy-rebuild.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/clipy-install.log",
+      "blob_sha": "cf638c60c110ae2b1fa9b8e7f2c50de5a5376b0e",
+      "size_bytes": 3041,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/clipy-install.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/data/desi_gaussian_bao_ALL_GCcomb_cov.txt",
+      "blob_sha": "fd8e5697ab61379b07b52efb781ea6713417a4d9",
+      "size_bytes": 2547,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/data/desi_gaussian_bao_ALL_GCcomb_cov.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/data/desi_gaussian_bao_ALL_GCcomb_mean.txt",
+      "blob_sha": "8aff444fdb42c0946342aa0011ab287eda097c4c",
+      "size_bytes": 472,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/data/desi_gaussian_bao_ALL_GCcomb_mean.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/data/Pantheon+SH0ES.dat",
+      "blob_sha": "cce857db0c15e9ce7a0e0ce77452b6ff62af969a",
+      "size_bytes": 579283,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/data/Pantheon%2BSH0ES.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/data/Pantheon+SH0ES_STAT+SYS.cov.gz",
+      "blob_sha": "b6f7f863e81d7211175353636e73b48cd3558d64",
+      "size_bytes": 10085863,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/data/Pantheon%2BSH0ES_STAT%2BSYS.cov.gz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/data_manifest.initial.json",
+      "blob_sha": "8dfc98f068a8ce769992d7abd35a9aa2c16966b2",
+      "size_bytes": 4468,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/data_manifest.initial.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/data_manifest.json",
+      "blob_sha": "fa71307de17e14c4558399e52ae40ecd8f087b84",
+      "size_bytes": 5029,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/data_manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/data_quality.json",
+      "blob_sha": "3c3921ff84aeaa3d7b9ccf1ac24c5add9c20cbbe",
+      "size_bytes": 349,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/data_quality.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/environment.json",
+      "blob_sha": "c7b6cc36f6542737b8592066a914f2870bd38d0c",
+      "size_bytes": 758,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/environment.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/EXECUTION_PLAN.md",
+      "blob_sha": "3c4e5c4612e26df36ddaa6b7709114d8d2d45510",
+      "size_bytes": 3618,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/EXECUTION_PLAN.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/execution_status.json",
+      "blob_sha": "00f4149468ef5f3f5132e3e95ab5f974fea81b88",
+      "size_bytes": 731,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/execution_status.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/family-class-build.log",
+      "blob_sha": "1ebafc890793eccd553f9a6e1e5667789727e038",
+      "size_bytes": 2406,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/family-class-build.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/family-classy-build.log",
+      "blob_sha": "67e051a46107b8dc41cde9b8675535934a1701ab",
+      "size_bytes": 52150,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/family-classy-build.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/family-classy-rebuild.log",
+      "blob_sha": "7ac97928ccc21b37fdb0322f0b9812f7e1f2c63b",
+      "size_bytes": 999,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/family-classy-rebuild.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/family-crosscheck.log",
+      "blob_sha": "e7fdfc9a586ed4684604273860a96b7f316d405b",
+      "size_bytes": 5351,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/family-crosscheck.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/family-fit.log",
+      "blob_sha": "2ef917cf5d11b13dddd4164137e426961ae4fa7a",
+      "size_bytes": 2529,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/family-fit.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/family_crosscheck.json",
+      "blob_sha": "d7b5099a49c7602373ca4c0778e6cb9bd3cfe046",
+      "size_bytes": 1354,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/family_crosscheck.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/family_crosscheck.py",
+      "blob_sha": "220f7b49d6293a65223f49de4f42c86376e78e54",
+      "size_bytes": 1915,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/family_crosscheck.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/family_fit_results.json",
+      "blob_sha": "ee4deeba7a5c0be6ee41fddbd52ab70652041650",
+      "size_bytes": 4228,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/family_fit_results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/family_shooting_adapter.json",
+      "blob_sha": "e3ff3894fde8db59fd05a0369f30d52b5eb8a0e7",
+      "size_bytes": 464,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/family_shooting_adapter.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/family_shooting_tests.json",
+      "blob_sha": "529b86886e96966a563b00f02af26dcba09a2e36",
+      "size_bytes": 1288,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/family_shooting_tests.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fiducial-v2.log",
+      "blob_sha": "c43f99d3053fc42ebbb8c038612a5cd1814f38d8",
+      "size_bytes": 2139,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fiducial-v2.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fiducial.log",
+      "blob_sha": "13daec03a99aafd9b9f4c443fc73c8db427cec81",
+      "size_bytes": 827,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fiducial.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fiducial.py",
+      "blob_sha": "de2e8657e008683c9cfc4356cabb6763a1465604",
+      "size_bytes": 2288,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fiducial.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fiducial_c1q_bao.csv",
+      "blob_sha": "761506e517a279750fdf3c5fb83aaa7078ac97da",
+      "size_bytes": 1353,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fiducial_c1q_bao.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fiducial_c1q_sn.csv",
+      "blob_sha": "3e47ddc65dd0fd13e98455b23bd252072afcd71a",
+      "size_bytes": 159836,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fiducial_c1q_sn.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fiducial_implementation_lock.json",
+      "blob_sha": "4f1cc2995d1544c429c11da34ba920e9f8e3366e",
+      "size_bytes": 571,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fiducial_implementation_lock.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fiducial_implementation_lock.v2.json",
+      "blob_sha": "9c34a25c6265fd128e507fed54d62a08f6f40950",
+      "size_bytes": 767,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fiducial_implementation_lock.v2.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fiducial_lcdm_bao.csv",
+      "blob_sha": "ecf74ecec2ac75415a4c32aa3b9a1838d2061a74",
+      "size_bytes": 1353,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fiducial_lcdm_bao.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fiducial_lcdm_sn.csv",
+      "blob_sha": "919fb07ca5c4b3f60cecb8625313591bedd4608c",
+      "size_bytes": 159830,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fiducial_lcdm_sn.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fiducial_results.json",
+      "blob_sha": "f46f50c2db2f8ad7f4574332e4df706bf62a7db5",
+      "size_bytes": 3134,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fiducial_results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fit-direct-verification.log",
+      "blob_sha": "1134856a035db1019d15f6e391608fc3ee8dc018",
+      "size_bytes": 4013,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fit-direct-verification.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fit_c1q_bao_residuals.csv",
+      "blob_sha": "cafc1a309bfaa94b436326f02de38a3adf772e25",
+      "size_bytes": 1203,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fit_c1q_bao_residuals.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fit_c1q_sn_residuals.csv",
+      "blob_sha": "4531647233067393e7acc053ff9e289f58184396",
+      "size_bytes": 110255,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fit_c1q_sn_residuals.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fit_direct_verification.json",
+      "blob_sha": "c7851aa74a1a59bfa73924ef92e02bc922d836bb",
+      "size_bytes": 1361,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fit_direct_verification.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fit_lcdm_bao_residuals.csv",
+      "blob_sha": "5de5f950966e5c9edac550b2d30f8a6450b8cd7a",
+      "size_bytes": 1202,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fit_lcdm_bao_residuals.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fit_lcdm_sn_residuals.csv",
+      "blob_sha": "e47082b7c24245c726a76a4edda1ca1b5b82da64",
+      "size_bytes": 110364,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fit_lcdm_sn_residuals.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/fit_stage1.py",
+      "blob_sha": "113b0fa8f1dc058d125093991ddd0512d935d5da",
+      "size_bytes": 8019,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/fit_stage1.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/h-factor-check.log",
+      "blob_sha": "83e154f936cbb4e5996f8ee9a7bf3d1f7d957ba9",
+      "size_bytes": 1486,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/h-factor-check.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/h_factor_check.json",
+      "blob_sha": "39fdc04707fc1d663d8fa6f2fd25de090abe8df3",
+      "size_bytes": 240,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/h_factor_check.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/implementation_corrections.json",
+      "blob_sha": "93318d0dea3cb68fc6cd050de6bab1d4d5f368c6",
+      "size_bytes": 3184,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/implementation_corrections.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/implementation_lock.json",
+      "blob_sha": "f25c7561328de10768d98e1e8aa3dcdb91f594fe",
+      "size_bytes": 3368,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/implementation_lock.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/IMPLEMENTATION_REVISION_V2.md",
+      "blob_sha": "e5c9251c376b3337d090e0934992cc8b01b0a0f0",
+      "size_bytes": 3455,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/IMPLEMENTATION_REVISION_V2.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/inverse-h-check.log",
+      "blob_sha": "72194095d60ae65d4e09b387ceb8015232834b5e",
+      "size_bytes": 1487,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/inverse-h-check.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/inverse_h_check.json",
+      "blob_sha": "cd9c1eb8ecbb061d4f045e73647f3ba6cf6a6c44",
+      "size_bytes": 241,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/inverse_h_check.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/jax-install.log",
+      "blob_sha": "94adef44b2b02f061e2ee772146641fdecbb834b",
+      "size_bytes": 1764,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/jax-install.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/likelihood.py",
+      "blob_sha": "14bebec473aebaf5618e0d620f9cc8e8cbab38de",
+      "size_bytes": 3713,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/likelihood.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/likelihood_independent_check.json",
+      "blob_sha": "41ead6b9bc95dac072730bc89900622c8393c662",
+      "size_bytes": 155,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/likelihood_independent_check.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/make_report.py",
+      "blob_sha": "31c62852a402ffe34e5968125d9c42f5a750b222",
+      "size_bytes": 12400,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/make_report.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/mock-calibration.log",
+      "blob_sha": "fa3201af55982bedfb1163104e02020207fd026f",
+      "size_bytes": 9491,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/mock-calibration.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/mock_results.jsonl",
+      "blob_sha": "7431a88d9d0da4a359c77a0f7d7e7d9fb6ee0fec",
+      "size_bytes": 537800,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/mock_results.jsonl",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/mock_seeds.json",
+      "blob_sha": "3b7e64799a9c63dea4f6acf6299d1cf07541a79d",
+      "size_bytes": 21157,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/mock_seeds.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/numerical-reproduction/results/verification.json",
+      "blob_sha": "601bda1692b55547d59aa02cc8a23e78f1ff16d7",
+      "size_bytes": 2083,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/numerical-reproduction/results/verification.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/numerical_gates.log",
+      "blob_sha": "601bda1692b55547d59aa02cc8a23e78f1ff16d7",
+      "size_bytes": 2083,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/numerical_gates.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/original_freeze_check.json",
+      "blob_sha": "bb8762a75aed1c246a17eaa49ec8ad354b6a7409",
+      "size_bytes": 125,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/original_freeze_check.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/package_run.py",
+      "blob_sha": "fc9d37f827b8ed20d6aab28a211f4714c7980dca",
+      "size_bytes": 1932,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/package_run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/patch_family_shooting.py",
+      "blob_sha": "30160a98b670618382dc5097fa0301156b342c26",
+      "size_bytes": 2236,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/patch_family_shooting.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/pipeline.log",
+      "blob_sha": "5d7d47165e543ab18d02a6b6896dedad89d64d3d",
+      "size_bytes": 391,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/pipeline.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-backend-final-check.log",
+      "blob_sha": "ba8154ff4600c342dca13026a696ee424346f833",
+      "size_bytes": 2836,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-backend-final-check.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-diagnostic-c1q.log",
+      "blob_sha": "430e9e49b915e2d0ee288eeaa544ed311383f06d",
+      "size_bytes": 3909,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-diagnostic-c1q.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-diagnostic-lcdm.log",
+      "blob_sha": "292c2d8f67ae68c27d25289c0c8202c9b1190243",
+      "size_bytes": 1102,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-diagnostic-lcdm.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-download.log",
+      "blob_sha": "fbcdeeb386eaef50ed2c8fbc2037a36571aa0147",
+      "size_bytes": 53,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-download.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-jax-c1q.log",
+      "blob_sha": "3a0c8f173cc03da85593f8cf8247fcfa12e1f4f3",
+      "size_bytes": 1345,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-jax-c1q.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-jax-lcdm.log",
+      "blob_sha": "a9367d4531cd7a621e87e4fab10abac97cfbdf26",
+      "size_bytes": 1349,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-jax-lcdm.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-numpy-validation.log",
+      "blob_sha": "2ea0041484ef60bbf076e3dded9d093918333751",
+      "size_bytes": 982,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-numpy-validation.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-reference/params_calib_pol.yaml",
+      "blob_sha": "4b422fd5c45bd4a2f955e1fbf4a60ff8353eda1c",
+      "size_bytes": 150,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-reference/params_calib_pol.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-reference/params_calib_temp.yaml",
+      "blob_sha": "60c2b64bbf79f9e85aeee7a620f872c6d5513995",
+      "size_bytes": 429,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-reference/params_calib_temp.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-reference/params_EE.yaml",
+      "blob_sha": "ff57f1a2754497494474ad330260d7ce9919911e",
+      "size_bytes": 1091,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-reference/params_EE.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-reference/params_TE.yaml",
+      "blob_sha": "c80400afd950d84c70be7714207e064412ebc9f1",
+      "size_bytes": 1425,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-reference/params_TE.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-reference/params_TT.yaml",
+      "blob_sha": "8b0989b6eb36c4348cfd7df82ee5c19fedc41079",
+      "size_bytes": 2651,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-reference/params_TT.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-reference/planck_calib.yaml",
+      "blob_sha": "334734b7ce8bb1bbf8a65ff8beee07e79b60331f",
+      "size_bytes": 201,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-reference/planck_calib.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-reference/prior_SZ.yaml",
+      "blob_sha": "1bbf442c9fe5716f02e2b3ea0cd478e990fbaaba",
+      "size_bytes": 88,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-reference/prior_SZ.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-reference/provenance.json",
+      "blob_sha": "7050c821f1b13d478eb7b6bd02ddbb3041f0fe31",
+      "size_bytes": 730,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-reference/provenance.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-selftests.json",
+      "blob_sha": "1f37b94ad78c0c4718cbcb591cc047d3e691124a",
+      "size_bytes": 2081,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-selftests.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-selftests.log",
+      "blob_sha": "d3caa93a9f735ddf944bb336a1c707253277c38a",
+      "size_bytes": 2483,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-selftests.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck-timing.log",
+      "blob_sha": "62df890e2429c4a5488be72eeaf43d402ada4d50",
+      "size_bytes": 1037,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck-timing.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_backend_final_check.json",
+      "blob_sha": "bc9455e2e9437a8c90d0f98c901ebfa284ee38a0",
+      "size_bytes": 570,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_backend_final_check.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_backend_lock.json",
+      "blob_sha": "9af873da67b63fad57778e81e733cf1cf763484c",
+      "size_bytes": 514,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_backend_lock.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_backend_validation.json",
+      "blob_sha": "71a03bd12f04201399709336059be4ca735db83f",
+      "size_bytes": 173,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_backend_validation.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_backend_validation_reference.json",
+      "blob_sha": "124e26194dfe4359c37c04ad75637c0e7764ee3b",
+      "size_bytes": 2851,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_backend_validation_reference.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_c1q_reference_spectra.json",
+      "blob_sha": "25c7247b3a61b06e7d9ccbaf0bb342b95bf4f425",
+      "size_bytes": 1421,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_c1q_reference_spectra.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_c1q_reference_spectra.npz",
+      "blob_sha": "7dd78e343b3a566f1aae48f6885927761bee17a5",
+      "size_bytes": 100362,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_c1q_reference_spectra.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_c1q_tight_spectra.json",
+      "blob_sha": "f97438db658d82f690be258b0625637c0698e492",
+      "size_bytes": 1422,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_c1q_tight_spectra.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_c1q_tight_spectra.npz",
+      "blob_sha": "50a4e470e4212f00ee6760c10e96f83908d99cf4",
+      "size_bytes": 100329,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_c1q_tight_spectra.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_diagnostic.py",
+      "blob_sha": "b08e120fbd961ef6667a39a87733a5473b00f579",
+      "size_bytes": 6674,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_diagnostic.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_diagnostic_c1q_jax.json",
+      "blob_sha": "652502c365342e1c55532d9f4749cc3cb47724a3",
+      "size_bytes": 7170,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_diagnostic_c1q_jax.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_diagnostic_lcdm_jax.json",
+      "blob_sha": "e86804081c49b87e257bb074c2470343001be8d6",
+      "size_bytes": 7231,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_diagnostic_lcdm_jax.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_implementation_lock.json",
+      "blob_sha": "91e321df45a151efef80a4db7d8ea468d065d6bc",
+      "size_bytes": 1251,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_implementation_lock.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_jax_profile.py",
+      "blob_sha": "3da13d44175dac0f30dec991b23fd64a92c12039",
+      "size_bytes": 4653,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_jax_profile.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_lcdm_reference_spectra.json",
+      "blob_sha": "043fe2f217b2a4f997fd340a9690e4842d5ed60c",
+      "size_bytes": 1278,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_lcdm_reference_spectra.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_lcdm_reference_spectra.npz",
+      "blob_sha": "4b2bcb06a3fdde1a5ae9e77bf2342a2fdf418d51",
+      "size_bytes": 100384,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_lcdm_reference_spectra.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_lcdm_tight_spectra.json",
+      "blob_sha": "e353aff1d83e3f81c2562be545a36492cfe5dfd0",
+      "size_bytes": 1278,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_lcdm_tight_spectra.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_lcdm_tight_spectra.npz",
+      "blob_sha": "c7ddcf7c4e6b9f7b80c7c248e87a92242d7c909d",
+      "size_bytes": 100362,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_lcdm_tight_spectra.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_manifest.initial.json",
+      "blob_sha": "ecd31910cc7b1c461a0d7ed0d105d899d75fdd0f",
+      "size_bytes": 584,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_manifest.initial.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/planck_manifest.json",
+      "blob_sha": "7b18bceb6a96e213081254811825f0500b37d08d",
+      "size_bytes": 27332,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/planck_manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/PLANCK_POINT_DIAGNOSTIC.md",
+      "blob_sha": "d3cf7bfc0e4aaf09bef037fab84e0d0d72219ed1",
+      "size_bytes": 1807,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/PLANCK_POINT_DIAGNOSTIC.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/posterior-c1q.log",
+      "blob_sha": "7c18b99dcdc4633fdbc972d991a803df5f80f92d",
+      "size_bytes": 1796,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/posterior-c1q.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/posterior-lcdm.log",
+      "blob_sha": "c000bde01e0438082a638efcf12cdf0043cde345",
+      "size_bytes": 702,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/posterior-lcdm.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/posterior.py",
+      "blob_sha": "8015b98951934b41f270b9545b6c287f4762d2a3",
+      "size_bytes": 3504,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/posterior.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/posterior_c1q.json",
+      "blob_sha": "24296d3cab1b4967e2c7ca88f16caaa883ed7116",
+      "size_bytes": 5720,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/posterior_c1q.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/posterior_c1q.npz",
+      "blob_sha": "935eea4b421003d45300d02924927481aa9da395",
+      "size_bytes": 9305009,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/posterior_c1q.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/posterior_lcdm.json",
+      "blob_sha": "0ba8d7c015be4350b5cf0d5cb4d70722a0115095",
+      "size_bytes": 3372,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/posterior_lcdm.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/posterior_lcdm.npz",
+      "blob_sha": "187633b6f90a0cf730d53fb52937ec0430c83936",
+      "size_bytes": 4588399,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/posterior_lcdm.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/rd-precision-investigation.log",
+      "blob_sha": "6afebca8f2a039af611c65b276d3a6751f26e84a",
+      "size_bytes": 3433,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/rd-precision-investigation.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/rd-training.log",
+      "blob_sha": "6d35a87ad90c389aef1ec75b12d0af1e88cd694d",
+      "size_bytes": 2986747,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/rd-training.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/rd_precision_investigation.json",
+      "blob_sha": "71fad508eef6ac4a6a98507ce4a5c7d275cf7836",
+      "size_bytes": 634,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/rd_precision_investigation.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/README.md",
+      "blob_sha": "54c852a6d6fa710af69cf8da6df0632043c0ae3f",
+      "size_bytes": 3387,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/report-generation.log",
+      "blob_sha": "cf9ffeabbd27b2f7d4515875565fc9cd4b00ebaa",
+      "size_bytes": 40,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/report-generation.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/REPRODUCE.md",
+      "blob_sha": "fb1f1035b00d77735ba2ba96f71b6ef55deeb2dd",
+      "size_bytes": 4775,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/REPRODUCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/residual-audit.log",
+      "blob_sha": "b3af91e9853c2041a821c5a17dbf42f8d17db3e9",
+      "size_bytes": 3104,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/residual-audit.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/residual_audit.json",
+      "blob_sha": "b3af91e9853c2041a821c5a17dbf42f8d17db3e9",
+      "size_bytes": 3104,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/residual_audit.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/residual_audit.py",
+      "blob_sha": "88dad6dc68c1a74088dcaf4acd83693d3a452d1b",
+      "size_bytes": 3526,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/residual_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/run_remaining.py",
+      "blob_sha": "72487df67f71f6b820e85b87f1b17b86c3a2ed90",
+      "size_bytes": 2336,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/run_remaining.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/RUN_REPORT.md",
+      "blob_sha": "4d204b12ccd1c59f4ee974f9aeb685d3cae58fea",
+      "size_bytes": 9245,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/RUN_REPORT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/solver-benchmark.log",
+      "blob_sha": "0470d90e3f7c4d25d6ac1e8e91db79a86c951ec1",
+      "size_bytes": 782,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/solver-benchmark.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/stage1_diagnostics.png",
+      "blob_sha": "f443d0d1ed3ed3d0de8160bfb4570f95a70d7cc5",
+      "size_bytes": 204720,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/stage1_diagnostics.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate-training-v2.log",
+      "blob_sha": "06aa7cac206ea5f2be83c3acd011936d14e25255",
+      "size_bytes": 788406,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate-training-v2.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate-training-v3.log",
+      "blob_sha": "82e313c730525c6d8d20dbb88d22c0d5bdd53302",
+      "size_bytes": 3031729,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate-training-v3.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate-training-v4.log",
+      "blob_sha": "a41324a023723d3a2dc6770073b9df50da6af4e0",
+      "size_bytes": 343,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate-training-v4.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate-training-v5.log",
+      "blob_sha": "6e87ede40895f922fe886843ae0652ab394868af",
+      "size_bytes": 299,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate-training-v5.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate-training.log",
+      "blob_sha": "a263622aff14165d7d4fec95adf06b05b4aee77e",
+      "size_bytes": 765522,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate-training.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate-validation-v1.log",
+      "blob_sha": "56f376d675cb915e4269d69270f985425d8d7fb1",
+      "size_bytes": 87049,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate-validation-v1.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate-validation-v2.log",
+      "blob_sha": "395cac2600620d133d9c9d724a9ef7a2a075daee",
+      "size_bytes": 125906,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate-validation-v2.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate.py",
+      "blob_sha": "c8e0acb5a7b36596172a204e19559c5753fd22a7",
+      "size_bytes": 3741,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate/c1q.npz",
+      "blob_sha": "6e8a2ac5360070ac015f5affd0a846a3e12b9e4e",
+      "size_bytes": 670352,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate/c1q.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate/lcdm.npz",
+      "blob_sha": "e7b7bbd35aacbd4d7d1a3ebcd36c4ebe77736341",
+      "size_bytes": 289933,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate/lcdm.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate/rd.npz",
+      "blob_sha": "b9992d2e403e7e574eb16d3d1b25e1ed7f3bf05e",
+      "size_bytes": 1763,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate/rd.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate/rd_correction_c1q.npz",
+      "blob_sha": "f74e507bf402e176c4e4a637abd47eb79c5c43f9",
+      "size_bytes": 16664,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate/rd_correction_c1q.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate/rd_correction_lcdm.npz",
+      "blob_sha": "fab313d810774f2386bbcb6d0926e93c883ed30f",
+      "size_bytes": 2803,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate/rd_correction_lcdm.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate/rd_training.json",
+      "blob_sha": "2db3196f6cc4b961c71b021d0873004a7b9ae20f",
+      "size_bytes": 724,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate/rd_training.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate/rd_training_failures.json",
+      "blob_sha": "fe51488c7066f6687ef680d6bfaa4f7768ef205c",
+      "size_bytes": 3,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate/rd_training_failures.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate/training.json",
+      "blob_sha": "3e6126631f9a0a8f37f0524781b95702ec0c5f47",
+      "size_bytes": 476,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate/training.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate/training_failures.json",
+      "blob_sha": "fe51488c7066f6687ef680d6bfaa4f7768ef205c",
+      "size_bytes": 3,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate/training_failures.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate/training_failures_attempt1.json",
+      "blob_sha": "bc19300053137794608711b4c65b4983835476b2",
+      "size_bytes": 160887,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate/training_failures_attempt1.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate/training_failures_attempt2.json",
+      "blob_sha": "9c0490ea3ef1f5898b4c2e24fe08cae6e29f1723",
+      "size_bytes": 87973,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate/training_failures_attempt2.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate/validation.json",
+      "blob_sha": "af934075e3a21070976c81dc5ce154a9e5722908",
+      "size_bytes": 74532,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate/validation.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate_rejected_v1/c1q.npz",
+      "blob_sha": "7a31600a6cf08de8ff8bcef544f4241a7cb74fc8",
+      "size_bytes": 668319,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate_rejected_v1/c1q.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate_rejected_v1/lcdm.npz",
+      "blob_sha": "3160ed9f67d1bf34b4d44aa5da270dd8e1fb7679",
+      "size_bytes": 288481,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate_rejected_v1/lcdm.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate_rejected_v1/rd.npz",
+      "blob_sha": "111cb4c01a4b795a9dc6b5b04c86ab0181b506e2",
+      "size_bytes": 1769,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate_rejected_v1/rd.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate_rejected_v1/training.json",
+      "blob_sha": "1e2d12926f72e1da541aca4d731cb9157a1ca664",
+      "size_bytes": 472,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate_rejected_v1/training.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/surrogate_rejected_v1/validation.json",
+      "blob_sha": "177a409e46649591600c192d7dd999169e9ca1c4",
+      "size_bytes": 49063,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/surrogate_rejected_v1/validation.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/validate_surrogate.py",
+      "blob_sha": "a4d7825e5f5149485f7e576b6d8429339a469716",
+      "size_bytes": 3157,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/validate_surrogate.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "observational/verify_fit.py",
+      "blob_sha": "4d9744581396d46ab34e103844cecc579a87a455",
+      "size_bytes": 1693,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/observational/verify_fit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "publication.json",
+      "blob_sha": "25fb8ebd745bf183706b283843d1ba2ff4bb7c6a",
+      "size_bytes": 942,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/publication.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PUBLICATION.md",
+      "blob_sha": "d9d7007d0c7776efadb4a181b1f05afd1a78e3ac",
+      "size_bytes": 6044,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/PUBLICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "publication/observational-2026-10-25.json",
+      "blob_sha": "65c553d5164834f41d12e72c464644b2fba9187a",
+      "size_bytes": 1291,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/publication/observational-2026-10-25.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "publication/verification-2026-10-23.json",
+      "blob_sha": "93782fcf419935a2f7bfb8d8406e5530a95d0252",
+      "size_bytes": 12801,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/publication/verification-2026-10-23.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "1e5bfdc467f78cab68ce29aeb2d23370ede931bc",
+      "size_bytes": 8655,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "471f776f67541bcaadd042782a1c0a438d0009f3",
+      "size_bytes": 46,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/adapter_reproduction.json",
+      "blob_sha": "150b15a0fbf7e80947be0537cbcd4ed53471d267",
+      "size_bytes": 284,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/adapter_reproduction.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/background.csv",
+      "blob_sha": "6762c28b3ee236fbb6328b514c7dc9af503c9e21",
+      "size_bytes": 303392,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/background.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_background.dat.gz",
+      "blob_sha": "0581a363d04c0a9b85bbff974a00c64e96c4dac6",
+      "size_bytes": 8360394,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_background.dat.gz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_cl.dat",
+      "blob_sha": "b8e88331f71ce5556257eb1d50e9c332138b3eea",
+      "size_bytes": 290979,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_cl.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_cl_lensed.dat",
+      "blob_sha": "8ba03b62ffc01dd41eb2b5d8e70334a80a6d71fe",
+      "size_bytes": 218914,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_cl_lensed.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_parameters.ini",
+      "blob_sha": "3d31bc6921d5de16e5aba3bd489ed59d6b14d91f",
+      "size_bytes": 1487,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_parameters.ini",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_perturbations_k0_s.dat.gz",
+      "blob_sha": "8646346ce2184bcb5664ec09a6acf7c2f7fd6e88",
+      "size_bytes": 419908,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_perturbations_k0_s.dat.gz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_primordial_Pk.dat",
+      "blob_sha": "c4b48bab5b23c29727ad8fd356e346ec581a9b5d",
+      "size_bytes": 2976,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_primordial_Pk.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_thermodynamics.dat.gz",
+      "blob_sha": "e564a5581185598050a1255d8c9699bcccbfe8da",
+      "size_bytes": 2222414,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_thermodynamics.dat.gz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_unused_parameters",
+      "blob_sha": "490ac40133f752fbd57301a52b06b24e0b6e23c2",
+      "size_bytes": 77,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_unused_parameters",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_z1_pk.dat",
+      "blob_sha": "d054b663921432a3cc75e24b3b7d4ef0bc7d7927",
+      "size_bytes": 26483,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_z1_pk.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_z1_pk_cb.dat",
+      "blob_sha": "e184831c3498b1a441b4a035bf71e5b0efe9fe28",
+      "size_bytes": 26483,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_z1_pk_cb.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_z1_tk.dat",
+      "blob_sha": "ff8113544be24f92cc8ec2225020f71b1baa363d",
+      "size_bytes": 153631,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_z1_tk.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_z2_pk.dat",
+      "blob_sha": "7c4943aac7627e950eff9c13328383e6b9b4b750",
+      "size_bytes": 26483,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_z2_pk.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_z2_pk_cb.dat",
+      "blob_sha": "38899101d1b6046ee37d1b1abe775f653d268a69",
+      "size_bytes": 26483,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_z2_pk_cb.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_z2_tk.dat",
+      "blob_sha": "c77e0c671a35aa44bb4661d9028c0a5da408e3a0",
+      "size_bytes": 153631,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_z2_tk.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_z3_pk.dat",
+      "blob_sha": "247b0c2cb64c76eee465008bc0cb013e81724a02",
+      "size_bytes": 26483,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_z3_pk.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_z3_pk_cb.dat",
+      "blob_sha": "91d28d66d1dfffb7c9a9883047998d2012e8c985",
+      "size_bytes": 26483,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_z3_pk_cb.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_00_z3_tk.dat",
+      "blob_sha": "ad7750c84675d3fb59f2c4a3797d7b40c008979f",
+      "size_bytes": 153631,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_00_z3_tk.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_precision_00_cl_lensed.dat",
+      "blob_sha": "29618c0d7ed009ea5944491310aaf083210e6970",
+      "size_bytes": 218914,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_precision_00_cl_lensed.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_precision_00_parameters.ini",
+      "blob_sha": "6d7a928fe2a4e825ab10329c18c8ec81d46d7ecf",
+      "size_bytes": 1498,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_precision_00_parameters.ini",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_precision_00_unused_parameters",
+      "blob_sha": "490ac40133f752fbd57301a52b06b24e0b6e23c2",
+      "size_bytes": 77,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_precision_00_unused_parameters",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/c1q_precision_00_z1_pk.dat",
+      "blob_sha": "132805fa7c2f7f907d5b735399b6c4694e6da578",
+      "size_bytes": 27680,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/c1q_precision_00_z1_pk.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_background.dat.gz",
+      "blob_sha": "174b63490186cff96cd09bbe018c311fc60d8736",
+      "size_bytes": 7196103,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_background.dat.gz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_cl.dat",
+      "blob_sha": "713402397c472b2c2dd602332b11c49958cfc5ed",
+      "size_bytes": 290979,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_cl.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_cl_lensed.dat",
+      "blob_sha": "f3838fdfc73270d9d106bf09039813dcdf535f63",
+      "size_bytes": 218914,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_cl_lensed.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_parameters.ini",
+      "blob_sha": "d89cdd953e852540271acf93ca1a7516726c9dc4",
+      "size_bytes": 1324,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_parameters.ini",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_perturbations_k0_s.dat.gz",
+      "blob_sha": "84aedf7e63c4903d6a62d90eadee461e549211b3",
+      "size_bytes": 385984,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_perturbations_k0_s.dat.gz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_primordial_Pk.dat",
+      "blob_sha": "51d67bfa55524eee2b00addcbe44d07d465e0976",
+      "size_bytes": 2976,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_primordial_Pk.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_thermodynamics.dat.gz",
+      "blob_sha": "a17e4f55d557028cd0307892a58a8b99844040dc",
+      "size_bytes": 2221983,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_thermodynamics.dat.gz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_unused_parameters",
+      "blob_sha": "490ac40133f752fbd57301a52b06b24e0b6e23c2",
+      "size_bytes": 77,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_unused_parameters",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_z1_pk.dat",
+      "blob_sha": "22b86184959c66fc6fdbc4e6d57747d04addaf66",
+      "size_bytes": 26484,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_z1_pk.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_z1_pk_cb.dat",
+      "blob_sha": "b3bcea55895cf68b60e8badcda6c854e946def23",
+      "size_bytes": 26484,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_z1_pk_cb.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_z1_tk.dat",
+      "blob_sha": "66206ceae965f7a0d6d1e8abd81fe618d25b73ac",
+      "size_bytes": 140957,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_z1_tk.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_z2_pk.dat",
+      "blob_sha": "5abbc32efe4394a5dd0c59e1843bbd95c063f260",
+      "size_bytes": 26484,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_z2_pk.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_z2_pk_cb.dat",
+      "blob_sha": "e2b92323e505d534b17a0377efcd0b466ccde5ee",
+      "size_bytes": 26484,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_z2_pk_cb.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_z2_tk.dat",
+      "blob_sha": "556bc98c29abeb324ef6448c2ca90964004e3fb3",
+      "size_bytes": 140957,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_z2_tk.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_z3_pk.dat",
+      "blob_sha": "bd8f9498dfcf28db65c14e4bef59d64019c7519f",
+      "size_bytes": 26484,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_z3_pk.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_z3_pk_cb.dat",
+      "blob_sha": "c8ca8684fc788cc6d125ea8e87b1a08ae5329933",
+      "size_bytes": 26484,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_z3_pk_cb.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class/lcdm_00_z3_tk.dat",
+      "blob_sha": "7a044d3d4a281d2a6ec643b8b48db4be8f66078f",
+      "size_bytes": 140957,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class/lcdm_00_z3_tk.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class_comparison.json",
+      "blob_sha": "1f72e98f41688bdb052b110b6e8cd75d8fca071c",
+      "size_bytes": 1999,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class_comparison.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class_logs/build.log",
+      "blob_sha": "dfe2e510603ff05a441abce8a1daf6c1215a0bde",
+      "size_bytes": 14359,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class_logs/build.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class_logs/c1q-precision-run.log",
+      "blob_sha": "b1f2bc5044e67e5c3606e60b8dafc72c92a3b37b",
+      "size_bytes": 2520,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class_logs/c1q-precision-run.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class_logs/c1q-run.log",
+      "blob_sha": "948125fce2036793b78807c37773c4edc33e34bf",
+      "size_bytes": 2510,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class_logs/c1q-run.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class_logs/lcdm-run.log",
+      "blob_sha": "b14436d9d1d70f5dabaf26e7910582abd258f6c9",
+      "size_bytes": 1745,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class_logs/lcdm-run.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class_logs/rebuild.log",
+      "blob_sha": "1b99a23d449d6ce7bb16c22b42a14aeb15294d81",
+      "size_bytes": 1046,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class_logs/rebuild.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/class_output_provenance.json",
+      "blob_sha": "0b5123f132a973c2a4fc8461dc963302440a3044",
+      "size_bytes": 9538,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/class_output_provenance.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/environment.json",
+      "blob_sha": "5388bfceeb7ea2d64aaad135a498ff7855c9c248",
+      "size_bytes": 604,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/environment.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/predictions.pdf",
+      "blob_sha": "ba099e11eaa84d5c7461dbbaf2ad56fa962ca51a",
+      "size_bytes": 33665,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/predictions.pdf",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/predictions.png",
+      "blob_sha": "ffdeb9cbb3512d7185ebd65bffdcc4a000b63388",
+      "size_bytes": 226799,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/predictions.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/reference.json",
+      "blob_sha": "6e99959dc3ef73faceaa5609f50bdc8add5c6bd0",
+      "size_bytes": 2419,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/reference.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/rejected_newtonian/c1q-precision-run.log",
+      "blob_sha": "42fdcace05749ee43a0a0ed2c2c987a4994ce0e2",
+      "size_bytes": 2522,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/rejected_newtonian/c1q-precision-run.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/rejected_newtonian/c1q-run.log",
+      "blob_sha": "d03380b13fe2e6a6dcdd0457347c8d5ffc39adc3",
+      "size_bytes": 2512,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/rejected_newtonian/c1q-run.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/rejected_newtonian/c1q-sync-run.log",
+      "blob_sha": "912c45a0fb61b392d7e0545b4a364daf38d06da6",
+      "size_bytes": 2515,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/rejected_newtonian/c1q-sync-run.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/rejected_newtonian/c1q_00_cl_lensed.dat",
+      "blob_sha": "20fd61eb91b99e017f13c51c285f6177da16397a",
+      "size_bytes": 218914,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/rejected_newtonian/c1q_00_cl_lensed.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/rejected_newtonian/c1q_precision_00_cl_lensed.dat",
+      "blob_sha": "a57a6d4e858bd6572c81a236e0c98de306db42ee",
+      "size_bytes": 218914,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/rejected_newtonian/c1q_precision_00_cl_lensed.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/rejected_newtonian/c1q_sync_00_cl_lensed.dat",
+      "blob_sha": "9ac89b0ff553931716f482d1200b886596d465bb",
+      "size_bytes": 218914,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/rejected_newtonian/c1q_sync_00_cl_lensed.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/rejected_newtonian/class_c1q.ini",
+      "blob_sha": "dfbaf5f6ef347a0d6391ea397547631ec6bfae57",
+      "size_bytes": 1161,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/rejected_newtonian/class_c1q.ini",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/rejected_newtonian/class_c1q_precision.ini",
+      "blob_sha": "57caeaa4217468df31984bdb2284463525539f11",
+      "size_bytes": 1388,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/rejected_newtonian/class_c1q_precision.ini",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/rejected_newtonian/class_c1q_synchronous.ini",
+      "blob_sha": "18f50137c4a071f3bc2e1b57f97dd253d7fb6cd8",
+      "size_bytes": 1168,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/rejected_newtonian/class_c1q_synchronous.ini",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/rejected_newtonian/class_lcdm.ini",
+      "blob_sha": "6a0f83078d3ee35772f0e9a41db7e1205818b007",
+      "size_bytes": 1050,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/rejected_newtonian/class_lcdm.ini",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/rejected_newtonian/comparison_before_gauge_correction.json",
+      "blob_sha": "ba273db4be209511c676d8b96f2fdaa6a9cb4b71",
+      "size_bytes": 2114,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/rejected_newtonian/comparison_before_gauge_correction.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/rejected_newtonian/lcdm-run.log",
+      "blob_sha": "8e87c84b9570b47e0f9f537e68ace1324d2a7bf9",
+      "size_bytes": 1747,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/rejected_newtonian/lcdm-run.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/rejected_newtonian/lcdm_00_cl_lensed.dat",
+      "blob_sha": "9594fb88b3e2a0ad4729dedb758fd17bfec7dcc4",
+      "size_bytes": 218914,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/rejected_newtonian/lcdm_00_cl_lensed.dat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/verification.json",
+      "blob_sha": "601bda1692b55547d59aa02cc8a23e78f1ff16d7",
+      "size_bytes": 2083,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/verification.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/verification.log",
+      "blob_sha": "601bda1692b55547d59aa02cc8a23e78f1ff16d7",
+      "size_bytes": 2083,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/results/verification.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SOURCES.md",
+      "blob_sha": "5880dfac0358d7fbee75d421807c334d2bf4e654",
+      "size_bytes": 3320,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/SOURCES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/C1-CANDIDATE.md",
+      "blob_sha": "c500eda6aa7c9c0b6c6063d77c689235c1080111",
+      "size_bytes": 4725,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/sources/C1-CANDIDATE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/C1-conventions.json",
+      "blob_sha": "2655d7a8ba5648f9cf0d0fc086f23a798dca14b8",
+      "size_bytes": 3114,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/sources/C1-conventions.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/CLASS-source-manifest.json",
+      "blob_sha": "347ce1248cfb4aa6cdfed86041fac687bb41862c",
+      "size_bytes": 26405,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/sources/CLASS-source-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/analyze_class.py",
+      "blob_sha": "5bd6b7e85e75e77ffd60c28b0e7dfc74356c9683",
+      "size_bytes": 6443,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/src/analyze_class.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/check_freeze.py",
+      "blob_sha": "6b3d20aed863b5905ce4e035ea079337971bb5cd",
+      "size_bytes": 842,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/src/check_freeze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/collect_class.py",
+      "blob_sha": "aaac231df6c506fae81b24c0c2bb5710663ba704",
+      "size_bytes": 2717,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/src/collect_class.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/cosmology.py",
+      "blob_sha": "6462eb136e85e9b5b107b6742c27cd5fce9d9f1a",
+      "size_bytes": 8173,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/src/cosmology.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/patch_class.py",
+      "blob_sha": "61314417529b5640e11dc30cb4c3d4c0cc80e23d",
+      "size_bytes": 2870,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/src/patch_class.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/run_class.py",
+      "blob_sha": "e1b8087a4e39ef1ed623fb99eeeb2aef9dbc173a",
+      "size_bytes": 1909,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/src/run_class.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/verify.py",
+      "blob_sha": "3607defc22f63530b3b9a5a73ddee757a018f047",
+      "size_bytes": 4326,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/tests/verify.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/verify_observational_publication.py",
+      "blob_sha": "b75b67f79f0f9835a1768bf2ad7862e137aebd8d",
+      "size_bytes": 6864,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/tools/verify_observational_publication.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/verify_publication.py",
+      "blob_sha": "7aece1b5ecfa9f486ada4f45442aae05bfd0fec6",
+      "size_bytes": 5007,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/tools/verify_publication.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "webapp/app.js",
+      "blob_sha": "54b3b8bf66b0f1bf859365ac2283e1d744e912fe",
+      "size_bytes": 47266,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/webapp/app.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "webapp/build.py",
+      "blob_sha": "0b28b1640a9b2f9c7b9e753b7081d97a7be32ec1",
+      "size_bytes": 2185,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/webapp/build.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "webapp/horizon-preview-2026-10-24.jpg",
+      "blob_sha": "ded998c36347ce7e5956691acd82b345740c49eb",
+      "size_bytes": 130600,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/webapp/horizon-preview-2026-10-24.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "webapp/physics.js",
+      "blob_sha": "de4994a6ac8f3d7a3ebd370871e7cf7e0b7c61c3",
+      "size_bytes": 5610,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/webapp/physics.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "webapp/README.md",
+      "blob_sha": "20877c8a6d1f37f5b45577f27e6c60ccdff9eedc",
+      "size_bytes": 6640,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/webapp/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "webapp/shell.html",
+      "blob_sha": "70b59eabec120a29b7a0125371ba4e1935b54121",
+      "size_bytes": 19585,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/webapp/shell.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "webapp/style.css",
+      "blob_sha": "e09c793b6207cf3d8764a8e6ea2acac2af8350f2",
+      "size_bytes": 27228,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/webapp/style.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "webapp/test.cjs",
+      "blob_sha": "902f984741a51546b3f379c1be5b4bef01b1db4b",
+      "size_bytes": 6594,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cosmology/blob/main/webapp/test.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "repository": "enuminous/Aristotle-eNuminous",
+  "default_branch": "main",
+  "tree_sha": "3489adc40541bdbb6400f863e267efe6a4d60a56",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ARISTOTLE_SUMMARY.md",
+      "blob_sha": "f2dae175fc4b907713b8343ff9a649068e62b9d7",
+      "size_bytes": 3432,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-eNuminous/blob/main/ARISTOTLE_SUMMARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ENUMINOUS_CATALOG.md",
+      "blob_sha": "8f78839e8c971a1c26dc31c2fdf82a139c8952f7",
+      "size_bytes": 17551,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-eNuminous/blob/main/ENUMINOUS_CATALOG.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ENUMINOUS_LEAN_THEOREMS.md",
+      "blob_sha": "4a98eafe72c8ce16498b101a9c5d4334057bfd95",
+      "size_bytes": 65311,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-eNuminous/blob/main/ENUMINOUS_LEAN_THEOREMS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "3ed7ccc372a63e7f4afee86e7e580f5a4844ed93",
+      "size_bytes": 106163,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-eNuminous/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "57bef473f4e93ba8f5d0387c29642e4327c08cda",
+      "size_bytes": 3109,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-eNuminous/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "d1331e3725185586634d12846a2ef43f829fc639",
+      "size_bytes": 234,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-eNuminous/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-eNuminous/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "cc8cf9b176a41fcd8f82fe6348b98c3a3a5669cd",
+      "size_bytes": 1066,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-eNuminous/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "3f6d923317111588d89b468b455bf6fe09bae437",
+      "size_bytes": 2577,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-eNuminous/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Main.lean",
+      "blob_sha": "308f9cfb58cc562160bcd62ba1e20174f161311d",
+      "size_bytes": 563,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-eNuminous/blob/main/RequestProject/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-eNuminous/blob/main/RequestProject/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

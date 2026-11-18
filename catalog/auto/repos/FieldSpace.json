@@ -1,0 +1,390 @@
+{
+  "repository": "enuminous/FieldSpace",
+  "default_branch": "main",
+  "tree_sha": "4f994c45c319b44eaa43133280a7671e768da87c",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/fieldspace-audit.yml",
+      "blob_sha": "5f9e3710b01d2ced9645ff4e5a5be719552a1498",
+      "size_bytes": 2503,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/.github/workflows/fieldspace-audit.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/static.yml",
+      "blob_sha": "460f782006e8bb929c92b9357c59c8b1d73f18c7",
+      "size_bytes": 1250,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/.github/workflows/static.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".nojekyll",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/.nojekyll",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Analysis.md",
+      "blob_sha": "daeba629f8a6441b8a7fadd805d6a92e9f5917cf",
+      "size_bytes": 6180,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/Analysis.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "f69959fc7b70c868d0403d20c20a252ff8ab359c",
+      "size_bytes": 1205,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "AUDIT_2026-09-29.md",
+      "blob_sha": "481151d57b88f5fcc2e1cf4c433592eaa95f0f69",
+      "size_bytes": 2816,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/AUDIT_2026-09-29.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "COMMENTARY.md",
+      "blob_sha": "b14132692c80ecbfd64a1a22305871fa09fd2870",
+      "size_bytes": 14594,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/COMMENTARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/FIELDCORE_AUDIT_RESPONSE_2026-11-04.md",
+      "blob_sha": "9d1616eabb928fdc1a7ab4bfb9e5124e8843a660",
+      "size_bytes": 2364,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/docs/FIELDCORE_AUDIT_RESPONSE_2026-11-04.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW_165_field_equations.txt",
+      "blob_sha": "ac6313fe4a2b02a28ac8fb34519c5f96f6ea2bd8",
+      "size_bytes": 64859,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/EFMW_165_field_equations.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FieldSpace.lean",
+      "blob_sha": "c1d18d10ad99af970adf02a60c3fb6221ee0a16f",
+      "size_bytes": 83,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/FieldSpace.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FieldSpace/Ablations.lean",
+      "blob_sha": "6c08dccab8acbff2e2ad2deb82249e1a734e3d27",
+      "size_bytes": 794,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/FieldSpace/Ablations.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FieldSpace/Coupling.lean",
+      "blob_sha": "c87c305fe53b2c946e6f88f4ed149e71c250f649",
+      "size_bytes": 1852,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/FieldSpace/Coupling.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FieldSpace/Structure.lean",
+      "blob_sha": "e38905293e03a5803dc7c05ab9d2f1c59337429b",
+      "size_bytes": 1441,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/FieldSpace/Structure.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "fieldspace_agent.html",
+      "blob_sha": "768d21871eb5ad1817a3737b6c7d8c366aaacfd6",
+      "size_bytes": 27215,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/fieldspace_agent.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "fieldspace_master_action.md",
+      "blob_sha": "337339a42259bee4d9956a76acc23880fb97d07b",
+      "size_bytes": 7532,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/fieldspace_master_action.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "generated/HPA_MISSING_TRIPLET.md",
+      "blob_sha": "317a5422c72842869f044c637ef0367114fba0f7",
+      "size_bytes": 1533,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/generated/HPA_MISSING_TRIPLET.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "generated/RECOVERY_PATCH.txt",
+      "blob_sha": "f10e950406d7c414ab42915492ef1a49a2d32c21",
+      "size_bytes": 1082,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/generated/RECOVERY_PATCH.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "93781757033cbd65d64f69266b49e29eda86e428",
+      "size_bytes": 19874,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "9bf2375f0a368795844f1daf2626eb54e014cf3a",
+      "size_bytes": 3487,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "72d9aa6953059ca0f507a0dee647bd811675ca73",
+      "size_bytes": 193,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "b0f682342b355585ee06ecf0c4d593231b697da6",
+      "size_bytes": 14268,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/ablation_results.csv",
+      "blob_sha": "6d67d5baf0b843d867ff6a6c94cb968aa0839f42",
+      "size_bytes": 24666,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/results/ablation_results.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/SIMULATION_REPORT.md",
+      "blob_sha": "5fe2b736da467fc0ca70eb946d958d353befed8d",
+      "size_bytes": 2590,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/results/SIMULATION_REPORT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/simulation_summary.json",
+      "blob_sha": "d0ffb63bd08ad32b28843e89f3e380645a455f81",
+      "size_bytes": 1172,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/results/simulation_summary.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/zoo_matrix_165x46.csv",
+      "blob_sha": "c9b5db7e7cd61a36289de67cb20b1ed3d2670cd6",
+      "size_bytes": 67468,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/results/zoo_matrix_165x46.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/audit_fieldspace.py",
+      "blob_sha": "d633a65264884805aa65f29b9672ca8a5e14b2d3",
+      "size_bytes": 2857,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/scripts/audit_fieldspace.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/check_simulation_results.py",
+      "blob_sha": "90c03553a0b1078ef802000f5a9bcccc90aa9d1e",
+      "size_bytes": 1749,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/scripts/check_simulation_results.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sim/fieldspace_sim.py",
+      "blob_sha": "d2440288ef1ba61cfeb1b22ed60bd289c5a38625",
+      "size_bytes": 4588,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/sim/fieldspace_sim.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "styles.css",
+      "blob_sha": "039cd5c4bb1bc5b611d39a4cd9d3af536398cf24",
+      "size_bytes": 6908,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/styles.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_audit_controls.py",
+      "blob_sha": "bad6c00799443b82114b3a842ce66fd490918df9",
+      "size_bytes": 3509,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/tests/test_audit_controls.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_fieldspace.py",
+      "blob_sha": "7c08f1904236d2b29a7e36de1b02f445baaa95b8",
+      "size_bytes": 1393,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/tests/test_fieldspace.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "THEOREM_REGISTER.md",
+      "blob_sha": "d985fd0e016aa187e58c6e823c84cfa211998204",
+      "size_bytes": 5696,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/THEOREM_REGISTER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "dad41f679116bb3ce2ac326d6f909979fdda4ddd",
+      "size_bytes": 1368,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ZOO_46_RUN.md",
+      "blob_sha": "37c02d1502e44f93ab06cb6c8bf039c8b40f4ab1",
+      "size_bytes": 6098,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/FieldSpace/blob/main/ZOO_46_RUN.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

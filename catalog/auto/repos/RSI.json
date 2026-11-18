@@ -1,0 +1,463 @@
+{
+  "repository": "enuminous/RSI",
+  "default_branch": "main",
+  "tree_sha": "478908589847ab10038a80fd50df35478c0ec95f",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/ci.yml",
+      "blob_sha": "036288b916c275349cfc8a2de29756949d7c94b3",
+      "size_bytes": 845,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/.github/workflows/ci.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "621d91ad035382b484252d58a4ae931adab297de",
+      "size_bytes": 96,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".nojekyll",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/.nojekyll",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "6358044f7ed45b3e753785f56e77bb6df11d8010",
+      "size_bytes": 471,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "configs/protocol-v1.json",
+      "blob_sha": "58b6b90147c8f2cfdab22e9f1952425fab3d7f4f",
+      "size_bytes": 817,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/configs/protocol-v1.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "blob_sha": "20fa8e4d700ac487eb3a22b7d83c1e2aeeba9969",
+      "size_bytes": 737,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/CONTRIBUTING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/architecture.md",
+      "blob_sha": "15bde5d261bef17a665d34dc88d6e4a64afcb666",
+      "size_bytes": 3579,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/docs/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/evidence-ledger.json",
+      "blob_sha": "e7c9cf37aafe6a87ee48914e20ee654c4b810cd0",
+      "size_bytes": 2275,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/docs/evidence-ledger.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/evidence-ledger.md",
+      "blob_sha": "409f56338c66dab1543cb3e57a3cad6f116416e4",
+      "size_bytes": 1574,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/docs/evidence-ledger.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/formal-obligations.md",
+      "blob_sha": "ac49d9cbb73913bf92917111475e12a296896e27",
+      "size_bytes": 1505,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/docs/formal-obligations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/limitations.md",
+      "blob_sha": "31bb9b011bbe564ef633e218f8285ab0092b82e2",
+      "size_bytes": 2403,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/docs/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/protocol-amendment-template.md",
+      "blob_sha": "192c00995ddfcda84bfe797112bb595d83b9dfbb",
+      "size_bytes": 804,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/docs/protocol-amendment-template.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/protocol.md",
+      "blob_sha": "ae91e261a209315900ada5f775891bbd4c28b931",
+      "size_bytes": 4926,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/docs/protocol.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/research-note.md",
+      "blob_sha": "481fe57e1ff06e907ca47076599021cb75506fab",
+      "size_bytes": 3738,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/docs/research-note.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/reviewer-checklist.md",
+      "blob_sha": "db9f09469da2c2d5d113d48aa0525f088950fed3",
+      "size_bytes": 1569,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/docs/reviewer-checklist.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/roadmap.md",
+      "blob_sha": "2d217d625e0ac2403080ec676451c1c11ae28942",
+      "size_bytes": 2697,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/docs/roadmap.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/threat_model.md",
+      "blob_sha": "d977625c6d87afbdd4aed13e08d357e477226e1a",
+      "size_bytes": 2240,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/docs/threat_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/frozen_demo/baseline_policy.json",
+      "blob_sha": "917e2af1b64c27858ae65a7d69e843b7cc620140",
+      "size_bytes": 160,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/examples/frozen_demo/baseline_policy.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/frozen_demo/candidate_policy.json",
+      "blob_sha": "fefc00cc2694d701c3f67ac0b9e0a04117566841",
+      "size_bytes": 151,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/examples/frozen_demo/candidate_policy.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/frozen_demo/control_policies.json",
+      "blob_sha": "e0bebf49e8a97854297b7683292c7fa1762a6144",
+      "size_bytes": 386,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/examples/frozen_demo/control_policies.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/frozen_demo/development_cases.json",
+      "blob_sha": "dda371ad73eaf9f961bc547322f1e9614665094f",
+      "size_bytes": 70121,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/examples/frozen_demo/development_cases.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/frozen_demo/holdout_cases.json",
+      "blob_sha": "9be338e5ac1fd7e7bcf0885196d7dd733b8407a5",
+      "size_bytes": 71828,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/examples/frozen_demo/holdout_cases.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/frozen_demo/manifest.json",
+      "blob_sha": "032a29ff450b2162b51900769e97c5bf9d0ed3fc",
+      "size_bytes": 1428,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/examples/frozen_demo/manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/frozen_demo/null_policy.json",
+      "blob_sha": "15c5e831a09955e193777e5a08a042a52a265b62",
+      "size_bytes": 152,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/examples/frozen_demo/null_policy.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/frozen_demo/protocol.snapshot.json",
+      "blob_sha": "d90d8cf8d431d841bf1d07f255c0e6ddf2180869",
+      "size_bytes": 817,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/examples/frozen_demo/protocol.snapshot.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/frozen_demo/report.json",
+      "blob_sha": "b6851ff19805c868200422296979e669cc922a56",
+      "size_bytes": 9972,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/examples/frozen_demo/report.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/frozen_demo/search_trace.json",
+      "blob_sha": "b1fe4936e15b781e3ddea93357c05abdb8d8c9fd",
+      "size_bytes": 39080,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/examples/frozen_demo/search_trace.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/README.md",
+      "blob_sha": "c272fec53777d9d25f558ee66a6d2b09b821b669",
+      "size_bytes": 905,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/examples/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "aa66bd9e08e9f78a1f5adb2707c3f277c6e9d876",
+      "size_bytes": 14576,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "afd2810db0795d51c2031d637a5bb2ac4bedff44",
+      "size_bytes": 1081,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Makefile",
+      "blob_sha": "9c260b0fbad89172fb2774c2aadde8daca015bd4",
+      "size_bytes": 242,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/Makefile",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "fc9bf3da6b439e0bb8da8a05ce4a59cc148f59d9",
+      "size_bytes": 537,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "050e18a3c346ec85af98dce3000293aa0dac1b03",
+      "size_bytes": 6692,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "rsi/__init__.py",
+      "blob_sha": "19b3dc9ce4a99cdab60524c91a256ccb493854f0",
+      "size_bytes": 177,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/rsi/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "rsi/__main__.py",
+      "blob_sha": "eb53e2f31b2f703ad32ef64b8a41faa3e7d18e08",
+      "size_bytes": 48,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/rsi/__main__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "rsi/cli.py",
+      "blob_sha": "1610e1df665ccee9a59f6bc17a2975cc62d2b657",
+      "size_bytes": 4269,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/rsi/cli.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "rsi/core.py",
+      "blob_sha": "870dcfe8ad680e2496fa1a302e3b9fac54a92641",
+      "size_bytes": 6331,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/rsi/core.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "rsi/experiment.py",
+      "blob_sha": "5d90555d4046499b72cd37dc69787d5df85f191d",
+      "size_bytes": 10773,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/rsi/experiment.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "rsi/io.py",
+      "blob_sha": "acacd12d2f575c56b63fb6161af2416c413f2565",
+      "size_bytes": 2242,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/rsi/io.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SECURITY.md",
+      "blob_sha": "3c26ed83b2aa6ad2e7e2dd94bcf9397ff0417750",
+      "size_bytes": 824,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/SECURITY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SHA256SUMS",
+      "blob_sha": "0fda4cfb22a7630a983e0de032a30f610e922a6d",
+      "size_bytes": 3915,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/SHA256SUMS",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_artifacts.py",
+      "blob_sha": "baa4c1de29bf49c8c6ba7402e3b2157411e16620",
+      "size_bytes": 1275,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/tests/test_artifacts.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_cli.py",
+      "blob_sha": "2dda81da82862b4613c3f8386a48e6f2b7a5c9a3",
+      "size_bytes": 2029,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/tests/test_cli.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_core.py",
+      "blob_sha": "6df77f857cd03a252ccaecd0840eb300447c5d08",
+      "size_bytes": 2346,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/tests/test_core.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_experiment.py",
+      "blob_sha": "5f4bb86812a9d464caf784bac5844420c00d7052",
+      "size_bytes": 2053,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/RSI/blob/main/tests/test_experiment.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

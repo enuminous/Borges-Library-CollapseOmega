@@ -1,0 +1,161 @@
+{
+  "repository": "enuminous/Geometry",
+  "default_branch": "main",
+  "tree_sha": "285b95551ca11c487eb6c0c13f8dde86b702df71",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "507242cd3588f5b6f964c20aa2a8504398eb7579",
+      "size_bytes": 1148,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Geometry/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/pages.yml",
+      "blob_sha": "8231a9459599cb0f4f4d81d4ce8e4478c4c4ddcd",
+      "size_bytes": 672,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Geometry/blob/main/.github/workflows/pages.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "12871b584bb8d40ac3b016f8324d574fe9dee959",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Geometry/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Axioms.lean",
+      "blob_sha": "a33dde128d794490c51e598be7f41268ae723998",
+      "size_bytes": 558,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Geometry/blob/main/Axioms.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "check.sh",
+      "blob_sha": "185fab3dcd4de8af715aa6b2a3b232ba5c4ab4e7",
+      "size_bytes": 162,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Geometry/blob/main/check.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "COUNTEREXAMPLE_ATLAS.md",
+      "blob_sha": "35aa1e6b64102e628bf36ff53c5055aa4b5464cb",
+      "size_bytes": 1828,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Geometry/blob/main/COUNTEREXAMPLE_ATLAS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Geometry.lean",
+      "blob_sha": "232d48f36da46dc8c0e51096a1b56c56a5c4706f",
+      "size_bytes": 6621,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Geometry/blob/main/Geometry.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "b9aee1175be9a59ed4fd58c09be93a1c98529a9a",
+      "size_bytes": 81558,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Geometry/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LAB_GUIDE.md",
+      "blob_sha": "496043ab7cbe11296e0fbc6c4ad68c13c50eae47",
+      "size_bytes": 5105,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Geometry/blob/main/LAB_GUIDE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "1a1d3aa4758d9633d7efefe071014766ab645f64",
+      "size_bytes": 300,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Geometry/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Geometry/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Main.lean",
+      "blob_sha": "0db04d03f58e36928052721aea9fa004a62b3d30",
+      "size_bytes": 520,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Geometry/blob/main/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PROOF_RECEIPT.md",
+      "blob_sha": "056a40b621ea0ba30b9f4887d228cfc214d5d03f",
+      "size_bytes": 1669,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Geometry/blob/main/PROOF_RECEIPT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "48c0e0f6d0dcf1bf9e26c1ecfec1bc3506ef080c",
+      "size_bytes": 2218,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Geometry/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sanity.py",
+      "blob_sha": "14bdcc5d9d2c96179bf4c25acd2fe41d38723146",
+      "size_bytes": 857,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Geometry/blob/main/sanity.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

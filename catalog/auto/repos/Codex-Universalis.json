@@ -1,0 +1,1391 @@
+{
+  "repository": "enuminous/Codex-Universalis",
+  "default_branch": "main",
+  "tree_sha": "adc3d6a1c882c1f1a3611fd2f30c60e62d8f5093",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/pages.yml",
+      "blob_sha": "68f3cdd42e5b7182d90cab9bf31854c4c52d2376",
+      "size_bytes": 872,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/.github/workflows/pages.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "a648137d61e998cad2ccc403757fa43783453a06",
+      "size_bytes": 50,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".nojekyll",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/.nojekyll",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "app.js",
+      "blob_sha": "e4e446ad21952fcd7802950bc4630b4a0d9657a7",
+      "size_bytes": 15176,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/app.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/mark.svg",
+      "blob_sha": "5d7a9babde188f0e0cf29eb41542d899d2467a4d",
+      "size_bytes": 257,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/mark.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-005.webp",
+      "blob_sha": "82482fb3a439be4a90ec9fc2c01e2c2709bad0f6",
+      "size_bytes": 90914,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-005.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-010.webp",
+      "blob_sha": "9a3b744bdae5d090b7c14c2acb32a28c7f6a50e4",
+      "size_bytes": 98470,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-010.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-015.webp",
+      "blob_sha": "8118d9fba831951aa090ad08c170c4bbc18ac35e",
+      "size_bytes": 85648,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-015.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-020.webp",
+      "blob_sha": "2b56b7d2d3afc3f4f12391f80b777ab8df0f6004",
+      "size_bytes": 115762,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-020.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-023.webp",
+      "blob_sha": "757e2a1f081eb79c3933906bb816860d3f69f40a",
+      "size_bytes": 143972,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-023.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-029.webp",
+      "blob_sha": "a4fcbe7f8e7d109c9c86d21d9a2747da20287b31",
+      "size_bytes": 72924,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-029.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-034.webp",
+      "blob_sha": "4a2b95381c402c9cd9ad83b072dc21be4577f739",
+      "size_bytes": 73104,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-034.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-040.webp",
+      "blob_sha": "37372c1b5d5193209886ae1c8e019f076e62f11c",
+      "size_bytes": 83076,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-040.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-045.webp",
+      "blob_sha": "8ceb627f84593dfdfe9b2933766edc0937375271",
+      "size_bytes": 69482,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-045.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-049.webp",
+      "blob_sha": "fbb72d8e3a682fd6c472b0b4c4df071dc70191cb",
+      "size_bytes": 106852,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-049.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-058.webp",
+      "blob_sha": "260fb048dc6b3f99f939949cd3178f0f27416a3c",
+      "size_bytes": 66590,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-058.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-063.webp",
+      "blob_sha": "89ac4d4115233d3f00e17bd3040c9212e2f7ef65",
+      "size_bytes": 70604,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-063.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-069.webp",
+      "blob_sha": "26ed06cd396d7e719ca52eed30763379d9707c86",
+      "size_bytes": 106498,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-069.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-073.webp",
+      "blob_sha": "a2e5471867733738d066106dd5b8e1162e7637a7",
+      "size_bytes": 116950,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-073.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-075.webp",
+      "blob_sha": "e5a4156694b7edffa407d480ba130336dffa72e0",
+      "size_bytes": 88386,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-075.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-079.webp",
+      "blob_sha": "99d78ce4c8920ee977e9cc7acd05d7b7885678fc",
+      "size_bytes": 101516,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-079.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-084.webp",
+      "blob_sha": "557acdadb5f362470b567a2518e893384cd5dd11",
+      "size_bytes": 96206,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-084.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-087.webp",
+      "blob_sha": "dc5b4e321fe1861315231213ee1c485d98e4d4c7",
+      "size_bytes": 86414,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-087.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-092.webp",
+      "blob_sha": "b00833af4da172353d3244d93479f597b89103f4",
+      "size_bytes": 101660,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-092.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-095.webp",
+      "blob_sha": "f49023e49277ce8932cae6152dbc56edefcfd9f7",
+      "size_bytes": 90824,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-095.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-098.webp",
+      "blob_sha": "805b3b7b773065897c0bcb3dc8a0aee120a529e4",
+      "size_bytes": 97140,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-098.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-101.webp",
+      "blob_sha": "2b2a55f9d9bf6ee4e4f9c98294054ddde97eda86",
+      "size_bytes": 104572,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-101.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-104.webp",
+      "blob_sha": "95cadcad72e9ffaacff2741bd41d819c1367ab7a",
+      "size_bytes": 117564,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-104.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-107.webp",
+      "blob_sha": "5ea9980a0e478aa2c44b9d3268bffa6791225d8d",
+      "size_bytes": 118216,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-107.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-112.webp",
+      "blob_sha": "3ec0900d3e21d058f4bdf71d4a581c750232e69d",
+      "size_bytes": 106256,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-112.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-116.webp",
+      "blob_sha": "22bfb5aee661e1c62bfdb4f15f3578422ba26c0c",
+      "size_bytes": 114812,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-116.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-118.webp",
+      "blob_sha": "84c9d980682f31b029978950cbad611eb9b2a453",
+      "size_bytes": 152300,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-118.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-120.webp",
+      "blob_sha": "6cc16b05c1573689b68face3906ea325b4f48d19",
+      "size_bytes": 78970,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-120.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-124.webp",
+      "blob_sha": "f90d7cbcfe642adf960b6ae3bf1e9312c809b3d4",
+      "size_bytes": 107062,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-124.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-130.webp",
+      "blob_sha": "f1f12cc72758ecd9a88bf00eb9b2264a19c1a570",
+      "size_bytes": 118540,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-130.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-134.webp",
+      "blob_sha": "5821f9308e579d17f5ee3292ef50e2c1332ce2da",
+      "size_bytes": 103500,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-134.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-137.webp",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-137.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-140.webp",
+      "blob_sha": "f12dd7619797a097b525df0d6c542780475025aa",
+      "size_bytes": 94280,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-140.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-145.webp",
+      "blob_sha": "c64065e9537276c7f580b8468ee03f2c515f78c2",
+      "size_bytes": 94692,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-145.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-149.webp",
+      "blob_sha": "53b19d10375dde2fa3140055d568360431226085",
+      "size_bytes": 83464,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-149.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-152.webp",
+      "blob_sha": "7a7e5153ef6035b244319fbec23bb5af0b3edbe2",
+      "size_bytes": 99686,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-152.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-154.webp",
+      "blob_sha": "5b1a947f7b3bfe3bfe3708bcbbddb978f6b9c3c0",
+      "size_bytes": 101594,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-154.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-158.webp",
+      "blob_sha": "ca7e82c140709147b8ef570ba822aaf4a403d0ab",
+      "size_bytes": 99270,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-158.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-164.webp",
+      "blob_sha": "b6733622072438df5e1559fa9936c3430bd1745f",
+      "size_bytes": 103168,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-164.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-167.webp",
+      "blob_sha": "b5284e915199662da5b7450e6949d4a5abf1cbd3",
+      "size_bytes": 106238,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-167.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-174.webp",
+      "blob_sha": "115b6d38fe483eee57f36e43956b2af9f2640fc6",
+      "size_bytes": 118124,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-174.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-176.webp",
+      "blob_sha": "9c0b4a2011395ff86f1d898ff325e9ef50e95ae2",
+      "size_bytes": 98374,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-176.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-185.webp",
+      "blob_sha": "d03783fd0df0cbe54c995057b801df20b2161ce3",
+      "size_bytes": 113072,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-185.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-189.webp",
+      "blob_sha": "016491a3539b769c7c0c50cfc483f01c34a621a8",
+      "size_bytes": 98574,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-189.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-192.webp",
+      "blob_sha": "cdc3a7ac4f307772ed7be63556c3d31b0b41f130",
+      "size_bytes": 83860,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-192.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-199.webp",
+      "blob_sha": "9af9683ff509e099d6b4f948ce7222186b07b050",
+      "size_bytes": 88902,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-199.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-205.webp",
+      "blob_sha": "78cd84f7d13cacb5f381b93df89020a96f121271",
+      "size_bytes": 96704,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-205.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-214.webp",
+      "blob_sha": "a91c22fa85acf99c74349f8c9559e349d7ac10ce",
+      "size_bytes": 135600,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-214.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-222.webp",
+      "blob_sha": "2713ba803d85794bbb51d87d3879b4001ae864ad",
+      "size_bytes": 77248,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-222.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-226.webp",
+      "blob_sha": "6cde5cbad7487825128cb887219000c80ab26f00",
+      "size_bytes": 91178,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-226.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-232.webp",
+      "blob_sha": "6c6d341763b2b06e28d333f66d9379b392b3b8f1",
+      "size_bytes": 127822,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-232.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-239.webp",
+      "blob_sha": "1d193054cf054c0aed375d1230735ff1b88cfa8b",
+      "size_bytes": 135264,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-239.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-245.webp",
+      "blob_sha": "f1e153b929a2da9dcd1748a56afcb7402342daa7",
+      "size_bytes": 88824,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-245.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-248.webp",
+      "blob_sha": "da6e46f5aed34aa8bc34cf77e9eebe45f0773bcf",
+      "size_bytes": 77402,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-248.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-251.webp",
+      "blob_sha": "16aba1b2660cf9ecdf29e634196daeeed23c4303",
+      "size_bytes": 257824,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-251.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-257.webp",
+      "blob_sha": "768a4e426284352617241e195a447c970beebd2d",
+      "size_bytes": 115652,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-257.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-261.webp",
+      "blob_sha": "76ea5eb82e63aec86c2f0ba088127c7c35f1152e",
+      "size_bytes": 102020,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-261.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-273.webp",
+      "blob_sha": "4b26257c25ecc97c418bd57a95c29ee52dbe6b4d",
+      "size_bytes": 109892,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-273.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-280.webp",
+      "blob_sha": "a8f8a667d1f7e560ccc7cefb57e42a8a7e6a55d3",
+      "size_bytes": 110542,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-280.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-283.webp",
+      "blob_sha": "bb5cf0c0d935a9b7ec13947766a0df5befc04389",
+      "size_bytes": 129480,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-283.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-289.webp",
+      "blob_sha": "3441baf3d87ef776c139fca0ec531a17301f1b2a",
+      "size_bytes": 92234,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-289.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-292.webp",
+      "blob_sha": "b1ff693cf5e99371cb2789e33f378040cd21f9b6",
+      "size_bytes": 98644,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-292.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-297.webp",
+      "blob_sha": "b28d0f3c82f132c37c617da9f32b082c2698cccc",
+      "size_bytes": 116108,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-297.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-302.webp",
+      "blob_sha": "3ee68636c8bfc46fbca6b0a89e66b59b30a6180f",
+      "size_bytes": 103306,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-302.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-310.webp",
+      "blob_sha": "0167f6b6ea22caf25811f81e24cc86c03fd32fb4",
+      "size_bytes": 107754,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-310.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-313.webp",
+      "blob_sha": "a0d0d0eaaff93a5070803768334824e6a22d83aa",
+      "size_bytes": 112816,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-313.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-316.webp",
+      "blob_sha": "69bd6d0160db11635112cc05d05666e4e119f2a7",
+      "size_bytes": 149358,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-316.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-319.webp",
+      "blob_sha": "dc7d8edd21ea7c03c580452a4caeeeac0faabc7e",
+      "size_bytes": 117344,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-319.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-327.webp",
+      "blob_sha": "5875bc87fd5005bead4635530a149efa8c9befc8",
+      "size_bytes": 101642,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-327.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-333.webp",
+      "blob_sha": "8e8152139a47e8f2fd6ac7bb4f9281916c04bd77",
+      "size_bytes": 116280,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-333.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-335.webp",
+      "blob_sha": "456e52bc4e97bff88def455dc92ef847fefdac02",
+      "size_bytes": 101918,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-335.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-337.webp",
+      "blob_sha": "d80caadd9fb194cc29737c69441456e11329742a",
+      "size_bytes": 127390,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-337.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-339.webp",
+      "blob_sha": "b793100bd5613dae40543a13400fbec540ac6ebb",
+      "size_bytes": 88624,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-339.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-343.webp",
+      "blob_sha": "81a0ee67a0b7b4620549be9b48a54ad0329bc565",
+      "size_bytes": 89726,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-343.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-346.webp",
+      "blob_sha": "daa6dfad2cb14de3a1a0b5d1b87cc6e3d8d10e7b",
+      "size_bytes": 84116,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-346.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-349.webp",
+      "blob_sha": "681b546d147fdf6e340c0c1652cd2c3a5bc0a92f",
+      "size_bytes": 109354,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-349.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-351.webp",
+      "blob_sha": "bf0c6b4860e3a44aeb6d89df1645199cca82c313",
+      "size_bytes": 108432,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-351.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-354.webp",
+      "blob_sha": "2207c8939f8935b8dc1d0dbfd5d63c9607c6ec7a",
+      "size_bytes": 118876,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-354.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-356.webp",
+      "blob_sha": "63cf4719f685eea58c509caf991cef7da840de8a",
+      "size_bytes": 90750,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-356.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-363.webp",
+      "blob_sha": "2fee4255ef47bc2c2f92f12800de14c2eb2f0b07",
+      "size_bytes": 107378,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-363.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-366.webp",
+      "blob_sha": "40644327d53312704e84ba8eef2c0e070eed41bb",
+      "size_bytes": 105746,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-366.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-371.webp",
+      "blob_sha": "497f5c48352be6a9bc3f472e58336b620cf0d4c9",
+      "size_bytes": 111956,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-371.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-373.webp",
+      "blob_sha": "28a9c5b61d8af8074901898f71147f480a2b4ed5",
+      "size_bytes": 114550,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-373.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-375.webp",
+      "blob_sha": "637de03e9c4573da2b3ece5b25634f002b9e94d8",
+      "size_bytes": 109390,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-375.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-377.webp",
+      "blob_sha": "8f84af8bf00dda3ef6e7d180ece0e8d968a8d8f7",
+      "size_bytes": 83668,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-377.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-379.webp",
+      "blob_sha": "44c95006ece851efa20eea91aa1d6c61c44d4d32",
+      "size_bytes": 102310,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-379.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-381.webp",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-381.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-383.webp",
+      "blob_sha": "9536589b5c9f9aed1b6f146b0277116e93dff6d6",
+      "size_bytes": 97764,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-383.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-385.webp",
+      "blob_sha": "c9d8759b4bad8b78b33d4f26dbf43bbd9d1c74dd",
+      "size_bytes": 122962,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-385.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-387.webp",
+      "blob_sha": "648499aed8631a07d2837522971b3597ffee26f6",
+      "size_bytes": 101502,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-387.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-390.webp",
+      "blob_sha": "d58b9bd0f9504e5a57be87c371ac10ae205062ea",
+      "size_bytes": 159420,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-390.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-392.webp",
+      "blob_sha": "baf850f3f00e503ce6dafce129ca90ff25a15c6b",
+      "size_bytes": 102478,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-392.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-396.webp",
+      "blob_sha": "edff0e7569b820c2cad5c1ac3183fbdf86a19f94",
+      "size_bytes": 107960,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-396.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-398.webp",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-398.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-401.webp",
+      "blob_sha": "437477d2f3f8a837b3959b43184193e74625fad0",
+      "size_bytes": 102998,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-401.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-404.webp",
+      "blob_sha": "468c71d15879b70860923db4fd9b834c46a6db43",
+      "size_bytes": 135526,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-404.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-407.webp",
+      "blob_sha": "15583ebe88cbb0cce8a007097cce69f899bf1f4f",
+      "size_bytes": 118400,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-407.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-409.webp",
+      "blob_sha": "b8d91905dbb46033238171bfd03da90a0790a7bb",
+      "size_bytes": 117004,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-409.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-412.webp",
+      "blob_sha": "326ac3b8bd145b5c09635b98bcd8a2735235c33a",
+      "size_bytes": 121608,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-412.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-415.webp",
+      "blob_sha": "ff888dad5422f99743a0976a58a1b19850e8b393",
+      "size_bytes": 105424,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-415.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-417.webp",
+      "blob_sha": "8488b82120b31d21b5959003ae215e5c7b3b677e",
+      "size_bytes": 106354,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-417.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-419.webp",
+      "blob_sha": "bf7632415b2b2beae84c1b69e0075e3b575f3dc2",
+      "size_bytes": 92902,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-419.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-421.webp",
+      "blob_sha": "b9b22cac55ac483db169f19bb1b233c504557d80",
+      "size_bytes": 120538,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-421.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-423.webp",
+      "blob_sha": "442157d4ce2bb1d51f747c77b6490ccc1bcd6503",
+      "size_bytes": 82330,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-423.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-426.webp",
+      "blob_sha": "e0acfd62264eeb66d5d7406f07082ed0da056319",
+      "size_bytes": 96496,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-426.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-428.webp",
+      "blob_sha": "5619b94ea234615276e42a4fa0be3641f551f978",
+      "size_bytes": 102216,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-428.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-431.webp",
+      "blob_sha": "c1e915550c0bcbac69b4dfe770281b44b6c4f50e",
+      "size_bytes": 82766,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-431.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-433.webp",
+      "blob_sha": "4bb1ebbb0c9e4d71114e52d25645564849caccab",
+      "size_bytes": 116650,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-433.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-436.webp",
+      "blob_sha": "0306599bba9d15fd5c9eb2296dff0067a62edb0e",
+      "size_bytes": 75294,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-436.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-439.webp",
+      "blob_sha": "a26e108c93c266f339230478a427698b846af4aa",
+      "size_bytes": 116540,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-439.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-442.webp",
+      "blob_sha": "9883bc6cc34a652e894f5bf63137d17ac2ea4b90",
+      "size_bytes": 85988,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-442.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-445.webp",
+      "blob_sha": "17a6a1152df60eaccda6ae6e5f6e9335114d6f8c",
+      "size_bytes": 129716,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-445.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-448.webp",
+      "blob_sha": "eaeb475f70fb8c9890c5e594305d953d1a36aa31",
+      "size_bytes": 112676,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-448.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-451.webp",
+      "blob_sha": "d93297a93c146e5850b4bc15962bf9b9bbc55df9",
+      "size_bytes": 157766,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-451.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-454.webp",
+      "blob_sha": "6ac90da67e4d4f34f7799f2f8d6aab232fc8032b",
+      "size_bytes": 140648,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-454.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-456.webp",
+      "blob_sha": "fe11d96b2b99a52c4ed94283fcdaba97000c6367",
+      "size_bytes": 115038,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-456.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-459.webp",
+      "blob_sha": "1ca0e4a9ef0067d3d12818fe4c59e0f7ba8b32b8",
+      "size_bytes": 120584,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-459.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-462.webp",
+      "blob_sha": "c3505ccbbb4dd2f551af6fcbd896cb783949e767",
+      "size_bytes": 118364,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-462.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-465.webp",
+      "blob_sha": "df01ea37b4629d11eee6016f3f6bdd23944d8837",
+      "size_bytes": 103998,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-465.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-467.webp",
+      "blob_sha": "8fface442d9d6418e71d819725bf1b23c218de10",
+      "size_bytes": 141018,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-467.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-469.webp",
+      "blob_sha": "d84e634dee6af254d3aed2537232a1c82892ea42",
+      "size_bytes": 115000,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-469.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-474.webp",
+      "blob_sha": "f2025c4f32acbe4958d7f30b11aa673b135c5c82",
+      "size_bytes": 139402,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-474.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/page-486.webp",
+      "blob_sha": "2e68a9c3bbf368dad0c4f8d35f1ee25d2d19adef",
+      "size_bytes": 327932,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/assets/page-486.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "2133bb3c79a218bd374e27bf5a50ffe64aed2e7c",
+      "size_bytes": 11251,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "manuscript.js",
+      "blob_sha": "8bd73be9dd6386200dda6987db5c9c15ce5d5e48",
+      "size_bytes": 687627,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/manuscript.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "preview-2026-10-31.jpg",
+      "blob_sha": "8bed5a725adf24aac669c47548dc1c09c8ce65a2",
+      "size_bytes": 106370,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/preview-2026-10-31.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "e29244c31cfc89a042c7604e0ca9046644293d87",
+      "size_bytes": 4545,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/build.mjs",
+      "blob_sha": "e28a6bd2e032061007a225f3fda0b0f20ced2c8b",
+      "size_bytes": 340,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/scripts/build.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/extract_manuscript.py",
+      "blob_sha": "0baa5bda03ec5490d5a88c48b25fa8106abebfc6",
+      "size_bytes": 3746,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/scripts/extract_manuscript.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/validate.mjs",
+      "blob_sha": "b8d90abcb471bc2429712af3d3f3b23beb19da6e",
+      "size_bytes": 1631,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/scripts/validate.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "source-manifest.json",
+      "blob_sha": "4cc1e5eb99e03253e9e45865b15e2508c7a1beb2",
+      "size_bytes": 558,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/source-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "style.css",
+      "blob_sha": "0e67c1c994b09e674c9fc85e59601d9a832dfde3",
+      "size_bytes": 17808,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/style.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VALIDATION.md",
+      "blob_sha": "45d7f122eca7ea703ee76eab64bb08bd20052867",
+      "size_bytes": 2219,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Codex-Universalis/blob/main/VALIDATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

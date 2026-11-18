@@ -1,0 +1,294 @@
+{
+  "repository": "enuminous/Codex-888",
+  "default_branch": "main",
+  "tree_sha": "42a43478b24b77ca5319e07984b0258933af1c0f",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "1cc10a2cbda6619efdcdf41fcc2ad28ed5aa7324",
+      "size_bytes": 1411,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "65bd023be5121f20d54961640dd807bd0b38c6b0",
+      "size_bytes": 22,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ARISTOTLE_SUMMARY.md",
+      "blob_sha": "d8a80944dcf9970f00e7dc46c48fe486c2e3e2cf",
+      "size_bytes": 2892,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/ARISTOTLE_SUMMARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "e29bd40b0f0b8d51875d5822f538f74de1601f2b",
+      "size_bytes": 1243,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CLAIMS_BOUNDARY.md",
+      "blob_sha": "9a0d8accb45b275e95f493d9a7ce0c8fe5d7c65a",
+      "size_bytes": 3303,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/CLAIMS_BOUNDARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Codex888.lean",
+      "blob_sha": "2924552b69a01c4443b7a59bf6474c1114ce935f",
+      "size_bytes": 126,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/Codex888.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Codex888/Dynamics.lean",
+      "blob_sha": "4ee374478ad13a7134a2792d472b952663ca1645",
+      "size_bytes": 3443,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/Codex888/Dynamics.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Codex888/Foundation.lean",
+      "blob_sha": "8c7bcb3c4befe94710193771f6ae28f4c0063d8d",
+      "size_bytes": 2189,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/Codex888/Foundation.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Codex888/Policy.lean",
+      "blob_sha": "cbe04470f0e47e193d7d2f83fddf7260108edc62",
+      "size_bytes": 4455,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/Codex888/Policy.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Codex888/Registers.lean",
+      "blob_sha": "9f9493a7a1e637870abf0192289857a232f62bd7",
+      "size_bytes": 2209,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/Codex888/Registers.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Codex888/Symbolic.lean",
+      "blob_sha": "0e3694dffa84a6fc5da30b1a7f7b505ad40cc637",
+      "size_bytes": 2961,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/Codex888/Symbolic.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CODEX888_FINDINGS.md",
+      "blob_sha": "3c56184bc23200d025a21a61bd6be1c9383263da",
+      "size_bytes": 5021,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/CODEX888_FINDINGS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Codex888Tests.lean",
+      "blob_sha": "4a4270e624924fc5156d7c604f6e9e54924a7fbd",
+      "size_bytes": 2234,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/Codex888Tests.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CODEX_ARCHITECTURE.md",
+      "blob_sha": "a9dcc74bba4a74b7ed6fe7a682fa6104261520b4",
+      "size_bytes": 3774,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/CODEX_ARCHITECTURE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "2fd60dd6d913ad92321af096d5f9d09d7dad5871",
+      "size_bytes": 31963,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "57bef473f4e93ba8f5d0387c29642e4327c08cda",
+      "size_bytes": 3109,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "c446022b5fc4eb2da78277ae92eac61514d5d6a4",
+      "size_bytes": 586,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_FORMALIZATION.md",
+      "blob_sha": "f9f418cdece2ca2f1eada459cebaae0e95a1d7c1",
+      "size_bytes": 8795,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/LEAN_FORMALIZATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Main.lean",
+      "blob_sha": "7c1fe189cb9ada71200506705aae8cc015eb0fe9",
+      "size_bytes": 1003,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PROOF_OBLIGATIONS.md",
+      "blob_sha": "45f13138984ac2d97ced64ce13c1ae882c990123",
+      "size_bytes": 5762,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/PROOF_OBLIGATIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "58b3194ad2a8c130eb65da19c013ce52309035ee",
+      "size_bytes": 2005,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject.lean",
+      "blob_sha": "ffe7224f4bdcba61835b6a312e56a4e3f32b566a",
+      "size_bytes": 31,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/RequestProject.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Codex888.lean",
+      "blob_sha": "9d6323e5ecb8bbfd46fe608c7bd556880130008d",
+      "size_bytes": 6533,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/RequestProject/Codex888.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Main.lean",
+      "blob_sha": "308f9cfb58cc562160bcd62ba1e20174f161311d",
+      "size_bytes": 563,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/RequestProject/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/RequestProject/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_axiom_audit.py",
+      "blob_sha": "ae63a566647d8493cd786290c34e5588c0a7d9a7",
+      "size_bytes": 1353,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SOURCE_NOTES.md",
+      "blob_sha": "e138ab77ad256eda9366387dcb631e61395ef059",
+      "size_bytes": 1795,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Codex-888/blob/main/SOURCE_NOTES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

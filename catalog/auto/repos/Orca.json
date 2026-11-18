@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Orca",
+  "default_branch": "main",
+  "tree_sha": "818e0df8092a40e3466312af1cdfd652b5152b33",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "a6598fd9c447c4f9f1eed4533b290075a81478bf",
+      "size_bytes": 511,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "629dfa3a4a3bc3eeb6009d74683cd861bbaa1afd",
+      "size_bytes": 1005,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "ea352950195249df9753cf41e99c22bc79fbe2cd",
+      "size_bytes": 847,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "0c00c4fb3d6125ef5cd9b6b12f513677a5bfb799",
+      "size_bytes": 1483,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "57d2ee5d46cea458745fa499ebbff4e846f26839",
+      "size_bytes": 286,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "coordination_model.md",
+      "blob_sha": "744ae786cdfb0bb3958696df36c89f82f9d9bf9d",
+      "size_bytes": 940,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/coordination_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "00d29683dce0ad1fd918872c9a280403a95c6ab2",
+      "size_bytes": 563,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "c1b600e6830380621d5bb10f12bacd71c9940031",
+      "size_bytes": 1756,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "df8698aec922c90c9d6bc6f960706863e4cea2e7",
+      "size_bytes": 1001,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "orca.py",
+      "blob_sha": "2b421857654039c69c31a6a7842f545af81c3455",
+      "size_bytes": 2648,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/orca.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "89ef9cfdee79197c56aa917efdf12c075ff59b57",
+      "size_bytes": 1897,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "20c65c859f57a1ac0cb62a1a08348e7ef97d4d5b",
+      "size_bytes": 2902,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_orca.py",
+      "blob_sha": "986ad8818cef71108b82c826a56f135d12284d16",
+      "size_bytes": 1065,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/test_orca.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "fc0ec9447c124e7917ce0dfdc8f74200bad6adbd",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "800b9bf4c9486eb46b82cd2a11b7bbbb588fa4cd",
+      "size_bytes": 2648,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Orca/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

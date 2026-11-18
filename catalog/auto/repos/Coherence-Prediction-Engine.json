@@ -1,0 +1,1092 @@
+{
+  "repository": "enuminous/Coherence-Prediction-Engine",
+  "default_branch": "main",
+  "tree_sha": "8f02ad1856281e272c60ce4d8800826813e721a1",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "1705d2c02a5c1badca669a5762f7aedc0d389d2d",
+      "size_bytes": 1459,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/static.yml",
+      "blob_sha": "460f782006e8bb929c92b9357c59c8b1d73f18c7",
+      "size_bytes": 1250,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/.github/workflows/static.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "0506191d70d5c3735f9773799c76e37b2c89fd38",
+      "size_bytes": 437,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cpe/__init__.py",
+      "blob_sha": "e2e793136d124fc28c6a50ca7e7d0fc1084bc18f",
+      "size_bytes": 100,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/cpe/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cpe/__main__.py",
+      "blob_sha": "d82177202f58bf40889d0684276fc131d357d447",
+      "size_bytes": 3575,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/cpe/__main__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cpe/atlas.py",
+      "blob_sha": "0642f9467c8d66d5c03e32a091e8292d05d9fcc4",
+      "size_bytes": 1732,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/cpe/atlas.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cpe/core.py",
+      "blob_sha": "1d09ac6a86771fff9524fa21ed3c76ebb88323dd",
+      "size_bytes": 3893,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/cpe/core.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cpe/engine.py",
+      "blob_sha": "bab96d7df726d825b83b2270ec80835e6f17b428",
+      "size_bytes": 10499,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/cpe/engine.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cpe/evaluate.py",
+      "blob_sha": "54441900bc22ece223a2146143aa0bba5e9f2993",
+      "size_bytes": 5437,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/cpe/evaluate.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cpe/io.py",
+      "blob_sha": "6f1d74412aecdd5d5b32510813e37d43f265a89d",
+      "size_bytes": 7242,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/cpe/io.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cpe/registry/atlas_165.json",
+      "blob_sha": "b301cd0d0e07a4d6d0d6f53e79eaa1d1b8ee959d",
+      "size_bytes": 19638,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/cpe/registry/atlas_165.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cpe/registry/claims.json",
+      "blob_sha": "2134eb2d49d621f58e5d145c529c27e4d0c2699e",
+      "size_bytes": 868,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/cpe/registry/claims.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cpe/registry/equations.json",
+      "blob_sha": "83ec390a02ee4f30fd57846946323defc6cfe75b",
+      "size_bytes": 46506,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/cpe/registry/equations.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cpe/registry/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/cpe/registry/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cpe/registry/source_lock.json",
+      "blob_sha": "871ee6377264fc87f680acc8e7cda076b3ec9f92",
+      "size_bytes": 1129,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/cpe/registry/source_lock.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cpe/registry/zoo_operations.json",
+      "blob_sha": "c1b4e3e1c3be05fb2abca9ca3310da4e8de82c29",
+      "size_bytes": 1226,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/cpe/registry/zoo_operations.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cpe/report.py",
+      "blob_sha": "4dad6a742e209d8987961bf27089e08768f0184c",
+      "size_bytes": 6455,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/cpe/report.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/control_drift.csv",
+      "blob_sha": "4a2878fffd2397b3c5c043ee57a255455e8a26c6",
+      "size_bytes": 266759,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/data/control_drift.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/control_null.csv",
+      "blob_sha": "0da6f99584ad30faefaab5234c4aee07fa79509f",
+      "size_bytes": 265584,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/data/control_null.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/data/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/sunspots.csv",
+      "blob_sha": "f4d14a5faa6d7605b62411b19db849baacf78779",
+      "size_bytes": 8564,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/data/sunspots.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/sunspots_original.csv",
+      "blob_sha": "34bbaa2f47ac4547341a29b8430d7029f265ccfe",
+      "size_bytes": 2945,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/data/sunspots_original.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/DATA_AND_PROTOCOL.md",
+      "blob_sha": "6796c8d04a443c0a683e550c216e56f3d3a1423a",
+      "size_bytes": 3581,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/docs/DATA_AND_PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/INTEGRATION_AND_GAPS.md",
+      "blob_sha": "d92e1dce1630c6ee5bd83fbc45e50908829feceb",
+      "size_bytes": 3584,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/docs/INTEGRATION_AND_GAPS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/METHOD.md",
+      "blob_sha": "a1f4ea30031699187b85ed6069b005e3cbf3ac34",
+      "size_bytes": 6372,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/docs/METHOD.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/PROOF_OBLIGATIONS.md",
+      "blob_sha": "2555cd34e0eece8086d67f4a67a6760f6e2f56a0",
+      "size_bytes": 3382,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/docs/PROOF_OBLIGATIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/docs/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/Audit.lean",
+      "blob_sha": "8e8342b65a64af1e6712a0e7a8e0f688d64c4bce",
+      "size_bytes": 1200,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/formal/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/COVERAGE.md",
+      "blob_sha": "7ef0289be4b938dae083840400982ccea229b214",
+      "size_bytes": 1608,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/formal/COVERAGE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lake-manifest.json",
+      "blob_sha": "641594147627bb72a10af262d43acc44748637e4",
+      "size_bytes": 3483,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/formal/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lakefile.toml",
+      "blob_sha": "b51997b393edc81dcc94780d561128d1820b9328",
+      "size_bytes": 232,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/formal/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/formal/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/Memory.lean",
+      "blob_sha": "c4a964ea70351add93e1d7a5a995c97b4f46f45e",
+      "size_bytes": 2885,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/formal/Memory.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/formal/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/VERIFICATION.md",
+      "blob_sha": "54d57fa977ba3253ba419a91d3e0bb1a8e9dd58f",
+      "size_bytes": 885,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/formal/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "d1064f73d9e749e2a25f87ab1c5ae4bf90a9fba0",
+      "size_bytes": 14104,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE.txt",
+      "blob_sha": "2ff2cba63c9611208b21b7af3c1a4c8a3032cdd8",
+      "size_bytes": 559,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/LICENSE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "protocols/control_drift.json",
+      "blob_sha": "f67fbf5b1761826fcdb910586038808c244e3feb",
+      "size_bytes": 557,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/protocols/control_drift.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "protocols/control_null.json",
+      "blob_sha": "3afae9b0085ac2804b73cdd04b221a9741cc6118",
+      "size_bytes": 556,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/protocols/control_null.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "protocols/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/protocols/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "protocols/sunspots.json",
+      "blob_sha": "9fe1f851a69be2f8789a8c7be2e2e02eb604cdb8",
+      "size_bytes": 578,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/protocols/sunspots.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "ac270eb133d2458647c4a0e684bdba1fb9638dc3",
+      "size_bytes": 445,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "5f3468ac271158646fc79a734ffee31bed96fa3e",
+      "size_bytes": 8298,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "references/equation-map.json",
+      "blob_sha": "73ed8b403a655d3ac050daaef4c7e983b33ec623",
+      "size_bytes": 30335,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/references/equation-map.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "references/FIELDSPACE_VERIFICATION.md",
+      "blob_sha": "70a49a4d7bf6d93ee6de54c27cdc45bdf6dac5ed",
+      "size_bytes": 3269,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/references/FIELDSPACE_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "references/FIELDSPACE_VERIFIED.lean",
+      "blob_sha": "7e7123e30509269460f963eb6eccb7ac468251e8",
+      "size_bytes": 4668,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/references/FIELDSPACE_VERIFIED.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "references/metrics.lean",
+      "blob_sha": "7e33e02af89a8506129b84df4bec4866ca052fd3",
+      "size_bytes": 7791,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/references/metrics.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "references/monolithic-source.md",
+      "blob_sha": "7d86fd294fae061aaf5502b5b47995ba36a1bc47",
+      "size_bytes": 21049,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/references/monolithic-source.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "references/MONOLITHIC_LAWS.md",
+      "blob_sha": "1e453665eaefd88be425f5851e61efe53763343c",
+      "size_bytes": 6156,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/references/MONOLITHIC_LAWS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "references/PROVENANCE.md",
+      "blob_sha": "96528ec01d38029c9e6f454bc6b2e3b02fd84675",
+      "size_bytes": 2244,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/references/PROVENANCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "references/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/references/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "references/SUNSPOTS_SOURCE.txt",
+      "blob_sha": "61617bc742a866f6a6fda1cbbc8a6cbcb085b73c",
+      "size_bytes": 558,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/references/SUNSPOTS_SOURCE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "references/tortoise-license.txt",
+      "blob_sha": "0af3610a88a4aab58c4c3a1020dedc891fefa7bf",
+      "size_bytes": 1088,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/references/tortoise-license.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "references/TORTOISE_README.md",
+      "blob_sha": "0056c32095ba1e8f91d751400bf57e97b30df73c",
+      "size_bytes": 4129,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/references/TORTOISE_README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RELEASE_RESULTS.md",
+      "blob_sha": "5aab6d56fb3d8c111dbdcf8134af5d201eccc712",
+      "size_bytes": 3033,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/RELEASE_RESULTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/all_results.json",
+      "blob_sha": "4e9fe8c82517001e779da782549faccf2de8a168",
+      "size_bytes": 8234,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/all_results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_drift.freeze.json",
+      "blob_sha": "f61f5b2b5d7a5d167d875dc6207e5872a7906861",
+      "size_bytes": 110304,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_drift.freeze.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_drift/audit.json",
+      "blob_sha": "77e06a8952080918a47501aa20eed0ab608d9a39",
+      "size_bytes": 1790,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_drift/audit.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_drift/checkpoints.json",
+      "blob_sha": "3db91c51480ff604f5e2957ea53d9a65c869e11f",
+      "size_bytes": 34846,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_drift/checkpoints.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_drift/checkpoints_before_test.json",
+      "blob_sha": "e9c84d5d483ec14283d2f88efae0acb437ac325c",
+      "size_bytes": 34886,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_drift/checkpoints_before_test.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_drift/events.jsonl",
+      "blob_sha": "e41191b7c3a6e63a5d3f242594f2220a1a24fed7",
+      "size_bytes": 3065116,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_drift/events.jsonl",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_drift/freeze.json",
+      "blob_sha": "f61f5b2b5d7a5d167d875dc6207e5872a7906861",
+      "size_bytes": 110304,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_drift/freeze.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_drift/manifest.json",
+      "blob_sha": "0cf0aec8a0e74086f324348e2993268f7cea2eff",
+      "size_bytes": 947,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_drift/manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_drift/predictions.csv",
+      "blob_sha": "98a5a627c9c82d57111cbe00235dc786236d66b1",
+      "size_bytes": 566162,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_drift/predictions.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_drift/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_drift/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_drift/report.html",
+      "blob_sha": "b3803c576dd38de8a0c3a02025587f2036e85982",
+      "size_bytes": 12504,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_drift/report.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_drift/revision.json",
+      "blob_sha": "a5ffdf7d628a0146a524abfd1b157d393ecba269",
+      "size_bytes": 648,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_drift/revision.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_drift/summary.json",
+      "blob_sha": "7f7342abba6041f39228a9ad94ab8375551be4da",
+      "size_bytes": 2575,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_drift/summary.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_null.freeze.json",
+      "blob_sha": "b88be3bd18d6265e50c5c98bf9cc21b451f720f4",
+      "size_bytes": 110303,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_null.freeze.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_null/audit.json",
+      "blob_sha": "72c9790a9c9ec0e7038e1595712a6c531f84e96d",
+      "size_bytes": 1790,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_null/audit.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_null/checkpoints.json",
+      "blob_sha": "6415e856fcbedb7350e8aa13f5e3a9f6b0202c4c",
+      "size_bytes": 34872,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_null/checkpoints.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_null/checkpoints_before_test.json",
+      "blob_sha": "3dfbea9547d2dd21d763e807fb8e1db733d43ab0",
+      "size_bytes": 34874,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_null/checkpoints_before_test.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_null/events.jsonl",
+      "blob_sha": "6ccd4875d83c04acf74869705db5276272f033a2",
+      "size_bytes": 3070430,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_null/events.jsonl",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_null/freeze.json",
+      "blob_sha": "b88be3bd18d6265e50c5c98bf9cc21b451f720f4",
+      "size_bytes": 110303,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_null/freeze.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_null/manifest.json",
+      "blob_sha": "759dc1d1427d8eda3f80f1e43cf042298e67a6d8",
+      "size_bytes": 947,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_null/manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_null/predictions.csv",
+      "blob_sha": "60e84ccbbd969ba5d751e6ff7a89ed070fa9ab8b",
+      "size_bytes": 570054,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_null/predictions.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_null/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_null/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_null/report.html",
+      "blob_sha": "c9455ede407240ccabdeefc4dd6b4030eb023792",
+      "size_bytes": 12552,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_null/report.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_null/revision.json",
+      "blob_sha": "769574b6b72d1bea7afd71869abc4b268c875f16",
+      "size_bytes": 647,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_null/revision.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/control_null/summary.json",
+      "blob_sha": "5aa58917dfaf5b97b488dbd28cb03363d9815749",
+      "size_bytes": 2557,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/control_null/summary.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/sunspots.freeze.json",
+      "blob_sha": "af1b70b575fb67fda49340c298bc2c9d88982853",
+      "size_bytes": 7505,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/sunspots.freeze.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/sunspots/audit.json",
+      "blob_sha": "bdadca7943568f069c6dcbf0e0c5a8409ed2243e",
+      "size_bytes": 1807,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/sunspots/audit.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/sunspots/checkpoints.json",
+      "blob_sha": "138117123152ce9f2beb26e76e3b46b5dd2234a3",
+      "size_bytes": 2907,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/sunspots/checkpoints.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/sunspots/checkpoints_before_test.json",
+      "blob_sha": "0cca43a6a63b1f747778d33f1021d5a7fd3a6919",
+      "size_bytes": 2906,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/sunspots/checkpoints_before_test.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/sunspots/events.jsonl",
+      "blob_sha": "31976f406b8e362a5f860c5f4839efdd800604ad",
+      "size_bytes": 61427,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/sunspots/events.jsonl",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/sunspots/freeze.json",
+      "blob_sha": "af1b70b575fb67fda49340c298bc2c9d88982853",
+      "size_bytes": 7505,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/sunspots/freeze.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/sunspots/manifest.json",
+      "blob_sha": "2a945f7342b131e12587af9192daeb8f7704abc0",
+      "size_bytes": 947,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/sunspots/manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/sunspots/predictions.csv",
+      "blob_sha": "f18fd013bae703a09580bfffb491e3cc82ce330c",
+      "size_bytes": 9686,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/sunspots/predictions.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/sunspots/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/sunspots/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/sunspots/report.html",
+      "blob_sha": "df7286d3ce0db1dde6ccfe2c2411cc215942055e",
+      "size_bytes": 7245,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/sunspots/report.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/sunspots/revision.json",
+      "blob_sha": "fc6ee93633670c96340769e2bed4a07843fffc4e",
+      "size_bytes": 634,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/sunspots/revision.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "runs/sunspots/summary.json",
+      "blob_sha": "9d42c958bf5f57198676f01e21ef05dee8742eb1",
+      "size_bytes": 2553,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/runs/sunspots/summary.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/build_assets.py",
+      "blob_sha": "823488941bccb2d9e883e170fdff995053dc218f",
+      "size_bytes": 6938,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/scripts/build_assets.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/build_release_pages.py",
+      "blob_sha": "4757c4cf221a6f87960aa7f993d97daafd3f14fe",
+      "size_bytes": 9074,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/scripts/build_release_pages.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/package_release.py",
+      "blob_sha": "57d02a4807092592fbf00a43db47255430fe7e18",
+      "size_bytes": 1900,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/scripts/package_release.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/scripts/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/run_release.py",
+      "blob_sha": "20a997a1c332cd7048ec490dcce950a7b0b75ac8",
+      "size_bytes": 952,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/scripts/run_release.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/verify_release.py",
+      "blob_sha": "8d22582b58ec1bec11433ca0a5ab3f39f71454a8",
+      "size_bytes": 770,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/scripts/verify_release.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "blob_sha": "b5c5d268d29055f4d977d77b0b6e69f04b57fe64",
+      "size_bytes": 7675,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/SHA256SUMS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/tests/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_engine.py",
+      "blob_sha": "73ce74931a46640ff97ffb494c2732ec23eef30e",
+      "size_bytes": 8377,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/tests/test_engine.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "validation/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/validation/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "validation/release_receipt.json",
+      "blob_sha": "0e34adebbc37ac6eb25d128a65537cbabee3e5b4",
+      "size_bytes": 358,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/validation/release_receipt.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "validation/tests.log",
+      "blob_sha": "6e0f2be466aae91d4660ed860c6ea702170d94ca",
+      "size_bytes": 2757,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Coherence-Prediction-Engine/blob/main/validation/tests.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Whale",
+  "default_branch": "main",
+  "tree_sha": "33e5c56fcef791095226b084853918ab6f69a4e7",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "67a0ddecc6bfce95629cc3e44e4c8f6c426e4fa7",
+      "size_bytes": 400,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "6084967dc1b503a9750cd66c73f0339c0941caa7",
+      "size_bytes": 1147,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "2e5e979b831a09288f8fda374162f15848955b47",
+      "size_bytes": 900,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "65ab923dfd2592c59d1882e255ea284c1e40b62a",
+      "size_bytes": 1809,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "b41762cda36247f0329e16cf1735498b497c16be",
+      "size_bytes": 290,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "e4d10f16c0bad7112bcff589f1c5b9bca7338ebe",
+      "size_bytes": 281,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "13e75406b3588b55ff0119572240be3fc49f2ea0",
+      "size_bytes": 1757,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "54ad6a139ac3ae99e26e93d64a3f30bb69f53842",
+      "size_bytes": 963,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "longitudinal_model.md",
+      "blob_sha": "472c25e09c211dd1a5a17b704a403a8d2a001ef0",
+      "size_bytes": 846,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/longitudinal_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "323f7a54b0f83e7435d32210accfdfcbd26c0df9",
+      "size_bytes": 1527,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "110980cd1c529ce863a0e80d0af85dca8d9747f6",
+      "size_bytes": 2939,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "eaf1e5eca8a4dd052b485957d834cbbc0117fca3",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_whale.py",
+      "blob_sha": "c61b609e7adf894b42e84cf2e8fca70cf70f2dde",
+      "size_bytes": 656,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/test_whale.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "dd7fdaa73f8f62888a292e25f3839676a4d39ed0",
+      "size_bytes": 2211,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "whale.py",
+      "blob_sha": "18811eac326d58bebb8b867d07b289e2b154f8ea",
+      "size_bytes": 2678,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Whale/blob/main/whale.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

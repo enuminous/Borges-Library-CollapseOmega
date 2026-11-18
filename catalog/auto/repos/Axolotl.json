@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Axolotl",
+  "default_branch": "main",
+  "tree_sha": "a0edbbe66e3ea6a5bedc94d5cca08f082b5ba81d",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "93ec09bf90ff8a599644e214572ec421000696fa",
+      "size_bytes": 439,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "adaptation_model.md",
+      "blob_sha": "5bbd44ffd178858b8fb35f1e78839c1aed08daa1",
+      "size_bytes": 675,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/adaptation_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "be5facab6a32f156ad3455d90f919330abb9cd5d",
+      "size_bytes": 1176,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "axolotl.py",
+      "blob_sha": "61b14525528ca474f11fde59a48eb135932573da",
+      "size_bytes": 1943,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/axolotl.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "d4bd72337307989f4a336429516a65d0dece0d9e",
+      "size_bytes": 752,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "6fe4ce5dd51b064c786cb05c32b44b29059fe6e7",
+      "size_bytes": 1909,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "bc0bde78073bcac9f75dbc2c251244b43e3b8633",
+      "size_bytes": 328,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "cec86b9b46644a712d56efe19f3f667f277c5c15",
+      "size_bytes": 534,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "b808824a9bf98eb1652057ceb26864e26df5d828",
+      "size_bytes": 1774,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "889c30aea57b4edc12350faa9160ff1b94d3eea1",
+      "size_bytes": 315,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "ff22a9b5ba12c6e9d9ae863fc2c6257738ed516d",
+      "size_bytes": 1039,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "3874b2abd9f74083870b7a028c63b45f6cf99fc0",
+      "size_bytes": 1823,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "a70234120b4c047efe5b63c98ce10d9f3f6f68af",
+      "size_bytes": 2576,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_axolotl.py",
+      "blob_sha": "9ee3bd8191f3e35f6231366021188757986b8fec",
+      "size_bytes": 937,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/test_axolotl.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "bb0aca65d488f6a19c77a778ac9f6b00f2d3ca9d",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "57694950c6cdd3c7a2ff258b6b644ad667a746f5",
+      "size_bytes": 1872,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Axolotl/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

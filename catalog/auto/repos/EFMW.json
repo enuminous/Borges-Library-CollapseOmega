@@ -1,0 +1,404 @@
+{
+  "repository": "enuminous/EFMW",
+  "default_branch": "main",
+  "tree_sha": "b999588282595b6ad0c5d054e190aabbb2aec51a",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/review.yml",
+      "blob_sha": "454a7236f682826f2f26746c4327824b86eacb7d",
+      "size_bytes": 672,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/.github/workflows/review.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "d380af4419fad179fd10cd43b1af9a0ea325d9bc",
+      "size_bytes": 55,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/EFMW-CROSS-REPOSITORY-AUDIT-2026-11-13.md",
+      "blob_sha": "2f276e9679365756b86d8c4cb73e8fd0db600485",
+      "size_bytes": 3954,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/audits/EFMW-CROSS-REPOSITORY-AUDIT-2026-11-13.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/REPOSITORY-CENSUS-2026-11-13.csv",
+      "blob_sha": "30495002bdaecf3f8913633b7de4a4a85237c15d",
+      "size_bytes": 8571,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/audits/REPOSITORY-CENSUS-2026-11-13.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/REPOSITORY-CENSUS-2026-11-13.md",
+      "blob_sha": "68e604a51891f48a44f2a02941da96abe22b12fc",
+      "size_bytes": 1640,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/audits/REPOSITORY-CENSUS-2026-11-13.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "coverage.json",
+      "blob_sha": "57e37e19a8de1af531d8e22506ffe5837213e00f",
+      "size_bytes": 60409,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/coverage.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "dev-server-3001.log",
+      "blob_sha": "683084f2437758e1be45018feaaca28d29aa33a8",
+      "size_bytes": 96,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/dev-server-3001.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "dev-server.err.log",
+      "blob_sha": "dec32aa2b8697ddd0a76fe8b67c858a88d8a1248",
+      "size_bytes": 1921,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/dev-server.err.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "dev-server.log",
+      "blob_sha": "0ea07746c8b345b24a96ca5284414cbe2003b64f",
+      "size_bytes": 8,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/dev-server.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "070cb5ad716f6625b57bc174ae90d3fcfa6e6617",
+      "size_bytes": 15982,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metatheory/Audit.lean",
+      "blob_sha": "9c825e764db23b94a40204595ead2e4b4ab21e5a",
+      "size_bytes": 705,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/metatheory/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metatheory/EFMWTheory.lean",
+      "blob_sha": "de2886ad1c822ae8253ba66932b0221732229c34",
+      "size_bytes": 3145,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/metatheory/EFMWTheory.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metatheory/lake-manifest.json",
+      "blob_sha": "1757e6c95eb36645d950d9960f8630eb8c484ccc",
+      "size_bytes": 120,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/metatheory/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metatheory/lakefile.toml",
+      "blob_sha": "03f95476f6a935c153aa9aa60a02b88ee1d2b0cd",
+      "size_bytes": 108,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/metatheory/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metatheory/lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/metatheory/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metatheory/README.md",
+      "blob_sha": "33feecaca7a2af9499db8f2d1ac432627e78d834",
+      "size_bytes": 2113,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/metatheory/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MillieComplex EFMW AGI.py",
+      "blob_sha": "d0a7fd9b0a32f1cda3537c8be0990f251d155fc8",
+      "size_bytes": 19973,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/MillieComplex%20EFMW%20AGI.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "NAVIGATION_AUDIT_2026-10-27.md",
+      "blob_sha": "7c5c5c65d9bc36da1b8396490d306d757e9e0617",
+      "size_bytes": 6144,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/NAVIGATION_AUDIT_2026-10-27.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "next-env.d.ts",
+      "blob_sha": "40c3d68096c270ef976f3db4e9eb42b05c7067bb",
+      "size_bytes": 228,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/next-env.d.ts",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "next.config.mjs",
+      "blob_sha": "4678774e6d606704bce1897a5dab960cd798bf66",
+      "size_bytes": 92,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/next.config.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "package-lock.json",
+      "blob_sha": "e3f2b8ad4647e3cf16bde7859afc8ea4db34bc37",
+      "size_bytes": 60730,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/package-lock.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "package.json",
+      "blob_sha": "62a7d2b0b2710c4233a64e923ef023f04bca9f0a",
+      "size_bytes": 572,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/package.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "postcss.config.mjs",
+      "blob_sha": "5c844256072114a6ec369a80b1b19f0db105a228",
+      "size_bytes": 103,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/postcss.config.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "8733038b8218f946d82350282209ba07df636a63",
+      "size_bytes": 9514,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "repositories.html",
+      "blob_sha": "7f2e2572fd1d5120fb1654216be880b4285dd108",
+      "size_bytes": 90053,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/repositories.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "repositories.json",
+      "blob_sha": "99e6039db5b90ed76d967c55b81fa038e68e1cbb",
+      "size_bytes": 100137,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/repositories.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "REPOSITORY_NAVIGATION.md",
+      "blob_sha": "c00512f95ff3a494c525b874213fd136e10df90b",
+      "size_bytes": 17454,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/REPOSITORY_NAVIGATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "review-lock.json",
+      "blob_sha": "0983a24592483001428640cefdd9f76ae7bb91fc",
+      "size_bytes": 1059,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/review-lock.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "review/BIANCHI_REVIEW.md",
+      "blob_sha": "0de8b14b050dad22f35a1a268a64f22285993865",
+      "size_bytes": 2534,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/review/BIANCHI_REVIEW.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "review/NULL_ARM_2026-09-02.md",
+      "blob_sha": "06d00ce780b846a18904d5f49678764d38217ca3",
+      "size_bytes": 3066,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/review/NULL_ARM_2026-09-02.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "review/OPEN_OBLIGATIONS.md",
+      "blob_sha": "d4453759f296b51424c7b127c7719cbbd93bd2bb",
+      "size_bytes": 2000,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/review/OPEN_OBLIGATIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "review/RESEARCH_DEPENDENCIES.md",
+      "blob_sha": "7c6a9504699ac9b601a9fe9be744192cc0ecbcce",
+      "size_bytes": 3651,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/review/RESEARCH_DEPENDENCIES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/check_review.py",
+      "blob_sha": "b5535f9c2fc0a88c54b3f2c241df82293d586925",
+      "size_bytes": 2563,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/scripts/check_review.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/review.sh",
+      "blob_sha": "bc5c1be2b8821f74f68a37f09267a5ecb5190e30",
+      "size_bytes": 1460,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/scripts/review.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "server-3002.err.log",
+      "blob_sha": "7c3cdfe694ea80c970273fb83e8e4023ae0065b5",
+      "size_bytes": 683,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/server-3002.err.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "server-3002.log",
+      "blob_sha": "eaf3c274ed16345c5a8c9c16477cbb3d9183437d",
+      "size_bytes": 175,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/server-3002.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tailwind.config.ts",
+      "blob_sha": "f5353b81b42176fb1b845263a7050e0a7048b3fa",
+      "size_bytes": 393,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/tailwind.config.ts",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/rewrite_readme_navigation.js",
+      "blob_sha": "4a4d608ffbb4e82f5f7c5cc8c76894dd39d8624e",
+      "size_bytes": 9739,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/tools/rewrite_readme_navigation.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tsconfig.json",
+      "blob_sha": "e59724b283f9cb9a63ce04a2405128164607a14a",
+      "size_bytes": 599,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW/blob/main/tsconfig.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

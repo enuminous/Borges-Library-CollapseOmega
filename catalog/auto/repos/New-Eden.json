@@ -1,0 +1,81 @@
+{
+  "repository": "enuminous/New-Eden",
+  "default_branch": "main",
+  "tree_sha": "e4f7f9d0af06278ccbe9573369db57a07f706e17",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "millie.py",
+      "blob_sha": "19768a5094de08b95455327e42c1753692396248",
+      "size_bytes": 2877,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/New-Eden/blob/main/millie.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "c643d4795ac2671419c33ba6538736d0e3f1b4fc",
+      "size_bytes": 2972,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/New-Eden/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/__init__.py",
+      "blob_sha": "cfe745d409750470f82803f4d91be6ed1286bd6f",
+      "size_bytes": 45,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/New-Eden/blob/main/research/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/experiment.py",
+      "blob_sha": "ec6c629941f497af1bebe02431143aa4193930ec",
+      "size_bytes": 5660,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/New-Eden/blob/main/research/experiment.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/results.json",
+      "blob_sha": "4164c740ccc3a1d8c7dcd0fdc034e6f5c0ca9ee1",
+      "size_bytes": 1830,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/New-Eden/blob/main/research/results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_millie.py",
+      "blob_sha": "e73a26b82eac0b1ca545ebab1c80fa5044f7663c",
+      "size_bytes": 576,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/New-Eden/blob/main/tests/test_millie.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_research.py",
+      "blob_sha": "ddbb3c28a607b6bb57c95c62865562b4663e9018",
+      "size_bytes": 1419,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/New-Eden/blob/main/tests/test_research.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

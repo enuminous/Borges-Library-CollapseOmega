@@ -1,0 +1,192 @@
+{
+  "repository": "enuminous/Ant",
+  "default_branch": "main",
+  "tree_sha": "fa83171a98c201a65cd7ec1cd3d86ede6ab8fe46",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ant.py",
+      "blob_sha": "b8a1d1ec287346a1f501072185b654a8a0bf1674",
+      "size_bytes": 2654,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/ant.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "baselines.py",
+      "blob_sha": "8e17a7a4068af789ba8c3c91953ddf759db7a744",
+      "size_bytes": 2202,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/baselines.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "b57f0f83e6ef26c1e3a9ddb53c73a8045c052af5",
+      "size_bytes": 256,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_config.yaml",
+      "blob_sha": "f7beaa5c25fd13b20150c936622b138e5ee94698",
+      "size_bytes": 202,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/example_config.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_edges.csv",
+      "blob_sha": "b43202aff0d0ac65e55c6de99e6c76376d61f0a4",
+      "size_bytes": 85,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/example_edges.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_nodes.csv",
+      "blob_sha": "29057bcbcc47fe15ddec447c8198703bc2cbc017",
+      "size_bytes": 223377,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/example_nodes.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_run.py",
+      "blob_sha": "7da90ba4a73b91a121cc3ca361e6d76b7d02a33d",
+      "size_bytes": 365,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/example_run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "features.py",
+      "blob_sha": "6c5b1cba994a86630b8d82cb65a97cff9a5cff6a",
+      "size_bytes": 3936,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/features.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "freeze.py",
+      "blob_sha": "bda9ead62e004236457b39648db1cd1ad3a55814",
+      "size_bytes": 419,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/freeze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "1b65a114e4e9426bc63810b867a2b2c0dd6be262",
+      "size_bytes": 1830,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "79719fc120a524ad10e1a44d1de510cffc80530d",
+      "size_bytes": 1087,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "e1b2cae84658f01b32ebe53efec30cae7011d3f6",
+      "size_bytes": 1279,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metrics.py",
+      "blob_sha": "88bbc7331edc65f33e166bad1f5f15282b0fdb81",
+      "size_bytes": 1073,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "propagation_schema.json",
+      "blob_sha": "834236312fb7fcbd3e009f9d1eb0c3b9a1c5aeff",
+      "size_bytes": 738,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/propagation_schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "9b7d1d50fcdd404226c0067c47b17bef91f143ed",
+      "size_bytes": 478,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "5c8d3c87111b7f13032757945d21ee811f057a52",
+      "size_bytes": 4937,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "92960fc2c2068ab631f0a3757dd8e63ce0e1c4f5",
+      "size_bytes": 66,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_ant.py",
+      "blob_sha": "1e4c20615baba12b47b40e2c90d0556e9905c24b",
+      "size_bytes": 767,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Ant/blob/main/test_ant.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

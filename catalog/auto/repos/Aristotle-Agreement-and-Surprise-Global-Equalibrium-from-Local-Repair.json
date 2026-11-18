@@ -1,0 +1,284 @@
+{
+  "repository": "enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair",
+  "default_branch": "main",
+  "tree_sha": "6f2ef442b8cc5881475b4e2cafad7b6cabbb69a7",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "00a87eccfcf0e857dd4d334a9a1b4116b48a615a",
+      "size_bytes": 1241,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "22ACBA52-C160-11F1-BAAE-D7B44D786CDB.pdf",
+      "blob_sha": "e0104d6967feb6d439d62916ffcb59f14593184d",
+      "size_bytes": 205846,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/22ACBA52-C160-11F1-BAAE-D7B44D786CDB.pdf",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ARISTOTLE_SUMMARY.md",
+      "blob_sha": "2dd19d6ee8dd17edfa3f4710bebcf95a88cb90dd",
+      "size_bytes": 2368,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/ARISTOTLE_SUMMARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "df31adddfa67df08ef74fe7154efcada3dd1387a",
+      "size_bytes": 1968,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "a92ced89ce775d941caa10e70828bb2c40fcc547",
+      "size_bytes": 40185,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "57bef473f4e93ba8f5d0387c29642e4327c08cda",
+      "size_bytes": 3109,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "d1331e3725185586634d12846a2ef43f829fc639",
+      "size_bytes": 234,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "fafbe2c5229771547cc435c1143d3cdbfe7a2d20",
+      "size_bytes": 10916,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Averages.lean",
+      "blob_sha": "b64b2ca7ed8c3c4c5c35ff20ced7e22b45e0b473",
+      "size_bytes": 15114,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/RequestProject/Averages.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Brouwer/Ball.lean",
+      "blob_sha": "08b4f0e9963222dbe2855cb01585c60805a9dbe6",
+      "size_bytes": 10428,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/RequestProject/Brouwer/Ball.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Brouwer/Convex.lean",
+      "blob_sha": "73bf23defe3dabdee23243fc56359e70b7f36cb4",
+      "size_bytes": 5450,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/RequestProject/Brouwer/Convex.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Brouwer/DetPoly.lean",
+      "blob_sha": "ac9b84d1129228046278ee901b83ae0ed5427a35",
+      "size_bytes": 2685,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/RequestProject/Brouwer/DetPoly.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Brouwer/NoRetraction.lean",
+      "blob_sha": "ce29bce3ff758db3c2807e3be7d0e1ac5fad7894",
+      "size_bytes": 13669,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/RequestProject/Brouwer/NoRetraction.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Brouwer/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/RequestProject/Brouwer/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Contraction.lean",
+      "blob_sha": "bfb30f95ccb405f4e02f0bf678e2cecec7873d0b",
+      "size_bytes": 10610,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/RequestProject/Contraction.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Defs.lean",
+      "blob_sha": "907df0b9fe0b848a575e2ab0eea60d9083fdee7f",
+      "size_bytes": 6289,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/RequestProject/Defs.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/EqProp.lean",
+      "blob_sha": "4be75163242c53218bc32dad75540237ff9afbb8",
+      "size_bytes": 11386,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/RequestProject/EqProp.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Existence.lean",
+      "blob_sha": "c01a312604ef8ac43f6234bb7834cfb5f3622d02",
+      "size_bytes": 888,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/RequestProject/Existence.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Layers.lean",
+      "blob_sha": "3bba9886d180dcab775a1d64ba93b73ae68bada3",
+      "size_bytes": 19955,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/RequestProject/Layers.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Main.lean",
+      "blob_sha": "4b6211d8c70661e4f13bf9cd1cafb9d71bbd8104",
+      "size_bytes": 1326,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/RequestProject/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Potential.lean",
+      "blob_sha": "e43294e76b36c72c5c3df990f27822c5f7d96556",
+      "size_bytes": 9778,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/RequestProject/Potential.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/TwoNodeLoop.lean",
+      "blob_sha": "3cd31215e1876902009be8b253cc9e579152b5e9",
+      "size_bytes": 16343,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/RequestProject/TwoNodeLoop.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RESULTS.md",
+      "blob_sha": "877d591fb41ead6e44ae31cd7c03ad4f0cc5f353",
+      "size_bytes": 3903,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/RESULTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "54d57fa977ba3253ba419a91d3e0bb1a8e9dd58f",
+      "size_bytes": 885,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

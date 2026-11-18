@@ -1,0 +1,296 @@
+{
+  "repository": "enuminous/Boardy-Monolithic-Lean4-Zoo",
+  "default_branch": "main",
+  "tree_sha": "f12fcbe20c772063cb84f764473199a2d83e9414",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/verify.yml",
+      "blob_sha": "0da455c5550554df9b8600344d37d700a0c25d88",
+      "size_bytes": 828,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/.github/workflows/verify.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "0aec71775fa98b9aec692c5fb0580f8add159bca",
+      "size_bytes": 34,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".nojekyll",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/.nojekyll",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BoardyStudy.lean",
+      "blob_sha": "f955c871049e49bf7fcd23b6e15c62157e3235c6",
+      "size_bytes": 4723,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/BoardyStudy.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "65aa5c8d0cc745186566214ae88d33de12f7a185",
+      "size_bytes": 101666,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "20b65d5a05ec98e8409b6a23b907112af8aef48a",
+      "size_bytes": 117,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "90c2f501437ff0731478df487b1f56fbc7b7f5ea",
+      "size_bytes": 206,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "c00a53503cc3cc776c290056ed21ce7e5d80b083",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "6c31802ff047ce853d468e164f07d5257307cce0",
+      "size_bytes": 4360,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Regression.lean",
+      "blob_sha": "a026e45a45c44f3bc4eeaa0a1f43061095a69648",
+      "size_bytes": 2470,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/Regression.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ReplayProtected.lean",
+      "blob_sha": "0be896a411cbdd386113aa2f0c2420ce31999a30",
+      "size_bytes": 8338,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/ReplayProtected.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ReplayRegression.lean",
+      "blob_sha": "c8a0481c841d19ff0469ebac31be240bd807fbd8",
+      "size_bytes": 7336,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/ReplayRegression.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "simulation/fragment.html",
+      "blob_sha": "c87960e1763b0498b2f741b006e41773001caab6",
+      "size_bytes": 15763,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/simulation/fragment.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "simulation/README.md",
+      "blob_sha": "54de7cfeca9741b9888acd92ebc3f5fa4e7e9c6d",
+      "size_bytes": 3912,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/simulation/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "simulation/TRANSCRIPT.md",
+      "blob_sha": "1904691890dabbc4181b620f64406f4e3409f317",
+      "size_bytes": 8593,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/simulation/TRANSCRIPT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "simulation/verify.cjs",
+      "blob_sha": "1942f35942cfafe5c73b1a7e5fb9d9f51acb4905",
+      "size_bytes": 3663,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/simulation/verify.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SimulationRegression.lean",
+      "blob_sha": "be954f0cef9b25d241aa8a82b3097e3da306b742",
+      "size_bytes": 4689,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/SimulationRegression.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "study/PROTOCOL.md",
+      "blob_sha": "84d7184bb7b46fae2e6b375836668fe8cac17093",
+      "size_bytes": 5461,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/study/PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "study/replay-evidence/applied-patch-verify.log",
+      "blob_sha": "97a22fe05abff8753444e8f736c226c7d11e5d21",
+      "size_bytes": 3913,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/study/replay-evidence/applied-patch-verify.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "study/replay-evidence/baseline-verify.log",
+      "blob_sha": "00a83849a825be2883dca375024198d2c4376b87",
+      "size_bytes": 1444,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/study/replay-evidence/baseline-verify.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "study/replay-evidence/candidate-verify.log",
+      "blob_sha": "2d04b84fb53e3e237931a513331d54b795dc0d1a",
+      "size_bytes": 3878,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/study/replay-evidence/candidate-verify.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "study/REPLAY-PATCH.md",
+      "blob_sha": "8f019c3137d0219299d5ea4b1cf7744c7d8794f7",
+      "size_bytes": 7516,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/study/REPLAY-PATCH.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "study/STUDY.md",
+      "blob_sha": "50fbdf2c0a72b627d44bfeddb7965d4ab89e8cec",
+      "size_bytes": 6966,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/study/STUDY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "study/UPSTREAM-LICENSE.txt",
+      "blob_sha": "5f76fd97edbee9f815ceaefb56bdf668b30baafc",
+      "size_bytes": 1245,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/study/UPSTREAM-LICENSE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "study/VERIFICATION.md",
+      "blob_sha": "db0c33bfc240bfa3e6783f6e2dc764e345414cb7",
+      "size_bytes": 1422,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/study/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "study/zoo-coverage.json",
+      "blob_sha": "d7f89524878f5a0ebedfb0749cfc687d56682622",
+      "size_bytes": 22645,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/study/zoo-coverage.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "study/ZOO.md",
+      "blob_sha": "78a93001eaa136dea89c0072c2afad294a66e65e",
+      "size_bytes": 2707,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/study/ZOO.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify.py",
+      "blob_sha": "328516868bcf28d27e6b77378fcec7f0f3bc30b5",
+      "size_bytes": 2553,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo/blob/main/verify.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

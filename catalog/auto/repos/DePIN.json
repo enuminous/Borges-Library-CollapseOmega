@@ -1,0 +1,140 @@
+{
+  "repository": "enuminous/DePIN",
+  "default_branch": "main",
+  "tree_sha": "811d9ab7cf5e442396e4b769444c081d4cd7d300",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/node-mvp.yml",
+      "blob_sha": "a075cbecdd6106de78233ace49457f9508d32496",
+      "size_bytes": 542,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/DePIN/blob/main/.github/workflows/node-mvp.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "6a75771d34927b9a9004559d83a91e5d21daaae5",
+      "size_bytes": 109,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/DePIN/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ARCHITECTURE.md",
+      "blob_sha": "651e8ffe037002458f6c5609b067971b3c87398f",
+      "size_bytes": 4543,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/DePIN/blob/main/ARCHITECTURE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "depin/__init__.py",
+      "blob_sha": "6f5583893856ece139b104164c5a578eff4b9e55",
+      "size_bytes": 69,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/DePIN/blob/main/depin/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "depin/core.py",
+      "blob_sha": "534475c43fd531a024a79199aac10ff8824940ae",
+      "size_bytes": 12211,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/DePIN/blob/main/depin/core.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "DEVELOPMENT_TRACKER.md",
+      "blob_sha": "38fb8bd2fce1ee165dce26b9348d826faab5cd73",
+      "size_bytes": 5908,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/DePIN/blob/main/DEVELOPMENT_TRACKER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/NODE_MVP.md",
+      "blob_sha": "1e024e5e0c69e374c7ddba74dcba6cfc218a6571",
+      "size_bytes": 5984,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/DePIN/blob/main/docs/NODE_MVP.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "6a6e0fc1b5a7ef068ba790908b209a79bee05437",
+      "size_bytes": 1073,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/DePIN/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "192e8c5e5936004ec7d5273ac3d18a6d082523f0",
+      "size_bytes": 5421,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/DePIN/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "bd73da92e224065600f0a8809a5b2dbede158f24",
+      "size_bytes": 21,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/DePIN/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/__init__.py",
+      "blob_sha": "ed97c15d6796cd535a3d2f96f08013cde59336f7",
+      "size_bytes": 45,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/DePIN/blob/main/scripts/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/demo_node.py",
+      "blob_sha": "03b96ebfcbfaf0819efc7a27bf819cfd785d2f4a",
+      "size_bytes": 1997,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/DePIN/blob/main/scripts/demo_node.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_core.py",
+      "blob_sha": "53a99df79976295bb36fbd0c813e07ac35c3810e",
+      "size_bytes": 7025,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/DePIN/blob/main/tests/test_core.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

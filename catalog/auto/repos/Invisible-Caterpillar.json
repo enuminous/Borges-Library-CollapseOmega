@@ -1,0 +1,1154 @@
+{
+  "repository": "enuminous/Invisible-Caterpillar",
+  "default_branch": "main",
+  "tree_sha": "2d20d8cf4de9c9b2d28500c88dc1715c7c10364d",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/catalog-validation.yml",
+      "blob_sha": "d0a22ab37ddbcd63f020119e5dde18c8b8d60e61",
+      "size_bytes": 1443,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/.github/workflows/catalog-validation.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "43ae0e2a6c6d8fca34872506ca0f2e64194fec7c",
+      "size_bytes": 23,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "app.js",
+      "blob_sha": "df7b2af607468f167e9f4705410756391aab7862",
+      "size_bytes": 3709,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/app.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "baselines/catalog-2026-11-04.json",
+      "blob_sha": "b928ce82451af93caddab5214435b4b9d3b7b0c3",
+      "size_bytes": 1109416,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/baselines/catalog-2026-11-04.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "baselines/catalog-2026-11-04.manifest.json",
+      "blob_sha": "a7713b7a607890bcd27ee205a6b376eb611aca4a",
+      "size_bytes": 458,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/baselines/catalog-2026-11-04.manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "build_site.py",
+      "blob_sha": "aa00dff5f2dccbbb2a8989e836c724a027b7f136",
+      "size_bytes": 15323,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/build_site.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "catalog.json",
+      "blob_sha": "b928ce82451af93caddab5214435b4b9d3b7b0c3",
+      "size_bytes": 1109416,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/catalog.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1036118158.jpg",
+      "blob_sha": "7f05ee816dde8c648de39dae357bef365f746958",
+      "size_bytes": 76960,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1036118158.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1036422712.jpg",
+      "blob_sha": "7a1ce901834f91bd6af8d7ec0d56c1571c0224d2",
+      "size_bytes": 67105,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1036422712.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1036431820.jpg",
+      "blob_sha": "64bc4676baa36525f41d8168d503e4362b1820db",
+      "size_bytes": 49662,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1036431820.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1036466329.jpg",
+      "blob_sha": "b09433610ad48ceef8a58cab6c665d5b428b4780",
+      "size_bytes": 143702,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1036466329.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1036483495.jpg",
+      "blob_sha": "8d4128355af3b124a421ce854894fe38e99780ed",
+      "size_bytes": 117076,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1036483495.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1036485628.jpg",
+      "blob_sha": "a8c83cc5149ab5d2a68180d8f45d05106818f3ec",
+      "size_bytes": 37089,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1036485628.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1036504663.jpg",
+      "blob_sha": "1d763af57b29983a04e102538da28baa7be54561",
+      "size_bytes": 77477,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1036504663.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1036522705.jpg",
+      "blob_sha": "f35c779c69bc3ec9bd4948afb6326c7e4fb7561c",
+      "size_bytes": 87246,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1036522705.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1036555840.jpg",
+      "blob_sha": "9f6ea38f8522b17b2bf9c2c77ad15d098a4201b2",
+      "size_bytes": 94708,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1036555840.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1036555963.jpg",
+      "blob_sha": "6d78796f9d173081125feac766aef4b3c25c0bae",
+      "size_bytes": 51099,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1036555963.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1036563040.jpg",
+      "blob_sha": "1e83862b2b84c7dca41a3303a8c56ba061e9a215",
+      "size_bytes": 59813,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1036563040.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1036577548.jpg",
+      "blob_sha": "b7ae9fda5736bce8bf4406ba6ef4b89ccfdf4cf0",
+      "size_bytes": 55037,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1036577548.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1040570887.jpg",
+      "blob_sha": "1dcf57130fe344d75d788de1a92a0cf558e07cb8",
+      "size_bytes": 59895,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1040570887.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1316478883.jpg",
+      "blob_sha": "847385de80d562ff5e21d3f9f59af01359156dae",
+      "size_bytes": 71770,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1316478883.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1356134836.jpg",
+      "blob_sha": "19321f91def142fd17e7cf3a57a144737604a787",
+      "size_bytes": 86081,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1356134836.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1361049787.jpg",
+      "blob_sha": "90f757f22d460307554f856e20b8d6f83388037f",
+      "size_bytes": 74895,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1361049787.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1361870266.jpg",
+      "blob_sha": "e74ac731ac91e4e68d4d61aa00c0504ad7127220",
+      "size_bytes": 65115,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1361870266.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1363277971.jpg",
+      "blob_sha": "5b1f3c855122d2716cc4703362ec6c7b11c8d88d",
+      "size_bytes": 82068,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1363277971.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1364242531.jpg",
+      "blob_sha": "6d516c8834f834c0a2abf6b1dc1df4559484c81c",
+      "size_bytes": 83441,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1364242531.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1365039253.jpg",
+      "blob_sha": "1bbcdc9d69c182a5900b56cb3d8aa8791f7c5372",
+      "size_bytes": 91404,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1365039253.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1365040156.jpg",
+      "blob_sha": "a4d0de58b1a57562c0098fa57c7fc67cdd2be363",
+      "size_bytes": 48521,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1365040156.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1462804183.jpg",
+      "blob_sha": "7c428fe410e0ec3ff646c26842dfcf43be46896c",
+      "size_bytes": 84924,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1462804183.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1462836883.jpg",
+      "blob_sha": "e943c4024786020b162b16433b4fa6e5c2569b4a",
+      "size_bytes": 57895,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1462836883.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1495559083.jpg",
+      "blob_sha": "83442f19b84d70fca74cd55851e0f6694f1417bf",
+      "size_bytes": 41991,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1495559083.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1508450905.jpg",
+      "blob_sha": "baa35ac9edeb23bd8af6facdba485e5747556cbd",
+      "size_bytes": 70889,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1508450905.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1792086021.jpg",
+      "blob_sha": "f01a39b962bc025e6d7c89cccd9ec142d729fe55",
+      "size_bytes": 101163,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1792086021.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1799427324.jpg",
+      "blob_sha": "79a9e1d67d2c5bc29e71ab52284ef8f3fd42b6fb",
+      "size_bytes": 84472,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1799427324.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1810323232.jpg",
+      "blob_sha": "c9958aaffe0cdfe305b96e58aefeb1d16d700f57",
+      "size_bytes": 97351,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1810323232.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1810323967.jpg",
+      "blob_sha": "3d145cf67bcc43bff94b071176eb03174cfef443",
+      "size_bytes": 96252,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1810323967.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1876671689.jpg",
+      "blob_sha": "2a45a68f0212c07a79966ba9d8d735e1ab0550d8",
+      "size_bytes": 74318,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1876671689.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1879022012.jpg",
+      "blob_sha": "65aeee44be9b1197ac4067e10f3e8ea63858c2eb",
+      "size_bytes": 80645,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1879022012.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1881979805.jpg",
+      "blob_sha": "a43d694f3ddd0e2c8ebec6f4609a54e8716e7a14",
+      "size_bytes": 55534,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1881979805.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1884249665.jpg",
+      "blob_sha": "f7c7d70a1648d8876fc5c4ff305d5f546eb38bcd",
+      "size_bytes": 72744,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1884249665.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1892592050.jpg",
+      "blob_sha": "bf93a89efc7a5d9b0f505fc5a4330b9bb11f531d",
+      "size_bytes": 67036,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1892592050.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1895271211.jpg",
+      "blob_sha": "5481d2c54349bc6592babdd1e9ece28ce1eaf31d",
+      "size_bytes": 76849,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1895271211.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1903336451.jpg",
+      "blob_sha": "cf8cf9963f485c83fdd9ca1100bab2e17af9a073",
+      "size_bytes": 73346,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1903336451.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1973275964.jpg",
+      "blob_sha": "683ced2dbce7294867ba8ea90ac47d232f34a48b",
+      "size_bytes": 93480,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1973275964.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-1982830200.jpg",
+      "blob_sha": "fb1334d2590fafbeca3dafeef9b4e0c0426b4292",
+      "size_bytes": 160941,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-1982830200.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2004019444.jpg",
+      "blob_sha": "402eb4581f7693365ca01c7385abcb24f50ebc57",
+      "size_bytes": 66759,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2004019444.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2023463493.jpg",
+      "blob_sha": "68dd9136f5d5ae8b7e9253cdcc4fcf2475cf2b46",
+      "size_bytes": 35273,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2023463493.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2044158285.jpg",
+      "blob_sha": "7b714144844f310e9da3ae295ba40a1a1e9c5e4f",
+      "size_bytes": 119112,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2044158285.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2049269172.jpg",
+      "blob_sha": "a5f04c9bbca2ccf03085362d5661f2744df8178c",
+      "size_bytes": 55449,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2049269172.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2049685251.jpg",
+      "blob_sha": "8a20241c8db94abd2b74ba33cad2d76691bd02c2",
+      "size_bytes": 39563,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2049685251.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2049889479.jpg",
+      "blob_sha": "9ebfc3f7d86e3b91d52e84a67517b744cd372046",
+      "size_bytes": 79895,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2049889479.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2051218422.jpg",
+      "blob_sha": "61a3799ab482725b4b83c4d1a540616f4d230815",
+      "size_bytes": 58595,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2051218422.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2051971659.jpg",
+      "blob_sha": "367c796ea97030d19029afc35da9cc06f9b963b6",
+      "size_bytes": 66685,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2051971659.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2055138468.jpg",
+      "blob_sha": "e9e80efc260d503f19d92eb029dcc56891de2231",
+      "size_bytes": 70762,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2055138468.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2059492527.jpg",
+      "blob_sha": "8a9901f740ecab62c0640116f49830502f170990",
+      "size_bytes": 61034,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2059492527.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2059822041.jpg",
+      "blob_sha": "f20b2e75b77af88b1c6289ae93016f269f504389",
+      "size_bytes": 85985,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2059822041.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2059994181.jpg",
+      "blob_sha": "71571d46024c35b59bf202abe8d1cc6aa5dda95c",
+      "size_bytes": 143474,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2059994181.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2065342146.jpg",
+      "blob_sha": "5c43e790ec0611bdfd64d606e27055964df06fe3",
+      "size_bytes": 71402,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2065342146.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2069295411.jpg",
+      "blob_sha": "ee717b1726ccfc6c916aa4bf08f6af479234783e",
+      "size_bytes": 131543,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2069295411.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2069799087.jpg",
+      "blob_sha": "69b9903b3752afa2993d96259c2cd8610cd973e0",
+      "size_bytes": 119672,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2069799087.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2070263313.jpg",
+      "blob_sha": "545df07e87d77d39274acd6f958bb07d456b245b",
+      "size_bytes": 141255,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2070263313.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2070531096.jpg",
+      "blob_sha": "73add4814cdcc6e69849cacd9efde9e50aff11bc",
+      "size_bytes": 96420,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2070531096.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2071077339.jpg",
+      "blob_sha": "85e06c2e30596234168fca82954a25161fe8add7",
+      "size_bytes": 74669,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2071077339.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2071616205.jpg",
+      "blob_sha": "74694ac89d64c7ec8925da2ee7df47dd1ccc2180",
+      "size_bytes": 112266,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2071616205.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2072817774.jpg",
+      "blob_sha": "d88c1c82c48adac8aedf454dbe8b7f3cca02568f",
+      "size_bytes": 94967,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2072817774.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2073856116.jpg",
+      "blob_sha": "d17a242165ed2ec658f041fb9d4603cd1ed8f87c",
+      "size_bytes": 35317,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2073856116.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2074412271.jpg",
+      "blob_sha": "00ce0838a3e2ab55fae2d5e9e58ecc518674c514",
+      "size_bytes": 117233,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2074412271.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2074426890.jpg",
+      "blob_sha": "cb3ce47a850ca81204a17602d5f0943df0ce4dbd",
+      "size_bytes": 152091,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2074426890.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2074757958.jpg",
+      "blob_sha": "1be329d558a0ad18b338963965a97e2281035bce",
+      "size_bytes": 128167,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2074757958.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2075661495.jpg",
+      "blob_sha": "5b2882a2854a793691e0d5f61ab5bd47938cee9e",
+      "size_bytes": 152813,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2075661495.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2075815308.jpg",
+      "blob_sha": "358923de043049e489ad5b65c5dbae1875badd8f",
+      "size_bytes": 97289,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2075815308.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2076167826.jpg",
+      "blob_sha": "b296aae133894ebb8df3a4ab09ba8f53684fc840",
+      "size_bytes": 143276,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2076167826.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2077124820.jpg",
+      "blob_sha": "c6723acc5d214cbb7439a3f32b39ecc34859959b",
+      "size_bytes": 63446,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2077124820.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2077597482.jpg",
+      "blob_sha": "e300f2c695e6396255af5b14c61b096b3f2bb3b1",
+      "size_bytes": 60985,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2077597482.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2077965414.jpg",
+      "blob_sha": "27bc266fe02e24045e70b6ba6d849c11bf264d31",
+      "size_bytes": 126178,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2077965414.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2078927895.jpg",
+      "blob_sha": "682df0aead186c293273540f48c3c536ed4893c5",
+      "size_bytes": 166627,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2078927895.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2085711525.jpg",
+      "blob_sha": "935772150941bafead12b58020273cb8303219a8",
+      "size_bytes": 94287,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2085711525.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2086157583.jpg",
+      "blob_sha": "b6880fb91370b101faddb5f94e5c6b27bc587e8f",
+      "size_bytes": 117240,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2086157583.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2086734609.jpg",
+      "blob_sha": "a5919563594d6ac668ee1042675746a863dcc8ac",
+      "size_bytes": 78812,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2086734609.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2087978771.jpg",
+      "blob_sha": "4b1d5c7dd432999e94f5b7aa741630d1d62e710a",
+      "size_bytes": 72509,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2087978771.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2089163759.jpg",
+      "blob_sha": "d75449fea833359aba55eb97b94a4ef4c83f5cdd",
+      "size_bytes": 74329,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2089163759.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2089876971.jpg",
+      "blob_sha": "ea5abd1a43811138d37cbd56afa71d9987a00dae",
+      "size_bytes": 88108,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2089876971.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2090427967.jpg",
+      "blob_sha": "facaffa5fc9dd1d3b1fdad3f8f77b390baf14424",
+      "size_bytes": 55928,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2090427967.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2096345583.jpg",
+      "blob_sha": "2459a07b0db837a0ed068de43de79baf98ef5197",
+      "size_bytes": 69163,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2096345583.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2097212331.jpg",
+      "blob_sha": "8f52acc62ef91cfb033914612228545b6c04dd78",
+      "size_bytes": 134399,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2097212331.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2105190495.jpg",
+      "blob_sha": "34f897fccf64f5cf5f571efc724cf9af113a638d",
+      "size_bytes": 82545,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2105190495.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2108808707.jpg",
+      "blob_sha": "f4d22ff5ddbabf8d14b43dba206696197ecebcd2",
+      "size_bytes": 89206,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2108808707.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2110189217.jpg",
+      "blob_sha": "feff6b6beabf8eab6e6b64739a58eaec597f4fcf",
+      "size_bytes": 94487,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2110189217.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2116330169.jpg",
+      "blob_sha": "ba039b46032acb32c6c5b634dc4da787c8d73e7e",
+      "size_bytes": 173809,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2116330169.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2117543150.jpg",
+      "blob_sha": "1bf8d08196219cf8eb00cf9660ab5ee70e7cfe20",
+      "size_bytes": 69719,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2117543150.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2117553221.jpg",
+      "blob_sha": "1f66e0960a13b8bd1c494e8d315237c1fb05b6c5",
+      "size_bytes": 119848,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2117553221.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2150708015.jpg",
+      "blob_sha": "7bcc1115609ba0152945162a635ccda432f28ad1",
+      "size_bytes": 64617,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2150708015.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2204001416.jpg",
+      "blob_sha": "c6be3a9fbca61797f53e06a2ecf33f33a7e51bc4",
+      "size_bytes": 116212,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2204001416.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2228149157.jpg",
+      "blob_sha": "7776a3c40266fedcdddfec2de11e7fa88b8eaee5",
+      "size_bytes": 103309,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2228149157.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2231275085.jpg",
+      "blob_sha": "762c873d9a7f8a3df34f2b9627a2c00d6626a461",
+      "size_bytes": 125982,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2231275085.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-2248588988.jpg",
+      "blob_sha": "9334bf7059c18f2a8b2be9c0826aebc70d3d3263",
+      "size_bytes": 104280,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-2248588988.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-647492013.jpg",
+      "blob_sha": "7f949c3c9abd6d3644bc2d038763b989e21cae1c",
+      "size_bytes": 67886,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-647492013.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-647580132.jpg",
+      "blob_sha": "3568f727f4853298126cb66150052616fa8ecb6e",
+      "size_bytes": 127761,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-647580132.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-647581854.jpg",
+      "blob_sha": "5b83355d8896fb7806199a8701f655a1ba10b696",
+      "size_bytes": 109311,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-647581854.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cover-648103875.jpg",
+      "blob_sha": "f5f388e95d356fa8c24990dc2e1329781bd49de1",
+      "size_bytes": 126975,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/cover-648103875.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "favicon.svg",
+      "blob_sha": "115a61b61cc663d5d2079868a50a12c2e3a61556",
+      "size_bytes": 268,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/favicon.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "8dd17723b651856768339e8dd70d798f48af8d30",
+      "size_bytes": 549253,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Invisible_Caterpillar_SoundCloud_Catalog_2026-11-04.xlsx",
+      "blob_sha": "15627c0c4e1d647a3cbb73c90529bfaf86861e2b",
+      "size_bytes": 376364,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/Invisible_Caterpillar_SoundCloud_Catalog_2026-11-04.xlsx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "12f90e70760285ba6f916f932c84d871f7a16b8f",
+      "size_bytes": 6979,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reports/changes.json",
+      "blob_sha": "eb56136327bc6be1241a88a508118134c2b8b95e",
+      "size_bytes": 1154,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/reports/changes.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reports/changes.md",
+      "blob_sha": "533f75aef0f04f2b634879498824ce8031873886",
+      "size_bytes": 1572,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/reports/changes.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reports/issues.md",
+      "blob_sha": "6dda8ea82df8ee35fa26d4a9f0cb5c5b9d6d3805",
+      "size_bytes": 258204,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/reports/issues.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reports/summary.md",
+      "blob_sha": "8348be4080bd71bbf3cf01c1540f6f12686ce780",
+      "size_bytes": 7122,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/reports/summary.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reports/validation.json",
+      "blob_sha": "2246916c674ddb4fdbc961320003a05caf6a4130",
+      "size_bytes": 3881853,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/reports/validation.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "styles.css",
+      "blob_sha": "5bc1ff2479b7734f87f107ebc1af3f7bf6cea6b1",
+      "size_bytes": 12728,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/styles.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_validate_catalog.py",
+      "blob_sha": "bdc4ff84714d7524c00e7992401c5f110cb65ead",
+      "size_bytes": 21373,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/tests/test_validate_catalog.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tracks.html",
+      "blob_sha": "7150d1003345d120f016ad36eb74e5d6535841be",
+      "size_bytes": 964599,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/tracks.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "validate_catalog.py",
+      "blob_sha": "6d683902352841e5b76a541b5d2fdbfc5009d94c",
+      "size_bytes": 41543,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/validate_catalog.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VALIDATION.md",
+      "blob_sha": "a948b198f11b255d639c5c7f050a5de45ea5a69e",
+      "size_bytes": 13179,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Invisible-Caterpillar/blob/main/VALIDATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

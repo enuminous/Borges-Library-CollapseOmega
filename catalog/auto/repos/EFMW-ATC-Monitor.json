@@ -1,0 +1,61 @@
+{
+  "repository": "enuminous/EFMW-ATC-Monitor",
+  "default_branch": "main",
+  "tree_sha": "2e47d5f0a1d93b4a42ab4ccf8ec8e7aa5b9dc438",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "index.html",
+      "blob_sha": "acdf0c4a383e01658392f62ad86dd2ecc5035520",
+      "size_bytes": 22037,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-ATC-Monitor/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PROPOSAL_FOR_SECRETARY_DUFFY.md",
+      "blob_sha": "9f2284604ffb91a556c7782e469949a1a2a28bff",
+      "size_bytes": 7118,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-ATC-Monitor/blob/main/PROPOSAL_FOR_SECRETARY_DUFFY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "a2ea87b8cf69794bda747859b79739682b6003e1",
+      "size_bytes": 2297,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-ATC-Monitor/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SAFETY_AND_SCOPE.md",
+      "blob_sha": "d3241a8313687fd36b11e1cfefad31a34a96fa11",
+      "size_bytes": 1819,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-ATC-Monitor/blob/main/SAFETY_AND_SCOPE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VALIDATION_PLAN.md",
+      "blob_sha": "4ac180a974b6cb08e2b2e1e43a87dc22a9cdda7a",
+      "size_bytes": 4517,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-ATC-Monitor/blob/main/VALIDATION_PLAN.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

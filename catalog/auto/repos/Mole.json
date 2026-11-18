@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Mole",
+  "default_branch": "main",
+  "tree_sha": "f1417667b7c551ccbdf8cd377228f69adde4695d",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "e04dfdfc92882180506e1d855e6c72d9afb4272a",
+      "size_bytes": 656,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "b308174ca45af97e689b8eab4811cf94abf4fdac",
+      "size_bytes": 1090,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "ef43437dd78df62530c9818447bee7c992bd82a5",
+      "size_bytes": 1085,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "14aa984841d6a5b66e9e8fb95bf40330e59184e1",
+      "size_bytes": 1921,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "78cad0482fb257ecd6598f4085e85ca6069788b6",
+      "size_bytes": 276,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "4e2485f0dab6c5f93e8f1306e3ab1e43d64687d2",
+      "size_bytes": 224,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "latent_error_model.md",
+      "blob_sha": "831831b0da056a75db880dc317c929a96ec4def9",
+      "size_bytes": 949,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/latent_error_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "3763c870e5935d9cee89078618b7d32bbede9f4e",
+      "size_bytes": 1766,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "01e9a31b2be237aeb78fde7dc82e54b63d33ce58",
+      "size_bytes": 934,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "mole.py",
+      "blob_sha": "06ba0749b928164a5e5dd5b6da7b4fa71f42a692",
+      "size_bytes": 2095,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/mole.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "132636995a456dd4cfe959e7acb696df980b0a7a",
+      "size_bytes": 1610,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "6817c3d9cb9f3e574bca0c5f7cc8df99c437b431",
+      "size_bytes": 2837,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_mole.py",
+      "blob_sha": "501991646bc8c6d7d51f6411381bbfc0dde17c37",
+      "size_bytes": 828,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/test_mole.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "667f74f578267f157d0ba1b029c7940b498dafb9",
+      "size_bytes": 855,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "ac3c9581a1eeffb411a2da4a269d64cce1628a8c",
+      "size_bytes": 2273,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mole/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

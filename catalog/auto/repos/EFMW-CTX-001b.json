@@ -1,0 +1,170 @@
+{
+  "repository": "enuminous/EFMW-CTX-001b",
+  "default_branch": "main",
+  "tree_sha": "2443fccabb210997412b69c19fd72abf1c76d1a9",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "analyze.py",
+      "blob_sha": "cec9601f4c9befda09bd12c7c7f483ee82724f59",
+      "size_bytes": 2206,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-CTX-001b/blob/main/analyze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ATTEMPT_001.md",
+      "blob_sha": "a8990196578d28b4779a0d349a14f0e11d7e9618",
+      "size_bytes": 1492,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-CTX-001b/blob/main/ATTEMPT_001.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/attempt001_initial_planted.csv",
+      "blob_sha": "8bcd3a84d0e9c085eeb8074cb72cb6bb9860c159",
+      "size_bytes": 685702,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-CTX-001b/blob/main/data/attempt001_initial_planted.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/attempt001_null_world.csv",
+      "blob_sha": "59eba26f8a9a4963bb089d617b828b9e2b11d827",
+      "size_bytes": 582653,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-CTX-001b/blob/main/data/attempt001_null_world.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/attempt001b_blank.csv",
+      "blob_sha": "64e820646ad6b882b43f835c5d72ac20fc97ae60",
+      "size_bytes": 13807939,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-CTX-001b/blob/main/data/attempt001b_blank.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/attempt001b_planted_live.csv",
+      "blob_sha": "feae627906aba7dd21edc831973a1c660d37f932",
+      "size_bytes": 17144255,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-CTX-001b/blob/main/data/attempt001b_planted_live.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-CTX-001b/blob/main/data/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "DATA_PROVENANCE.md",
+      "blob_sha": "359967a0081aae98be18a7cdff9924914df7e240",
+      "size_bytes": 1712,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-CTX-001b/blob/main/DATA_PROVENANCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "generate_qa.py",
+      "blob_sha": "733d6718b696e5ddf3f575229abca2414a313fd9",
+      "size_bytes": 2075,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-CTX-001b/blob/main/generate_qa.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE_STATUS.md",
+      "blob_sha": "8a1b99296c1ae30f0cd3012e74266a933cdcd818",
+      "size_bytes": 177,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-CTX-001b/blob/main/LICENSE_STATUS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PACKET.json",
+      "blob_sha": "7c968f8be496eba60df75fcea660d963f31bb1f0",
+      "size_bytes": 987,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-CTX-001b/blob/main/PACKET.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PROTOCOL.md",
+      "blob_sha": "9120f1e06ef4016a6780c38e43e023aa138a081f",
+      "size_bytes": 6180,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-CTX-001b/blob/main/PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "4a8ec9685a171c3fddc2e1f8e7bf5a9601d1372e",
+      "size_bytes": 4995,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-CTX-001b/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SHA256SUMS",
+      "blob_sha": "8d0f846b35dffaad0ad0c65d935ca93e681dd491",
+      "size_bytes": 1196,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-CTX-001b/blob/main/SHA256SUMS",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SOURCE_SUMMARIES.json",
+      "blob_sha": "8060d70d4c7354d47801982608111ccce61f1d59",
+      "size_bytes": 1798,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-CTX-001b/blob/main/SOURCE_SUMMARIES.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "WIRING.md",
+      "blob_sha": "ae2ae18e99c222b2cc1477da26158cbd27511941",
+      "size_bytes": 1324,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-CTX-001b/blob/main/WIRING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

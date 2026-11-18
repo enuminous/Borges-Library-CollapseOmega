@@ -1,0 +1,203 @@
+{
+  "repository": "enuminous/Wrights-Law",
+  "default_branch": "main",
+  "tree_sha": "7cff4a8ac9bed96ad7af7fe1b3602e7cd18ca755",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "3e433c7e1dcf75fc80767141b56d95dfaa05cd9b",
+      "size_bytes": 1341,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "emerg001.py",
+      "blob_sha": "46730fefbc0c86ad65250cc920f3b6a386fa5977",
+      "size_bytes": 2216,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/emerg001.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/Audit.lean",
+      "blob_sha": "9d2b9270ff5cbb445820e4f652eb6e70f37cc85f",
+      "size_bytes": 1247,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/formal/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/COVERAGE.md",
+      "blob_sha": "0672edbc0cd3a35aadfc5da3dd2a2e00250338cc",
+      "size_bytes": 5715,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/formal/COVERAGE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/Foundations.lean",
+      "blob_sha": "427645da4c3fa9c2724c4136d2939e7fa70f42c3",
+      "size_bytes": 20855,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/formal/Foundations.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lake-manifest.json",
+      "blob_sha": "cf3b9bc3203df80edfd7b3aac4699ed049b7b19d",
+      "size_bytes": 3488,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/formal/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lakefile.toml",
+      "blob_sha": "b7820956310716a8fd57edc569965b87acad5b02",
+      "size_bytes": 301,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/formal/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/formal/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/PeriodicField.lean",
+      "blob_sha": "d73f4a1b36026b04accd1dbfcbbbc4f00d03e97c",
+      "size_bytes": 11943,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/formal/PeriodicField.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/formal/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/VERIFICATION.md",
+      "blob_sha": "54d57fa977ba3253ba419a91d3e0bb1a8e9dd58f",
+      "size_bytes": 885,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/formal/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FOUNDATIONS.md",
+      "blob_sha": "d67c77c8e976ce487a4745e08229cd6bb74551d2",
+      "size_bytes": 1814,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/FOUNDATIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "10183db1e1490a849da9b676cb1c1046bbc5d122",
+      "size_bytes": 9225,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PROTOCOL.md",
+      "blob_sha": "a6662ba2797d1f67e41dd8a51695d0e3fb0b892d",
+      "size_bytes": 1201,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "c0237a967d0c1f28e811c3e1da6d559b0e32f9cc",
+      "size_bytes": 3926,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "999acfcc0cbf9f27280f7315b71d70c23cabe2a0",
+      "size_bytes": 15,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SOURCE.md",
+      "blob_sha": "0c427536c7fff19f3593595051f3f8bf1f17795e",
+      "size_bytes": 491,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/SOURCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_emerg001.py",
+      "blob_sha": "49c3dc03d4a2696b692641449fff6c41f4334754",
+      "size_bytes": 410,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Wrights-Law/blob/main/test_emerg001.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "repository": "enuminous/Mathematics-and-Elite-Squad-Dynamics",
+  "default_branch": "main",
+  "tree_sha": "f182ed9d9bcc9e443b2f05ffa74b48981984e706",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "articles/01-buzzard-threshold.md",
+      "blob_sha": "1e0dd67f8a8ae76ad61c52fefe72ff94ec1ac37d",
+      "size_bytes": 2255,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/01-buzzard-threshold.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/02-residual-republic.md",
+      "blob_sha": "cefa79f56d8d707803adbd320e1bfafb7602cd63",
+      "size_bytes": 2170,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/02-residual-republic.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/03-laplacian-coup.md",
+      "blob_sha": "afb17c1aa50a9291e35d9c59cc5f320f19c99c29",
+      "size_bytes": 2072,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/03-laplacian-coup.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/04-goodharts-gallows.md",
+      "blob_sha": "fbf28cbcfeb5b76751b859d14873edb4bdf49497",
+      "size_bytes": 2003,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/04-goodharts-gallows.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/05-percolation-ministry.md",
+      "blob_sha": "2e2c3e6fbc701d543a7dab5a0afddd5527f97485",
+      "size_bytes": 1972,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/05-percolation-ministry.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/06-condorcet-buzzards.md",
+      "blob_sha": "5a8876bf002a351358afbcb85a62079d5a387970",
+      "size_bytes": 1975,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/06-condorcet-buzzards.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/07-the-wright-force-not-yet.md",
+      "blob_sha": "b2c35ebd66ce2fdbb8630ac5f47366de62f3f930",
+      "size_bytes": 2715,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/07-the-wright-force-not-yet.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/08-emotional-support-axiom.md",
+      "blob_sha": "d3baadc66f292a9dfd7afa208c26a7e2231e3fa1",
+      "size_bytes": 9482,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/08-emotional-support-axiom.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/09-denominator-promoted.md",
+      "blob_sha": "a9db18282c9062df9a3c64d6a2d74eb686b75c52",
+      "size_bytes": 9339,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/09-denominator-promoted.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/10-academy-of-lossless-forgetting.md",
+      "blob_sha": "39c343fba7a68c2a0135ca3f54179d6f776d2842",
+      "size_bytes": 10162,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/10-academy-of-lossless-forgetting.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/12-great-spaghetti-ballot-collapse-2026.md",
+      "blob_sha": "a4a9f038b5102f773c43e6956875b11d95fd11a5",
+      "size_bytes": 11378,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/12-great-spaghetti-ballot-collapse-2026.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/13-the-pentagon-pity-party-hegseth-impeachment-2026.md",
+      "blob_sha": "ef6b7ac285e95f81c83048236b5483ee5dcb6962",
+      "size_bytes": 13675,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/13-the-pentagon-pity-party-hegseth-impeachment-2026.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/14-nvidia-cuda-13-compromised-unified-dating-architecture.md",
+      "blob_sha": "e8182f613c60963075951282e120d2246a8f7a5b",
+      "size_bytes": 15295,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/14-nvidia-cuda-13-compromised-unified-dating-architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/15-i-am-the-leather-jacket-retrospace-deposition-2026-11-09.md",
+      "blob_sha": "37c61cd3b997e4d5bf38868957db5dbe944bc3cb",
+      "size_bytes": 16340,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/15-i-am-the-leather-jacket-retrospace-deposition-2026-11-09.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/16-the-physicist-is-running-models-hegseth-gonzo-efmw-2026-11-10.md",
+      "blob_sha": "eb9cd6c27cb6e8e0a9fd8bc6b48f9877d76d84c5",
+      "size_bytes": 22892,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/16-the-physicist-is-running-models-hegseth-gonzo-efmw-2026-11-10.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/17-confessions-of-a-benchtesting-addict-2026-11-16.md",
+      "blob_sha": "c0d3d44bd4890897602264b6a16655f63d91442c",
+      "size_bytes": 4886,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/17-confessions-of-a-benchtesting-addict-2026-11-16.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/18-those-goddamn-cliffords-2026-11-18.md",
+      "blob_sha": "8eafd27cd0f95cad752275251b8be52b0c35a207",
+      "size_bytes": 11198,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/18-those-goddamn-cliffords-2026-11-18.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image - 2026-10-08T163041.989.jpg",
+      "blob_sha": "4a22d2752a4d92497902fa1bad6966294bd48bf1",
+      "size_bytes": 446157,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image%20-%202026-10-08T163041.989.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image - 2026-10-08T163045.289.jpg",
+      "blob_sha": "3b9d2e6653a8a9f98d5ad3a9a2383be11d770638",
+      "size_bytes": 312794,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image%20-%202026-10-08T163045.289.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image - 2026-10-08T163048.239.jpg",
+      "blob_sha": "464d5834098dbe974015eea381abeef172e759e4",
+      "size_bytes": 393976,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image%20-%202026-10-08T163048.239.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image - 2026-10-08T163051.322.jpg",
+      "blob_sha": "f9e67695f31015ccf1c1e6c3ea9aa29b6609927b",
+      "size_bytes": 383332,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image%20-%202026-10-08T163051.322.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image - 2026-10-08T163054.656.jpg",
+      "blob_sha": "a19bb94bc21c23049496cb7e0051faf5f6a78e84",
+      "size_bytes": 623192,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image%20-%202026-10-08T163054.656.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image - 2026-10-08T163057.556.jpg",
+      "blob_sha": "d306497dff8a7f2351536b7afe06b83cce640634",
+      "size_bytes": 293818,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image%20-%202026-10-08T163057.556.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image - 2026-10-08T163100.473.jpg",
+      "blob_sha": "5976d94036c1cfec3d3f0cc82c1169d676fc83b1",
+      "size_bytes": 509299,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image%20-%202026-10-08T163100.473.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image - 2026-10-08T163103.573.jpg",
+      "blob_sha": "8a359cad1851b2fcfa2646212e47524e74fd21b8",
+      "size_bytes": 418241,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image%20-%202026-10-08T163103.573.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image - 2026-10-08T163107.039.jpg",
+      "blob_sha": "0958e4c2b1d08220a872047f1810f046e6ab0640",
+      "size_bytes": 468273,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image%20-%202026-10-08T163107.039.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image - 2026-10-08T193724.411.jpg",
+      "blob_sha": "c478b73a47e5cadbc179599edfcfcf7c528c1d69",
+      "size_bytes": 287387,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image%20-%202026-10-08T193724.411.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image - 2026-10-08T193727.710.jpg",
+      "blob_sha": "5b86c0957c66fe6d8553a89cb15b1a73f9999a50",
+      "size_bytes": 554613,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image%20-%202026-10-08T193727.710.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image - 2026-10-08T193730.980.jpg",
+      "blob_sha": "cf6ee3bfc84e2b3d41d4013e92cd0747a2e5bc27",
+      "size_bytes": 392889,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image%20-%202026-10-08T193730.980.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image - 2026-10-08T193734.443.jpg",
+      "blob_sha": "fcbb6afa848856269d6580c6c13b2fd73f503418",
+      "size_bytes": 225444,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image%20-%202026-10-08T193734.443.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image - 2026-10-08T193738.310.jpg",
+      "blob_sha": "b219dd87842103ab7f2cc0def19dbafe809bab07",
+      "size_bytes": 335930,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image%20-%202026-10-08T193738.310.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image - 2026-10-08T193741.927.jpg",
+      "blob_sha": "73f4b4b1857bf33da45fc7812d6df47ce531938e",
+      "size_bytes": 337721,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image%20-%202026-10-08T193741.927.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image - 2026-10-08T193744.910.jpg",
+      "blob_sha": "316e5007c070fcb1d2eff464c1286f127b89122e",
+      "size_bytes": 627018,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image%20-%202026-10-08T193744.910.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image_-_2026-10-08T163041.989.jpg",
+      "blob_sha": "d633eee1f6a8c72edfd0e562a0b9ef587cee3ceb",
+      "size_bytes": 355954,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image_-_2026-10-08T163041.989.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image_-_2026-10-08T163054.656.jpg",
+      "blob_sha": "8a05d9b975353a40e1d39b07800b3bb890a017d2",
+      "size_bytes": 486272,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image_-_2026-10-08T163054.656.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "image_-_2026-10-08T163100.473.jpg",
+      "blob_sha": "b3868ee38aebf82aa913f81e50a47eca2f29f251",
+      "size_bytes": 397648,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/image_-_2026-10-08T163100.473.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "d645b4c5750f998388b7d17215f421a1a7e3d64a",
+      "size_bytes": 46208,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "issues/2026-11-03-election-statistics-special.md",
+      "blob_sha": "2a08ca6227ebeab4eedd08b9a408768bcf37b887",
+      "size_bytes": 3220,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/issues/2026-11-03-election-statistics-special.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Manifesto.md",
+      "blob_sha": "6958c6453afc8cef76a0b1de6607a17703f93c91",
+      "size_bytes": 898,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/Manifesto.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "77c547030b507447cce43d359a79a148b0d26153",
+      "size_bytes": 9610,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

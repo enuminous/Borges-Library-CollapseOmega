@@ -1,0 +1,360 @@
+{
+  "repository": "enuminous/docs",
+  "default_branch": "main",
+  "tree_sha": "0cb1863682ea523c238de020823410d0199822b3",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".mintignore",
+      "blob_sha": "9922f06dc8c1a7c22e87f94c6ad4577c9b5432fc",
+      "size_bytes": 210,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/.mintignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "agent-ready/contextual.mdx",
+      "blob_sha": "6d96e7c4f2e44a225e1c47327fe57f594a399909",
+      "size_bytes": 2823,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/agent-ready/contextual.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "agent-ready/prompt.mdx",
+      "blob_sha": "9ecce0104d48673e22662abf04a307d7f87b8225",
+      "size_bytes": 2949,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/agent-ready/prompt.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "agent-ready/visibility.mdx",
+      "blob_sha": "45e0f3900b246d8859358e6afbed5e68c01c2a49",
+      "size_bytes": 3205,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/agent-ready/visibility.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "AGENTS.md",
+      "blob_sha": "cebd973ef825f5fbf0dea06eb9088c9b734f5d79",
+      "size_bytes": 1160,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/AGENTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ai-tools/claude-code.mdx",
+      "blob_sha": "a59ca25bde0a8ac70596ad3ec178554721efc962",
+      "size_bytes": 906,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/ai-tools/claude-code.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ai-tools/cursor.mdx",
+      "blob_sha": "80bab56eb271ca5c041275e94ff4a80f35aac4d7",
+      "size_bytes": 947,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/ai-tools/cursor.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ai-tools/windsurf.mdx",
+      "blob_sha": "0776cca3444d4566bca1bce6ab2de33e6aeb3de9",
+      "size_bytes": 962,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/ai-tools/windsurf.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "api-reference/endpoint/create.mdx",
+      "blob_sha": "5689f1b659555c57cd7832b52c94acf4695bb180",
+      "size_bytes": 54,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/api-reference/endpoint/create.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "api-reference/endpoint/delete.mdx",
+      "blob_sha": "657dfc871c8195fca167dde0e5b6cb1af1f551cd",
+      "size_bytes": 61,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/api-reference/endpoint/delete.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "api-reference/endpoint/get.mdx",
+      "blob_sha": "56aa09ec1f6ee49424c640574b948d37da653e85",
+      "size_bytes": 51,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/api-reference/endpoint/get.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "api-reference/endpoint/webhook.mdx",
+      "blob_sha": "329134020e1e9c3e0b135d9d8df87bc7b0df42e0",
+      "size_bytes": 61,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/api-reference/endpoint/webhook.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "api-reference/introduction.mdx",
+      "blob_sha": "c835b78b549235aaae94fccc2f3a06db7ae74091",
+      "size_bytes": 875,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/api-reference/introduction.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "api-reference/openapi.json",
+      "blob_sha": "da5326efc4f97428f74312d3fc94dbcebbed8416",
+      "size_bytes": 5173,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/api-reference/openapi.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "blob_sha": "8863ee48f71e84dbf856c640292095f18370af17",
+      "size_bytes": 1397,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/CONTRIBUTING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "development.mdx",
+      "blob_sha": "8e25d7b17f5dc1b2915799ee2667745fac768cc6",
+      "size_bytes": 2776,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/development.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs.json",
+      "blob_sha": "66b3f40c32e2e4999b1deaea719238830979567f",
+      "size_bytes": 2804,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/docs.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "essentials/code.mdx",
+      "blob_sha": "60b682dcb7e7111cb8f26c5a8178a37ab5f382a6",
+      "size_bytes": 1066,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/essentials/code.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "essentials/components.mdx",
+      "blob_sha": "c84d73c14fa1c531609099185740a3e9d302c0bf",
+      "size_bytes": 4637,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/essentials/components.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "essentials/images.mdx",
+      "blob_sha": "1144eb2cc895046fc2fdbde999fa955a540cc36a",
+      "size_bytes": 1553,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/essentials/images.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "essentials/markdown.mdx",
+      "blob_sha": "a45c1d569b0297c5136f07456fc64e5701d443db",
+      "size_bytes": 2569,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/essentials/markdown.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "essentials/navigation.mdx",
+      "blob_sha": "60adeff231cce899eb902cc902e2f75681c1720f",
+      "size_bytes": 1975,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/essentials/navigation.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "essentials/reusable-snippets.mdx",
+      "blob_sha": "f775cd33afa0553f73963c67c5309962830f8527",
+      "size_bytes": 2686,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/essentials/reusable-snippets.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "essentials/settings.mdx",
+      "blob_sha": "d4aac16e34c59f80d97af4e516eee3ab69354f40",
+      "size_bytes": 4655,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/essentials/settings.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "favicon.svg",
+      "blob_sha": "d50ceedd083237a802fb6501277de1f03e7ad07f",
+      "size_bytes": 1547,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/favicon.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "images/checks-passed.png",
+      "blob_sha": "3303c773646ca12fb6852356663540e3ed048115",
+      "size_bytes": 160724,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/images/checks-passed.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "images/hero-dark.png",
+      "blob_sha": "a61cbb12528f786ae756dd330da5e60ab4b98ccb",
+      "size_bytes": 110614,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/images/hero-dark.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "images/hero-light.png",
+      "blob_sha": "68c712d6db8984866c0d644f8d6b9e7a6c529a97",
+      "size_bytes": 104264,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/images/hero-light.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.mdx",
+      "blob_sha": "41220837e5cc54f77a6299c0b121494eddfb7aa9",
+      "size_bytes": 2783,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/index.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "54113742743d315bb50843ea2a93f9d0362bd32f",
+      "size_bytes": 1064,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "logo/dark.svg",
+      "blob_sha": "ed69d09dc9464b08ef90365ab91faf7c30c785b9",
+      "size_bytes": 5209,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/logo/dark.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "logo/light.svg",
+      "blob_sha": "dda682cb323b5b6d1cbdc528e802f625aff3d60e",
+      "size_bytes": 5225,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/logo/light.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "quickstart.mdx",
+      "blob_sha": "0ed099de0c684423d811413c0a42bb6125c63973",
+      "size_bytes": 2982,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/quickstart.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "eae9e1bcb80f8346d48c1b63cec3ac704bea749e",
+      "size_bytes": 3301,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "snippets/snippet-intro.mdx",
+      "blob_sha": "e20fbb6fc93b64606e427b5eee54459048d5e7fb",
+      "size_bytes": 286,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/docs/blob/main/snippets/snippet-intro.mdx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

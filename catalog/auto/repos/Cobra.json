@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Cobra",
+  "default_branch": "main",
+  "tree_sha": "e64ed3e54b38283c4b1ea4ca1424c48b52074b18",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "47817fd26236e30d069c64d62e5553edc50c431c",
+      "size_bytes": 303,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "923fac18d2bd0364a52b0c9126df28e704802c39",
+      "size_bytes": 1176,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "6b9d10f57c62e183242a29c843dce4ca362debeb",
+      "size_bytes": 1118,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "6883018b00608012b174e7d43a8c3f6deed7f986",
+      "size_bytes": 1208,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "9ca7e8f21af7f67a3679e9b872cc542fd5bdf7f1",
+      "size_bytes": 289,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cobra.py",
+      "blob_sha": "d98cd568175e203d160216db715e1756c8508ef5",
+      "size_bytes": 2208,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/cobra.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "7bb9d27511ed9a08f9a98d2f7d4a55ebaa21d21c",
+      "size_bytes": 641,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "caa27127f908ff52d47ee19b72185dc4aaf1dee8",
+      "size_bytes": 1748,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "407e6a644891aec17603a926e426e7f17c0d3381",
+      "size_bytes": 918,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "objective_model.md",
+      "blob_sha": "5f37d0f47c4f28c0d7a72b9cebc00bcaaecdcb20",
+      "size_bytes": 820,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/objective_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "2321250394437c14c0de0bb9e0f028d5d714988f",
+      "size_bytes": 1707,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "c9eb9f0c6797ea9aa0227262a2a074eba9db391b",
+      "size_bytes": 3003,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_cobra.py",
+      "blob_sha": "fce7a296e17ed2325e753294d28a0d9dfcee5649",
+      "size_bytes": 714,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/test_cobra.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "fc0ec9447c124e7917ce0dfdc8f74200bad6adbd",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "db97e7e3190992916500cd2926f5ed1e19ae6908",
+      "size_bytes": 2286,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cobra/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

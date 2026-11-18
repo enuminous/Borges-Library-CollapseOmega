@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Chameleon",
+  "default_branch": "main",
+  "tree_sha": "473f1ff1b84a6d0773fc9eae71dbf8de38e2ad72",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "4006f124ab0c43ecd6f4382d0092a320af6bfdb0",
+      "size_bytes": 532,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "00eca39ac5ddacaa0c77dddbbd41eabb01896e07",
+      "size_bytes": 1021,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "6f0f561978293657d0283efd7a1ae25dea94b8e3",
+      "size_bytes": 688,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "ff038660db1f9b3f8e873fa1dfda1b01e1ebb3e4",
+      "size_bytes": 1834,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "chameleon.py",
+      "blob_sha": "53504f8050ca5a00d36a25518c93c7bb84581859",
+      "size_bytes": 2084,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/chameleon.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "ef11f7c22654bced27b210f4bd4412ad220c34c3",
+      "size_bytes": 341,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "context_model.md",
+      "blob_sha": "e3eecc0a1d9cd98e1a506f6d2558f5ad0840052e",
+      "size_bytes": 1039,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/context_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "19f9e9be2147c4586133844cc6a750561ff39cba",
+      "size_bytes": 562,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "b1870e4db22a80285bf92f1c1e69d4ea425fd9dd",
+      "size_bytes": 1799,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "8f243d99cd1ef2e3f14d7d4d6c87a41cddee5408",
+      "size_bytes": 983,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "62911c9b7563fd3455d761b0fe696650d83ba69c",
+      "size_bytes": 1901,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "7c3a2defcbc54a4ebbf14d48fa02b14fd8750441",
+      "size_bytes": 3007,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_chameleon.py",
+      "blob_sha": "97c56847331d25a13c20f2beeeab6cef6aab6bc2",
+      "size_bytes": 1083,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/test_chameleon.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "fc0ec9447c124e7917ce0dfdc8f74200bad6adbd",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "46bbfe66918a7cffa82fea53ac2003a99920ae88",
+      "size_bytes": 2516,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Chameleon/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

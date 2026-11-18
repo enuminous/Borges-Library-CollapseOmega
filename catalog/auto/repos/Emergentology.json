@@ -1,0 +1,225 @@
+{
+  "repository": "enuminous/Emergentology",
+  "default_branch": "main",
+  "tree_sha": "c728fb66c36df482b784f8a9482ff7db585056c0",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "b6541df48e82c63cfe842dec0b7b9aba4d568023",
+      "size_bytes": 1227,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/static.yml",
+      "blob_sha": "460f782006e8bb929c92b9357c59c8b1d73f18c7",
+      "size_bytes": 1250,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/.github/workflows/static.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "19fdf5a8aafcdbd05fae0f9f6f67e3329254e988",
+      "size_bytes": 27,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "99e3444699a461853290f11f0449b76a3ce4439f",
+      "size_bytes": 1242,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CLAIMS_BOUNDARY.md",
+      "blob_sha": "6d9ee154a181b6e6977db2a1cc9ffa0742a090e3",
+      "size_bytes": 1303,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/CLAIMS_BOUNDARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Emergentology.lean",
+      "blob_sha": "1b166333c3f232c70955baffaaeb0615d7473b47",
+      "size_bytes": 26,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/Emergentology.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Emergentology/Core.lean",
+      "blob_sha": "97da000217c6213e380a264c091d24e10c1b180f",
+      "size_bytes": 2073,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/Emergentology/Core.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Emergentology/Main.lean",
+      "blob_sha": "0bcddd0d4d5bdc7f11a23e52a1a531fef6c303f8",
+      "size_bytes": 451,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/Emergentology/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EXPERIMENT_PROTOCOL.md",
+      "blob_sha": "952fa8ec47e1051f68e996a5de1f4a5ecb8d9e0f",
+      "size_bytes": 1370,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/EXPERIMENT_PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FORMAL_DEFINITION.md",
+      "blob_sha": "dc6097f52b5b866ba65fb3cd1613695d498bce05",
+      "size_bytes": 1368,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/FORMAL_DEFINITION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "511792cf8ff056c0257aefda8a2bb12d13c4bf43",
+      "size_bytes": 10569,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "43a774c9f3ddd0fe61bd53646d3fc7ad780078a6",
+      "size_bytes": 3490,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "5473f22011307f9a2c359717e04515ff37bddecc",
+      "size_bytes": 202,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "dc4ebd7f7a7beed5d31e1b77e2324c06a37441e3",
+      "size_bytes": 92,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PAPER.md",
+      "blob_sha": "f9376e8c6afb02814f2e28b48aae066f3f606b4a",
+      "size_bytes": 4645,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/PAPER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "4ef57f74f770860a6d71d41001731df8eeb763c7",
+      "size_bytes": 3032,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_axiom_audit.py",
+      "blob_sha": "ae4efa1ffd0d13f21ef4b4d87871475076c01526",
+      "size_bytes": 1383,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "simulate_emergence.py",
+      "blob_sha": "c5578c79386ebe1f8a13ca78612b434813661d84",
+      "size_bytes": 834,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/simulate_emergence.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "simulation_output.txt",
+      "blob_sha": "45b2b7aea393a56dfd25901625c11d2f4e3b825c",
+      "size_bytes": 1479,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/simulation_output.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "ce71f2482d0d860ec54e1f5324569a680c450fda",
+      "size_bytes": 1424,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Emergentology/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

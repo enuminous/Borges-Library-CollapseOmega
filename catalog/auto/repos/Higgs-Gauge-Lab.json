@@ -1,0 +1,50 @@
+{
+  "repository": "enuminous/Higgs-Gauge-Lab",
+  "default_branch": "main",
+  "tree_sha": "06056de25e0ad0f5306e6a5d272f983436e54126",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "index.html",
+      "blob_sha": "cf4482f77fe02086e884e6da905e472b77f3769c",
+      "size_bytes": 25948,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Higgs-Gauge-Lab/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PHYSICS.md",
+      "blob_sha": "4d779f9031360c07fa8ea301710172856ddfd410",
+      "size_bytes": 4930,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Higgs-Gauge-Lab/blob/main/PHYSICS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "preview.png",
+      "blob_sha": "d81879b75b6b0664712bd8721da9437f2999c608",
+      "size_bytes": 494288,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Higgs-Gauge-Lab/blob/main/preview.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "a3cb46a319e9a148862d1b25118623c846e34582",
+      "size_bytes": 7545,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Higgs-Gauge-Lab/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

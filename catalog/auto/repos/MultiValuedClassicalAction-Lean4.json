@@ -1,0 +1,113 @@
+{
+  "repository": "enuminous/MultiValuedClassicalAction-Lean4",
+  "default_branch": "main",
+  "tree_sha": "2429706e12e54215c0d3e90292ccf8dbbfdc2445",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "dd9dbdc171b940146f37e3c153044d4289779f09",
+      "size_bytes": 1242,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/MultiValuedClassicalAction-Lean4/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/MultiValuedClassicalAction-Lean4/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "cf6d6bcdb271f9ab7e7d896830126d8d915d9963",
+      "size_bytes": 1086,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/MultiValuedClassicalAction-Lean4/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "131fd9f7d64e2d6bfcd311f360efd02da12d44fd",
+      "size_bytes": 140,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/MultiValuedClassicalAction-Lean4/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "d5161a3d9be1c2b4c2373e9ef53e4a4dc9ca92a3",
+      "size_bytes": 152,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/MultiValuedClassicalAction-Lean4/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "c00a53503cc3cc776c290056ed21ce7e5d80b083",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/MultiValuedClassicalAction-Lean4/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MultiValuedClassicalAction.lean",
+      "blob_sha": "6c3097f0fc3386d12affd6b446dd895a4e235730",
+      "size_bytes": 6738,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/MultiValuedClassicalAction-Lean4/blob/main/MultiValuedClassicalAction.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "c8e738ff3fb0e4d9c1422f7d848011492e0340b3",
+      "size_bytes": 5328,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/MultiValuedClassicalAction-Lean4/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/MultiValuedClassicalAction-Lean4/blob/main/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "03c36d38aa306165e553e32f44855dd22693bfb9",
+      "size_bytes": 1486,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/MultiValuedClassicalAction-Lean4/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

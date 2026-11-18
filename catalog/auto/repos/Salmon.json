@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Salmon",
+  "default_branch": "main",
+  "tree_sha": "a778d2b99fe5fe135b5976124fe6f1046dbaa99f",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "9f2d6d74f3b402335acf36ab32f13c37d9fd4ba1",
+      "size_bytes": 487,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "0eaff0f7aac10766439f82d754a985e96006b0e2",
+      "size_bytes": 961,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "b1a106b9b2e1eae5d86288babf2eee614d23ae53",
+      "size_bytes": 627,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "6ff3d1bc6a28e7db787670d7de4525d24b4d04a8",
+      "size_bytes": 1278,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "4b97c8abf831640f8aaf7428e97bcfcda95203e1",
+      "size_bytes": 302,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "825a9c90904abe1a0eb61c97cea13951cdb16720",
+      "size_bytes": 410,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "bd202a395b7b484b3418b1b2dd7adac9924a1ddf",
+      "size_bytes": 1774,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "81ae7afec6fb03272b7ff1b961acb7a012f9d875",
+      "size_bytes": 904,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "origin_model.md",
+      "blob_sha": "ea63e2cf818ac29dd300e033732bff3ed592cb7d",
+      "size_bytes": 838,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/origin_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "6c7529ff49e5391ddc815199c4286965e39231a5",
+      "size_bytes": 1620,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "cdece563781afca002e964a6481540cee9407334",
+      "size_bytes": 2834,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "salmon.py",
+      "blob_sha": "e6c803aacafdce7a4cba65cdb0d1128de4d479d8",
+      "size_bytes": 2078,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/salmon.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "eaf1e5eca8a4dd052b485957d834cbbc0117fca3",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_salmon.py",
+      "blob_sha": "2dc6bf28621f7578287d4f3feddafdd750989af9",
+      "size_bytes": 855,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/test_salmon.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "464bb0e0f3641e9f825e70b8b2db43697c1621c3",
+      "size_bytes": 2182,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Salmon/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

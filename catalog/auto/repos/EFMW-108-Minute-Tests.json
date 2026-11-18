@@ -1,0 +1,165 @@
+{
+  "repository": "enuminous/EFMW-108-Minute-Tests",
+  "default_branch": "main",
+  "tree_sha": "00358777325ade606fa765e6f1b755078c5ad607",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ANALYSIS_PLAN.md",
+      "blob_sha": "8504060319b561c77786486c1ed44ee0ff320951",
+      "size_bytes": 1960,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-108-Minute-Tests/blob/main/ANALYSIS_PLAN.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data.py",
+      "blob_sha": "d4ef7dfad38d408460d355457b1c26cf4684e4e4",
+      "size_bytes": 511,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-108-Minute-Tests/blob/main/data.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FAILURE_CRITERIA.md",
+      "blob_sha": "c42eaa1182f8f2e3d3757fba27241c1a98e6aee0",
+      "size_bytes": 1086,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-108-Minute-Tests/blob/main/FAILURE_CRITERIA.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FREEZE_MANIFEST.sha256",
+      "blob_sha": "73b624fe973e215ecce3ba220d4535aead85621d",
+      "size_bytes": 1164,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-108-Minute-Tests/blob/main/FREEZE_MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "frozen_protocol.json",
+      "blob_sha": "3655f1fdf98a378a4ab3558a54b3fcf27d4016b2",
+      "size_bytes": 621,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-108-Minute-Tests/blob/main/frozen_protocol.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "5dd3a5dd08cba6ccd9b18d7e51e0be36f9a1f684",
+      "size_bytes": 746,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-108-Minute-Tests/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metrics.py",
+      "blob_sha": "853507ecda87658b1f18278055a522cad1662cca",
+      "size_bytes": 380,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-108-Minute-Tests/blob/main/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "models.py",
+      "blob_sha": "65df8d0ab3265ad729d8931b9488778dca5a7dc2",
+      "size_bytes": 1122,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-108-Minute-Tests/blob/main/models.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PREREGISTRATION.md",
+      "blob_sha": "f2712a6c2731b68e3d2b2450f94cefb165010451",
+      "size_bytes": 2510,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-108-Minute-Tests/blob/main/PREREGISTRATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "75104c6bd150380f2312aad7921edb62e9378950",
+      "size_bytes": 4984,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-108-Minute-Tests/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "999acfcc0cbf9f27280f7315b71d70c23cabe2a0",
+      "size_bytes": 15,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-108-Minute-Tests/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/COLLAPSE_OMEGA_SPECTRUM_AUDIT.md",
+      "blob_sha": "5de4fa2f7233d816a212795d24436315515ddb3e",
+      "size_bytes": 9905,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-108-Minute-Tests/blob/main/results/COLLAPSE_OMEGA_SPECTRUM_AUDIT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/RESULT_ADU_2026.md",
+      "blob_sha": "07143ce29c982dac900e81a7c171f8d39e88b445",
+      "size_bytes": 8019,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-108-Minute-Tests/blob/main/results/RESULT_ADU_2026.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "run_experiment.py",
+      "blob_sha": "bbeef2af9ba3be10b0f144133e2308a26d8e71c6",
+      "size_bytes": 1490,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-108-Minute-Tests/blob/main/run_experiment.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify_freeze.py",
+      "blob_sha": "efaeeea54a094f813f92089ef9ba9609baba6604",
+      "size_bytes": 701,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-108-Minute-Tests/blob/main/verify_freeze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

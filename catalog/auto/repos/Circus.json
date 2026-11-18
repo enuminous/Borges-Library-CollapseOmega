@@ -1,0 +1,101 @@
+{
+  "repository": "enuminous/Circus",
+  "default_branch": "main",
+  "tree_sha": "2a1a7bdb23ca90c8ab0d0ad65d2d86de6237ce5d",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "animal.yaml",
+      "blob_sha": "029bcb4634eff34c5a6c5d334037ff9c76e4cccb",
+      "size_bytes": 1302,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Circus/blob/main/animal.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/demo-report.json",
+      "blob_sha": "ff74cb35881dca515f97cded1274986702a96395",
+      "size_bytes": 3456,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Circus/blob/main/examples/demo-report.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "083e566f580a9f4a03565b9cd4a301340be194c3",
+      "size_bytes": 1457,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Circus/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "e718669dd73de713dbca9dc7e07b64627d63dd7a",
+      "size_bytes": 137,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Circus/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "52d936fdeddf9147c7f95b91d22b3d120998b3b0",
+      "size_bytes": 8414,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Circus/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "schemas/report.schema.json",
+      "blob_sha": "33661d4103d3bbe75684141b0898107f3a57c36e",
+      "size_bytes": 5770,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Circus/blob/main/schemas/report.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/circus.py",
+      "blob_sha": "65421922766c9178c1b188703ac21c03f95be6dd",
+      "size_bytes": 1964,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Circus/blob/main/src/circus.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "templates/audit-report.json",
+      "blob_sha": "2815b8b4e6b8d827707f46e562e5ca4993b8daed",
+      "size_bytes": 420,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Circus/blob/main/templates/audit-report.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_circus.py",
+      "blob_sha": "d13095a0b4ab5662e29babc7739c2fab8df92e4f",
+      "size_bytes": 1304,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Circus/blob/main/tests/test_circus.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

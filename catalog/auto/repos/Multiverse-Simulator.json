@@ -1,0 +1,1065 @@
+{
+  "repository": "enuminous/Multiverse-Simulator",
+  "default_branch": "main",
+  "tree_sha": "7295b9675bfba8cc5c53170ce2a81002cf079f35",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "2bb56b9f4434179fb605c999d3a5d25305d579ea",
+      "size_bytes": 1427,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/app.js",
+      "blob_sha": "df884006344fac8f35d6d2007b8938c0f21a87c7",
+      "size_bytes": 20721,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/assets/app.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/demo-episode.js",
+      "blob_sha": "ae9ccf53091c3849242a4c8e6babe38e688ebcb6",
+      "size_bytes": 34226,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/assets/demo-episode.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/favicon.svg",
+      "blob_sha": "a437dd58357cd7548b0a6f9c2450e6e4c6b4468e",
+      "size_bytes": 293,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/assets/favicon.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/assets/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/style.css",
+      "blob_sha": "23beb448f71326a720c3bb4b349e1079b3550666",
+      "size_bytes": 16804,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/assets/style.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/writer.js",
+      "blob_sha": "cf0eac83b02a765971882332ba3f06849334a20d",
+      "size_bytes": 4350,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/assets/writer.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "blob_sha": "1462f5b10640808b244d2aeea765352a79a4276c",
+      "size_bytes": 1199,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/CHANGELOG.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/CLAIMS.md",
+      "blob_sha": "29660793fefa3ecf264cce7330a865680d1d7f0f",
+      "size_bytes": 6839,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/docs/CLAIMS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/DEVELOPMENT.md",
+      "blob_sha": "3a4e30b0e2d3b6b6aa62a196759b4c99901e2530",
+      "size_bytes": 5147,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/docs/DEVELOPMENT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/EPISODE-WRITER.md",
+      "blob_sha": "6c372e53e806421f8ed7e5217afe0a5b05d235bb",
+      "size_bytes": 9540,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/docs/EPISODE-WRITER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/EQUATIONS.md",
+      "blob_sha": "ca85251b8168f6c4d387844f2df485b1ece015ad",
+      "size_bytes": 9500,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/docs/EQUATIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/EXPERIMENTS.md",
+      "blob_sha": "9e9d7c7ab467a85bc3015fac267fdee874e06d57",
+      "size_bytes": 5653,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/docs/EXPERIMENTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/GITHUB.md",
+      "blob_sha": "b8485577d96746b67cd3e85a9d5be43b75f46383",
+      "size_bytes": 3226,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/docs/GITHUB.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/docs/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/SOURCES.md",
+      "blob_sha": "71966abceae7f536b108a1a50f45506081d1e313",
+      "size_bytes": 3673,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/docs/SOURCES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "blob_sha": "625c3cb93097248848c7482b93a344cfffd26f4b",
+      "size_bytes": 6383,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/docs/VALIDATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/consequence/audit.json",
+      "blob_sha": "1a3e9025a510cbb1218fc179c13a27b5ed776d5c",
+      "size_bytes": 20130,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/consequence/audit.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/consequence/dossier.json",
+      "blob_sha": "71e12590a0cb393c99d4c4de2e2116a59f6b78d0",
+      "size_bytes": 13347,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/consequence/dossier.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/consequence/episode.fountain",
+      "blob_sha": "1183a176d78ed036bb308c5a1e7ede5015fb5baa",
+      "size_bytes": 19235,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/consequence/episode.fountain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/consequence/episode.html",
+      "blob_sha": "91458666571a9745aa6eb10afa62736fb67ce6d9",
+      "size_bytes": 20896,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/consequence/episode.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/consequence/prompt.txt",
+      "blob_sha": "824eb9ad27a40bcd2ab02d84e2dac913c18228da",
+      "size_bytes": 15759,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/consequence/prompt.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/consequence/provenance.json",
+      "blob_sha": "4ba483f506fb02e0acc69a9460f9fd9c54e92007",
+      "size_bytes": 536,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/consequence/provenance.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/consequence/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/consequence/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/consequence/run.json",
+      "blob_sha": "a6ed24471c4d6b6e39d0fcc655f2d7188667a354",
+      "size_bytes": 1862,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/consequence/run.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/consequence/script-schema.json",
+      "blob_sha": "c1fc1e8a87c05c07aa86984e9be33ca15dabf74c",
+      "size_bytes": 1346,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/consequence/script-schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/consequence/script.json",
+      "blob_sha": "c0469a831240ecf29726a9e3c8daa80af2ef61fb",
+      "size_bytes": 26645,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/consequence/script.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/README.md",
+      "blob_sha": "2fa71befdd635c7d772b36145046fb34653cdb4b",
+      "size_bytes": 1787,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/readme2.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/readme2.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/curve/dossier.json",
+      "blob_sha": "1a97b20198a58c56c9278e901299fe9621037cb1",
+      "size_bytes": 11641,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/curve/dossier.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/curve/prompt.txt",
+      "blob_sha": "e5dfe247463c46df3c8dba31660fedb02427b14f",
+      "size_bytes": 14053,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/curve/prompt.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/curve/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/curve/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/curve/run.json",
+      "blob_sha": "31ccbd0e4ac6b23964ec55d02f1bea4c2f63e25b",
+      "size_bytes": 1021,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/curve/run.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/curve/script-schema.json",
+      "blob_sha": "c1fc1e8a87c05c07aa86984e9be33ca15dabf74c",
+      "size_bytes": 1346,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/curve/script-schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/decoherence/dossier.json",
+      "blob_sha": "85b428ad74eba688eda90b9b9eb6d96ff4256c8b",
+      "size_bytes": 10880,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/decoherence/dossier.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/decoherence/prompt.txt",
+      "blob_sha": "b5634aa1c39a17444799b09b83f45cc7a552e0cc",
+      "size_bytes": 13292,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/decoherence/prompt.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/decoherence/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/decoherence/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/decoherence/run.json",
+      "blob_sha": "3679f0163eabf41f98081473835dc8953a97bbbe",
+      "size_bytes": 977,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/decoherence/run.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/decoherence/script-schema.json",
+      "blob_sha": "c1fc1e8a87c05c07aa86984e9be33ca15dabf74c",
+      "size_bytes": 1346,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/decoherence/script-schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/feedback/dossier.json",
+      "blob_sha": "d86aa9c19dbd1d3e4b4968f66417dc41f8e1f6a1",
+      "size_bytes": 12722,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/feedback/dossier.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/feedback/prompt.txt",
+      "blob_sha": "86cf0399cc67783af288bcdcfe5756629f51997a",
+      "size_bytes": 15134,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/feedback/prompt.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/feedback/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/feedback/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/feedback/run.json",
+      "blob_sha": "462f33285b0936e1d5f0ddffbd18a1389a2635ef",
+      "size_bytes": 1080,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/feedback/run.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/feedback/script-schema.json",
+      "blob_sha": "c1fc1e8a87c05c07aa86984e9be33ca15dabf74c",
+      "size_bytes": 1346,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/feedback/script-schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/field/dossier.json",
+      "blob_sha": "346ddfb330a87bdd02c00549357d1d49636986a9",
+      "size_bytes": 9855,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/field/dossier.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/field/prompt.txt",
+      "blob_sha": "d315c5b092422061d5f27a2a0a3fcbb9c1a0f433",
+      "size_bytes": 12267,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/field/prompt.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/field/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/field/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/field/run.json",
+      "blob_sha": "495754ad3067c97d2ad9cf15c78b6ab2f18ff6a2",
+      "size_bytes": 805,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/field/run.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/field/script-schema.json",
+      "blob_sha": "c1fc1e8a87c05c07aa86984e9be33ca15dabf74c",
+      "size_bytes": 1346,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/field/script-schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/memory/dossier.json",
+      "blob_sha": "76d642bb2f3bac3ce91c106dea91125049f75c3e",
+      "size_bytes": 11752,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/memory/dossier.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/memory/prompt.txt",
+      "blob_sha": "3df4a51c812b99f86e69553549ef31a420a58a8e",
+      "size_bytes": 14164,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/memory/prompt.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/memory/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/memory/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/memory/run.json",
+      "blob_sha": "98107cf7bce7ea5191dfc98471cf985819c9d1ad",
+      "size_bytes": 984,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/memory/run.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/memory/script-schema.json",
+      "blob_sha": "c1fc1e8a87c05c07aa86984e9be33ca15dabf74c",
+      "size_bytes": 1346,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/memory/script-schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/portal/dossier.json",
+      "blob_sha": "10a911a4d883f1b84e916ed233ec9ec54c5470fd",
+      "size_bytes": 9858,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/portal/dossier.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/portal/prompt.txt",
+      "blob_sha": "e9946dd07c9a511d107ee47948fdfed9b60e5ba3",
+      "size_bytes": 12270,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/portal/prompt.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/portal/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/portal/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/portal/run.json",
+      "blob_sha": "a72201f13da106c596f28811ea6c88e516b9945f",
+      "size_bytes": 917,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/portal/run.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/portal/script-schema.json",
+      "blob_sha": "c1fc1e8a87c05c07aa86984e9be33ca15dabf74c",
+      "size_bytes": 1346,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/portal/script-schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "episodes/series/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/episodes/series/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/comparisons.json",
+      "blob_sha": "e415ac6130fe880dc07f6b619bed6aabc08744fd",
+      "size_bytes": 7418,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/examples/comparisons.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/curve-data.csv",
+      "blob_sha": "305c7eb994f47248bb32e76a83051c25424bde2f",
+      "size_bytes": 7397,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/examples/curve-data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/curve-run.json",
+      "blob_sha": "31ccbd0e4ac6b23964ec55d02f1bea4c2f63e25b",
+      "size_bytes": 1021,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/examples/curve-run.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/decoherence-data.csv",
+      "blob_sha": "6906178a415e9b5b0312989d96c1c06b5ce5a775",
+      "size_bytes": 7518,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/examples/decoherence-data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/decoherence-run.json",
+      "blob_sha": "3679f0163eabf41f98081473835dc8953a97bbbe",
+      "size_bytes": 977,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/examples/decoherence-run.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/feedback-data.csv",
+      "blob_sha": "dd133d261832c0860f0818eb0df83e50b92213d7",
+      "size_bytes": 10264,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/examples/feedback-data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/feedback-run.json",
+      "blob_sha": "462f33285b0936e1d5f0ddffbd18a1389a2635ef",
+      "size_bytes": 1080,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/examples/feedback-run.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/field-data.csv",
+      "blob_sha": "8345f605a6705fb38401c7265dd3cbd1a01c8318",
+      "size_bytes": 2299,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/examples/field-data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/field-run.json",
+      "blob_sha": "495754ad3067c97d2ad9cf15c78b6ab2f18ff6a2",
+      "size_bytes": 805,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/examples/field-run.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/memory-data.csv",
+      "blob_sha": "02538dd871ed64013231184062842bc749d5af71",
+      "size_bytes": 7842,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/examples/memory-data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/memory-run.json",
+      "blob_sha": "98107cf7bce7ea5191dfc98471cf985819c9d1ad",
+      "size_bytes": 984,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/examples/memory-run.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/portal-data.csv",
+      "blob_sha": "7428afad334f331f819cb307e4cc76921c09313e",
+      "size_bytes": 6196,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/examples/portal-data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/portal-run.json",
+      "blob_sha": "a72201f13da106c596f28811ea6c88e516b9945f",
+      "size_bytes": 917,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/examples/portal-run.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/README.md",
+      "blob_sha": "6430a6743bb184f8cc562b6e2246f868564fc144",
+      "size_bytes": 1304,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/examples/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/reference-validation.json",
+      "blob_sha": "9093adc7957ca29f0fa16d69d9e66a473edd1fe8",
+      "size_bytes": 1796,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/examples/reference-validation.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/Audit.lean",
+      "blob_sha": "39b911c6580e6c56f319837caa2705c1a5068185",
+      "size_bytes": 1202,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/formal/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/COVERAGE.md",
+      "blob_sha": "772a60492fd1fe74de103490dfc284a561866c6b",
+      "size_bytes": 1902,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/formal/COVERAGE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lake-manifest.json",
+      "blob_sha": "7fcfd4195c089dd3925bfcaf6e12e79261fcc9b3",
+      "size_bytes": 3484,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/formal/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lakefile.toml",
+      "blob_sha": "7a73df433e0e3dab6462e8a7096e106b364573f8",
+      "size_bytes": 235,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/formal/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/formal/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/Quantum.lean",
+      "blob_sha": "0a014dfbc190003f7d1669f352dc5bdc4199867a",
+      "size_bytes": 2775,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/formal/Quantum.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/formal/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/VERIFICATION.md",
+      "blob_sha": "54d57fa977ba3253ba419a91d3e0bb1a8e9dd58f",
+      "size_bytes": 885,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/formal/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "1ef43418294a9862a7652b91329cbde751a82b1f",
+      "size_bytes": 20924,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE.txt",
+      "blob_sha": "9f5a986312f4b0b819b4f6ce31fcb43b2907fe98",
+      "size_bytes": 425,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/LICENSE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "fe269cab7058380b085c905d60eb8e8d05838743",
+      "size_bytes": 7743,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "package.json",
+      "blob_sha": "6175ff234ad6ae7df8cc33548167145f7119d032",
+      "size_bytes": 624,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/package.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "d65e08322ef559932f9d91e2897565753864e3dd",
+      "size_bytes": 11540,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/build.js",
+      "blob_sha": "3c7dea2ec94d066bee218474a068c4b3a234b063",
+      "size_bytes": 627,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/scripts/build.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/check.js",
+      "blob_sha": "6e7a70c014d853f24dee6fc06fa0885e3d41557a",
+      "size_bytes": 1709,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/scripts/check.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/episode.js",
+      "blob_sha": "93df56cc230dbf62c542958efd3bfab4e20985ed",
+      "size_bytes": 6868,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/scripts/episode.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/scripts/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/series.js",
+      "blob_sha": "bf2ca72bfd29c11d63f7fd529000bc43940514e6",
+      "size_bytes": 1044,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/scripts/series.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/simulate.js",
+      "blob_sha": "7f14b5d8ca95178e0ba8f6429b891bfbdde24852",
+      "size_bytes": 3562,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/scripts/simulate.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/engine.js",
+      "blob_sha": "ff3c9c1ff1e3bc01c69af09fee4c5b6c6172311f",
+      "size_bytes": 17543,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/src/engine.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/llm.js",
+      "blob_sha": "c1e9138afd6cb536ad751c92f624226b86ba78ef",
+      "size_bytes": 2999,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/src/llm.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/src/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/series.js",
+      "blob_sha": "46b5a0e260b35980121d0265643749dfeb44ac6b",
+      "size_bytes": 7468,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/src/series.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/story.js",
+      "blob_sha": "fdcff7993e8107536b405be7475fe4a79f5cc98f",
+      "size_bytes": 10953,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/src/story.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/cli.test.js",
+      "blob_sha": "2b08dd66d987534e9cede3bec730774243717a34",
+      "size_bytes": 2210,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/tests/cli.test.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/engine.test.js",
+      "blob_sha": "1845532bc266c527e5f4f697776a859de8974867",
+      "size_bytes": 8999,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/tests/engine.test.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/tests/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/reference_check.py",
+      "blob_sha": "6e006b30551f24664505ecf266fd042bb2027aad",
+      "size_bytes": 4252,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/tests/reference_check.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/story.test.js",
+      "blob_sha": "6725cd7f11bd4406d7450fedd3e3aa3848ba7afa",
+      "size_bytes": 10626,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Multiverse-Simulator/blob/main/tests/story.test.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

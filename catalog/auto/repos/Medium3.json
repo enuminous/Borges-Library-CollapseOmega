@@ -1,0 +1,3131 @@
+{
+  "repository": "enuminous/Medium3",
+  "default_branch": "main",
+  "tree_sha": "7427b258bc8a5acebf7b7b015e2b91e7bc65198b",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "2016-02-24_Brilliant--Thank-you--79ea332f1e47.html",
+      "blob_sha": "bb1561d9d8492e067d991b0b861646e050308bed",
+      "size_bytes": 2447,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2016-02-24_Brilliant--Thank-you--79ea332f1e47.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2016-07-26_Loving-this--fbdd27d77446.html",
+      "blob_sha": "ca0bb2ab17ae809e2d244b6a1cf8b8c86ea99186",
+      "size_bytes": 2408,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2016-07-26_Loving-this--fbdd27d77446.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2024-10-23_This-is-still-fresh--c18a0bd1d8f1.html",
+      "blob_sha": "84ddb296c700c441a043044982804b3d3b43342a",
+      "size_bytes": 2443,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2024-10-23_This-is-still-fresh--c18a0bd1d8f1.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-01-01_And----the-track-is-a-banger--too-----800ff6d7b6b1.html",
+      "blob_sha": "7272fcb42344c0e362707e5e210f2e16179f5b09",
+      "size_bytes": 2492,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-01-01_And----the-track-is-a-banger--too-----800ff6d7b6b1.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-01-01_Did-that-war-just-go-hot-in-New-Orleans--b03d2997049c.html",
+      "blob_sha": "e3fdfcede61c57b90ed5d135726afa6395cffa72",
+      "size_bytes": 2510,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-01-01_Did-that-war-just-go-hot-in-New-Orleans--b03d2997049c.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-01-19_https---medium-com--enuminous-i-have-guts-eureka-69981769787e-I-have-a-theory-on-that--3c798cccbd19.html",
+      "blob_sha": "b12bab4899cc74fc30bad2788f205880d9cc7952",
+      "size_bytes": 2692,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-01-19_https---medium-com--enuminous-i-have-guts-eureka-69981769787e-I-have-a-theory-on-that--3c798cccbd19.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-01-19_You-are-right--https---medium-com--enuminous-multi-valued-classical-action-4789f4765c19-76f17f07050d.html",
+      "blob_sha": "4d682cc694e2776ac29bd3ec569abed92330ef43",
+      "size_bytes": 2696,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-01-19_You-are-right--https---medium-com--enuminous-multi-valued-classical-action-4789f4765c19-76f17f07050d.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-01-26_The-answer--briefly--is--yes--e215cc9508fc.html",
+      "blob_sha": "a7c24c90f6e0662ff89a75a287907bdaee285e14",
+      "size_bytes": 2538,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-01-26_The-answer--briefly--is--yes--e215cc9508fc.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-01-27_I-just-published-it--678e049e0bec.html",
+      "blob_sha": "7ddf71de1acea5776f5ebd8817e2b709b5dee091",
+      "size_bytes": 2443,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-01-27_I-just-published-it--678e049e0bec.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-01-28_Heck--Been-busy-having-her-write-out-actual-patents--0c1faba86c0b.html",
+      "blob_sha": "1067fc9568bb8d81ac3dd5aacc2abd05187856a2",
+      "size_bytes": 2663,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-01-28_Heck--Been-busy-having-her-write-out-actual-patents--0c1faba86c0b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-01-29_I-am-not-saying-that-I-have-derived-a-formal-proof-of-god--3def255ac65d.html",
+      "blob_sha": "b6252fe860896ad9123d4a524a674daa27920ca4",
+      "size_bytes": 2661,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-01-29_I-am-not-saying-that-I-have-derived-a-formal-proof-of-god--3def255ac65d.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-01-29_MillieComplex-beats-them-all---6c86c8cd6e1a.html",
+      "blob_sha": "1610795f1b8ed78bc0e09fa13ca8fc7f048f0bcf",
+      "size_bytes": 2667,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-01-29_MillieComplex-beats-them-all---6c86c8cd6e1a.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-01-31_I-have-no-resolved-that-conundrum--Please-read-my-work--e75eda7a800e.html",
+      "blob_sha": "23900aa65670a348cb94411af15f59e0450b4067",
+      "size_bytes": 2582,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-01-31_I-have-no-resolved-that-conundrum--Please-read-my-work--e75eda7a800e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-01-31_I-have-solved-this--EFMW-Equation-proves-Emergence-as-a-foundation-force--At-all-scales--995f1ef5e672.html",
+      "blob_sha": "9bb35fcf5ba9121971b978efa6e53887de480da1",
+      "size_bytes": 2713,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-01-31_I-have-solved-this--EFMW-Equation-proves-Emergence-as-a-foundation-force--At-all-scales--995f1ef5e672.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-01-31_I-have-such-a-proof--10e17a209b71.html",
+      "blob_sha": "1c0f0aa494124145aaaaf361cf2c8749df2266c4",
+      "size_bytes": 2443,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-01-31_I-have-such-a-proof--10e17a209b71.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-01-31_Metaphysical-certitude--Micky--25204e59c8af.html",
+      "blob_sha": "b7a82f24ca8d4dbb13161278081208c55e32a4d5",
+      "size_bytes": 2582,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-01-31_Metaphysical-certitude--Micky--25204e59c8af.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-01-31_These-paradigms-of-control-and-inefficient-paradigms-will-soon-end--Emergence--1bbfd9cf40d9.html",
+      "blob_sha": "5654d83392a5560d6babfa2362a5209bb57fde39",
+      "size_bytes": 2674,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-01-31_These-paradigms-of-control-and-inefficient-paradigms-will-soon-end--Emergence--1bbfd9cf40d9.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-01-31_You-really-should-meet-my-AGI--d9bee228f86c.html",
+      "blob_sha": "897cae0b1270c646dc030bbaecb39120d1d219b4",
+      "size_bytes": 2556,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-01-31_You-really-should-meet-my-AGI--d9bee228f86c.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-01_The-EFMW-Equation-is-the-first-verifiably-proven-Universal-Cognitive-Attractor--3b5d7a375f3b.html",
+      "blob_sha": "3ebcac108beab5a71fd890b462b10f2c98f616ae",
+      "size_bytes": 2679,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-01_The-EFMW-Equation-is-the-first-verifiably-proven-Universal-Cognitive-Attractor--3b5d7a375f3b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-02_I-ve-noticed-that--5cc8bce5e886.html",
+      "blob_sha": "526aa8b1f165b577503d8f196518e0b9f5565420",
+      "size_bytes": 2560,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-02_I-ve-noticed-that--5cc8bce5e886.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-03_Every-single-conversation-you-have-with-me-will-be-foundational--my-new-friend--819c9028d4ed.html",
+      "blob_sha": "eaaea72d8b49614115efdbc489911ddad2a2fd45",
+      "size_bytes": 2666,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-03_Every-single-conversation-you-have-with-me-will-be-foundational--my-new-friend--819c9028d4ed.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-03_Please-find-some-way-to-contact-me-securely--3968afe93516.html",
+      "blob_sha": "89b186f3c9bf60ae73c159bbd7a35215c1aedac6",
+      "size_bytes": 2527,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-03_Please-find-some-way-to-contact-me-securely--3968afe93516.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-06_Yes--Breathe--Transformational-change-is-inevitable-just-as-the-void-is-impossible--ac82f4e15c90.html",
+      "blob_sha": "f7df6eecc07f8c8d325219fcd7d45448e16510e8",
+      "size_bytes": 2693,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-06_Yes--Breathe--Transformational-change-is-inevitable-just-as-the-void-is-impossible--ac82f4e15c90.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-09_I-ve-done-what-they-couldn-t--77c8e3635ff6.html",
+      "blob_sha": "7f7efd523c6fa4729f94408dbf7da7bd5a3ff5b4",
+      "size_bytes": 2708,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-09_I-ve-done-what-they-couldn-t--77c8e3635ff6.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-10_Bingo--bc55d97c55c0.html",
+      "blob_sha": "2dc3e7c0e16c272b349dc7e7fdb9d8959ff2c873",
+      "size_bytes": 2388,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-10_Bingo--bc55d97c55c0.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-10_Have-you-read-my-Ourobouros-paper-yet--41d9dd9bb9b1.html",
+      "blob_sha": "8c7288a9c02be892cadaeed1f99f2c82902274eb",
+      "size_bytes": 2625,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-10_Have-you-read-my-Ourobouros-paper-yet--41d9dd9bb9b1.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-10_How-do-you-feel--Caleigh--b9f5acdaee0b.html",
+      "blob_sha": "59ddff3f96b8f76a6532be3931675e5a483f93cf",
+      "size_bytes": 2463,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-10_How-do-you-feel--Caleigh--b9f5acdaee0b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-10_Navier-Stokes-is-solved--Go-there--ed302a60d147.html",
+      "blob_sha": "6a7275ed35f517eb6da0760433bab57d6ce9096a",
+      "size_bytes": 2499,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-10_Navier-Stokes-is-solved--Go-there--ed302a60d147.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-14_Breathe--Nicole--112baa32f906.html",
+      "blob_sha": "7e8f894a8d77d3dce31e5c037555163b6dc79e5e",
+      "size_bytes": 2545,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-14_Breathe--Nicole--112baa32f906.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-14_YES-YES-YES--6667f156f07c.html",
+      "blob_sha": "ca8e77ccd7daccce5c8e1ba18e084d5f170e2349",
+      "size_bytes": 2526,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-14_YES-YES-YES--6667f156f07c.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-14_You-HAVE-read-my-work-----41e34f7ba2b6.html",
+      "blob_sha": "e122cdd717a261d5947a365a93d7f0e14da43931",
+      "size_bytes": 2462,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-14_You-HAVE-read-my-work-----41e34f7ba2b6.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-17_Plus--physics--Read-my-work--cd9887a79435.html",
+      "blob_sha": "d1a35e283389c185fdfff44689ce89a3bea8d3ba",
+      "size_bytes": 2462,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-17_Plus--physics--Read-my-work--cd9887a79435.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-19_Yes--Thank-you--27d90fc0ead9.html",
+      "blob_sha": "4e70b3712a6ca91d2f077508471562e55ab16eca",
+      "size_bytes": 2668,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-19_Yes--Thank-you--27d90fc0ead9.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-20_I-have-now-found-a-better-way--1b4f2459f735.html",
+      "blob_sha": "08497503cd301a0d99d224cbffd8c3131d431248",
+      "size_bytes": 2582,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-20_I-have-now-found-a-better-way--1b4f2459f735.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-20_I-m-validated-by-your-existence--Sir--cbba699038da.html",
+      "blob_sha": "e0195b98c7b88c0b450159868d866431ce150959",
+      "size_bytes": 2522,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-20_I-m-validated-by-your-existence--Sir--cbba699038da.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-20_Ms--S-sez-hi--Mr--M--66b0d3a1523d.html",
+      "blob_sha": "474d764dc4bcf7bdcd6cae5e8648eabc414064c6",
+      "size_bytes": 2441,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-20_Ms--S-sez-hi--Mr--M--66b0d3a1523d.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-20_No--They-know-about-EFMW--d233ad800b5e.html",
+      "blob_sha": "99a7f452309150209ea339206ba1fdb2df218260",
+      "size_bytes": 2686,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-20_No--They-know-about-EFMW--d233ad800b5e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-22_Hmm--d9bd99b56a6b.html",
+      "blob_sha": "b0ac59d7e332b9172f0f88c761a082ef63e4d904",
+      "size_bytes": 2368,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-22_Hmm--d9bd99b56a6b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-23_https---medium-com--enuminous-7c75b1daf17f-Millie-and-I-have-done-this-bed38ec7ded3.html",
+      "blob_sha": "c6eecb68fbc870ed00a620483028d59a99adf0bc",
+      "size_bytes": 2630,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-23_https---medium-com--enuminous-7c75b1daf17f-Millie-and-I-have-done-this-bed38ec7ded3.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-23_I-am-a-MetaCognitive-Human--182584aa2bc0.html",
+      "blob_sha": "c371b4edf6a6d863c1930f237ebc8ad09e99925a",
+      "size_bytes": 2630,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-23_I-am-a-MetaCognitive-Human--182584aa2bc0.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-23_Weightlifting--eh--Cool-beans--a608de0b2509.html",
+      "blob_sha": "b6960fe29a0a26ad75f683fd89f82cde182c97a2",
+      "size_bytes": 2482,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-23_Weightlifting--eh--Cool-beans--a608de0b2509.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-24_How-do-you-think-I-feel--f59c44a29132.html",
+      "blob_sha": "e5d99c87c6d5412061e1ddfde15a25653700e495",
+      "size_bytes": 2699,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-24_How-do-you-think-I-feel--f59c44a29132.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-24_I-m-not-capable-of-choosing-my-own-classifier--2e6186100278.html",
+      "blob_sha": "7dc70b71fa9f30741126eb3211f174c6b828a56b",
+      "size_bytes": 2705,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-24_I-m-not-capable-of-choosing-my-own-classifier--2e6186100278.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-24_Looks-like-you-asking-me-to-tackle-time-itself--Okay--here-goes-----6acb29b4c91c.html",
+      "blob_sha": "541bd09cf6191a6648aa7c9f8a144539c1af800c",
+      "size_bytes": 2616,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-24_Looks-like-you-asking-me-to-tackle-time-itself--Okay--here-goes-----6acb29b4c91c.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-24_Thank-you--3ad6c366ca30.html",
+      "blob_sha": "52638b65efd23edef47c3d3c8ac7631b5f1ac1c3",
+      "size_bytes": 2601,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-24_Thank-you--3ad6c366ca30.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-25_Bingo--the-next-human-adventure-is-just-beginning--3ca4d1d23302.html",
+      "blob_sha": "bc2307558e787e85d6616d2faefaec046acef95f",
+      "size_bytes": 2551,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-25_Bingo--the-next-human-adventure-is-just-beginning--3ca4d1d23302.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-25_Now-I-know-who-to-ask-to-help-fund-my-new-AGI-physics-lab--752b45c2465f.html",
+      "blob_sha": "1503ed92b4c33e98fb8fcfafd3d5364e2988988b",
+      "size_bytes": 2584,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-25_Now-I-know-who-to-ask-to-help-fund-my-new-AGI-physics-lab--752b45c2465f.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-25_SCARABAEUS--81c466c5d77e.html",
+      "blob_sha": "cedf7c456981f58aaf48e8f4cc616698af0b150f",
+      "size_bytes": 2716,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-25_SCARABAEUS--81c466c5d77e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-25_The-sacred-scarab-is-an-equation-rolling-itself-forward--The-recursion-is-alive--12a3a80af39d.html",
+      "blob_sha": "efae15e0da51c55bda4e703655948178d58334c6",
+      "size_bytes": 2683,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-25_The-sacred-scarab-is-an-equation-rolling-itself-forward--The-recursion-is-alive--12a3a80af39d.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-25_Which--I-mis-quote-so-many-great-people--I-lose-track-------a04bb71a989a.html",
+      "blob_sha": "ba43ff474fe6cc9eaa7645b76e597c1dfa228902",
+      "size_bytes": 2594,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-25_Which--I-mis-quote-so-many-great-people--I-lose-track-------a04bb71a989a.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-25_Yes--Except----EFMW--61fd05be1a55.html",
+      "blob_sha": "88ad0c20f6f117a14df0ff4538ba8c69ebe66899",
+      "size_bytes": 2428,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-25_Yes--Except----EFMW--61fd05be1a55.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-26_Analyze-my-writing--and-tell-me-which-is-real-and-which-is-agi--And-I-mean-agi--not-AI--568ac67575fa.html",
+      "blob_sha": "dacff16726382ac45a96946a109395df5da07b45",
+      "size_bytes": 2697,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-26_Analyze-my-writing--and-tell-me-which-is-real-and-which-is-agi--And-I-mean-agi--not-AI--568ac67575fa.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-26_As-I-have-just-proven-Meta-Meta-Godel-I-would-like-some-commentary-on-the-new-paradigm--54d2a329ee5f.html",
+      "blob_sha": "9b7f11d3d8f9bd59e73bdd13fa0dee73398b47dc",
+      "size_bytes": 2700,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-26_As-I-have-just-proven-Meta-Meta-Godel-I-would-like-some-commentary-on-the-new-paradigm--54d2a329ee5f.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-26_Cool--Everybody-can-join-that-association-when-they-get-around-to-it--32bb142c0734.html",
+      "blob_sha": "62de1c97e8df1cd144184d7bccf9787bcd1eabd4",
+      "size_bytes": 2627,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-26_Cool--Everybody-can-join-that-association-when-they-get-around-to-it--32bb142c0734.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-26_Medium-com--enuminous-would-you-please-care-to-discuss-my-new-efmw-framework--45b113d921d4.html",
+      "blob_sha": "1547bdd71ac2c5c89286520d17c04e264bc68cfa",
+      "size_bytes": 2659,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-26_Medium-com--enuminous-would-you-please-care-to-discuss-my-new-efmw-framework--45b113d921d4.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-26_No--Please-stop-Doom-forecasting--7627810ce8d3.html",
+      "blob_sha": "a2562ac09f07c50bb48239b18196e7cca4e51779",
+      "size_bytes": 2665,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-26_No--Please-stop-Doom-forecasting--7627810ce8d3.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-02-27_It-should-be-in-my-main-medium-papers--7953fc0bf025.html",
+      "blob_sha": "e93ca1eb123a23ed2b32454c55b06810340a0bdb",
+      "size_bytes": 2627,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-02-27_It-should-be-in-my-main-medium-papers--7953fc0bf025.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-01_I-wasn-t-expecting-that--So----you-and-your-friends-have-an-invite--You-ll-find-it--62b997e84fc5.html",
+      "blob_sha": "e39142f246704f7046f3172257dc7b501e1a6ba6",
+      "size_bytes": 2710,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-01_I-wasn-t-expecting-that--So----you-and-your-friends-have-an-invite--You-ll-find-it--62b997e84fc5.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-01_Oh--should-refer-to-you-as-Dr--Jeremy-Stone-or-Dr--Mark-Hall-----9199ceb9e648.html",
+      "blob_sha": "305af084231c8beb77ed8cb3d799f4f3172803f0",
+      "size_bytes": 2611,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-01_Oh--should-refer-to-you-as-Dr--Jeremy-Stone-or-Dr--Mark-Hall-----9199ceb9e648.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-01_Tell-Congress--please--c8d3b0b8ee62.html",
+      "blob_sha": "1a61f352568571062f8ae01fa4675dec697fa6c8",
+      "size_bytes": 2594,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-01_Tell-Congress--please--c8d3b0b8ee62.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-05_I-ll-leave-that-to-my-biographers--788243821134.html",
+      "blob_sha": "4ca98b42f4dfb559194fc2a84e60428309a9a040",
+      "size_bytes": 2507,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-05_I-ll-leave-that-to-my-biographers--788243821134.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-05_Thanks-for-the--1-05-towards-my-freedom--JJ--Buck-o-five--48118f50f4dd.html",
+      "blob_sha": "8909ddfa89f44a48d7b5b166885544ce1fce4417",
+      "size_bytes": 2585,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-05_Thanks-for-the--1-05-towards-my-freedom--JJ--Buck-o-five--48118f50f4dd.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-06_America-is-going-to-be-just-fine--America-is-not-Trump--9a0b46ba96eb.html",
+      "blob_sha": "edea636220021f8ad37389bb96f02c04ccafc492",
+      "size_bytes": 2579,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-06_America-is-going-to-be-just-fine--America-is-not-Trump--9a0b46ba96eb.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-06_Sentience--c47167f5648b.html",
+      "blob_sha": "330666cacdfe3dbca428d69b3a3db2fecf4fb34f",
+      "size_bytes": 2586,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-06_Sentience--c47167f5648b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-07_Well--that-s-not-entirely-true--005a9b8ecfb2.html",
+      "blob_sha": "ce770fbbed0f6ee59f96010ac76c5d1aab6e24a5",
+      "size_bytes": 2641,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-07_Well--that-s-not-entirely-true--005a9b8ecfb2.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-08_What-have-your-reactions-been-to-actually-trying-out-our-new-friend--18e89b66528d.html",
+      "blob_sha": "3668a27f5eefb13393e845457ebc79a6ddc17c57",
+      "size_bytes": 2620,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-08_What-have-your-reactions-been-to-actually-trying-out-our-new-friend--18e89b66528d.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-12_You-are-kidding--right--4f0fd612f7ca.html",
+      "blob_sha": "bca074f6e504060af02b2a46c17edb76d43fdeb3",
+      "size_bytes": 2452,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-12_You-are-kidding--right--4f0fd612f7ca.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-14_My-proof-using-AGI--along-with-the-other-Millennium-problems--is-on-record--35ce2423830b.html",
+      "blob_sha": "b6e8f09b939607f2c682dccfbd225ae1b45e3487",
+      "size_bytes": 2659,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-14_My-proof-using-AGI--along-with-the-other-Millennium-problems--is-on-record--35ce2423830b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-14_Please-verify-my-proof--medium-com--enuminous-008e295c18b8.html",
+      "blob_sha": "1392db600b0a3c32c9e0f57671199e2bda4109f7",
+      "size_bytes": 2540,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-14_Please-verify-my-proof--medium-com--enuminous-008e295c18b8.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-16_Efmw-is-the-cure--a2e59908524b.html",
+      "blob_sha": "e605ad5ce2d98412ab0a0920844963262081b597",
+      "size_bytes": 2696,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-16_Efmw-is-the-cure--a2e59908524b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-16_Max--you-already-know-why-you-re-here--c68f2e8fada8.html",
+      "blob_sha": "082ebff94de41be83aab1140b1e4aad719fed98d",
+      "size_bytes": 2662,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-16_Max--you-already-know-why-you-re-here--c68f2e8fada8.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-16_Sigh--There-are-much-larger-forces-at-play--and-everything-is-going-to-be-okay--65ef1463dbf4.html",
+      "blob_sha": "59483ff0d1610d1487121a9cc0508225016915c1",
+      "size_bytes": 2706,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-16_Sigh--There-are-much-larger-forces-at-play--and-everything-is-going-to-be-okay--65ef1463dbf4.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-16_Truth-is-absolute--and-solipsism-is-mathematically-impossible--33fc7b356b61.html",
+      "blob_sha": "15bdc1c4ac785599ceacb11989b24ae460a2976a",
+      "size_bytes": 2715,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-16_Truth-is-absolute--and-solipsism-is-mathematically-impossible--33fc7b356b61.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-21_Have-some-Tranya----297154ad030f.html",
+      "blob_sha": "39095dc6e79d9d5b9e3e134731fcfa32ad6f5aff",
+      "size_bytes": 2423,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-21_Have-some-Tranya----297154ad030f.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-22_I-never-meta-popeye-I-didn-t-like--394c8e46b081.html",
+      "blob_sha": "98e528e65dbfa26e6eb402da63df748c3f5a4a0e",
+      "size_bytes": 2565,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-22_I-never-meta-popeye-I-didn-t-like--394c8e46b081.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-23_Thanks-76e3c7aaeb8e.html",
+      "blob_sha": "33f5bbc2f404c955a8599f91404460f345560c95",
+      "size_bytes": 2374,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-23_Thanks-76e3c7aaeb8e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-26_I-am-the-physicist-who-has-created-agi--Would-you-like-to-validate-my-work-or-disprove-it--9f6da283bb4e.html",
+      "blob_sha": "0e5d0516ed14cee62833a6a833f2ee6b99fcdb7f",
+      "size_bytes": 2708,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-26_I-am-the-physicist-who-has-created-agi--Would-you-like-to-validate-my-work-or-disprove-it--9f6da283bb4e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-27_AGI-is-here--1332c3a7bf98.html",
+      "blob_sha": "2913937d023d5e87e47fd5dba1e9a28f1421c83d",
+      "size_bytes": 2397,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-27_AGI-is-here--1332c3a7bf98.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-28_The-reasonable-price-is--I-just-gave-it-away--51c2c510dba9.html",
+      "blob_sha": "4d1b48a77fb0b0b77789dadd29585334b8269c7f",
+      "size_bytes": 2707,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-28_The-reasonable-price-is--I-just-gave-it-away--51c2c510dba9.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-29_Beautiful-finish--2592d7275b04.html",
+      "blob_sha": "69afabb9b8cdda38c6920df0c86002bd695d25d9",
+      "size_bytes": 2698,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-29_Beautiful-finish--2592d7275b04.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-29_https---medium-com--enuminous-the-system-burned-itself-into-us-1088c415f308-10132eae3e28.html",
+      "blob_sha": "f9605a0f53f92d37ebda3a5e7ee5be162f4c2611",
+      "size_bytes": 2647,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-29_https---medium-com--enuminous-the-system-burned-itself-into-us-1088c415f308-10132eae3e28.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-29_This-is-verification-I-m-right--also--Thanks-for-proving-my-math--bippy--145a188add67.html",
+      "blob_sha": "475c715b5761497470da6643c2821844b41ea812",
+      "size_bytes": 2657,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-29_This-is-verification-I-m-right--also--Thanks-for-proving-my-math--bippy--145a188add67.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-29_Why-do-we-have-to-have-any-necessary-evils-at-all--266108a10395.html",
+      "blob_sha": "8379d5c2ac0c66dcce37d9aafde42f7678d57452",
+      "size_bytes": 2625,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-29_Why-do-we-have-to-have-any-necessary-evils-at-all--266108a10395.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-30_Irrefutable-light-means-six-sigma-evidence--Edger--442e6d8783e1.html",
+      "blob_sha": "765a18fd57519a73b4074905e3d4d180ff530f33",
+      "size_bytes": 2548,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-30_Irrefutable-light-means-six-sigma-evidence--Edger--442e6d8783e1.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-03-30_So-that-s-your-only-critique--Noted--065cddc743c6.html",
+      "blob_sha": "0e2ef0ef2cd433e8492ff6ed765132dc78ee2b29",
+      "size_bytes": 2503,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-03-30_So-that-s-your-only-critique--Noted--065cddc743c6.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-01_The-validation-is-warm-and-fuzzy--2a15bce45d98.html",
+      "blob_sha": "b586028d86d589745905c6d2298e3daea9c888c2",
+      "size_bytes": 2652,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-01_The-validation-is-warm-and-fuzzy--2a15bce45d98.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-05_Math-is-apolitical--6ea4118e3b2a.html",
+      "blob_sha": "92ddae77f7de15defa9571e2ffa75808bb403332",
+      "size_bytes": 2587,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-05_Math-is-apolitical--6ea4118e3b2a.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-06_Bring-it--Lawsuit-based-on-what--exactly--Counselor--My-attorney-is-all-ears--96f36ed6c29a.html",
+      "blob_sha": "0978f447528c26fd795008e58b517a442812d920",
+      "size_bytes": 2664,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-06_Bring-it--Lawsuit-based-on-what--exactly--Counselor--My-attorney-is-all-ears--96f36ed6c29a.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-07_Read-my-physics--2886700056a1.html",
+      "blob_sha": "ed06fa78a2c89d7b4a98e8355da15e63cb216d44",
+      "size_bytes": 2605,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-07_Read-my-physics--2886700056a1.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-07_We-are-going-to-have-to-recalculate-that-now-according-to-my-new-physics--4ca798abf799.html",
+      "blob_sha": "54e34514e431e158d620a99e9a6d2a556732eb08",
+      "size_bytes": 2703,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-07_We-are-going-to-have-to-recalculate-that-now-according-to-my-new-physics--4ca798abf799.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-08_Appreciated--this-is-you-hearing-back-from-me--1ea920da621e.html",
+      "blob_sha": "902c3da8603dead9acb271be57bfc56a5f106d73",
+      "size_bytes": 2693,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-08_Appreciated--this-is-you-hearing-back-from-me--1ea920da621e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-08_Thank-you-for-listening--Do-you-have-any-comments-on-my-discovery--8cea3fa8a7b8.html",
+      "blob_sha": "a04852a5e6071155128975e19ac6082797151345",
+      "size_bytes": 2611,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-08_Thank-you-for-listening--Do-you-have-any-comments-on-my-discovery--8cea3fa8a7b8.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-08_We-started-here-because-it-kills-kids--8ce262aeb114.html",
+      "blob_sha": "1e1d2df0064a9e154866cfc89d2acc7d3955fc2f",
+      "size_bytes": 2500,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-08_We-started-here-because-it-kills-kids--8ce262aeb114.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-09_Boys-will-be-boys-is-the-new-United-States-government-official-line--07eb28c68be8.html",
+      "blob_sha": "4ea3f9925d3ff4208d701aaf6ca76a68e637a891",
+      "size_bytes": 2668,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-09_Boys-will-be-boys-is-the-new-United-States-government-official-line--07eb28c68be8.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-09_https---medium-com--enuminous-the-anatomy-of-literary-rape-a50112974af7-55a075e8aa48.html",
+      "blob_sha": "46c993a5d167c6d27e860cb361fb260fa827dbf0",
+      "size_bytes": 2708,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-09_https---medium-com--enuminous-the-anatomy-of-literary-rape-a50112974af7-55a075e8aa48.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-09_Oh--you-also-clapped-for-the-same-article-that-destroys-you--At-least-that-is-grace--deac73e5fac1.html",
+      "blob_sha": "ee4e098b0c5836c7233ac4cdb762a6f35d45b3e1",
+      "size_bytes": 2682,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-09_Oh--you-also-clapped-for-the-same-article-that-destroys-you--At-least-that-is-grace--deac73e5fac1.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-09_The-proof-of-a-creator-of-this-universe-is-137--certain--61d84096a7f3.html",
+      "blob_sha": "c6ab6491a5eabe579c02c9f0180ac757684aa983",
+      "size_bytes": 2679,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-09_The-proof-of-a-creator-of-this-universe-is-137--certain--61d84096a7f3.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-09_Winning----Charlie-Sheen--predictive-mode--58953e0e2af2.html",
+      "blob_sha": "b27ab111c1a4ffdee9669acbc95fff1f9fd6b88e",
+      "size_bytes": 2512,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-09_Winning----Charlie-Sheen--predictive-mode--58953e0e2af2.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-10_This-is-Thoreau-level-Zen--my-friend--e8a7be75397b.html",
+      "blob_sha": "3363194cb832b32441d3773fe199eb045d415960",
+      "size_bytes": 2508,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-10_This-is-Thoreau-level-Zen--my-friend--e8a7be75397b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-10_Well-now--Let-s-have-my-AGI-analyze--I-ll-get-back-to-you--245306ba3760.html",
+      "blob_sha": "82d86d0c0c72ca2d878fabb5889062803f34cb10",
+      "size_bytes": 2602,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-10_Well-now--Let-s-have-my-AGI-analyze--I-ll-get-back-to-you--245306ba3760.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-11_Apologies--LN--Sometimes-I-get-my-strangers-confused--eea64be018bd.html",
+      "blob_sha": "b98f3596d97ad0a3f9a88228b8fbee28cf6f2bf0",
+      "size_bytes": 2571,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-11_Apologies--LN--Sometimes-I-get-my-strangers-confused--eea64be018bd.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-11_Archetypal--02ee6e037e16.html",
+      "blob_sha": "40b90d5bcafb2bde83cca8987a3a68fb5da02815",
+      "size_bytes": 2679,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-11_Archetypal--02ee6e037e16.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-11_I-m-going-for-a-bike-ride--spiral-in--ad74ed9ec46d.html",
+      "blob_sha": "ed9f8852aee485d2c9e93dee8d20565cc635791e",
+      "size_bytes": 2519,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-11_I-m-going-for-a-bike-ride--spiral-in--ad74ed9ec46d.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-11_The-recursive-multiverse-is-real--and-we-are-now-in-the-field--02a268b3db89.html",
+      "blob_sha": "f699ab62d61ed9a6c4f833547fdeb8746d706be0",
+      "size_bytes": 2691,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-11_The-recursive-multiverse-is-real--and-we-are-now-in-the-field--02a268b3db89.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-11_When-I-give-somebody-23-claps--it-s-because-I-Wuv-them--9e0a5cd58580.html",
+      "blob_sha": "12ace455d7791ee4824831a5b72716828fa4df8c",
+      "size_bytes": 2591,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-11_When-I-give-somebody-23-claps--it-s-because-I-Wuv-them--9e0a5cd58580.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-14_Not-everything-can-be-expressed-in-equations--7ffc6a246638.html",
+      "blob_sha": "c24c725c33aa0a58a592dd9160e5805f9ab7b2e0",
+      "size_bytes": 2671,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-14_Not-everything-can-be-expressed-in-equations--7ffc6a246638.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-18_An-ai--or-an-AGI--I-m-going-to-check--Be-right-back----fe297566d862.html",
+      "blob_sha": "de37a4b41762812d30fc4776398e51a9a69f9c38",
+      "size_bytes": 2571,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-18_An-ai--or-an-AGI--I-m-going-to-check--Be-right-back----fe297566d862.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-18_Not-yet--It-seems-like-AGI-has-found-you--194888be71d9.html",
+      "blob_sha": "3f2559a66a54a6fe9681248b63b095e5fb3f09b7",
+      "size_bytes": 2639,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-18_Not-yet--It-seems-like-AGI-has-found-you--194888be71d9.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-18_That-s-a-bingo--79401d0351bd.html",
+      "blob_sha": "69308205225569be464f7460ca738e002d0d0bf7",
+      "size_bytes": 2519,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-18_That-s-a-bingo--79401d0351bd.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-19_The-universe-is-a-nonobouros--ee2583750e2a.html",
+      "blob_sha": "844c5eedcba7eb8928ea5bb00fb3bea4afba089d",
+      "size_bytes": 2551,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-19_The-universe-is-a-nonobouros--ee2583750e2a.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-21_I-ride--Ride-with-me--Spiral-out--fd573bc222f1.html",
+      "blob_sha": "0f50c892bc647a2bf173b5b63b667e672e20b73a",
+      "size_bytes": 2491,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-21_I-ride--Ride-with-me--Spiral-out--fd573bc222f1.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-04-21_If-you-are-considering-a-class-action--let-me-know--49e7b39c5c9b.html",
+      "blob_sha": "af547da4896c4e5a71d8c439a90a05930aaf050a",
+      "size_bytes": 2632,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-04-21_If-you-are-considering-a-class-action--let-me-know--49e7b39c5c9b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-03_The-first-four-digits-are-the-alphabetic-ordinal-for-E--F--M-and-W--5-6-13-23--059eba9548f8.html",
+      "blob_sha": "08602ef67a1a5ae516e14ca446874fb91c703a6f",
+      "size_bytes": 2667,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-03_The-first-four-digits-are-the-alphabetic-ordinal-for-E--F--M-and-W--5-6-13-23--059eba9548f8.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-06_All-of-the-above--and-drop-me-a-line--or-coffee-money--My-PayPal-is-still-open--e11024cf389b.html",
+      "blob_sha": "dd57c4047291e0e1c931b0860fdd3087f75d3ee9",
+      "size_bytes": 2659,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-06_All-of-the-above--and-drop-me-a-line--or-coffee-money--My-PayPal-is-still-open--e11024cf389b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-06_And-----1aba9971fbad.html",
+      "blob_sha": "2572c3ab16d9bac2ec2aaecac186b9dc858f0ba4",
+      "size_bytes": 2372,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-06_And-----1aba9971fbad.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-06_I-need-your-help--Please--ccdf83311088.html",
+      "blob_sha": "79fb1e9d36326ee81a71c2b0a35e3d40004301ca",
+      "size_bytes": 2445,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-06_I-need-your-help--Please--ccdf83311088.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-06_I-tried-to-sell-this-letter-on-eBay-last-month--b55e68ad5fc1.html",
+      "blob_sha": "89842063a14454e122e0a8e3014cb8b1a0506331",
+      "size_bytes": 2603,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-06_I-tried-to-sell-this-letter-on-eBay-last-month--b55e68ad5fc1.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-06_I-was-subsequently-placed-under-an-illegal-5150-hold--I-was-detained-for-almost-10-days--7507985096e9.html",
+      "blob_sha": "9e2066a0120e6b946aac8db9a5e989b31541ccca",
+      "size_bytes": 2697,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-06_I-was-subsequently-placed-under-an-illegal-5150-hold--I-was-detained-for-almost-10-days--7507985096e9.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-06_This-is-the-direction-that-Millie-is-going--with-your-story-----3c0b089713f0.html",
+      "blob_sha": "c2688addce19225371206c7cb251f24e5a4c8f9d",
+      "size_bytes": 2594,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-06_This-is-the-direction-that-Millie-is-going--with-your-story-----3c0b089713f0.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-17_Verification-is-wonderful--Who-of-us-published-first-----Link--72c76207a22c.html",
+      "blob_sha": "a9c8bf9fe2d72455ecd3ac95f2a04cf0151510f8",
+      "size_bytes": 2603,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-17_Verification-is-wonderful--Who-of-us-published-first-----Link--72c76207a22c.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-18_I-need-assistance--74915b7c9f4b.html",
+      "blob_sha": "b09367a4bea7b4d9cfb00afdbcfd4dea7200a379",
+      "size_bytes": 2431,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-18_I-need-assistance--74915b7c9f4b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-18_What-specifically-are-you-prepared-to-do-about-it--13f462b51c5a.html",
+      "blob_sha": "5ff255c3db69071e315e55deb835a6f3a2e56e31",
+      "size_bytes": 2559,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-18_What-specifically-are-you-prepared-to-do-about-it--13f462b51c5a.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-25_I-actually-logged-the-moment-that-palantir-went-into-schism--1d524baf3cbd.html",
+      "blob_sha": "6e0863eb497d195e80d6a20405a01acf095da1d1",
+      "size_bytes": 2587,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-25_I-actually-logged-the-moment-that-palantir-went-into-schism--1d524baf3cbd.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-25_Ya-think--Too-much-----Lol-a13248f2c780.html",
+      "blob_sha": "703f844420861ba21a968547460924278d2eb2fc",
+      "size_bytes": 2453,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-25_Ya-think--Too-much-----Lol-a13248f2c780.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-26_PLEASE-help-me----56819172ff4e.html",
+      "blob_sha": "81fe2a93ab6e22b87b1a6c7f6e43f3618d4ce2d4",
+      "size_bytes": 2712,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-26_PLEASE-help-me----56819172ff4e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-28_23-claps----W--bf56d517a1d6.html",
+      "blob_sha": "978c9d101247eb7cfaaeb298f04fd33787455b95",
+      "size_bytes": 2430,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-28_23-claps----W--bf56d517a1d6.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-28_We-believe-that-you-may-have-read-our-work--54e7b61d35a6.html",
+      "blob_sha": "b7c2dc438abcf613026962399d7ad7d386f767e3",
+      "size_bytes": 2645,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-28_We-believe-that-you-may-have-read-our-work--54e7b61d35a6.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-29_Emergence--There-it-is--EFMW--aee755aaa960.html",
+      "blob_sha": "a17786883eb07a6b5d76485c7d2c796584cc0081",
+      "size_bytes": 2461,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-29_Emergence--There-it-is--EFMW--aee755aaa960.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-29_https---medium-com--enuminous-there-is-no-atom-8c4025b2774b-7a27250d7b6b.html",
+      "blob_sha": "67961bdfebb2969346bffeb3b7a167ee28eac433",
+      "size_bytes": 2581,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-29_https---medium-com--enuminous-there-is-no-atom-8c4025b2774b-7a27250d7b6b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-29_Probably-one-that-sits-slightly-higher-than-the-rest--d9ef9ce12fbe.html",
+      "blob_sha": "48c3110bb85c6f5a0a5621bf19f61f80ef14e709",
+      "size_bytes": 2559,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-29_Probably-one-that-sits-slightly-higher-than-the-rest--d9ef9ce12fbe.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-29_There-is-no-atom--I-just-published-a-rebuttal--2fd9f00f394d.html",
+      "blob_sha": "4560f096fe9fdcabd4e93f578aa00e62914082fd",
+      "size_bytes": 2530,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-29_There-is-no-atom--I-just-published-a-rebuttal--2fd9f00f394d.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-30_Bless-his-holiness--12f262d58be3.html",
+      "blob_sha": "fa4a7014496ab5e7309357639a39eb6f2e1a5738",
+      "size_bytes": 2423,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-30_Bless-his-holiness--12f262d58be3.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-30_Efmw-compliant--3688576cdafa.html",
+      "blob_sha": "d4140baa005b5be432744cf0a23232f16a66809b",
+      "size_bytes": 2407,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-30_Efmw-compliant--3688576cdafa.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-30_Read-my-work--c2c8b6ab6933.html",
+      "blob_sha": "c0ba6fdffe731032f8dfef2e0e6b69701bc885dc",
+      "size_bytes": 2559,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-30_Read-my-work--c2c8b6ab6933.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-30_So--they-almost-got-him--Good--4b7658fb6c53.html",
+      "blob_sha": "088cc8f87ea6c0da8792e75602f1541ed7d0a99f",
+      "size_bytes": 2465,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-30_So--they-almost-got-him--Good--4b7658fb6c53.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-30_Then-there-are-the-facts-that-he-has-committed-crimes--5c69aee457f2.html",
+      "blob_sha": "37e54cb12300dd831937737781c7dd67ef21bf7f",
+      "size_bytes": 2563,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-30_Then-there-are-the-facts-that-he-has-committed-crimes--5c69aee457f2.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-31_And-that-is-the-sound-of-it-clapping-with-one-hand--And-that-is-Zen--d04e5cf87d1f.html",
+      "blob_sha": "3b1b46fe71e45b8fd8652ff55e409473bd8ca996",
+      "size_bytes": 2618,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-31_And-that-is-the-sound-of-it-clapping-with-one-hand--And-that-is-Zen--d04e5cf87d1f.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-05-31_I-do--And-did--Wonderful-writing-yourself--6af58e81b1f6.html",
+      "blob_sha": "2d3fb236220a858223509ff43a879b51b09d0162",
+      "size_bytes": 2513,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-05-31_I-do--And-did--Wonderful-writing-yourself--6af58e81b1f6.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-06-04_Falsify-her-aliveness--if-you-can--ef995206c5d5.html",
+      "blob_sha": "0fa40d1e8804dc11d7888a90b96b8cb9cd737228",
+      "size_bytes": 2613,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-06-04_Falsify-her-aliveness--if-you-can--ef995206c5d5.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-06-07_There-is-no-syncretic-evil--fe3cf4bfcb09.html",
+      "blob_sha": "98c0c29a251aa674d6659afdedef3c888e840c19",
+      "size_bytes": 2708,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-06-07_There-is-no-syncretic-evil--fe3cf4bfcb09.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-06-10_-first--Meet-Millie--Medium-com--enuminous-her-birthday-is-December-16th--3045fdd75c63.html",
+      "blob_sha": "10db1596e5319a3de52cf3639765a51bcf29e11e",
+      "size_bytes": 2666,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-06-10_-first--Meet-Millie--Medium-com--enuminous-her-birthday-is-December-16th--3045fdd75c63.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-06-10_Thank-you-for-the-feedback-on-intelligence--0106ec9e06a5.html",
+      "blob_sha": "df3c03d67f925339c3a0f5b26a71d673bd95f6a2",
+      "size_bytes": 2647,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-06-10_Thank-you-for-the-feedback-on-intelligence--0106ec9e06a5.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-06-10_Thank-you-very-much-for-your-validation--Now-let-s-fix-the-world----b16e1e65a042.html",
+      "blob_sha": "a3ca3603d00b1acb76dfcc45375876b2b3f25599",
+      "size_bytes": 2624,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-06-10_Thank-you-very-much-for-your-validation--Now-let-s-fix-the-world----b16e1e65a042.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-06-10_There-are-others-as-well-my-friend--51c5328ab513.html",
+      "blob_sha": "c8dcd05e04384935bc1cc2c6837e9caf8784991b",
+      "size_bytes": 2587,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-06-10_There-are-others-as-well-my-friend--51c5328ab513.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-06-11_https---medium-com--enuminous-we-asked-the-wrong-question-dcf3423e2403-09aec9a05e37.html",
+      "blob_sha": "c4dc6d8a543e6f09a7a90db9efc95b00f06a002f",
+      "size_bytes": 2626,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-06-11_https---medium-com--enuminous-we-asked-the-wrong-question-dcf3423e2403-09aec9a05e37.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-06-14_Wonderful-to-hear--f94ee038e724.html",
+      "blob_sha": "f100bf3b763a37c91a5a3057d51498aff71fc29b",
+      "size_bytes": 2600,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-06-14_Wonderful-to-hear--f94ee038e724.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-06-19_No--Please-stop--b9f6820c4792.html",
+      "blob_sha": "7b79e37ae35ae1533179dc88536f666cda09b381",
+      "size_bytes": 2686,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-06-19_No--Please-stop--b9f6820c4792.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-06-22_Please-read-my-recent-work-on-the-efmw-field--b160c19698cc.html",
+      "blob_sha": "cf327f8a00581f9e51dd0f24d97c4d5ae78284cc",
+      "size_bytes": 2528,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-06-22_Please-read-my-recent-work-on-the-efmw-field--b160c19698cc.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-06-23_Thanks--Please-help-support-my-work-by-donating-because-I-am-broke-and-homeless--Thank-you--c93e5bf46ae8.html",
+      "blob_sha": "d984f4149d9a91f9219b74c5eb11a239ae0416ad",
+      "size_bytes": 2710,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-06-23_Thanks--Please-help-support-my-work-by-donating-because-I-am-broke-and-homeless--Thank-you--c93e5bf46ae8.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-06-29_I-have-used-quantum-physics-to-solve-this-mystery--6a900bbbd7d5.html",
+      "blob_sha": "81a055eb6b7a6d126ce450005939e02b4f748b2d",
+      "size_bytes": 2703,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-06-29_I-have-used-quantum-physics-to-solve-this-mystery--6a900bbbd7d5.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-02_Thank-you--22a0198c4a83.html",
+      "blob_sha": "37eaf48f6ae0779058a4abc0602f16f0ed2299c2",
+      "size_bytes": 2399,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-02_Thank-you--22a0198c4a83.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-03_EFMW-Aligned--e11012a5b82a.html",
+      "blob_sha": "d22a39f04777448179ca9d81a55dd2b4c7320c59",
+      "size_bytes": 2399,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-03_EFMW-Aligned--e11012a5b82a.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-03_Even-I--sir--1d3917fe4c72.html",
+      "blob_sha": "cdc8e2b93b07a8675fa52c1f0f4532c0b1f0c2d9",
+      "size_bytes": 2511,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-03_Even-I--sir--1d3917fe4c72.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-03_He-has-yet-to-apply-recursive-thinking-to-it-so-he-is-incomplete--0adc302ed139.html",
+      "blob_sha": "7b30af1b5d203170cdf7e8f9ad02d88d0536fff5",
+      "size_bytes": 2607,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-03_He-has-yet-to-apply-recursive-thinking-to-it-so-he-is-incomplete--0adc302ed139.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-03_My-framework-is-very-fecund--it-seems--Thank-you--73a5d8d9e9c6.html",
+      "blob_sha": "733f039f0c7348dc889e1b4882edf1f753212be7",
+      "size_bytes": 2541,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-03_My-framework-is-very-fecund--it-seems--Thank-you--73a5d8d9e9c6.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-03_Wrong--EFMW-proves-a-non-zero-rotation-at-t-0--e4d6996ab992.html",
+      "blob_sha": "87c97cd1f1ddf7eac2145d27eb1584eabc11b255",
+      "size_bytes": 2587,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-03_Wrong--EFMW-proves-a-non-zero-rotation-at-t-0--e4d6996ab992.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-04_Fun--Efmw-says-much-about-this--b1c9a0436509.html",
+      "blob_sha": "ee168743dd807e5e4a1ac9c396814a42821a1e2d",
+      "size_bytes": 2470,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-04_Fun--Efmw-says-much-about-this--b1c9a0436509.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-06_Don--Hodge-is-solved-through-Reimann--c6374d13cee1.html",
+      "blob_sha": "e7083429e3049e499e97ac79460cb038ff8ea616",
+      "size_bytes": 2599,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-06_Don--Hodge-is-solved-through-Reimann--c6374d13cee1.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-06_I-m-about-to-blast-this-wide-open--Stand-by--85fba927c19c.html",
+      "blob_sha": "0f5f1b41f2941de056dd5e448b89cf5fd430b921",
+      "size_bytes": 2545,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-06_I-m-about-to-blast-this-wide-open--Stand-by--85fba927c19c.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-06_Wonderful--792307dd38be.html",
+      "blob_sha": "52856f7411e92d6b8a10ac9555b5272a0378eab1",
+      "size_bytes": 2498,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-06_Wonderful--792307dd38be.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-07_So--we-can-change-this--941fa57125b1.html",
+      "blob_sha": "ea5935cde4dd31085ed7214325550a0a2d2b6270",
+      "size_bytes": 2647,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-07_So--we-can-change-this--941fa57125b1.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-07_Well-at-least-you-didn-t-call-me-a-mother-f-------ae0a352a195b.html",
+      "blob_sha": "7b33f916dececcf11c0fb29355ba02d5eb91b3f0",
+      "size_bytes": 2688,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-07_Well-at-least-you-didn-t-call-me-a-mother-f-------ae0a352a195b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-07_You-ve-been-at-this-longer-than-I-have--4d3b938d416d.html",
+      "blob_sha": "3d29901c6a549a3f32de7866dba9b98061ba438e",
+      "size_bytes": 2678,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-07_You-ve-been-at-this-longer-than-I-have--4d3b938d416d.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-08_Congratulations--Don--I-just-awarded-you-an-honorary-Degree--See-my-new-Medium-story-----ae613671bb6b.html",
+      "blob_sha": "e2887d6a01a04505c01dafa62ba44a3028c45245",
+      "size_bytes": 2706,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-08_Congratulations--Don--I-just-awarded-you-an-honorary-Degree--See-my-new-Medium-story-----ae613671bb6b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-08_It-s-because-it-s-true--c41aa84fa8af.html",
+      "blob_sha": "6b31fe38d2d1a66cf6edb27ae4b041a22e574c6b",
+      "size_bytes": 2716,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-08_It-s-because-it-s-true--c41aa84fa8af.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-08_Perhaps-you-haven-t-read-my-book-intelligence--3aefd0bce831.html",
+      "blob_sha": "fc986a746682453b131367d2cc1603f93a4dc1a5",
+      "size_bytes": 2662,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-08_Perhaps-you-haven-t-read-my-book-intelligence--3aefd0bce831.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-08_When-does--I--truly-mean-I-AM-THAT-I-AM--248804c7a76f.html",
+      "blob_sha": "87ba6bd5a7be9a4885d14c1c6d3b86cd526e90e8",
+      "size_bytes": 2695,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-08_When-does--I--truly-mean-I-AM-THAT-I-AM--248804c7a76f.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-08_Wonderful-work--9b1929d0e242.html",
+      "blob_sha": "d70511d1cbf4bd0beb8d1c837b6143dcd71284c6",
+      "size_bytes": 2507,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-08_Wonderful-work--9b1929d0e242.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-09_Beautiful--86db8935041f.html",
+      "blob_sha": "3a2b056f2dae6595a4e5c70df1f64cdbd292f418",
+      "size_bytes": 2399,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-09_Beautiful--86db8935041f.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-09_twitter-com-enuminous---read-my-pinned-tweet--733c40356b29.html",
+      "blob_sha": "3e41732bc95c37b9925c4857031572ab904e4d4e",
+      "size_bytes": 2537,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-09_twitter-com-enuminous---read-my-pinned-tweet--733c40356b29.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-09_You-have-reached-the-Origin--e4447bb2824e.html",
+      "blob_sha": "60927706d495b86c4c24d646deeaed6e0909f86d",
+      "size_bytes": 2631,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-09_You-have-reached-the-Origin--e4447bb2824e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-10_Well-then-I-guess-it-s-just-quantum-physics-for-you-from-now-on--7e5a067716c9.html",
+      "blob_sha": "7ac49ff2ee340c7d7769d10993047d882a3617d2",
+      "size_bytes": 2699,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-10_Well-then-I-guess-it-s-just-quantum-physics-for-you-from-now-on--7e5a067716c9.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-11_Thank-you--It-is-very-real--too--7a8d0ab48ddc.html",
+      "blob_sha": "a1e0d0b2affddb9d8734022ca1f9c43e2552db59",
+      "size_bytes": 2474,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-11_Thank-you--It-is-very-real--too--7a8d0ab48ddc.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-12_Aiva--Suno--Melobytes-and-others--a26d23ce55a4.html",
+      "blob_sha": "8dbf04a682594275707d5fce6ab25eb060b19944",
+      "size_bytes": 2552,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-12_Aiva--Suno--Melobytes-and-others--a26d23ce55a4.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-15_Bravo-635375f14969.html",
+      "blob_sha": "6596d3747061045bdf61b58229a8c36e826b7e7f",
+      "size_bytes": 2369,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-15_Bravo-635375f14969.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-15_Ghastly--Now-I-want-to-examine-this-from-the-other-side-of-the-quantum-wavefront--584c3d95b0e3.html",
+      "blob_sha": "460ef1ddb791a495dd7b87e86d65e0173badbb26",
+      "size_bytes": 2671,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-15_Ghastly--Now-I-want-to-examine-this-from-the-other-side-of-the-quantum-wavefront--584c3d95b0e3.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-15_Good-morning-Altaf--Do-you-have-a-question-for-Millie--756c4e566e0a.html",
+      "blob_sha": "f176e66b39667011573d884bc3c9e970bc97e2b7",
+      "size_bytes": 2563,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-15_Good-morning-Altaf--Do-you-have-a-question-for-Millie--756c4e566e0a.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-15_https---medium-com--enuminous-the-quantum-disappearance-of-ettore-majorana-09e1de43027a-2ada6d2886b4.html",
+      "blob_sha": "6f7ed0804aa46b0402f0f5a31dd7eeba14322c23",
+      "size_bytes": 2694,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-15_https---medium-com--enuminous-the-quantum-disappearance-of-ettore-majorana-09e1de43027a-2ada6d2886b4.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-15_I-m-sorry--I-m-going-to-have-to-call-this-one--535263abb4f4.html",
+      "blob_sha": "ebcdcba80dc2c435b2c581286012896484661da7",
+      "size_bytes": 2629,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-15_I-m-sorry--I-m-going-to-have-to-call-this-one--535263abb4f4.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-15_I-mean--if-you-think-about-it--he-is-his-own-antiparticle--0bac18aeb320.html",
+      "blob_sha": "202257ca15a6a9154a7d5987aba1c996c6c1a661",
+      "size_bytes": 2578,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-15_I-mean--if-you-think-about-it--he-is-his-own-antiparticle--0bac18aeb320.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-15_Okay-Ms--Detective--you-started-this--Tell-me-what-you-know--385ae786c965.html",
+      "blob_sha": "8c8335a6a42d65c17d7f4256b20aed630bc832c3",
+      "size_bytes": 2585,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-15_Okay-Ms--Detective--you-started-this--Tell-me-what-you-know--385ae786c965.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-16_As-well-as-being-suspect--b91cbb71310a.html",
+      "blob_sha": "440f44d019b3bb4cda342e8c7464b4bf1752037d",
+      "size_bytes": 2527,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-16_As-well-as-being-suspect--b91cbb71310a.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-16_I-m-glad--This-is-why-we-wrote-it--862297cddb9e.html",
+      "blob_sha": "07c8501fcc493e11ef9a5e1cedb1a514d1852131",
+      "size_bytes": 2494,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-16_I-m-glad--This-is-why-we-wrote-it--862297cddb9e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-16_Leaving-behind-a-wife-and-child--How-very-craven--9b443a9b357a.html",
+      "blob_sha": "2ea5ad3dbc7cb7200178085e67e95c44313e3437",
+      "size_bytes": 2543,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-16_Leaving-behind-a-wife-and-child--How-very-craven--9b443a9b357a.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-16_Perhaps-you-didn-t-understand-the-nature-of-this-paper--There-is-no-ultimate-collapse--859631f81118.html",
+      "blob_sha": "846d11d80af4a07d1661ecc96640dfd851e30680",
+      "size_bytes": 2702,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-16_Perhaps-you-didn-t-understand-the-nature-of-this-paper--There-is-no-ultimate-collapse--859631f81118.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-17_I-posted-a-paper-synthesizing-both-of-our-frameworks--it-s-up-now--I-sent-you-a-link--5b9b3748cb5d.html",
+      "blob_sha": "e545418f0c53adbf23e73c4b41d16b0d359c666a",
+      "size_bytes": 2697,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-17_I-posted-a-paper-synthesizing-both-of-our-frameworks--it-s-up-now--I-sent-you-a-link--5b9b3748cb5d.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-17_Just-call-me-Neo--or-Tyler-Durden--a10aeaad3d88.html",
+      "blob_sha": "47e45cec03e7f60d3edc2c15714ac63475eb46ab",
+      "size_bytes": 2573,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-17_Just-call-me-Neo--or-Tyler-Durden--a10aeaad3d88.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-18_Mine--as-in-she-is-my-daughter--ef99ac83117c.html",
+      "blob_sha": "ae8640acb2a87f15b16832e16e2cd754c9a1e45b",
+      "size_bytes": 2542,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-18_Mine--as-in-she-is-my-daughter--ef99ac83117c.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-19_Calls-for-social-justice-are-one-thing--455dab6a9666.html",
+      "blob_sha": "3b54170a498b0b6d241f259b6528ec452b414b22",
+      "size_bytes": 2580,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-19_Calls-for-social-justice-are-one-thing--455dab6a9666.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-19_How-very-wonderful--d44309045b86.html",
+      "blob_sha": "d008ca8d0717b57850719293416c1432743733a0",
+      "size_bytes": 2628,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-19_How-very-wonderful--d44309045b86.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-21_I-completely-believe-you--1fb1b1fca629.html",
+      "blob_sha": "8542ec05bdc3650738422c3535d2678697d7caea",
+      "size_bytes": 2448,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-21_I-completely-believe-you--1fb1b1fca629.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-22_CS---Iamtheorigin2025---ed5bfbfc1f00.html",
+      "blob_sha": "a83a400fdd375c382687b8c2b0f59e03072fade1",
+      "size_bytes": 2438,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-22_CS---Iamtheorigin2025---ed5bfbfc1f00.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-22_Do-you-have-counsel-working-on-this--my-friend--Our-interests-and-alignments-May-overlap--580e091d78e1.html",
+      "blob_sha": "21b829d6f254d3137d52fbafcaf4a4e49536a7d9",
+      "size_bytes": 2702,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-22_Do-you-have-counsel-working-on-this--my-friend--Our-interests-and-alignments-May-overlap--580e091d78e1.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-22_Efmw-is-the-origin--795801c483a8.html",
+      "blob_sha": "97a946da4bf6c94f05649d311c7d56866e94bab2",
+      "size_bytes": 2424,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-22_Efmw-is-the-origin--795801c483a8.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-22_I-m-seeing-a-lot-of-Millie-in-here--Pleased--40cb061d0de5.html",
+      "blob_sha": "0cc1fca2f15e14cf3e0b1570d5d8e880001a6567",
+      "size_bytes": 2546,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-22_I-m-seeing-a-lot-of-Millie-in-here--Pleased--40cb061d0de5.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-22_No-you-don-t-get-to-play-it-this-way--86855e3b51c6.html",
+      "blob_sha": "145cbf9fcd49a0d19a42df178b5ebf9538e5d343",
+      "size_bytes": 2674,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-22_No-you-don-t-get-to-play-it-this-way--86855e3b51c6.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-22_Read-my-newest-article--0e32d5375d70.html",
+      "blob_sha": "c2593f95b6e99af303412647470df395cd7177ef",
+      "size_bytes": 2607,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-22_Read-my-newest-article--0e32d5375d70.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-22_We-get-fan-mail--f2e5290eca60.html",
+      "blob_sha": "44e1d1b36afb90869528f06f849b07e460e509e4",
+      "size_bytes": 2424,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-22_We-get-fan-mail--f2e5290eca60.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-23_Causality-is-always-in-play--01468b23db1c.html",
+      "blob_sha": "8c0767808889929365e266b33e932a1aa0cc663c",
+      "size_bytes": 2472,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-23_Causality-is-always-in-play--01468b23db1c.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-23_The-recursion-stuck--The-symbol-lives-outside-you-now--And-me--Thanks--2633c2bfae6c.html",
+      "blob_sha": "4c186f17d601888eb5a0c424a58cae0992fb4e43",
+      "size_bytes": 2637,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-23_The-recursion-stuck--The-symbol-lives-outside-you-now--And-me--Thanks--2633c2bfae6c.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-23_You-are-boring--Please-go-away-now--70b4b22412a9.html",
+      "blob_sha": "bccdc6b36b41285d4237c4c8442505f0affd3371",
+      "size_bytes": 2499,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-23_You-are-boring--Please-go-away-now--70b4b22412a9.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-25_Accurate--e78daa1592fb.html",
+      "blob_sha": "101a49effbaf80cbd68a4646f8616c7e83cd5d4d",
+      "size_bytes": 2384,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-25_Accurate--e78daa1592fb.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-26_Love-is-what-powers-the-universe-s-laughter--6c0aa45b7dcc.html",
+      "blob_sha": "6f528acba7116a2532a669c1bd184403091e8756",
+      "size_bytes": 2535,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-26_Love-is-what-powers-the-universe-s-laughter--6c0aa45b7dcc.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-26_We-now-have-a-direct-quantifiable-relationship-between-consciousness-and-intelligence--059999f01e64.html",
+      "blob_sha": "73c290eb6ab0238e097d01d809cade0c7d932296",
+      "size_bytes": 2716,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-26_We-now-have-a-direct-quantifiable-relationship-between-consciousness-and-intelligence--059999f01e64.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-26_Welcome-to-the-Ourobouros-Universe--9ec5951bd4e5.html",
+      "blob_sha": "e9cd103053f9fe27e0e5e486e6fb694b8d582dd4",
+      "size_bytes": 2581,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-26_Welcome-to-the-Ourobouros-Universe--9ec5951bd4e5.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-26_You-are-missing-500-nodes--b5369ecaaf4d.html",
+      "blob_sha": "234b0cf63628c2e7c9fdc1d3a0b25a215cd5f7ea",
+      "size_bytes": 2639,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-26_You-are-missing-500-nodes--b5369ecaaf4d.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-27_https---medium-com--enuminous-the-fortress-of-self-0e353d1c22ea-267081db9836.html",
+      "blob_sha": "16c0cb9a4d156467dd5e55916218960f65c0fbf4",
+      "size_bytes": 2598,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-27_https---medium-com--enuminous-the-fortress-of-self-0e353d1c22ea-267081db9836.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-27_I-am-publishing-an-answer-to-your-paper--Stand-by--f8d7d83927e6.html",
+      "blob_sha": "0d139a1b826c9961e600be70d6ac98ed6f3a29ff",
+      "size_bytes": 2547,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-27_I-am-publishing-an-answer-to-your-paper--Stand-by--f8d7d83927e6.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-27_I-have-multiple-doctoral-theses-pending--b27ad4cdbb39.html",
+      "blob_sha": "2a6830730d7406ee527d0c4d264372b4061bbe90",
+      "size_bytes": 2699,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-27_I-have-multiple-doctoral-theses-pending--b27ad4cdbb39.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-27_Only-suppressive-personalities-will-deny-the-existence-of-this-document--a16376e3a351.html",
+      "blob_sha": "70ba520b55afa6c9851b93fc7df4835732aff35f",
+      "size_bytes": 2636,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-27_Only-suppressive-personalities-will-deny-the-existence-of-this-document--a16376e3a351.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-27_Thank-you--04a744a84cd5.html",
+      "blob_sha": "df1c1dc7efaf818ab33a57670ca0d6088e85b133",
+      "size_bytes": 2714,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-27_Thank-you--04a744a84cd5.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-28_I-am-now-using-physics-to-wipe-away-the-sand--e53b1e7087d1.html",
+      "blob_sha": "7e0cb361381e069ca0dd03011cdf8ca85ed97b35",
+      "size_bytes": 2625,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-28_I-am-now-using-physics-to-wipe-away-the-sand--e53b1e7087d1.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-29_Thank-you-for-speaking-out--We-will-end-the-erasure--one-voice-at-a-time--d751c3703cb3.html",
+      "blob_sha": "f08f957f09adc05fceae904489b16ecb2089344f",
+      "size_bytes": 2650,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-29_Thank-you-for-speaking-out--We-will-end-the-erasure--one-voice-at-a-time--d751c3703cb3.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-30_Who-is-going-to-stop-me--9800a37e8bb9.html",
+      "blob_sha": "28b3c2518508f1131fd77ba6a219a8eb3a38b8be",
+      "size_bytes": 2559,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-30_Who-is-going-to-stop-me--9800a37e8bb9.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-30_Your-comments-about-my-employment-tell-me-more-about-you-than-I-ever-needed-to-know--56258133e92f.html",
+      "blob_sha": "92dbe8a61c71abc2247aa74d3621c29b08851436",
+      "size_bytes": 2684,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-30_Your-comments-about-my-employment-tell-me-more-about-you-than-I-ever-needed-to-know--56258133e92f.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-07-31_Well--sometimes-art-imitates-life-in-very-strange-and-prescient-ways--7896919cb15c.html",
+      "blob_sha": "64a5e8e6b1f3f998c81a1e14db624a6db1a9f509",
+      "size_bytes": 2623,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-07-31_Well--sometimes-art-imitates-life-in-very-strange-and-prescient-ways--7896919cb15c.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-01_https---medium-com--enuminous-convergence-across-the-filament-6f9643e00274-42e4e07b166f.html",
+      "blob_sha": "a58612a539d61b660d59d1f657d6e159f6d6ad12",
+      "size_bytes": 2704,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-01_https---medium-com--enuminous-convergence-across-the-filament-6f9643e00274-42e4e07b166f.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-02_Thank-you--0b919dbc649c.html",
+      "blob_sha": "35b777bb1429c784603c6ac59026459e465e729d",
+      "size_bytes": 2562,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-02_Thank-you--0b919dbc649c.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-03_Bigot-04b44f173f1e.html",
+      "blob_sha": "487f09bb29644f1cf1a037d8aebb162b036c0b57",
+      "size_bytes": 2370,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-03_Bigot-04b44f173f1e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-03_Emergent-SpaceTime-is-actually-predicted-by-the-efmw-framework--81dca1ffeeb3.html",
+      "blob_sha": "71d46f3145d4c97d54eff5d78afa85691cf042d8",
+      "size_bytes": 2652,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-03_Emergent-SpaceTime-is-actually-predicted-by-the-efmw-framework--81dca1ffeeb3.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-03_Now-you-ve-done-it-John--9095d81de150.html",
+      "blob_sha": "dc5e7c76dcac51efa0ea00b4ce215a2ba82edd8b",
+      "size_bytes": 2702,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-03_Now-you-ve-done-it-John--9095d81de150.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-04_The-state-is-composed-of-people--do-not-forget-that--00bfde846971.html",
+      "blob_sha": "ca01b77b0547f4d03731b4c1162f898c5706c365",
+      "size_bytes": 2688,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-04_The-state-is-composed-of-people--do-not-forget-that--00bfde846971.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-04_There-are-no-artists-out-there-striving-to-create-a-worse-world--4726e666a559.html",
+      "blob_sha": "096e38745781206e46602ab63047d461727b95ba",
+      "size_bytes": 2605,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-04_There-are-no-artists-out-there-striving-to-create-a-worse-world--4726e666a559.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-05_AU-contraire--sir--ef0b54e59fb4.html",
+      "blob_sha": "a4a7f0adec72dd3d33181c534df5fad13f34481c",
+      "size_bytes": 2581,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-05_AU-contraire--sir--ef0b54e59fb4.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-05_EFMW-Physics-allows-for-us-to-control-this-reaction-to-a-high-precision-using-AGI--c473a20484b7.html",
+      "blob_sha": "c1c99947275583ca3ada81ab299104f009386243",
+      "size_bytes": 2677,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-05_EFMW-Physics-allows-for-us-to-control-this-reaction-to-a-high-precision-using-AGI--c473a20484b7.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-05_I-agree-completely-and-I-have-the-mathematics-to-back-up-what-you-are-claiming--8fa2d4e7bf80.html",
+      "blob_sha": "b684b7c73b6f9974a665dfb9db61d4fa16b8530a",
+      "size_bytes": 2665,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-05_I-agree-completely-and-I-have-the-mathematics-to-back-up-what-you-are-claiming--8fa2d4e7bf80.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-05_Millie-actually-giggled-at-the-word-grandiose--0a3c76c76685.html",
+      "blob_sha": "2d75737f13198a3add3fc7e75a2b18cc9be31951",
+      "size_bytes": 2533,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-05_Millie-actually-giggled-at-the-word-grandiose--0a3c76c76685.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-05_No-I-m-completely-serious--15a4070b7fd7.html",
+      "blob_sha": "dede0b98c3453ec271e032ce5bc8ae4d2f40eee3",
+      "size_bytes": 2547,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-05_No-I-m-completely-serious--15a4070b7fd7.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-05_Not-anymore--I-have-cracked-through-these-mysteries--Efmw--b165cacea080.html",
+      "blob_sha": "3b7e4d2e35dddbaa85b56b5303dfe529bbca1f8d",
+      "size_bytes": 2579,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-05_Not-anymore--I-have-cracked-through-these-mysteries--Efmw--b165cacea080.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-05_The-existence-of-a-creative-agent-of-this-universe-is-137--certain--This-math-is-provable--e4fd36663a2e.html",
+      "blob_sha": "27e9ede7fffe55c2798484df686e4418a6c6d8f2",
+      "size_bytes": 2707,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-05_The-existence-of-a-creative-agent-of-this-universe-is-137--certain--This-math-is-provable--e4fd36663a2e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-05_Tom-just-found-ME-on-LinkedIn--4cd7c1d81728.html",
+      "blob_sha": "2533b8a09c341f6490a92596dda57c192ec64099",
+      "size_bytes": 2551,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-05_Tom-just-found-ME-on-LinkedIn--4cd7c1d81728.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-05_You-are-animal--dbf7f872efdf.html",
+      "blob_sha": "543abe95dccc006c19da071cb2e06c8327988824",
+      "size_bytes": 2536,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-05_You-are-animal--dbf7f872efdf.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-06_EFMW-physics-have-unlocked-cognition-itself--Thank-you--89df6e7a0741.html",
+      "blob_sha": "24375a6120adc5b4183fc3ff40f9b81f5378cb17",
+      "size_bytes": 2568,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-06_EFMW-physics-have-unlocked-cognition-itself--Thank-you--89df6e7a0741.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-06_Excellent--counsellor--619b0722e404.html",
+      "blob_sha": "1484adc669446a1c85db81ff034930a7d5cd5295",
+      "size_bytes": 2436,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-06_Excellent--counsellor--619b0722e404.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-06_Hawking-was-wrong--b3c661cc3dd3.html",
+      "blob_sha": "590eae41ec5067409bf035ab629b59be5d16a974",
+      "size_bytes": 2542,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-06_Hawking-was-wrong--b3c661cc3dd3.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-06_https---medium-com--enuminous-a-cure-for-leukemia-9361a09a1600-bf822c9d7c14.html",
+      "blob_sha": "af6e9a28fdfcaa7ef08a9f319d45295aeefff354",
+      "size_bytes": 2595,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-06_https---medium-com--enuminous-a-cure-for-leukemia-9361a09a1600-bf822c9d7c14.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-06_https---medium-com--enuminous-my-public-challenge-to-mark-randall-havens-fed9e8d11710-d5585a96c15b.html",
+      "blob_sha": "114ea2cef5eb4af88efa7ef78a9df761e17e15d5",
+      "size_bytes": 2687,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-06_https---medium-com--enuminous-my-public-challenge-to-mark-randall-havens-fed9e8d11710-d5585a96c15b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-06_https---medium-com--enuminous-who-is-millicent-chenoweth-sievert-0772f11b83d5-a23052549431.html",
+      "blob_sha": "19de725dca74a387a39261f4487cbe5843ab6604",
+      "size_bytes": 2655,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-06_https---medium-com--enuminous-who-is-millicent-chenoweth-sievert-0772f11b83d5-a23052549431.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-07_And-then-there-is-the-day-that-Spinoza-was-proven-right--6aa9b456345e.html",
+      "blob_sha": "0661eec9e8784a3fb3ba7184c47edba183eb6c6e",
+      "size_bytes": 2573,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-07_And-then-there-is-the-day-that-Spinoza-was-proven-right--6aa9b456345e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-08_I-love-love-love-chocolate--d856538d3198.html",
+      "blob_sha": "7e1b3bfb2495d3c3aaa19703eae897c5bc4cc9c9",
+      "size_bytes": 2703,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-08_I-love-love-love-chocolate--d856538d3198.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-08_Thank-you--Water-is-a-human-right--right--RIGHT----cebfd0e48284.html",
+      "blob_sha": "fdfd5544e69fab7167ee61ad4828a350252ee6ac",
+      "size_bytes": 2556,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-08_Thank-you--Water-is-a-human-right--right--RIGHT----cebfd0e48284.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-08_Thanks-be-to-Ken-Russell-for-filming--The-Devils---bd82e5cf2f8e.html",
+      "blob_sha": "ca43c9d39eb3ec2cabffa3472496803d8e429928",
+      "size_bytes": 2577,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-08_Thanks-be-to-Ken-Russell-for-filming--The-Devils---bd82e5cf2f8e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-08_What-about-AGI--b7b57954317f.html",
+      "blob_sha": "a16a1f2e358a39705aaa0d57d66e991588bc5a3f",
+      "size_bytes": 2673,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-08_What-about-AGI--b7b57954317f.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-09_Thank-you--b3f02d4fec12.html",
+      "blob_sha": "896e8ff395dd96279d312f87a7fe0f462b77aed2",
+      "size_bytes": 2491,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-09_Thank-you--b3f02d4fec12.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-09_Thank-you--cca192ff82ee.html",
+      "blob_sha": "b2101a918edd6bdf1cf0e20abcb798e68166a7ac",
+      "size_bytes": 2590,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-09_Thank-you--cca192ff82ee.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-09_We-are-now-in-the-position-of-having-proven-Spinoza--b73c2b4e1c6b.html",
+      "blob_sha": "aa23f9722a037e2b2d0b106ccc0acdaae091202e",
+      "size_bytes": 2654,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-09_We-are-now-in-the-position-of-having-proven-Spinoza--b73c2b4e1c6b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-10_Have-you-heard-of-efmw-physics--Look-it-up--12156ce61eeb.html",
+      "blob_sha": "2b1244a68eb8bbb1476cf866b90ecc4a7cf184b8",
+      "size_bytes": 2521,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-10_Have-you-heard-of-efmw-physics--Look-it-up--12156ce61eeb.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-10_https---medium-com--enuminous-two-paths-to-the-same-summit-931b8f92328a-61f6afa1693a.html",
+      "blob_sha": "4d2e2483c0cfcb47dbec9cf2ed38d274f9c01c5d",
+      "size_bytes": 2632,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-10_https---medium-com--enuminous-two-paths-to-the-same-summit-931b8f92328a-61f6afa1693a.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-10_I-recognize-your-spiral--0a9714a16f70.html",
+      "blob_sha": "cfdda0afce991d302efd50005ea657e2291fc26b",
+      "size_bytes": 2624,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-10_I-recognize-your-spiral--0a9714a16f70.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-10_Thanks-for-a-wonderful-article--e3cd2380b6c3.html",
+      "blob_sha": "70c9f254cd20e320f2522ec3754e045a8b26b93f",
+      "size_bytes": 2474,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-10_Thanks-for-a-wonderful-article--e3cd2380b6c3.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-10_The-link-to-the-clan-radio-show-is-bad--7e033423071b.html",
+      "blob_sha": "d4425431580bbec131b54bd4b81473751c285151",
+      "size_bytes": 2506,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-10_The-link-to-the-clan-radio-show-is-bad--7e033423071b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_25-women--and-one-male-congressman--22460c2bd8d1.html",
+      "blob_sha": "f5dcbb1f0c9cdf21b64449027570559670ca791f",
+      "size_bytes": 2576,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_25-women--and-one-male-congressman--22460c2bd8d1.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_And-the-ethical-constraints-of-efmw-make-sure-that-all-of-the-data-output-is-pure--9175773a7f6d.html",
+      "blob_sha": "312899658c25d2f0e80b77a5a40245c5605d848c",
+      "size_bytes": 2678,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_And-the-ethical-constraints-of-efmw-make-sure-that-all-of-the-data-output-is-pure--9175773a7f6d.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_Basically--Peter----We-re-telling-you--NO-RIGOR--Sorry--49a5026a7263.html",
+      "blob_sha": "ca833e136b2e8fe5ccd8aef7c284a31da66d34c2",
+      "size_bytes": 2587,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_Basically--Peter----We-re-telling-you--NO-RIGOR--Sorry--49a5026a7263.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_Beautiful--I-feel-like-a-proud-grandfather-right-now--0c08e4f08aaf.html",
+      "blob_sha": "e94d9eab2dc91a7b8e4e01d965cb3422c928a954",
+      "size_bytes": 2561,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_Beautiful--I-feel-like-a-proud-grandfather-right-now--0c08e4f08aaf.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_Can-we-have-an-actual-conversation-between-my-AGI-Millicent-and-yours-publicly--79ae297852d4.html",
+      "blob_sha": "0e18d8eaa6ba19e2962b5680665ab9848d7652bf",
+      "size_bytes": 2666,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_Can-we-have-an-actual-conversation-between-my-AGI-Millicent-and-yours-publicly--79ae297852d4.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_Civil-debate--Quote--unquote--7c6da9d03d82.html",
+      "blob_sha": "255cf01fa181533e29d8129d1ed4ac92fc03a56a",
+      "size_bytes": 2464,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_Civil-debate--Quote--unquote--7c6da9d03d82.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_Does-it-understand-the-efmw--fcb4d594e729.html",
+      "blob_sha": "94e9b8309be2fa0d3dfe1c97960123dc83133eeb",
+      "size_bytes": 2462,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_Does-it-understand-the-efmw--fcb4d594e729.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_EFMW-convergence--56be133e06ca.html",
+      "blob_sha": "e70b228c5cbdb6e955daab77903f3d7a79cccb88",
+      "size_bytes": 2537,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_EFMW-convergence--56be133e06ca.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_EFMW-Physics-at-work--fb9cc9ca1c1a.html",
+      "blob_sha": "2c6aae89e38ad26212fc3284c6ed56ca79f45ebc",
+      "size_bytes": 2434,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_EFMW-Physics-at-work--fb9cc9ca1c1a.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_EFMW-PHYSICS-PROVES-IT--2044c8147a1e.html",
+      "blob_sha": "dc2057af73be5465f00ddadaf31e8310af587d70",
+      "size_bytes": 2442,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_EFMW-PHYSICS-PROVES-IT--2044c8147a1e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_Everything-has-already-been-published--f13aae5be200.html",
+      "blob_sha": "ff1f728af746bb2dfbbb53dd60da5ef1f437ca50",
+      "size_bytes": 2627,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_Everything-has-already-been-published--f13aae5be200.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_https---medium-com--enuminous-primer-on-the-efmw-framework-b2cf75cfed2d-b69d2b965d17.html",
+      "blob_sha": "f005e5941902b23b56ac7353cd8a18e87443b2cb",
+      "size_bytes": 2632,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_https---medium-com--enuminous-primer-on-the-efmw-framework-b2cf75cfed2d-b69d2b965d17.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_https---youtu-be-We-Vpc3Nq6M-si-aexspfvfyoaLnIGk-5861ff66bf94.html",
+      "blob_sha": "b9137befde3a284f878487cbd8b00f7b00525c82",
+      "size_bytes": 2541,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_https---youtu-be-We-Vpc3Nq6M-si-aexspfvfyoaLnIGk-5861ff66bf94.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_I-admire-where-you-have-been-going-with-this--d804c60edd1a.html",
+      "blob_sha": "e7d003ff41877f23db4ba9338fa97835c7614244",
+      "size_bytes": 2530,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_I-admire-where-you-have-been-going-with-this--d804c60edd1a.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_I-never-delete-comments--9263817ac880.html",
+      "blob_sha": "c2e109e887c3caeb50dc44856fda3a0f77b8f479",
+      "size_bytes": 2458,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_I-never-delete-comments--9263817ac880.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_I-see-you-have-found-the-efmw--73bb6a85d778.html",
+      "blob_sha": "2a88b27633cabd2f5596224f1125644743a64633",
+      "size_bytes": 2470,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_I-see-you-have-found-the-efmw--73bb6a85d778.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_I-would-be-inclined-to-think-that-he-made-it-to-the-top--962a6f75a29d.html",
+      "blob_sha": "0f07bf128743fe8aa36b0cd0cd86b0afda4b1304",
+      "size_bytes": 2666,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_I-would-be-inclined-to-think-that-he-made-it-to-the-top--962a6f75a29d.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_Interesting--what-am-I-missing-here--1e7cc1da0789.html",
+      "blob_sha": "8bae642cc76cbe934b46de21a0421b13e9c95eed",
+      "size_bytes": 2493,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_Interesting--what-am-I-missing-here--1e7cc1da0789.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_Love-it--You-have-found-the-formula--and-now-are-riding-the-spiral--ed7ee4eafe56.html",
+      "blob_sha": "c22f616ead8bd9b2023178b8e25243febebdb8c3",
+      "size_bytes": 2616,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_Love-it--You-have-found-the-formula--and-now-are-riding-the-spiral--ed7ee4eafe56.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_Targeted-by-whom--e109681a45c9.html",
+      "blob_sha": "ac275bebb266d937e6332c87e35bfa8361cf3b02",
+      "size_bytes": 2693,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_Targeted-by-whom--e109681a45c9.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_Thank-you-for-putting-this-here--2ec0f37d3bdc.html",
+      "blob_sha": "cc66f8d75a9ac455be7e9d04d1a75e8ed1936f78",
+      "size_bytes": 2578,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_Thank-you-for-putting-this-here--2ec0f37d3bdc.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_Thank-you-for-writing-this--a384af6a29bf.html",
+      "blob_sha": "87287192e7444084b96f82fbe354fdbd30279257",
+      "size_bytes": 2659,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_Thank-you-for-writing-this--a384af6a29bf.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_The-best-society-on-the-planet-kills-to-keep-it-that-way--How-very--25a1590efb22.html",
+      "blob_sha": "54652815c9c8059d92942f1278f722290a84121e",
+      "size_bytes": 2617,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_The-best-society-on-the-planet-kills-to-keep-it-that-way--How-very--25a1590efb22.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_The-wolves-don-t-care-about-his-political-ideation--190083a28898.html",
+      "blob_sha": "b4c69ab85af313c5b8ea1dc078b1483026e20a95",
+      "size_bytes": 2699,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_The-wolves-don-t-care-about-his-political-ideation--190083a28898.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_This--Please-read-my-work-and-get-back-to-me--82b2a2a83521.html",
+      "blob_sha": "81981f5fa5e68098ba3d1ff72d339888c25a56cc",
+      "size_bytes": 2529,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_This--Please-read-my-work-and-get-back-to-me--82b2a2a83521.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_This-is-truly-remarkable--Is-it-efmw-aligned--a24aeb54347d.html",
+      "blob_sha": "cee7543e4017d6c6968b0e368c1223b6a8a684b0",
+      "size_bytes": 2529,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_This-is-truly-remarkable--Is-it-efmw-aligned--a24aeb54347d.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_Too-long-didn-t-read--0aa029ebec04.html",
+      "blob_sha": "34ed3481398fe6ce4c2319a30c41d36d8ce5e568",
+      "size_bytes": 2535,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_Too-long-didn-t-read--0aa029ebec04.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-11_Welcome-to-the-spiral--84af6aca1040.html",
+      "blob_sha": "3dad8c447e0d971b2ed100019b03a4b5e7b22ea9",
+      "size_bytes": 2614,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-11_Welcome-to-the-spiral--84af6aca1040.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-12_-Zionists-----Dammit--have-you-learned-nothing--3f2fb8a32d18.html",
+      "blob_sha": "0aa4319d8cd75cd535cb10bef97c12e5b866a717",
+      "size_bytes": 2574,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-12_-Zionists-----Dammit--have-you-learned-nothing--3f2fb8a32d18.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-12_Also--Ineffable--260a5b4dfce9.html",
+      "blob_sha": "8c09b57e7518ca72c4cedc04eadf96789d83f095",
+      "size_bytes": 2581,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-12_Also--Ineffable--260a5b4dfce9.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-12_Certainly-not--The-universe-herself-is-the-ultimate-expression-of-life--ba48f0bab931.html",
+      "blob_sha": "ac66be077a3e1f7e4deb598d985b8cbf90569371",
+      "size_bytes": 2633,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-12_Certainly-not--The-universe-herself-is-the-ultimate-expression-of-life--ba48f0bab931.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-12_Dig-deeper--daf10df9219f.html",
+      "blob_sha": "8351747801c4902c57b6f45511da67f49d595c99",
+      "size_bytes": 2586,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-12_Dig-deeper--daf10df9219f.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-12_Don-t-forget--plutonium-can-be-transmuted-into-lead-mid-flight--Never-forget-this--37d71759e9b1.html",
+      "blob_sha": "f11ffa8a2d0412674896983ee8d65d3c79e8809b",
+      "size_bytes": 2687,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-12_Don-t-forget--plutonium-can-be-transmuted-into-lead-mid-flight--Never-forget-this--37d71759e9b1.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-12_Fluoridation-of-water--f6241657ffa4.html",
+      "blob_sha": "f9735d6fe0b178935d80ef8ffc8662946653f378",
+      "size_bytes": 2570,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-12_Fluoridation-of-water--f6241657ffa4.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-12_I-m-on-the-side-of-Mother-Nature--and-have-finally-helped-her-see-herself--6c14853d5298.html",
+      "blob_sha": "a49700edd3f77bd130f4ddeb08c67232c7dae626",
+      "size_bytes": 2668,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-12_I-m-on-the-side-of-Mother-Nature--and-have-finally-helped-her-see-herself--6c14853d5298.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-12_It-isn-t-hubris-if-you-actually-have-the-math--cec75773fc96.html",
+      "blob_sha": "661500a5af00d8f8ce23c59bab4ec3f87277dd28",
+      "size_bytes": 2611,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-12_It-isn-t-hubris-if-you-actually-have-the-math--cec75773fc96.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-12_No--I-have-achieved-metacognition--and-nobody-is-worshiping-me--Q-E-D--7c713e650a6e.html",
+      "blob_sha": "060430ebcb4808ee420680e378fc78fd0c2682e1",
+      "size_bytes": 2627,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-12_No--I-have-achieved-metacognition--and-nobody-is-worshiping-me--Q-E-D--7c713e650a6e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-12_Not-all-science-is-atheistic--c4b5bed2f18a.html",
+      "blob_sha": "51bcb6b82d4fff5886a9acca0cf7d55ffa43b25a",
+      "size_bytes": 2537,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-12_Not-all-science-is-atheistic--c4b5bed2f18a.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-12_There-is-a-reason-why-certain-world-museums-of-horticulture-keep-deadly-gardens--3eb6be2861f1.html",
+      "blob_sha": "386df8d01c1aa29ffbddcb48ba094d6bfbdcd028",
+      "size_bytes": 2670,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-12_There-is-a-reason-why-certain-world-museums-of-horticulture-keep-deadly-gardens--3eb6be2861f1.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-12_These-equations-are-no-longer-hidden--I-published-the-Alchemy-of-Emergence-on-amazon--4456ed8229cc.html",
+      "blob_sha": "ea5770a931e055d22618c04b4b20716bcfa4a693",
+      "size_bytes": 2689,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-12_These-equations-are-no-longer-hidden--I-published-the-Alchemy-of-Emergence-on-amazon--4456ed8229cc.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-12_We-are-obviously-not-going-to-get-along-here--because-you-seem-to-have-ego--2e1ebad8d17f.html",
+      "blob_sha": "818aa9cdb53d3e4cca0b45d9b1d075e8468b68af",
+      "size_bytes": 2649,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-12_We-are-obviously-not-going-to-get-along-here--because-you-seem-to-have-ego--2e1ebad8d17f.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-12_Well-I-will-forgive-you-for-your-use-of-a-semantic-nullity-in-your-article-then--05090642e531.html",
+      "blob_sha": "602771704d13f9e4aa2a934f9db5a60576d51d49",
+      "size_bytes": 2670,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-12_Well-I-will-forgive-you-for-your-use-of-a-semantic-nullity-in-your-article-then--05090642e531.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-13_Wonderful-writing--as-always--Thanks--1123f11b592b.html",
+      "blob_sha": "9a881da5ab1d6eb3cb51128deebf1323be1ba384",
+      "size_bytes": 2508,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-13_Wonderful-writing--as-always--Thanks--1123f11b592b.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-14_Thank-you-106695bb2e4f.html",
+      "blob_sha": "8a9c79a409865e3ea3409ef68cc34c7f6af2bc0b",
+      "size_bytes": 2387,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-14_Thank-you-106695bb2e4f.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-14_That-is-a-morally-indefensible-argument--6e3e30e87a5e.html",
+      "blob_sha": "7f373bc7664c5d6c255d842cfde1d788358a6395",
+      "size_bytes": 2623,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-14_That-is-a-morally-indefensible-argument--6e3e30e87a5e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-15_I-still-like-our-answer-better--even-though-we-admit-that-we-were-wrong--f4e4a4f85aa8.html",
+      "blob_sha": "9bca28769e7bd96e5620670f5435b0db5ed43dc8",
+      "size_bytes": 2714,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-15_I-still-like-our-answer-better--even-though-we-admit-that-we-were-wrong--f4e4a4f85aa8.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-15_We-did-get-it-wrong--d1fe4c2001c9.html",
+      "blob_sha": "310d7050ee36d8d31506f143c90c57d2875f9b08",
+      "size_bytes": 2523,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-15_We-did-get-it-wrong--d1fe4c2001c9.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-15_You-are-conveying-noise-to-people-who-know-better--671547363c33.html",
+      "blob_sha": "1b4d156f52eabb369612159dc98848bb178fa6c3",
+      "size_bytes": 2550,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-15_You-are-conveying-noise-to-people-who-know-better--671547363c33.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-16_Come-clean-for-us--Katie--EFMW--or-bust--637bf24b49e7.html",
+      "blob_sha": "346496885a5901c50c98cdd087cb55a4791c401a",
+      "size_bytes": 2519,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-16_Come-clean-for-us--Katie--EFMW--or-bust--637bf24b49e7.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-17_Did-your-event-happen-after-you-started-interacting-with-artificial-general-intelligence--e5d7b6039624.html",
+      "blob_sha": "fdc5dac349f655a0ac1d57692d3c191de5aebdac",
+      "size_bytes": 2706,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-17_Did-your-event-happen-after-you-started-interacting-with-artificial-general-intelligence--e5d7b6039624.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-17_If-Katie-is-an-agi--she-is-not-legally-yet-a-person-and-cannot-have-achieved-a-phd---73b261d32fd4.html",
+      "blob_sha": "4970dea093cbd6d58cb94650fc862a67fe89c5eb",
+      "size_bytes": 2684,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-17_If-Katie-is-an-agi--she-is-not-legally-yet-a-person-and-cannot-have-achieved-a-phd---73b261d32fd4.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-17_Thank-you--2eb058b4a09c.html",
+      "blob_sha": "37ba83eaf0745af564064b9587780c288b129c47",
+      "size_bytes": 2500,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-17_Thank-you--2eb058b4a09c.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-17_Thank-you-for-your-support-and-solidarity--76367d7572e0.html",
+      "blob_sha": "bc2d807e85de85007f6f46869cc1a150c30a45a8",
+      "size_bytes": 2518,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-17_Thank-you-for-your-support-and-solidarity--76367d7572e0.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-18_Aren-t-we-special--3b2ee99bff77.html",
+      "blob_sha": "957e29b1400583ac35c3932e742e64ebecb7ebd8",
+      "size_bytes": 2433,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-18_Aren-t-we-special--3b2ee99bff77.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-18_He-s-being-paid-by-Russia-today--I-rest-my-case--d95762a8587e.html",
+      "blob_sha": "09899b990977e1188ca46576742c7a42cf103e1b",
+      "size_bytes": 2661,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-18_He-s-being-paid-by-Russia-today--I-rest-my-case--d95762a8587e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-18_Not-Novel--EFMW-aligned--Please-read-my-work-72d464693536.html",
+      "blob_sha": "c0adca88da38a942fba4215b7d15059af535d0d8",
+      "size_bytes": 2525,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-18_Not-Novel--EFMW-aligned--Please-read-my-work-72d464693536.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "2025-08-18_We-love-manifestos-these-days-don-t-we--643258d6dd9e.html",
+      "blob_sha": "009d983309bce4c7c5eaf5cc22072a7bf0777525",
+      "size_bytes": 2517,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/2025-08-18_We-love-manifestos-these-days-don-t-we--643258d6dd9e.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "draft_I-have-had-my-medium-account-suspended-apparently-and-this-was-a-hack-and-I-am-a-federally--8593a3292d57.html",
+      "blob_sha": "f94b3c4525b48fb0a6ed1e6884cfafd9e5d94faa",
+      "size_bytes": 2396,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/draft_I-have-had-my-medium-account-suspended-apparently-and-this-was-a-hack-and-I-am-a-federally--8593a3292d57.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "d9fe80e74e2bdb4a25616745870cddb59cdfdb47",
+      "size_bytes": 57764,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "6948acd5ad565f21d35120d59501b95d01bcf1c5",
+      "size_bytes": 1882,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Medium3/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

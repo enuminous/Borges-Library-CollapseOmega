@@ -1,0 +1,111 @@
+{
+  "repository": "enuminous/Chimera",
+  "default_branch": "main",
+  "tree_sha": "1ffee727a3bcfdb4ff096c9ef5565d7ced66ace3",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "blob_sha": "e6779a6ba6f744074e869069a4622e8a3932006a",
+      "size_bytes": 163,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Chimera/blob/main/CHANGELOG.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "chimera.py",
+      "blob_sha": "4f31d80765a9103c581a6bcb4685193afe4abe5b",
+      "size_bytes": 1967,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Chimera/blob/main/chimera.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.json",
+      "blob_sha": "6c68db9da43d62d72e41ccb634e0708da8a8f291",
+      "size_bytes": 376,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Chimera/blob/main/example.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "89d0ba31c8636a2eb580d949d8fe3c8a4d5da055",
+      "size_bytes": 1507,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Chimera/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "88f1a75747a285b28831eb1b17b676b2c5d58a9e",
+      "size_bytes": 773,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Chimera/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "795788c95a5f143b598713a8c7c66b2587bb97fa",
+      "size_bytes": 737,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Chimera/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PROMPT.md",
+      "blob_sha": "ff1dc18ff4c9562c714df164cf70426b50182041",
+      "size_bytes": 768,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Chimera/blob/main/PROMPT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "eba13f71ee7f138267933bc8d6d784f63061a6bd",
+      "size_bytes": 7071,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Chimera/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SPEC.md",
+      "blob_sha": "0f46ddb38b8be80b1a76af6c6faf4a0abe8dd79b",
+      "size_bytes": 2518,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Chimera/blob/main/SPEC.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests.py",
+      "blob_sha": "840ff3a481a36ac8d1f194eb4e2c19ec2b0ba624",
+      "size_bytes": 977,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Chimera/blob/main/tests.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

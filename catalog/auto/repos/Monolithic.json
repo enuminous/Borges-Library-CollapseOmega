@@ -1,0 +1,350 @@
+{
+  "repository": "enuminous/Monolithic",
+  "default_branch": "main",
+  "tree_sha": "a85b7a5aed4a7743803330277956ab9c5e450beb",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/archive.yml",
+      "blob_sha": "33d60cf28895a1539cb9ceef3fa0479127cd4dbd",
+      "size_bytes": 1479,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/.github/workflows/archive.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "bd92b30a8cb2c3444408a1aa1a9c55df66292e33",
+      "size_bytes": 85,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "corpus-index.json",
+      "blob_sha": "c30a8967de6893271f2b0a0647306fd6c1eac751",
+      "size_bytes": 56403,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/corpus-index.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/OFFLINE_ARCHIVE.md",
+      "blob_sha": "6bb3749b99af65978a158c4975ff61e91ad430cb",
+      "size_bytes": 8317,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/docs/OFFLINE_ARCHIVE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "0413a6abf01a2168aaf5d7e90b8ac283dd6b5984",
+      "size_bytes": 110270,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "package-lock.json",
+      "blob_sha": "06119faf5e2eda48f31dd784a5beac20bd73fad0",
+      "size_bytes": 1653,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/package-lock.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "package.json",
+      "blob_sha": "96746368bd701df5310bb23d6712163495049e85",
+      "size_bytes": 58,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/package.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "preview.png",
+      "blob_sha": "31ac28be4c21aee25f3346c376b8300356ef1b8e",
+      "size_bytes": 542184,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/preview.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "14391f277d80194202f3915a5233b58e32fe3cca",
+      "size_bytes": 12986,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "source-packs/central-efmw-v1.bundle.json",
+      "blob_sha": "ad039ef21e19c095089efbb2d693020db4ee8d4e",
+      "size_bytes": 643304,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/source-packs/central-efmw-v1.bundle.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "source-packs/central-efmw-v1.car",
+      "blob_sha": "63e8ca32e48690446253704bc10d39211f6a7f5c",
+      "size_bytes": 500680,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/source-packs/central-efmw-v1.car",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "source-packs/central-efmw-v1.cid",
+      "blob_sha": "b73c3ffade341c26483d1ee2192a05dc1272fc42",
+      "size_bytes": 60,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/source-packs/central-efmw-v1.cid",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "source-packs/central-efmw-v1.dag-cbor",
+      "blob_sha": "4b33724d9bacb1f50c4ebd390db47f1f9c56ac42",
+      "size_bytes": 144096,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/source-packs/central-efmw-v1.dag-cbor",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "source-packs/central-efmw-v1.lock.json",
+      "blob_sha": "20aa5ca488c26077cab3f4868ce957749ba32ac9",
+      "size_bytes": 197152,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/source-packs/central-efmw-v1.lock.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "source-packs/central-efmw-v1.report.json",
+      "blob_sha": "9ca280d8d6a23ddb5912e14cec35f279098b7bc9",
+      "size_bytes": 122911,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/source-packs/central-efmw-v1.report.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "source-packs/SHA256SUMS",
+      "blob_sha": "69e95258ed9b0468a8112f6d66881752933c9908",
+      "size_bytes": 621,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/source-packs/SHA256SUMS",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "template.html",
+      "blob_sha": "0344abf26e9dcf651bf868be892f5e7d4d1d7beb",
+      "size_bytes": 58205,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/template.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/archive_harness.mjs",
+      "blob_sha": "a726d8c42051e00afa4d7eb5373f0d9c2e6a75cb",
+      "size_bytes": 220,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tests/archive_harness.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/check_browser.mjs",
+      "blob_sha": "394d9cc163dfe00434a710fad272a307f94f82df",
+      "size_bytes": 9877,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tests/check_browser.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/check_formats.mjs",
+      "blob_sha": "e4e27e6f46986298d38e684cc1fb9010616a34ef",
+      "size_bytes": 2500,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tests/check_formats.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/check_offline.mjs",
+      "blob_sha": "936f3f432670e30ce2b8474f361a574f380a4a55",
+      "size_bytes": 4856,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tests/check_offline.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/check_server.py",
+      "blob_sha": "1c61af4a193878f239250b823dad6ae475c39b8e",
+      "size_bytes": 2442,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tests/check_server.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/check_source_pack.py",
+      "blob_sha": "0ebe49eef9b0a685e77407cb7dd49390d6e56ec7",
+      "size_bytes": 4690,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tests/check_source_pack.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/readme.md",
+      "blob_sha": "b5f321ff7482bb6054e7181778bd502254849edc",
+      "size_bytes": 3219,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tests/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/archive_server.py",
+      "blob_sha": "42d744ef3b2a8fb0f82e85a3d5f9f5f48eee0910",
+      "size_bytes": 8276,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tools/archive_server.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/atlas_runtime.mjs",
+      "blob_sha": "5c362704edcdab29374ac9dbdd09d4473023d072",
+      "size_bytes": 1809,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tools/atlas_runtime.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/build.py",
+      "blob_sha": "d78bf58dd73e019240695c42eea5dc9ace6ad8f1",
+      "size_bytes": 8596,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tools/build.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/crc.c",
+      "blob_sha": "ba2c886c4c2d1fab080d7a27ca9966201a6ad4f1",
+      "size_bytes": 506,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tools/crc.c",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/crc.wasm",
+      "blob_sha": "765ea60a20e0a174f0c77e2258ae658c365803fa",
+      "size_bytes": 533,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tools/crc.wasm",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/export_pack.mjs",
+      "blob_sha": "4c8bb591ee0cd766136a18238da558bef11dfed6",
+      "size_bytes": 1123,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tools/export_pack.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/mirror_corpus.py",
+      "blob_sha": "8405b27a0ad19cc2a6bc5c9007856f8f1250d257",
+      "size_bytes": 7872,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tools/mirror_corpus.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tools/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/source_archive.js",
+      "blob_sha": "8fcc73eb0ac69f3b291791fe89b80e84c85699e6",
+      "size_bytes": 8985,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tools/source_archive.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/source_pack.py",
+      "blob_sha": "f9021473e71d9dafc1b03c87fffa26e36f09b463",
+      "size_bytes": 9865,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic/blob/main/tools/source_pack.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

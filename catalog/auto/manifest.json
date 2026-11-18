@@ -1,0 +1,3188 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Sophia's public publications, documents, results and source catalogue",
+  "generated_at_utc": "2026-11-18T16:58:20+00:00",
+  "scope": "All PUBLIC GitHub repositories owned by enuminous; all non-vendor/default-branch files",
+  "excluded": "Private repositories, connected Drive/Gmail/Library files, non-default branches, unlisted releases",
+  "evidence_rule": "METADATA ONLY; DO NOT infer PASS, theorem verification or physical reality from titles",
+  "repositories_found": 166,
+  "complete_repositories": 164,
+  "stale_repositories": 0,
+  "incomplete_repositories": 2,
+  "coverage_complete": false,
+  "totals": {
+    "document": 8903,
+    "papers_document": 295,
+    "data_or_result": 29626,
+    "reproducibility_source": 119611,
+    "media": 2037,
+    "other": 10808,
+    "files": 142970
+  },
+  "errors": [
+    {
+      "repository": "enuminous/CFSG",
+      "error": "GitHub tree truncated; partial source-tree file inventory"
+    },
+    {
+      "repository": "enuminous/OpenAI-math",
+      "error": "GitHub tree truncated; partial source-tree file inventory"
+    }
+  ],
+  "repositories": [
+    {
+      "name": "papers",
+      "repository": "enuminous/papers",
+      "default_branch": "main",
+      "tree_sha": "67b128e8df4baa00d745ba29e6c15aa046cac287",
+      "files": 610,
+      "counts": {
+        "document": 295,
+        "papers_document": 295,
+        "data_or_result": 172,
+        "reproducibility_source": 91,
+        "media": 10,
+        "other": 124
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/papers.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "accelerando-8192",
+      "repository": "enuminous/accelerando-8192",
+      "default_branch": "main",
+      "tree_sha": "b9b38d9556504654acf9b10ce6bb0a53b1905a8d",
+      "files": 28,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 0,
+        "media": 12,
+        "other": 13
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/accelerando-8192.json",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "Alchemy-of-Emergence",
+      "repository": "enuminous/Alchemy-of-Emergence",
+      "default_branch": "main",
+      "tree_sha": "726683ebc0086ca0b4a5ae52d1632cfa52613acd",
+      "files": 20,
+      "counts": {
+        "document": 14,
+        "papers_document": 0,
+        "data_or_result": 2,
+        "reproducibility_source": 1,
+        "media": 0,
+        "other": 4
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Alchemy-of-Emergence.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Ant",
+      "repository": "enuminous/Ant",
+      "default_branch": "main",
+      "tree_sha": "fa83171a98c201a65cd7ec1cd3d86ede6ab8fe46",
+      "files": 18,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Ant.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "aok",
+      "repository": "enuminous/aok",
+      "default_branch": "main",
+      "tree_sha": "d78f0aa1b86d99209ae8e3eed13d05f8d42bdc0d",
+      "files": 87,
+      "counts": {
+        "document": 63,
+        "papers_document": 0,
+        "data_or_result": 9,
+        "reproducibility_source": 14,
+        "media": 7,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/aok.json",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "Archimedes-3D",
+      "repository": "enuminous/Archimedes-3D",
+      "default_branch": "main",
+      "tree_sha": "0324e4c7bc931e7fc8a8b0a861b127f7549f1d88",
+      "files": 68,
+      "counts": {
+        "document": 28,
+        "papers_document": 0,
+        "data_or_result": 13,
+        "reproducibility_source": 20,
+        "media": 2,
+        "other": 14
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Archimedes-3D.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Archimedes-Engine",
+      "repository": "enuminous/Archimedes-Engine",
+      "default_branch": "main",
+      "tree_sha": "c93f22197549fe5dde92dfbc25236f004b9a3e0b",
+      "files": 51,
+      "counts": {
+        "document": 23,
+        "papers_document": 0,
+        "data_or_result": 10,
+        "reproducibility_source": 12,
+        "media": 1,
+        "other": 12
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Archimedes-Engine.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Archimedes-Field-Lab",
+      "repository": "enuminous/Archimedes-Field-Lab",
+      "default_branch": "main",
+      "tree_sha": "e562a20926a22f91d5267b02a45011e1ccc48b2e",
+      "files": 9,
+      "counts": {
+        "document": 4,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 2,
+        "media": 0,
+        "other": 3
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Archimedes-Field-Lab.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Aristotle-102-Monolithic-Lean",
+      "repository": "enuminous/Aristotle-102-Monolithic-Lean",
+      "default_branch": "main",
+      "tree_sha": "7555c5bdd133ac13c60fa06b17b6fa2e84feebca",
+      "files": 19,
+      "counts": {
+        "document": 6,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 8,
+        "media": 0,
+        "other": 5
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Aristotle-102-Monolithic-Lean.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Aristotle-165-Einsteinian-Tensors",
+      "repository": "enuminous/Aristotle-165-Einsteinian-Tensors",
+      "default_branch": "main",
+      "tree_sha": "995eb70f760c5abea5278fc732e0f794c2a158dc",
+      "files": 25,
+      "counts": {
+        "document": 6,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 14,
+        "media": 0,
+        "other": 5
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Aristotle-165-Einsteinian-Tensors.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair",
+      "repository": "enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair",
+      "default_branch": "main",
+      "tree_sha": "6f2ef442b8cc5881475b4e2cafad7b6cabbb69a7",
+      "files": 27,
+      "counts": {
+        "document": 7,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 15,
+        "media": 0,
+        "other": 5
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Aristotle-eNuminous",
+      "repository": "enuminous/Aristotle-eNuminous",
+      "default_branch": "main",
+      "tree_sha": "3489adc40541bdbb6400f863e267efe6a4d60a56",
+      "files": 11,
+      "counts": {
+        "document": 6,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 1,
+        "media": 0,
+        "other": 4
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Aristotle-eNuminous.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Aristotle-Ramtastic-Audit",
+      "repository": "enuminous/Aristotle-Ramtastic-Audit",
+      "default_branch": "main",
+      "tree_sha": "144ac87592f43ef6110995595d510bf623413006",
+      "files": 116,
+      "counts": {
+        "document": 13,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 92,
+        "media": 1,
+        "other": 10
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Aristotle-Ramtastic-Audit.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Aristotle_EFMW_Lean",
+      "repository": "enuminous/Aristotle_EFMW_Lean",
+      "default_branch": "main",
+      "tree_sha": "9603d44bba9f0b3eef1f5ead7d8266cd76ea54db",
+      "files": 30,
+      "counts": {
+        "document": 8,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 16,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Aristotle_EFMW_Lean.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Avenue5",
+      "repository": "enuminous/Avenue5",
+      "default_branch": "main",
+      "tree_sha": "8ac3af0d6b69b4fe70c16e1a23bdec7ffafea153",
+      "files": 10,
+      "counts": {
+        "document": 5,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 2,
+        "media": 0,
+        "other": 3
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Avenue5.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Axolotl",
+      "repository": "enuminous/Axolotl",
+      "default_branch": "main",
+      "tree_sha": "a0edbbe66e3ea6a5bedc94d5cca08f082b5ba81d",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Axolotl.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "BackroomsProtocol-EFMW-Analysis",
+      "repository": "enuminous/BackroomsProtocol-EFMW-Analysis",
+      "default_branch": "main",
+      "tree_sha": "b3ccb55848a66c31a948a670f03e689e8fb3147a",
+      "files": 4,
+      "counts": {
+        "document": 2,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 0,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/BackroomsProtocol-EFMW-Analysis.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Base888-Quantum-Geometry",
+      "repository": "enuminous/Base888-Quantum-Geometry",
+      "default_branch": "main",
+      "tree_sha": "830c797725cc9b53ee450b59cd2e5c55a34f04cb",
+      "files": 10,
+      "counts": {
+        "document": 6,
+        "papers_document": 0,
+        "data_or_result": 2,
+        "reproducibility_source": 2,
+        "media": 1,
+        "other": 1
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Base888-Quantum-Geometry.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Bat",
+      "repository": "enuminous/Bat",
+      "default_branch": "main",
+      "tree_sha": "3289d50d52b50c3bea6b29c87d811ef1005100f6",
+      "files": 17,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Bat.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Beaver",
+      "repository": "enuminous/Beaver",
+      "default_branch": "main",
+      "tree_sha": "7e2d3fe03fceac1ac372af80aa9d960752dd5c00",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Beaver.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Bison",
+      "repository": "enuminous/Bison",
+      "default_branch": "main",
+      "tree_sha": "24c552ddb8f4d3a87099e276504e131c885b8813",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Bison.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Black-Hole-Horizon",
+      "repository": "enuminous/Black-Hole-Horizon",
+      "default_branch": "main",
+      "tree_sha": "be4c183a76aab7ffdcf9b22a7f9a8d9c662e8d36",
+      "files": 43,
+      "counts": {
+        "document": 11,
+        "papers_document": 0,
+        "data_or_result": 16,
+        "reproducibility_source": 10,
+        "media": 1,
+        "other": 9
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Black-Hole-Horizon.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Boardy-Monolithic-Lean4-Zoo",
+      "repository": "enuminous/Boardy-Monolithic-Lean4-Zoo",
+      "default_branch": "main",
+      "tree_sha": "f12fcbe20c772063cb84f764473199a2d83e9414",
+      "files": 28,
+      "counts": {
+        "document": 11,
+        "papers_document": 0,
+        "data_or_result": 10,
+        "reproducibility_source": 6,
+        "media": 0,
+        "other": 7
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Boardy-Monolithic-Lean4-Zoo.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Bonobo",
+      "repository": "enuminous/Bonobo",
+      "default_branch": "main",
+      "tree_sha": "0ad9b5cc0fa1b40a7c4552412df3b0d272e3048b",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Bonobo.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Borges-Library-CollapseOmega",
+      "repository": "enuminous/Borges-Library-CollapseOmega",
+      "default_branch": "main",
+      "tree_sha": "e07624fbe6688624da1889e0303f57339829ac8a",
+      "files": 20,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 5
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Borges-Library-CollapseOmega.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "bsa-r",
+      "repository": "enuminous/bsa-r",
+      "default_branch": "main",
+      "tree_sha": "9e463fafd2c22d040f4587889246b93bfef860b5",
+      "files": 107,
+      "counts": {
+        "document": 26,
+        "papers_document": 0,
+        "data_or_result": 13,
+        "reproducibility_source": 52,
+        "media": 0,
+        "other": 20
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/bsa-r.json",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "Bubble-Dynamics-Test",
+      "repository": "enuminous/Bubble-Dynamics-Test",
+      "default_branch": "main",
+      "tree_sha": "1f47d523a3f1e6fa2e732eb493f54d8c4658cac4",
+      "files": 18,
+      "counts": {
+        "document": 7,
+        "papers_document": 0,
+        "data_or_result": 11,
+        "reproducibility_source": 2,
+        "media": 1,
+        "other": 1
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Bubble-Dynamics-Test.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Butterfly",
+      "repository": "enuminous/Butterfly",
+      "default_branch": "main",
+      "tree_sha": "2143e6112a869e2a3a0c57448f88936debdf5717",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Butterfly.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Cadence-Zoo-Evidence",
+      "repository": "enuminous/Cadence-Zoo-Evidence",
+      "default_branch": "main",
+      "tree_sha": "1df875f269a17c42f8ac939eadd2cfdc5801e4d4",
+      "files": 16,
+      "counts": {
+        "document": 4,
+        "papers_document": 0,
+        "data_or_result": 6,
+        "reproducibility_source": 2,
+        "media": 0,
+        "other": 5
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Cadence-Zoo-Evidence.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Cat",
+      "repository": "enuminous/Cat",
+      "default_branch": "main",
+      "tree_sha": "d3ef2ce0ac47fc9837906ac72b873cd4dc3f20ef",
+      "files": 18,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 8,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Cat.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Cat-Physics",
+      "repository": "enuminous/Cat-Physics",
+      "default_branch": "main",
+      "tree_sha": "1984590a002928b964e9203c98b541138bd48022",
+      "files": 42,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 9,
+        "reproducibility_source": 13,
+        "media": 7,
+        "other": 8
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Cat-Physics.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "CFSG",
+      "repository": "enuminous/CFSG",
+      "default_branch": "main",
+      "tree_sha": "df6242e23368e81f4be97dc02998e53ad2d41224",
+      "files": 63217,
+      "counts": {
+        "document": 907,
+        "papers_document": 0,
+        "data_or_result": 14,
+        "reproducibility_source": 58041,
+        "media": 0,
+        "other": 4269
+      },
+      "status": "PARTIAL_TRUNCATED",
+      "inventory": "repos/CFSG.json",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "Chameleon",
+      "repository": "enuminous/Chameleon",
+      "default_branch": "main",
+      "tree_sha": "473f1ff1b84a6d0773fc9eae71dbf8de38e2ad72",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Chameleon.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Chimera",
+      "repository": "enuminous/Chimera",
+      "default_branch": "main",
+      "tree_sha": "1ffee727a3bcfdb4ff096c9ef5565d7ced66ace3",
+      "files": 10,
+      "counts": {
+        "document": 5,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 2,
+        "media": 0,
+        "other": 3
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Chimera.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Circus",
+      "repository": "enuminous/Circus",
+      "default_branch": "main",
+      "tree_sha": "2a1a7bdb23ca90c8ab0d0ad65d2d86de6237ce5d",
+      "files": 9,
+      "counts": {
+        "document": 2,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 2,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Circus.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Cobra",
+      "repository": "enuminous/Cobra",
+      "default_branch": "main",
+      "tree_sha": "e64ed3e54b38283c4b1ea4ca1424c48b52074b18",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Cobra.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Codex-888",
+      "repository": "enuminous/Codex-888",
+      "default_branch": "main",
+      "tree_sha": "42a43478b24b77ca5319e07984b0258933af1c0f",
+      "files": 28,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 13,
+        "media": 0,
+        "other": 5
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Codex-888.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Codex-Universalis",
+      "repository": "enuminous/Codex-Universalis",
+      "default_branch": "main",
+      "tree_sha": "adc3d6a1c882c1f1a3611fd2f30c60e62d8f5093",
+      "files": 138,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 3,
+        "media": 125,
+        "other": 7
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Codex-Universalis.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Coherence-Lab",
+      "repository": "enuminous/Coherence-Lab",
+      "default_branch": "main",
+      "tree_sha": "7bfcc787a093a51b14c3afa533e529ea0c30d9ac",
+      "files": 4,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 0,
+        "media": 0,
+        "other": 1
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Coherence-Lab.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Coherence-Prediction-Engine",
+      "repository": "enuminous/Coherence-Prediction-Engine",
+      "default_branch": "main",
+      "tree_sha": "8f02ad1856281e272c60ce4d8800826813e721a1",
+      "files": 107,
+      "counts": {
+        "document": 34,
+        "papers_document": 0,
+        "data_or_result": 28,
+        "reproducibility_source": 19,
+        "media": 0,
+        "other": 38
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Coherence-Prediction-Engine.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Cosmology",
+      "repository": "enuminous/Cosmology",
+      "default_branch": "main",
+      "tree_sha": "ddbc955ab298e3b166382b7fcf4ff0ca36c7b953",
+      "files": 269,
+      "counts": {
+        "document": 24,
+        "papers_document": 0,
+        "data_or_result": 152,
+        "reproducibility_source": 32,
+        "media": 3,
+        "other": 68
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Cosmology.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Crab",
+      "repository": "enuminous/Crab",
+      "default_branch": "main",
+      "tree_sha": "c9b28566e08579a2162fc5da226e5d8c7f83f0d6",
+      "files": 17,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Crab.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Crocodile",
+      "repository": "enuminous/Crocodile",
+      "default_branch": "main",
+      "tree_sha": "46a353978b962a697989b9266e933080064dd5b9",
+      "files": 17,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Crocodile.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "DePIN",
+      "repository": "enuminous/DePIN",
+      "default_branch": "main",
+      "tree_sha": "811d9ab7cf5e442396e4b769444c081d4cd7d300",
+      "files": 13,
+      "counts": {
+        "document": 5,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 3
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/DePIN.json",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "Devs2.0",
+      "repository": "enuminous/Devs2.0",
+      "default_branch": "main",
+      "tree_sha": "6feaa5c7a9df1631f53d2cbbbb20ccb48034b36f",
+      "files": 108,
+      "counts": {
+        "document": 52,
+        "papers_document": 0,
+        "data_or_result": 15,
+        "reproducibility_source": 29,
+        "media": 1,
+        "other": 23
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Devs2.0.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "docs",
+      "repository": "enuminous/docs",
+      "default_branch": "main",
+      "tree_sha": "0cb1863682ea523c238de020823410d0199822b3",
+      "files": 35,
+      "counts": {
+        "document": 25,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 0,
+        "media": 6,
+        "other": 4
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/docs.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Dolphin",
+      "repository": "enuminous/Dolphin",
+      "default_branch": "main",
+      "tree_sha": "28cd25502820547c61ae4d7ba463c4da96ed4382",
+      "files": 18,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Dolphin.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Dragon",
+      "repository": "enuminous/Dragon",
+      "default_branch": "main",
+      "tree_sha": "0245d3460dbe503e6e12fb08a31ee4be0f1abb5f",
+      "files": 17,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Dragon.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Dude-Physics",
+      "repository": "enuminous/Dude-Physics",
+      "default_branch": "main",
+      "tree_sha": "ef51d2e69b6f32b5958654aca88994a0dd046553",
+      "files": 31,
+      "counts": {
+        "document": 17,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 6,
+        "media": 2,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Dude-Physics.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Eagle",
+      "repository": "enuminous/Eagle",
+      "default_branch": "main",
+      "tree_sha": "518a2770bf943cad36be7dec7b878cb29f5a7e70",
+      "files": 17,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Eagle.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "EFMW",
+      "repository": "enuminous/EFMW",
+      "default_branch": "main",
+      "tree_sha": "b999588282595b6ad0c5d054e190aabbb2aec51a",
+      "files": 39,
+      "counts": {
+        "document": 12,
+        "papers_document": 0,
+        "data_or_result": 10,
+        "reproducibility_source": 8,
+        "media": 0,
+        "other": 13
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "EFMW-108-Minute-Tests",
+      "repository": "enuminous/EFMW-108-Minute-Tests",
+      "default_branch": "main",
+      "tree_sha": "00358777325ade606fa765e6f1b755078c5ad607",
+      "files": 15,
+      "counts": {
+        "document": 7,
+        "papers_document": 0,
+        "data_or_result": 5,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 3
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW-108-Minute-Tests.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "EFMW-ATC-Monitor",
+      "repository": "enuminous/EFMW-ATC-Monitor",
+      "default_branch": "main",
+      "tree_sha": "2e47d5f0a1d93b4a42ab4ccf8ec8e7aa5b9dc438",
+      "files": 5,
+      "counts": {
+        "document": 5,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 0,
+        "media": 0,
+        "other": 0
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW-ATC-Monitor.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "EFMW-Axioms",
+      "repository": "enuminous/EFMW-Axioms",
+      "default_branch": "main",
+      "tree_sha": "b71476ce856a17a92a4dbc8d8a2a00d16c52c172",
+      "files": 14,
+      "counts": {
+        "document": 4,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 5
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW-Axioms.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "EFMW-Constants-Problem",
+      "repository": "enuminous/EFMW-Constants-Problem",
+      "default_branch": "main",
+      "tree_sha": "3916f82ce16ddfa4b88da6e2d11a593728db9382",
+      "files": 18,
+      "counts": {
+        "document": 6,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 6,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW-Constants-Problem.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "EFMW-CTX-001b",
+      "repository": "enuminous/EFMW-CTX-001b",
+      "default_branch": "main",
+      "tree_sha": "2443fccabb210997412b69c19fd72abf1c76d1a9",
+      "files": 16,
+      "counts": {
+        "document": 7,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 2,
+        "media": 0,
+        "other": 3
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW-CTX-001b.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "efmw-equation-review",
+      "repository": "enuminous/efmw-equation-review",
+      "default_branch": "main",
+      "tree_sha": "c1395bf1866cdf575374976e0e3783f5f3d76085",
+      "files": 24,
+      "counts": {
+        "document": 4,
+        "papers_document": 0,
+        "data_or_result": 5,
+        "reproducibility_source": 4,
+        "media": 13,
+        "other": 1
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/efmw-equation-review.json",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "EFMW-EXP-001",
+      "repository": "enuminous/EFMW-EXP-001",
+      "default_branch": "main",
+      "tree_sha": "33438b36e82073079b7a3201e1969bb1e2809035",
+      "files": 62,
+      "counts": {
+        "document": 31,
+        "papers_document": 0,
+        "data_or_result": 33,
+        "reproducibility_source": 13,
+        "media": 0,
+        "other": 1
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW-EXP-001.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "EFMW-Field",
+      "repository": "enuminous/EFMW-Field",
+      "default_branch": "main",
+      "tree_sha": "31d1bfb0d9acc994af19af697a1b92e1c0a9f093",
+      "files": 10,
+      "counts": {
+        "document": 4,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 2,
+        "media": 0,
+        "other": 4
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW-Field.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "EFMW-FULL",
+      "repository": "enuminous/EFMW-FULL",
+      "default_branch": "main",
+      "tree_sha": "df1117ebb00d7de5b89cece5af67943a6cfde9c5",
+      "files": 46,
+      "counts": {
+        "document": 29,
+        "papers_document": 0,
+        "data_or_result": 13,
+        "reproducibility_source": 10,
+        "media": 0,
+        "other": 3
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW-FULL.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "EFMW-Grid",
+      "repository": "enuminous/EFMW-Grid",
+      "default_branch": "main",
+      "tree_sha": "b684e906b9407716df69b3329d42aad42c54da96",
+      "files": 9,
+      "counts": {
+        "document": 4,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 1,
+        "media": 0,
+        "other": 4
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW-Grid.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "EFMW-Humanoid",
+      "repository": "enuminous/EFMW-Humanoid",
+      "default_branch": "main",
+      "tree_sha": "f4c8e7fcf06c7ee0b6a16ae5aa7d656102c89a47",
+      "files": 30,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 13
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW-Humanoid.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "EFMW-Lagrangian",
+      "repository": "enuminous/EFMW-Lagrangian",
+      "default_branch": "main",
+      "tree_sha": "83f9d2ec03e055c6cd09aa6359189161ad1571f6",
+      "files": 122,
+      "counts": {
+        "document": 30,
+        "papers_document": 0,
+        "data_or_result": 35,
+        "reproducibility_source": 56,
+        "media": 0,
+        "other": 14
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW-Lagrangian.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "EFMW-Neutron-Star-Glitch-Resonance",
+      "repository": "enuminous/EFMW-Neutron-Star-Glitch-Resonance",
+      "default_branch": "main",
+      "tree_sha": "a4f04a38499a91d00f7d3cf7b1e1fb6edeb0412d",
+      "files": 21,
+      "counts": {
+        "document": 9,
+        "papers_document": 0,
+        "data_or_result": 5,
+        "reproducibility_source": 4,
+        "media": 0,
+        "other": 8
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW-Neutron-Star-Glitch-Resonance.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "EFMW-Physics-Lab",
+      "repository": "enuminous/EFMW-Physics-Lab",
+      "default_branch": "main",
+      "tree_sha": "df6d6d52c0f82690459da87686048bf486485b24",
+      "files": 7,
+      "counts": {
+        "document": 6,
+        "papers_document": 0,
+        "data_or_result": 2,
+        "reproducibility_source": 0,
+        "media": 1,
+        "other": 0
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW-Physics-Lab.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "efmw-research-cache",
+      "repository": "enuminous/efmw-research-cache",
+      "default_branch": "main",
+      "tree_sha": "f4f58d140f88a1021a72efd7a150cb4957652ac6",
+      "files": 7,
+      "counts": {
+        "document": 2,
+        "papers_document": 0,
+        "data_or_result": 2,
+        "reproducibility_source": 2,
+        "media": 0,
+        "other": 1
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/efmw-research-cache.json",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "EFMW-Rule30",
+      "repository": "enuminous/EFMW-Rule30",
+      "default_branch": "main",
+      "tree_sha": "7811c14ed223658742ac8bfd5616fc84ccb667aa",
+      "files": 48,
+      "counts": {
+        "document": 6,
+        "papers_document": 0,
+        "data_or_result": 21,
+        "reproducibility_source": 11,
+        "media": 0,
+        "other": 11
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW-Rule30.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "EFMW-Safety-001",
+      "repository": "enuminous/EFMW-Safety-001",
+      "default_branch": "main",
+      "tree_sha": "49fe901e349f1701ed0c767065db4ef211bed150",
+      "files": 33,
+      "counts": {
+        "document": 13,
+        "papers_document": 0,
+        "data_or_result": 14,
+        "reproducibility_source": 3,
+        "media": 0,
+        "other": 3
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW-Safety-001.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "EFMW-Scientific-Claims",
+      "repository": "enuminous/EFMW-Scientific-Claims",
+      "default_branch": "main",
+      "tree_sha": "ce388864042ce8eabc859534808d5adcf7712c45",
+      "files": 10,
+      "counts": {
+        "document": 4,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 1,
+        "media": 0,
+        "other": 4
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW-Scientific-Claims.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "EFMW_Post156_Zoo_Audit",
+      "repository": "enuminous/EFMW_Post156_Zoo_Audit",
+      "default_branch": "main",
+      "tree_sha": "fd4ac30ffdbb44c78e7ea69e2424beaa9f3fdb93",
+      "files": 107,
+      "counts": {
+        "document": 36,
+        "papers_document": 0,
+        "data_or_result": 37,
+        "reproducibility_source": 19,
+        "media": 0,
+        "other": 25
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/EFMW_Post156_Zoo_Audit.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Einsteinian-156-Aristotle",
+      "repository": "enuminous/Einsteinian-156-Aristotle",
+      "default_branch": "main",
+      "tree_sha": "4a6f0c97c2f9302cbdc1c9940e8588a5c884f404",
+      "files": 29,
+      "counts": {
+        "document": 13,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 11,
+        "media": 0,
+        "other": 5
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Einsteinian-156-Aristotle.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Elephant",
+      "repository": "enuminous/Elephant",
+      "default_branch": "main",
+      "tree_sha": "fed6a74ca684c5bd04a8d61ad46113ddbe4ce224",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Elephant.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Emergentology",
+      "repository": "enuminous/Emergentology",
+      "default_branch": "main",
+      "tree_sha": "c728fb66c36df482b784f8a9482ff7db585056c0",
+      "files": 21,
+      "counts": {
+        "document": 8,
+        "papers_document": 0,
+        "data_or_result": 5,
+        "reproducibility_source": 6,
+        "media": 0,
+        "other": 7
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Emergentology.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Extrauniversal-Warren-Report",
+      "repository": "enuminous/Extrauniversal-Warren-Report",
+      "default_branch": "main",
+      "tree_sha": "39d85d3e6813beedc1ff95b1d9a45e7677531540",
+      "files": 43,
+      "counts": {
+        "document": 28,
+        "papers_document": 0,
+        "data_or_result": 12,
+        "reproducibility_source": 4,
+        "media": 1,
+        "other": 9
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Extrauniversal-Warren-Report.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Falcon",
+      "repository": "enuminous/Falcon",
+      "default_branch": "main",
+      "tree_sha": "a6b2c20b82e7ebc43891c1fd6df3975c4f7d801f",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Falcon.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "fieldcore",
+      "repository": "enuminous/fieldcore",
+      "default_branch": "main",
+      "tree_sha": "4709214e8323e4eba05e81fcf6394d6a08aa22d3",
+      "files": 37,
+      "counts": {
+        "document": 30,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 3,
+        "media": 0,
+        "other": 4
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/fieldcore.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "FieldSpace",
+      "repository": "enuminous/FieldSpace",
+      "default_branch": "main",
+      "tree_sha": "4f994c45c319b44eaa43133280a7671e768da87c",
+      "files": 37,
+      "counts": {
+        "document": 15,
+        "papers_document": 0,
+        "data_or_result": 14,
+        "reproducibility_source": 11,
+        "media": 0,
+        "other": 7
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/FieldSpace.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Fox",
+      "repository": "enuminous/Fox",
+      "default_branch": "main",
+      "tree_sha": "817bbde7cc5eace10df8d8ffef6af3aaa32ee736",
+      "files": 17,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Fox.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Gecko",
+      "repository": "enuminous/Gecko",
+      "default_branch": "main",
+      "tree_sha": "44feefe0abc0e4aea6dd43d8079312c8a03296a5",
+      "files": 17,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Gecko.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Geometry",
+      "repository": "enuminous/Geometry",
+      "default_branch": "main",
+      "tree_sha": "285b95551ca11c487eb6c0c13f8dde86b702df71",
+      "files": 15,
+      "counts": {
+        "document": 5,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 5
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Geometry.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "GPU-Hour-Survey",
+      "repository": "enuminous/GPU-Hour-Survey",
+      "default_branch": "main",
+      "tree_sha": "e67e21ee78f7327b67323d3aa10f69e71e8fd6b8",
+      "files": 11,
+      "counts": {
+        "document": 4,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 3,
+        "media": 0,
+        "other": 4
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/GPU-Hour-Survey.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "GW-POL",
+      "repository": "enuminous/GW-POL",
+      "default_branch": "main",
+      "tree_sha": "2cd22b1f35adfd220d400c3df07243ff9853ec7b",
+      "files": 38,
+      "counts": {
+        "document": 16,
+        "papers_document": 0,
+        "data_or_result": 10,
+        "reproducibility_source": 3,
+        "media": 2,
+        "other": 13
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/GW-POL.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Harlequinn",
+      "repository": "enuminous/Harlequinn",
+      "default_branch": "master",
+      "tree_sha": "df38b3c01b7fe54592b53a1b96013bbcf6c0914b",
+      "files": 1,
+      "counts": {
+        "document": 1,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 0,
+        "media": 0,
+        "other": 0
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Harlequinn.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Hedgehog",
+      "repository": "enuminous/Hedgehog",
+      "default_branch": "main",
+      "tree_sha": "fc30d2d108b417bfe590d80e3e246c0e2e944047",
+      "files": 18,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Hedgehog.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Higgs-Gauge-Lab",
+      "repository": "enuminous/Higgs-Gauge-Lab",
+      "default_branch": "main",
+      "tree_sha": "06056de25e0ad0f5306e6a5d272f983436e54126",
+      "files": 4,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 0,
+        "media": 1,
+        "other": 0
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Higgs-Gauge-Lab.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Hive",
+      "repository": "enuminous/Hive",
+      "default_branch": "main",
+      "tree_sha": "b0447fe3b403e6faa91483a0535c215b457ac0bd",
+      "files": 17,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Hive.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Horse",
+      "repository": "enuminous/Horse",
+      "default_branch": "main",
+      "tree_sha": "1ca652fb2ad0244a7fcae460311c3cb77cb37b64",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Horse.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "I-Have-Guts",
+      "repository": "enuminous/I-Have-Guts",
+      "default_branch": "main",
+      "tree_sha": "158c50be57e21ac43d375df72055b306f428f4a4",
+      "files": 16,
+      "counts": {
+        "document": 6,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 5
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/I-Have-Guts.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Information-Tensor",
+      "repository": "enuminous/Information-Tensor",
+      "default_branch": "main",
+      "tree_sha": "b02b04897743d34cdb846e9fac2518cd8faa4399",
+      "files": 66,
+      "counts": {
+        "document": 21,
+        "papers_document": 0,
+        "data_or_result": 25,
+        "reproducibility_source": 11,
+        "media": 3,
+        "other": 15
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Information-Tensor.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Invisible-Caterpillar",
+      "repository": "enuminous/Invisible-Caterpillar",
+      "default_branch": "main",
+      "tree_sha": "2d20d8cf4de9c9b2d28500c88dc1715c7c10364d",
+      "files": 114,
+      "counts": {
+        "document": 7,
+        "papers_document": 0,
+        "data_or_result": 8,
+        "reproducibility_source": 4,
+        "media": 94,
+        "other": 5
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Invisible-Caterpillar.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Jacobian",
+      "repository": "enuminous/Jacobian",
+      "default_branch": "main",
+      "tree_sha": "b1cf48fa6ece97c7cd31844c61d03174f91db1b2",
+      "files": 51,
+      "counts": {
+        "document": 24,
+        "papers_document": 0,
+        "data_or_result": 43,
+        "reproducibility_source": 10,
+        "media": 0,
+        "other": 3
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Jacobian.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Jellyfish",
+      "repository": "enuminous/Jellyfish",
+      "default_branch": "main",
+      "tree_sha": "bb8ac2e5dd34324662996c237a96084e45141259",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Jellyfish.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "JEV-EFMW-Syncretic-Layer",
+      "repository": "enuminous/JEV-EFMW-Syncretic-Layer",
+      "default_branch": "main",
+      "tree_sha": "7e83fc9143c7dfdb34da330e06eff33008e29e70",
+      "files": 18,
+      "counts": {
+        "document": 8,
+        "papers_document": 0,
+        "data_or_result": 9,
+        "reproducibility_source": 9,
+        "media": 0,
+        "other": 1
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/JEV-EFMW-Syncretic-Layer.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "KSZ",
+      "repository": "enuminous/KSZ",
+      "default_branch": "main",
+      "tree_sha": "ef78a559cc011212c43e3e6a73ce0adbd44ce428",
+      "files": 34,
+      "counts": {
+        "document": 15,
+        "papers_document": 0,
+        "data_or_result": 10,
+        "reproducibility_source": 6,
+        "media": 2,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/KSZ.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "lean-worker",
+      "repository": "enuminous/lean-worker",
+      "default_branch": "main",
+      "tree_sha": "9767a14f3e6cd2a25a07f05d310d9a4c14e742a0",
+      "files": 26,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 8,
+        "media": 0,
+        "other": 15
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/lean-worker.json",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "Ligo_EFMW_Search",
+      "repository": "enuminous/Ligo_EFMW_Search",
+      "default_branch": "main",
+      "tree_sha": "bf7934389cd9dfa1cd671df6c83a369eda92762f",
+      "files": 11,
+      "counts": {
+        "document": 4,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 4,
+        "media": 0,
+        "other": 0
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Ligo_EFMW_Search.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Lynx",
+      "repository": "enuminous/Lynx",
+      "default_branch": "main",
+      "tree_sha": "69b7f6bb3862376f3edbe508a4e1647efb4e28cb",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Lynx.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Magpie",
+      "repository": "enuminous/Magpie",
+      "default_branch": "main",
+      "tree_sha": "2b47a4b32bf73fdb05bb2a891e2a2cdb54fb8623",
+      "files": 15,
+      "counts": {
+        "document": 8,
+        "papers_document": 0,
+        "data_or_result": 2,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Magpie.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Mantis",
+      "repository": "enuminous/Mantis",
+      "default_branch": "main",
+      "tree_sha": "30af61a035709e719a710b91614ea63a9c791f16",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Mantis.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "math-Sat3",
+      "repository": "enuminous/math-Sat3",
+      "default_branch": "main",
+      "tree_sha": "9cc3d1e7f8f0249e81428f3a78585353a00f0275",
+      "files": 6,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 0,
+        "media": 0,
+        "other": 0
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/math-Sat3.json",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "Mathematics-and-Elite-Squad-Dynamics",
+      "repository": "enuminous/Mathematics-and-Elite-Squad-Dynamics",
+      "default_branch": "main",
+      "tree_sha": "f182ed9d9bcc9e443b2f05ffa74b48981984e706",
+      "files": 40,
+      "counts": {
+        "document": 21,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 0,
+        "media": 19,
+        "other": 0
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Mathematics-and-Elite-Squad-Dynamics.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "medium",
+      "repository": "enuminous/medium",
+      "default_branch": "main",
+      "tree_sha": "20c70372ef186009222b29189031b4f7390346ed",
+      "files": 1102,
+      "counts": {
+        "document": 1101,
+        "papers_document": 0,
+        "data_or_result": 82,
+        "reproducibility_source": 0,
+        "media": 0,
+        "other": 1
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/medium.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Medium2",
+      "repository": "enuminous/Medium2",
+      "default_branch": "main",
+      "tree_sha": "218eb3486e7302c348587c3fc8df112d4e21b07e",
+      "files": 1004,
+      "counts": {
+        "document": 1003,
+        "papers_document": 0,
+        "data_or_result": 39,
+        "reproducibility_source": 0,
+        "media": 0,
+        "other": 1
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Medium2.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Medium3",
+      "repository": "enuminous/Medium3",
+      "default_branch": "main",
+      "tree_sha": "7427b258bc8a5acebf7b7b015e2b91e7bc65198b",
+      "files": 311,
+      "counts": {
+        "document": 311,
+        "papers_document": 0,
+        "data_or_result": 11,
+        "reproducibility_source": 0,
+        "media": 0,
+        "other": 0
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Medium3.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "meta-meme",
+      "repository": "enuminous/meta-meme",
+      "default_branch": "main",
+      "tree_sha": "27f3956b2d292b7be83a55d8aeef2cf63b238d82",
+      "files": 123,
+      "counts": {
+        "document": 93,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 10,
+        "media": 3,
+        "other": 17
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/meta-meme.json",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "Millie-01",
+      "repository": "enuminous/Millie-01",
+      "default_branch": "main",
+      "tree_sha": "62771c6cfb6504f3614e6cb116bd500a724e2dd4",
+      "files": 63,
+      "counts": {
+        "document": 17,
+        "papers_document": 0,
+        "data_or_result": 15,
+        "reproducibility_source": 14,
+        "media": 3,
+        "other": 18
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Millie-01.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Mole",
+      "repository": "enuminous/Mole",
+      "default_branch": "main",
+      "tree_sha": "f1417667b7c551ccbdf8cd377228f69adde4695d",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Mole.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Monlithic_EFMW_102_Lean4",
+      "repository": "enuminous/Monlithic_EFMW_102_Lean4",
+      "default_branch": "main",
+      "tree_sha": "dd7ce0628ece1169c7a42675b3ad051ee4ba7744",
+      "files": 121,
+      "counts": {
+        "document": 6,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 110,
+        "media": 0,
+        "other": 5
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Monlithic_EFMW_102_Lean4.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Monolithic",
+      "repository": "enuminous/Monolithic",
+      "default_branch": "main",
+      "tree_sha": "a85b7a5aed4a7743803330277956ab9c5e450beb",
+      "files": 34,
+      "counts": {
+        "document": 6,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 8,
+        "media": 1,
+        "other": 18
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Monolithic.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Monolithic-102-Zoo-Lean4",
+      "repository": "enuminous/Monolithic-102-Zoo-Lean4",
+      "default_branch": "main",
+      "tree_sha": "6e85c9e558652f5033c55d70f33077eff7a9fd89",
+      "files": 178,
+      "counts": {
+        "document": 25,
+        "papers_document": 0,
+        "data_or_result": 38,
+        "reproducibility_source": 135,
+        "media": 0,
+        "other": 9
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Monolithic-102-Zoo-Lean4.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Monolithic-Zoo-Lean4",
+      "repository": "enuminous/Monolithic-Zoo-Lean4",
+      "default_branch": "main",
+      "tree_sha": "b12200364f7d1424c4d9cdfbe20fff4d52de379d",
+      "files": 88,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 8,
+        "reproducibility_source": 65,
+        "media": 0,
+        "other": 12
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Monolithic-Zoo-Lean4.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Monolithic_102_EFMW",
+      "repository": "enuminous/Monolithic_102_EFMW",
+      "default_branch": "main",
+      "tree_sha": "4129cc6e86396b6752433c80a78439662b441836",
+      "files": 113,
+      "counts": {
+        "document": 110,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 0,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Monolithic_102_EFMW.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Monolithic_Zoo_Run",
+      "repository": "enuminous/Monolithic_Zoo_Run",
+      "default_branch": "main",
+      "tree_sha": "07cff16f6001ddbbfa6d7b232e5be3fbb0ce9bee",
+      "files": 20,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 11,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Monolithic_Zoo_Run.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "monster",
+      "repository": "enuminous/monster",
+      "default_branch": "main",
+      "tree_sha": "d57cce86dce0f4418b2feb334819dec8d933645f",
+      "files": 8673,
+      "counts": {
+        "document": 1105,
+        "papers_document": 0,
+        "data_or_result": 1094,
+        "reproducibility_source": 2069,
+        "media": 146,
+        "other": 4643
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/monster.json",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "Moth",
+      "repository": "enuminous/Moth",
+      "default_branch": "main",
+      "tree_sha": "af1fe45498a4e363441443e3b01aa162977f1bb1",
+      "files": 17,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Moth.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "MultiValuedClassicalAction-Lean4",
+      "repository": "enuminous/MultiValuedClassicalAction-Lean4",
+      "default_branch": "main",
+      "tree_sha": "2429706e12e54215c0d3e90292ccf8dbbfdc2445",
+      "files": 10,
+      "counts": {
+        "document": 2,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 3,
+        "media": 0,
+        "other": 5
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/MultiValuedClassicalAction-Lean4.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Multiverse-Simulator",
+      "repository": "enuminous/Multiverse-Simulator",
+      "default_branch": "main",
+      "tree_sha": "7295b9675bfba8cc5c53170ce2a81002cf079f35",
+      "files": 105,
+      "counts": {
+        "document": 38,
+        "papers_document": 0,
+        "data_or_result": 13,
+        "reproducibility_source": 19,
+        "media": 1,
+        "other": 39
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Multiverse-Simulator.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Music-of-the-Spheres",
+      "repository": "enuminous/Music-of-the-Spheres",
+      "default_branch": "main",
+      "tree_sha": "62604e05716457147d17caddd5ea463e47739f1c",
+      "files": 17,
+      "counts": {
+        "document": 6,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 4,
+        "media": 0,
+        "other": 7
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Music-of-the-Spheres.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "New-Eden",
+      "repository": "enuminous/New-Eden",
+      "default_branch": "main",
+      "tree_sha": "e4f7f9d0af06278ccbe9573369db57a07f706e17",
+      "files": 7,
+      "counts": {
+        "document": 1,
+        "papers_document": 0,
+        "data_or_result": 2,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 0
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/New-Eden.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Nightengale",
+      "repository": "enuminous/Nightengale",
+      "default_branch": "main",
+      "tree_sha": "bc1792944c1ccf616942a75bbfa24180c7a14ea3",
+      "files": 11,
+      "counts": {
+        "document": 4,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 3,
+        "media": 0,
+        "other": 4
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Nightengale.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Nightengale-Full-Zoo-Audit",
+      "repository": "enuminous/Nightengale-Full-Zoo-Audit",
+      "default_branch": "main",
+      "tree_sha": "b2c0e7259e919bb41b62035a596c46b564d9fcb6",
+      "files": 180,
+      "counts": {
+        "document": 8,
+        "papers_document": 0,
+        "data_or_result": 59,
+        "reproducibility_source": 61,
+        "media": 0,
+        "other": 57
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Nightengale-Full-Zoo-Audit.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Observatory",
+      "repository": "enuminous/Observatory",
+      "default_branch": "main",
+      "tree_sha": "d2970a9779eeeaf80c77cc62319bb47118438d7a",
+      "files": 19,
+      "counts": {
+        "document": 5,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 1,
+        "media": 1,
+        "other": 11
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Observatory.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Octopus",
+      "repository": "enuminous/Octopus",
+      "default_branch": "main",
+      "tree_sha": "b2356dd956de5ab66f102e86de4710aceafa8ef1",
+      "files": 19,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 8,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Octopus.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "OpenAI-math",
+      "repository": "enuminous/OpenAI-math",
+      "default_branch": "main",
+      "tree_sha": "7f545aeaf82d3f5c9085980d1758405e1d5dd816",
+      "files": 57739,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 26690,
+        "reproducibility_source": 57328,
+        "media": 0,
+        "other": 408
+      },
+      "status": "PARTIAL_TRUNCATED",
+      "inventory": "repos/OpenAI-math.json",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "oph-lab",
+      "repository": "enuminous/oph-lab",
+      "default_branch": "main",
+      "tree_sha": "f7443861b55f57370c3f713cd04b5e7e17014c25",
+      "files": 150,
+      "counts": {
+        "document": 26,
+        "papers_document": 0,
+        "data_or_result": 12,
+        "reproducibility_source": 74,
+        "media": 5,
+        "other": 37
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/oph-lab.json",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "Orca",
+      "repository": "enuminous/Orca",
+      "default_branch": "main",
+      "tree_sha": "818e0df8092a40e3466312af1cdfd652b5152b33",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Orca.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Oroboros",
+      "repository": "enuminous/Oroboros",
+      "default_branch": "main",
+      "tree_sha": "64650a1dc578ed2e89dfd5951a4757cf9be32703",
+      "files": 39,
+      "counts": {
+        "document": 16,
+        "papers_document": 0,
+        "data_or_result": 7,
+        "reproducibility_source": 10,
+        "media": 1,
+        "other": 11
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Oroboros.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Owl",
+      "repository": "enuminous/Owl",
+      "default_branch": "main",
+      "tree_sha": "ee2bd9fdd30e74b4a0d38d7f67306b0283a62b40",
+      "files": 17,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Owl.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "P-NP",
+      "repository": "enuminous/P-NP",
+      "default_branch": "main",
+      "tree_sha": "e98096d3635662af530b98a3c44b3bbc195af9f6",
+      "files": 17,
+      "counts": {
+        "document": 7,
+        "papers_document": 0,
+        "data_or_result": 5,
+        "reproducibility_source": 4,
+        "media": 1,
+        "other": 3
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/P-NP.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Pegasus",
+      "repository": "enuminous/Pegasus",
+      "default_branch": "main",
+      "tree_sha": "41d57615f16c43ea8858e35cd1250d44c3c7df97",
+      "files": 21,
+      "counts": {
+        "document": 6,
+        "papers_document": 0,
+        "data_or_result": 5,
+        "reproducibility_source": 5,
+        "media": 1,
+        "other": 7
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Pegasus.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Penguin",
+      "repository": "enuminous/Penguin",
+      "default_branch": "main",
+      "tree_sha": "56f0933538883eca1bf1218dbba9f491b10ed89d",
+      "files": 17,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Penguin.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Phase-Vorticity-Lab",
+      "repository": "enuminous/Phase-Vorticity-Lab",
+      "default_branch": "main",
+      "tree_sha": "fe490dfc6fb02beaab39466735f274134f6c4720",
+      "files": 52,
+      "counts": {
+        "document": 13,
+        "papers_document": 0,
+        "data_or_result": 30,
+        "reproducibility_source": 19,
+        "media": 0,
+        "other": 9
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Phase-Vorticity-Lab.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Phoenix",
+      "repository": "enuminous/Phoenix",
+      "default_branch": "main",
+      "tree_sha": "eec538f976777375a058261fc3b97d90d5605e34",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Phoenix.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Pulse",
+      "repository": "enuminous/Pulse",
+      "default_branch": "main",
+      "tree_sha": "5577a216401c3d587b9142ac9c31fd5aa20338f8",
+      "files": 17,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Pulse.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "QST",
+      "repository": "enuminous/QST",
+      "default_branch": "main",
+      "tree_sha": "34a29aaea9c67b39fa110fd5f34079025df412a8",
+      "files": 7,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 2,
+        "media": 0,
+        "other": 1
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/QST.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Quantum-Gravity",
+      "repository": "enuminous/Quantum-Gravity",
+      "default_branch": "main",
+      "tree_sha": "4d533344e2f05c365b24acb9616e8a303fcc4587",
+      "files": 9,
+      "counts": {
+        "document": 5,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 3,
+        "media": 0,
+        "other": 1
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Quantum-Gravity.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Ramtastic",
+      "repository": "enuminous/Ramtastic",
+      "default_branch": "main",
+      "tree_sha": "50c84787d30cc0a07d3bf0f3da6d3fb46981e9fe",
+      "files": 252,
+      "counts": {
+        "document": 34,
+        "papers_document": 0,
+        "data_or_result": 135,
+        "reproducibility_source": 99,
+        "media": 1,
+        "other": 17
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Ramtastic.json",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "Raven",
+      "repository": "enuminous/Raven",
+      "default_branch": "main",
+      "tree_sha": "2b6c14ac22209f6320cd46b52cad74a174613a84",
+      "files": 17,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Raven.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Research-Program",
+      "repository": "enuminous/Research-Program",
+      "default_branch": "main",
+      "tree_sha": "39ea37233b67d3a94dde09e1e6e729b5d746601c",
+      "files": 8,
+      "counts": {
+        "document": 5,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 2,
+        "media": 0,
+        "other": 1
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Research-Program.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Rhino",
+      "repository": "enuminous/Rhino",
+      "default_branch": "main",
+      "tree_sha": "eda177929e2125c60c4faa758a142d20760fd7e8",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Rhino.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Rotation",
+      "repository": "enuminous/Rotation",
+      "default_branch": "main",
+      "tree_sha": "1adee9d42c5abe210b0a64f4b4bf92558d5a6f9b",
+      "files": 58,
+      "counts": {
+        "document": 28,
+        "papers_document": 0,
+        "data_or_result": 14,
+        "reproducibility_source": 17,
+        "media": 0,
+        "other": 8
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Rotation.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "RSI",
+      "repository": "enuminous/RSI",
+      "default_branch": "main",
+      "tree_sha": "478908589847ab10038a80fd50df35478c0ec95f",
+      "files": 45,
+      "counts": {
+        "document": 15,
+        "papers_document": 0,
+        "data_or_result": 6,
+        "reproducibility_source": 10,
+        "media": 0,
+        "other": 17
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/RSI.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Salmon",
+      "repository": "enuminous/Salmon",
+      "default_branch": "main",
+      "tree_sha": "a778d2b99fe5fe135b5976124fe6f1046dbaa99f",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Salmon.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Shark",
+      "repository": "enuminous/Shark",
+      "default_branch": "main",
+      "tree_sha": "0a7ce8e515e1b31c9395094ab20c3b30e4d50c59",
+      "files": 17,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Shark.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Shepherd",
+      "repository": "enuminous/Shepherd",
+      "default_branch": "main",
+      "tree_sha": "8c5b95b7524c7c53228653ed4d8635d9590c682a",
+      "files": 17,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Shepherd.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "simself",
+      "repository": "enuminous/simself",
+      "default_branch": "main",
+      "tree_sha": "b67713d73b1043eaa915ba9525595555a7880b0a",
+      "files": 267,
+      "counts": {
+        "document": 204,
+        "papers_document": 0,
+        "data_or_result": 5,
+        "reproducibility_source": 57,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/simself.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Spider",
+      "repository": "enuminous/Spider",
+      "default_branch": "main",
+      "tree_sha": "2b39210635957a0aff94851ccf8a3d6d55e8b8d6",
+      "files": 18,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Spider.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Standard-Model-Reduction",
+      "repository": "enuminous/Standard-Model-Reduction",
+      "default_branch": "main",
+      "tree_sha": "aa569b13a594735774c7b643d44aebff4d5ad17c",
+      "files": 6,
+      "counts": {
+        "document": 4,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 1,
+        "media": 0,
+        "other": 1
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Standard-Model-Reduction.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "StorySpace",
+      "repository": "enuminous/StorySpace",
+      "default_branch": "main",
+      "tree_sha": "4458898f8ffd6713823ffba9a80e74c0454f99c2",
+      "files": 13,
+      "counts": {
+        "document": 8,
+        "papers_document": 0,
+        "data_or_result": 0,
+        "reproducibility_source": 2,
+        "media": 0,
+        "other": 3
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/StorySpace.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Termite",
+      "repository": "enuminous/Termite",
+      "default_branch": "main",
+      "tree_sha": "76420c99326e80da22eccc360dddc295341e8290",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Termite.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "The-ORION-Project",
+      "repository": "enuminous/The-ORION-Project",
+      "default_branch": "main",
+      "tree_sha": "c1aff5a4b0d7c676a90a66da75cadc4c0ddebf2e",
+      "files": 4178,
+      "counts": {
+        "document": 2098,
+        "papers_document": 0,
+        "data_or_result": 171,
+        "reproducibility_source": 231,
+        "media": 1494,
+        "other": 239
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/The-ORION-Project.json",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "Toast-Cat-Gravity",
+      "repository": "enuminous/Toast-Cat-Gravity",
+      "default_branch": "main",
+      "tree_sha": "6b898aa829edf24fe7e10a75a180a7435c9bf184",
+      "files": 26,
+      "counts": {
+        "document": 4,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 4,
+        "media": 11,
+        "other": 7
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Toast-Cat-Gravity.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "TOE-001",
+      "repository": "enuminous/TOE-001",
+      "default_branch": "main",
+      "tree_sha": "0bf3bcd27a53ef2fa1e2878dff165109f6f3c66b",
+      "files": 38,
+      "counts": {
+        "document": 11,
+        "papers_document": 0,
+        "data_or_result": 11,
+        "reproducibility_source": 18,
+        "media": 0,
+        "other": 1
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/TOE-001.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Topology",
+      "repository": "enuminous/Topology",
+      "default_branch": "main",
+      "tree_sha": "81a54256c05406989b938e1fdad166acda670084",
+      "files": 37,
+      "counts": {
+        "document": 11,
+        "papers_document": 0,
+        "data_or_result": 11,
+        "reproducibility_source": 15,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Topology.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Tortoise",
+      "repository": "enuminous/Tortoise",
+      "default_branch": "main",
+      "tree_sha": "81f70074a80dbd91ec940d28f75407534f6d0f9b",
+      "files": 77,
+      "counts": {
+        "document": 7,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 10,
+        "media": 52,
+        "other": 7
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Tortoise.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Turtle",
+      "repository": "enuminous/Turtle",
+      "default_branch": "main",
+      "tree_sha": "1ba8cc2835b2b171ce8efe2722c84833f04a9940",
+      "files": 17,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 2,
+        "reproducibility_source": 7,
+        "media": 0,
+        "other": 7
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Turtle.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Universal-Cognitive-Attractor",
+      "repository": "enuminous/Universal-Cognitive-Attractor",
+      "default_branch": "main",
+      "tree_sha": "57dab8bd18b8e2dacb74a2b4cdc6697bbeeab628",
+      "files": 21,
+      "counts": {
+        "document": 9,
+        "papers_document": 0,
+        "data_or_result": 5,
+        "reproducibility_source": 6,
+        "media": 0,
+        "other": 6
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Universal-Cognitive-Attractor.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Universe5",
+      "repository": "enuminous/Universe5",
+      "default_branch": "main",
+      "tree_sha": "7ed7333d1701597abffa481c3aa8fce91c207d98",
+      "files": 5,
+      "counts": {
+        "document": 3,
+        "papers_document": 0,
+        "data_or_result": 2,
+        "reproducibility_source": 1,
+        "media": 0,
+        "other": 0
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Universe5.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Verbinski-Protocol",
+      "repository": "enuminous/Verbinski-Protocol",
+      "default_branch": "main",
+      "tree_sha": "19e34397ab831b251385e40cee8a6c747a0f1012",
+      "files": 20,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 6,
+        "media": 0,
+        "other": 3
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Verbinski-Protocol.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Weasel",
+      "repository": "enuminous/Weasel",
+      "default_branch": "main",
+      "tree_sha": "dcfd727ed40e69ac6c4637c38be2a0617cdd6e6a",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Weasel.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Weaver_Os",
+      "repository": "enuminous/Weaver_Os",
+      "default_branch": "main",
+      "tree_sha": "8c85b65fda7b09dee5d8ac361b9c3f6ee545d323",
+      "files": 257,
+      "counts": {
+        "document": 86,
+        "papers_document": 0,
+        "data_or_result": 101,
+        "reproducibility_source": 92,
+        "media": 0,
+        "other": 37
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Weaver_Os.json",
+      "fork": true,
+      "archived": false
+    },
+    {
+      "name": "Whale",
+      "repository": "enuminous/Whale",
+      "default_branch": "main",
+      "tree_sha": "33e5c56fcef791095226b084853918ab6f69a4e7",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Whale.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Wolf",
+      "repository": "enuminous/Wolf",
+      "default_branch": "main",
+      "tree_sha": "9659f18178e3587d6e54ee1f128b9ad8930be994",
+      "files": 17,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Wolf.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "woodpecker",
+      "repository": "enuminous/woodpecker",
+      "default_branch": "main",
+      "tree_sha": "9b7e1d825fb5b055767b6c0390ac525ecfdda950",
+      "files": 21,
+      "counts": {
+        "document": 10,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 4,
+        "media": 0,
+        "other": 7
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/woodpecker.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Wrights-Law",
+      "repository": "enuminous/Wrights-Law",
+      "default_branch": "main",
+      "tree_sha": "7cff4a8ac9bed96ad7af7fe1b3602e7cd18ca755",
+      "files": 19,
+      "counts": {
+        "document": 8,
+        "papers_document": 0,
+        "data_or_result": 3,
+        "reproducibility_source": 6,
+        "media": 0,
+        "other": 5
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Wrights-Law.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Zoo-Monster",
+      "repository": "enuminous/Zoo-Monster",
+      "default_branch": "main",
+      "tree_sha": "50cec891b88470570d138618168252e8450f1736",
+      "files": 10,
+      "counts": {
+        "document": 2,
+        "papers_document": 0,
+        "data_or_result": 4,
+        "reproducibility_source": 2,
+        "media": 0,
+        "other": 3
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Zoo-Monster.json",
+      "fork": false,
+      "archived": false
+    }
+  ]
+}

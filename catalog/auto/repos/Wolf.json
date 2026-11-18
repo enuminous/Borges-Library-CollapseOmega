@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Wolf",
+  "default_branch": "main",
+  "tree_sha": "9659f18178e3587d6e54ee1f128b9ad8930be994",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "b69f1327ed1cc8bc43833739045649a8be1e93d8",
+      "size_bytes": 1190,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "d7cd85367d982134449666225ae389af817fed92",
+      "size_bytes": 1199,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "e60715b4c3e78f11de8e2ae51c02ae86d74c9820",
+      "size_bytes": 1529,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "de80f94efb5a6ee1387a632a415a1729ec6fbca4",
+      "size_bytes": 1596,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "b48cf35b7065db34859e427248bb2395781eb166",
+      "size_bytes": 279,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "256caa7d9ff5fd57e46a1748a508b3337528b2c3",
+      "size_bytes": 853,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "latent_failure_model.md",
+      "blob_sha": "fd48ae376c4a8ec4cdf75e785683ae5656dce1fb",
+      "size_bytes": 1411,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/latent_failure_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "611eb189c13557ad20623dcd7c633a7a09a29469",
+      "size_bytes": 1779,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "6b9900cbe40ef6817cf157c3c7c6832fe4a2c747",
+      "size_bytes": 684,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "08bcd33fb9718e131219798a22f5c51f0a02991b",
+      "size_bytes": 1169,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "72f7d7a5e6e52560fcd201d0d770a30ba6a57b8b",
+      "size_bytes": 2888,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "749616c3d5ffa5080eeea920bddbdacdd4bd94dc",
+      "size_bytes": 4187,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "fc0ec9447c124e7917ce0dfdc8f74200bad6adbd",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_wolf.py",
+      "blob_sha": "c06ba393de193a2a6574ba69c97c8375a100f979",
+      "size_bytes": 1235,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/test_wolf.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "c0eb79431a90d01a49ced93e2ec29c47de9c50b9",
+      "size_bytes": 2636,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "wolf.py",
+      "blob_sha": "589caeed49ea4d118b1bea521cd0355c22485904",
+      "size_bytes": 3370,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Wolf/blob/main/wolf.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

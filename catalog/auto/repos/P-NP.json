@@ -1,0 +1,183 @@
+{
+  "repository": "enuminous/P-NP",
+  "default_branch": "main",
+  "tree_sha": "e98096d3635662af530b98a3c44b3bbc195af9f6",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "e8ce6f73f83a9f60e31643d7f7b202eef97e6da7",
+      "size_bytes": 812,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ABLATIONS.md",
+      "blob_sha": "fc7aeed025004302eb9583a66fb07f2695d5ac8a",
+      "size_bytes": 630,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/ABLATIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "curve.png",
+      "blob_sha": "b3f2941af3703829d9633810c785e8976e6b8e74",
+      "size_bytes": 85265,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/curve.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiment.py",
+      "blob_sha": "5a448608bd4c13ee724f6d37b824aca08a6eec1c",
+      "size_bytes": 1892,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/experiment.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "8234237f0b14c041426b13e1a4cdf24da6b80e9c",
+      "size_bytes": 11985,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "fd46d52050ab8d2350c1cb14245b0398ab1a2e42",
+      "size_bytes": 101,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "7aca1d8a939cc24c413eddd793671cdce7070b74",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_STATUS.md",
+      "blob_sha": "d5d74e3f3642b0d14805f9ad1c4462c8d27ed603",
+      "size_bytes": 576,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/LEAN_STATUS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PAPER.md",
+      "blob_sha": "671546b268c9a7883550b8233cd73e16e4972f09",
+      "size_bytes": 5940,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/PAPER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ProofAudit.lean",
+      "blob_sha": "9946a10c8b947cec130177afe1a4acbaf4d90ee5",
+      "size_bytes": 343,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/ProofAudit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PYTHON_TEST_LOG.txt",
+      "blob_sha": "ab646cceeaaeb603800462394c3b96e92a88f2f5",
+      "size_bytes": 509,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/PYTHON_TEST_LOG.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "a7c7c0b0238f605b7c7f240cf5347e03bf22b3e4",
+      "size_bytes": 5112,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results.csv",
+      "blob_sha": "576841416bd9ff445eff0e7b747f8d0f17e8941f",
+      "size_bytes": 277,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/results.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_experiment.py",
+      "blob_sha": "91dec4ada889bf3d1ed56f80935adf268a62a05c",
+      "size_bytes": 949,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/test_experiment.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "WrightSAT.lean",
+      "blob_sha": "2b689d59f59ec3c51663c37c0a4e298a9e0fdd9b",
+      "size_bytes": 1535,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/WrightSAT.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ZOO_46_MATRIX.csv",
+      "blob_sha": "99224f21dfa79a4ae0aab167a0f8c8b5476d42b2",
+      "size_bytes": 5270,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/ZOO_46_MATRIX.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ZOO_46_REPORT.md",
+      "blob_sha": "dde828ed4eb846cff72fe1c974e3481c423cdc06",
+      "size_bytes": 1396,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/P-NP/blob/main/ZOO_46_REPORT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

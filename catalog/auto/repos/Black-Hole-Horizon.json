@@ -1,0 +1,444 @@
+{
+  "repository": "enuminous/Black-Hole-Horizon",
+  "default_branch": "main",
+  "tree_sha": "be4c183a76aab7ffdcf9b22a7f9a8d9c662e8d36",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/verify.yml",
+      "blob_sha": "d8be8c68c97037a9fce036ee4e0180aa0e483eca",
+      "size_bytes": 802,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/.github/workflows/verify.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "0560691753a512078e00bf6b601d1d89ffff362e",
+      "size_bytes": 68,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "build_lab.py",
+      "blob_sha": "ae1c6ff1f24658901451e6ac729337042263bd8a",
+      "size_bytes": 2816,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/build_lab.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/area_inputs.npz",
+      "blob_sha": "16fe60536b05a941ac75178a1c78cd78e3132fe8",
+      "size_bytes": 3113812,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/data/area_inputs.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "DATA_PROVENANCE.md",
+      "blob_sha": "781f56c23e9ac71d265064118df937247cbf3385",
+      "size_bytes": 2256,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/DATA_PROVENANCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW_MAPPING.md",
+      "blob_sha": "724ef3dfea6b95dddc97bd343597d05859d3dbf6",
+      "size_bytes": 4425,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/EFMW_MAPPING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "fetch_data.py",
+      "blob_sha": "e01fb73a50414b4a367121d6619ce637e0f8a50f",
+      "size_bytes": 2109,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/fetch_data.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FINDINGS.md",
+      "blob_sha": "89b8953e41b225a6030cba8314c11bb2ca5ac46b",
+      "size_bytes": 15958,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/FINDINGS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "cfb8e2c27707e112bf8d72abacadfdf8a1d9e08a",
+      "size_bytes": 447738,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lab.template.html",
+      "blob_sha": "11a4445dde3c88e5ab80bb7d3ef65ba196c5b1a0",
+      "size_bytes": 20501,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/lab.template.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE_NOTICE.md",
+      "blob_sha": "aed84be1dbdba26be9cac7e9a35d430ee9afaf08",
+      "size_bytes": 876,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/LICENSE_NOTICE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "model.py",
+      "blob_sha": "94e97dfac2a8aa40409428b426cb2bb95b3d3e54",
+      "size_bytes": 3670,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/model.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PROTOCOL.md",
+      "blob_sha": "8c32dfd15e5bbb67cf3a0afda7cf36a5b13361fb",
+      "size_bytes": 5309,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PROTOCOL.sha256",
+      "blob_sha": "20228139428b8b5ce8b87ac0495637844a3e2001",
+      "size_bytes": 97,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/PROTOCOL.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "c822e3055a278c04adf13984813ccf07099bb883",
+      "size_bytes": 4794,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "repository-manifest.json",
+      "blob_sha": "13df533586a93c8574aa4288bcf214e63f986ce8",
+      "size_bytes": 9465,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/repository-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "9c098280219cd3fc1fed9595567e9bec64c11bac",
+      "size_bytes": 59,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/attempt1-serialization-error.log",
+      "blob_sha": "27955b44fd35f68b29425c9459afe22e313b6028",
+      "size_bytes": 3166,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/results/attempt1-serialization-error.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/browser-qa.json",
+      "blob_sha": "6f0e67f440acea4368295dedfee2e5c0a1827549",
+      "size_bytes": 906,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/results/browser-qa.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/gates.json",
+      "blob_sha": "2406579bdd3b24d7cbdfcb0cbb00f6b47516f6fb",
+      "size_bytes": 1565,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/results/gates.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/injection_trials.csv",
+      "blob_sha": "4db374e79859f24098795937f5e11dc1c58f1e38",
+      "size_bytes": 555073,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/results/injection_trials.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/observational-run.log",
+      "blob_sha": "97af604fb13c1f83363490d8853e9d75c3bf63c7",
+      "size_bytes": 922,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/results/observational-run.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/observational-summary.txt",
+      "blob_sha": "d2d2b9857a8e434c955067429f416f229f92f55b",
+      "size_bytes": 781,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/results/observational-summary.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/observational.json",
+      "blob_sha": "4ce21f88f6a7fc9686a95511ca9026b9b9b0391c",
+      "size_bytes": 30364,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/results/observational.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/summary.svg",
+      "blob_sha": "2a48cac6980f159a725a91222a696d09e51c08a0",
+      "size_bytes": 80737,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/results/summary.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/synthetic-run.log",
+      "blob_sha": "39923216f13b3236c3fb5cb10d317a053a530b3f",
+      "size_bytes": 1185,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/results/synthetic-run.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/synthetic.json",
+      "blob_sha": "0479ffd4be686214f08f2c14b98f0b3ccf2726f0",
+      "size_bytes": 18042,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/results/synthetic.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/unit-tests.log",
+      "blob_sha": "cf7ce0762c6c3936fd9eb1a99ba9b35c83e75087",
+      "size_bytes": 1231,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/results/unit-tests.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/verification.log",
+      "blob_sha": "7a5f7c64d0f354e637b91dea7144b1f1418f0133",
+      "size_bytes": 2796,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/results/verification.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/waveform_examples.json",
+      "blob_sha": "7a682d2bc210fa1b382137577f956cba35f05104",
+      "size_bytes": 390973,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/results/waveform_examples.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "run_observational.py",
+      "blob_sha": "5ded4f10ae631d2cb1f45b8dbc887662d6330ae1",
+      "size_bytes": 4452,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/run_observational.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "run_synthetic.py",
+      "blob_sha": "d4b6e914b6d93897fd36d77f6d42cc0d48def9f3",
+      "size_bytes": 4768,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/run_synthetic.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/archive-members.json",
+      "blob_sha": "9a94655215f4b5a7fa1858bfd8d1b13feafff6ca",
+      "size_bytes": 5096,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/sources/archive-members.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/data-manifest.json",
+      "blob_sha": "06b96cbfdcfa99efc40918e82b1017c4d84b2597",
+      "size_bytes": 10395,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/sources/data-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/EFMW-C1-CANDIDATE.md",
+      "blob_sha": "916e04935f50cbbf07ddcd81e7c71a02954b1c96",
+      "size_bytes": 4724,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/sources/EFMW-C1-CANDIDATE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/upstream/data_sources.py",
+      "blob_sha": "a85f0cd6a5ca366536f0acc5efa44ea1a020d5ca",
+      "size_bytes": 7229,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/sources/upstream/data_sources.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/upstream/define_area_and_ringdown_macros.py",
+      "blob_sha": "15c0ccb85e392db938ddd630a71699449bd3a133",
+      "size_bytes": 17361,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/sources/upstream/define_area_and_ringdown_macros.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/upstream/significance_estimate_variance.py",
+      "blob_sha": "10b6082650028679a79a2877425beae8bf42bf57",
+      "size_bytes": 2623,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/sources/upstream/significance_estimate_variance.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/zenodo-record.json",
+      "blob_sha": "4be25a4fb93230ecc457b229984c8621aefc97f0",
+      "size_bytes": 7022,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/sources/zenodo-record.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/check_lab.cjs",
+      "blob_sha": "c5fbe1b9112499c2dfa66f698e1b5cb725a0fde9",
+      "size_bytes": 1142,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/tests/check_lab.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/physics-golden.json",
+      "blob_sha": "75822db7f3a17118c2ca9ba6f109a071f84ad3b0",
+      "size_bytes": 424,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/tests/physics-golden.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_model.py",
+      "blob_sha": "1a69657225e072fcc510951b778bdee51f527492",
+      "size_bytes": 2531,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/tests/test_model.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify_results.py",
+      "blob_sha": "e7b694e5edda3a2126ee5eb26add61c6d881cfae",
+      "size_bytes": 2920,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Black-Hole-Horizon/blob/main/verify_results.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

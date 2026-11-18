@@ -1,0 +1,50 @@
+{
+  "repository": "enuminous/BackroomsProtocol-EFMW-Analysis",
+  "default_branch": "main",
+  "tree_sha": "b3ccb55848a66c31a948a670f03e689e8fb3147a",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "cd5e0dfc6a836428b2ee638039ad3566c8362155",
+      "size_bytes": 278,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/BackroomsProtocol-EFMW-Analysis/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FORMALISM.md",
+      "blob_sha": "d38bbb5a566982fcee50915f0875573daec84622",
+      "size_bytes": 1107,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/BackroomsProtocol-EFMW-Analysis/blob/main/FORMALISM.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "6dd923d14c79a8bc144508629d6be286a707a969",
+      "size_bytes": 1081,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/BackroomsProtocol-EFMW-Analysis/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "818f523d032ea26c5c1134e6a6c5d21b6d88b00f",
+      "size_bytes": 6125,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/BackroomsProtocol-EFMW-Analysis/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

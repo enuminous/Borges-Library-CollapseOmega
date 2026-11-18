@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Jellyfish",
+  "default_branch": "main",
+  "tree_sha": "bb8ac2e5dd34324662996c237a96084e45141259",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "e61c3d826deca22372918fa43a83f059ccef37c3",
+      "size_bytes": 658,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "861a8f30bfb1867605a7fda778f29850df4be10c",
+      "size_bytes": 1015,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "2d5a09a56693b08e8c802e7df8a707e13f0aeb03",
+      "size_bytes": 1126,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "65994647d5cbfec8ae03c0718960ffc7a2b23187",
+      "size_bytes": 1425,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "d9f83eedc2b2373a79abbad7b14520bf7ab9b107",
+      "size_bytes": 327,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "dependency_model.md",
+      "blob_sha": "582aad06d66f98ce097cf53b448cbd53d0e938fb",
+      "size_bytes": 982,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/dependency_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "e1b0b9478a305ec13c97d34e2135fe618eb8f7ae",
+      "size_bytes": 474,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "jellyfish.py",
+      "blob_sha": "fcb028aba960fbef6e07f6abe77f0288176e61da",
+      "size_bytes": 2290,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/jellyfish.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "0392b74f864b875faa97178eae841848a915f3fb",
+      "size_bytes": 1779,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "34114239cf3866c5a59e8c14e9550beebb003e34",
+      "size_bytes": 972,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "f5df227f3a0e84518edbfab77c61470effb77117",
+      "size_bytes": 1765,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "380991ea1f8f88f5f5cc1ce97acacd21ba13295d",
+      "size_bytes": 3099,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_jellyfish.py",
+      "blob_sha": "04cf3f890933afdc29907d72069b6300c8505eb8",
+      "size_bytes": 828,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/test_jellyfish.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "fc0ec9447c124e7917ce0dfdc8f74200bad6adbd",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "3020967bb675541540330270cad6b11dff822963",
+      "size_bytes": 2477,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Jellyfish/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

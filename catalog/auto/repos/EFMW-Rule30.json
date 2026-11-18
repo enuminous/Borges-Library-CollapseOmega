@@ -1,0 +1,491 @@
+{
+  "repository": "enuminous/EFMW-Rule30",
+  "default_branch": "main",
+  "tree_sha": "7811c14ed223658742ac8bfd5616fc84ccb667aa",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/verify.yml",
+      "blob_sha": "795cd5d228421c4a10c6f40a8c587e13aae3c885",
+      "size_bytes": 3168,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/.github/workflows/verify.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "0c7f1befcfeb603e4ab5350850b1ac5a0d84ea67",
+      "size_bytes": 77,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/check_attempt.py",
+      "blob_sha": "3f6d3618eed4e47815f81177dd451f4a512528c2",
+      "size_bytes": 3901,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/check_attempt.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/formal-status.json",
+      "blob_sha": "2db4fcd6d538c0530ad41ca3751022c094b8ff91",
+      "size_bytes": 7160,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/formal-status.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/lean-toolchain",
+      "blob_sha": "a6aff065db2882c535684f8c5bcd4f16e9a23915",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/PLAN.md",
+      "blob_sha": "ee853401fb75ef5409881932d1576dfe5902b5a3",
+      "size_bytes": 1630,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/PLAN.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/psi-prefix.txt",
+      "blob_sha": "051c9f1dd5a0dc41789cf0e5d506450750cbc1f2",
+      "size_bytes": 16385,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/psi-prefix.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/README.md",
+      "blob_sha": "66726253c2e496f0fc3af9dd7190c55fe05d30e5",
+      "size_bytes": 9400,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/results.json",
+      "blob_sha": "a8ceec23abe2cac5541a71fce72e91b1510aa6d9",
+      "size_bytes": 15882,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/right-trace.txt",
+      "blob_sha": "936923515ca05c97fec2e0b90bb9a0be91ddf390",
+      "size_bytes": 8193,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/right-trace.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/Rule30CQ01Attempt4.lean",
+      "blob_sha": "8a22152eb9e6fa1404a31f1ed95490bb8b69f9df",
+      "size_bytes": 3935,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/Rule30CQ01Attempt4.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/search_cq01.py",
+      "blob_sha": "51e672d9dfa3d84fd7009b68afc1e89303abc63b",
+      "size_bytes": 4942,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/search_cq01.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/self_exe_compat.c",
+      "blob_sha": "e2e8ba8ce0ec99eef0819fbe0cc554f3a9939652",
+      "size_bytes": 667,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/self_exe_compat.c",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/SHA256SUMS",
+      "blob_sha": "d20fbaf8fa71e20ae91cadc3a008ad3539d55061",
+      "size_bytes": 1579,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/SHA256SUMS",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/verification/compile.log",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/verification/compile.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/verification/dependencies.log",
+      "blob_sha": "b9d73dd55f0ab80948bdbaec406b47fc7ff2c63d",
+      "size_bytes": 40,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/verification/dependencies.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/verification/full-prize-negative-control.log",
+      "blob_sha": "a892518e02772e81f91bedd532714f5044ac23aa",
+      "size_bytes": 2895,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/verification/full-prize-negative-control.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/verification/kernel-replay.log",
+      "blob_sha": "5701d9dbe38a1e98e890e66e6d84818e3382b7e7",
+      "size_bytes": 4396,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/verification/kernel-replay.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/verification/kit-head.log",
+      "blob_sha": "23ca1a1363568eb56e8531691810386aaef5fa8f",
+      "size_bytes": 41,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/verification/kit-head.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/verification/kit-tracked-diff.log",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/verification/kit-tracked-diff.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "attempt4/verification/lean-version.log",
+      "blob_sha": "6081cfbd1bdb79493f0c1f89530d0306670dede0",
+      "size_bytes": 106,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/attempt4/verification/lean-version.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "check_formal.py",
+      "blob_sha": "40b9e7d54d290f52a22d372538ffe93883c2af68",
+      "size_bytes": 3363,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/check_formal.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "compile-Rule30AttemptV3.log",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/compile-Rule30AttemptV3.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "compile-Rule30SearchV2.log",
+      "blob_sha": "62eb95990c405efb0399a4ad1f9741d4a2085fb6",
+      "size_bytes": 1355,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/compile-Rule30SearchV2.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "core-build.log",
+      "blob_sha": "c2d21d1fb011d0889fa6b9fdce97183f30cedef5",
+      "size_bytes": 39,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/core-build.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal-status.json",
+      "blob_sha": "a725e1dd0efedf06ee829f6e46adb46faa02fe5d",
+      "size_bytes": 24346,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/formal-status.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "full-goal-rejection.log",
+      "blob_sha": "b6d37b96352145882608bafa9abdf2c6c84b5585",
+      "size_bytes": 3507,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/full-goal-rejection.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "kernel-Rule30AttemptV3.log",
+      "blob_sha": "0bfd001a2013123240aaa9164798728bd2bb591c",
+      "size_bytes": 6113,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/kernel-Rule30AttemptV3.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "kernel-Rule30SearchV2.log",
+      "blob_sha": "dd195611f6d50b4d803fd8ed24b5fc360bf9881f",
+      "size_bytes": 6928,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/kernel-Rule30SearchV2.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "kit-head.log",
+      "blob_sha": "23ca1a1363568eb56e8531691810386aaef5fa8f",
+      "size_bytes": 41,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/kit-head.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "kit-tracked-diff.log",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/kit-tracked-diff.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "2f3d1b9440a7f4522ab5fc6a007a3c31a724f330",
+      "size_bytes": 505,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "2f1a466327788c4356af0c80cec81f36d8e01e74",
+      "size_bytes": 399,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "a6aff065db2882c535684f8c5bcd4f16e9a23915",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-version.log",
+      "blob_sha": "6081cfbd1bdb79493f0c1f89530d0306670dede0",
+      "size_bytes": 106,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/lean-version.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "left-results.json",
+      "blob_sha": "e56136ce0a60fe04083a25ce18784aab1a429c5d",
+      "size_bytes": 1182,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/left-results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "left_search.py",
+      "blob_sha": "708ad80c72246c9962f94814fbde4873ffacb859",
+      "size_bytes": 1838,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/left_search.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "53205c6cf8748ed81d778b74c4e7e9fbe0aff724",
+      "size_bytes": 19269,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "05624293f98d8e8a6112e1bffbfe03ce3902e25b",
+      "size_bytes": 19,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Rule30AttemptV3.lean",
+      "blob_sha": "4f0c059397bf66eb1baab6c7bb5e818b06ea4242",
+      "size_bytes": 6142,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/Rule30AttemptV3.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Rule30SearchV2.lean",
+      "blob_sha": "fb33faa957d2a5b5ee1ccc8527e9644ff455f95f",
+      "size_bytes": 8393,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/Rule30SearchV2.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sat-large.json",
+      "blob_sha": "078fd3f859696abdb86eabc5067c293dbec6a323",
+      "size_bytes": 1067,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/sat-large.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sat-results.json",
+      "blob_sha": "b1bf9df17c412aeed1bf143074eac36af17d198d",
+      "size_bytes": 1270,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/sat-results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "search.py",
+      "blob_sha": "ccff16d8736fb0a1b7d52c766c4f2c4d04ac50d3",
+      "size_bytes": 3411,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/search.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "self_exe_compat.c",
+      "blob_sha": "e2e8ba8ce0ec99eef0819fbe0cc554f3a9939652",
+      "size_bytes": 667,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/self_exe_compat.c",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SHA256SUMS",
+      "blob_sha": "05706a5ace9e6b6cbaec1db3c08dc17ac84c08b2",
+      "size_bytes": 4185,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/SHA256SUMS",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification.json",
+      "blob_sha": "694f36fa517a65d4e60918f4419f031042f0de2f",
+      "size_bytes": 3117,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/verification.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify.py",
+      "blob_sha": "53e6fb49af91cb6f3a8de88c6741a4b4480d5c0c",
+      "size_bytes": 2499,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Rule30/blob/main/verify.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

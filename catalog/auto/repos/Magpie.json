@@ -1,0 +1,162 @@
+{
+  "repository": "enuminous/Magpie",
+  "default_branch": "main",
+  "tree_sha": "2b47a4b32bf73fdb05bb2a891e2a2cdb54fb8623",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablation.py",
+      "blob_sha": "05163554632dc01f7a2976068ae94d975919ce38",
+      "size_bytes": 648,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Magpie/blob/main/ablation.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "efc0bca2b81750116d92234491adeaf040785974",
+      "size_bytes": 1357,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Magpie/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "1736c91c27d8c7c69f77f31e94078ae30c63cc5f",
+      "size_bytes": 675,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Magpie/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "76b22d01dbb563d0b18c6c62ac6fb16e0b110281",
+      "size_bytes": 304,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Magpie/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_recursive_drift.py",
+      "blob_sha": "007e57af71a4bdae660a9ad36806348f5820c5f0",
+      "size_bytes": 592,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Magpie/blob/main/example_recursive_drift.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "70751a6ccb301a251b6efe5d3dd362fd3d799707",
+      "size_bytes": 1754,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Magpie/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "afd2810db0795d51c2031d637a5bb2ac4bedff44",
+      "size_bytes": 1081,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Magpie/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "d0e406b4cdce7ed1ebb23ec142d99cc3ae0b1298",
+      "size_bytes": 641,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Magpie/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "magpie.py",
+      "blob_sha": "59600092d08ee73e28cbd42f6b130dca7ab03290",
+      "size_bytes": 2725,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Magpie/blob/main/magpie.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "3768b1f87570262b88cee00035679c64501cd038",
+      "size_bytes": 3246,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Magpie/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "provenance_model.md",
+      "blob_sha": "515752b530b3d491460c00d8685038abf89a7f16",
+      "size_bytes": 806,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Magpie/blob/main/provenance_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "4055a150c8b00e58da53ee39b29fa693ef83f5ee",
+      "size_bytes": 3728,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Magpie/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "6c1c10a2afa60b810fc9a52a282702e1bd5f5b98",
+      "size_bytes": 73,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Magpie/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_magpie.py",
+      "blob_sha": "5fd0431b645ef9945c53e004de0de5aab935e082",
+      "size_bytes": 720,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Magpie/blob/main/test_magpie.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "4aa5753ca093df7e78746ee9c80367704cfb89ac",
+      "size_bytes": 2099,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Magpie/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

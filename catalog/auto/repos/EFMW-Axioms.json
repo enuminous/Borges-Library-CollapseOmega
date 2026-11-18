@@ -1,0 +1,153 @@
+{
+  "repository": "enuminous/EFMW-Axioms",
+  "default_branch": "main",
+  "tree_sha": "b71476ce856a17a92a4dbc8d8a2a00d16c52c172",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "b6541df48e82c63cfe842dec0b7b9aba4d568023",
+      "size_bytes": 1227,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Axioms/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "19fdf5a8aafcdbd05fae0f9f6f67e3329254e988",
+      "size_bytes": 27,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Axioms/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "1511d28884720ea78dc597e8bc858a28d58156af",
+      "size_bytes": 1230,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Axioms/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWAxioms.lean",
+      "blob_sha": "bb878b1281891859d3707d4282d44f22d58539e4",
+      "size_bytes": 23,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Axioms/blob/main/EFMWAxioms.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWAxioms/Axioms.lean",
+      "blob_sha": "694b2ff1c2f6b8618628f758e9d665347538a6ae",
+      "size_bytes": 6186,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Axioms/blob/main/EFMWAxioms/Axioms.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWAxioms/Main.lean",
+      "blob_sha": "e45810f32a426918bebc8f634883b106e496ce93",
+      "size_bytes": 855,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Axioms/blob/main/EFMWAxioms/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "84108e36929ac2718f38587d9a6d3ecc71832504",
+      "size_bytes": 25677,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Axioms/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "81abef16f621e8b15175fdcbeec00795c306c679",
+      "size_bytes": 3487,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Axioms/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "30b7cdeac8ea9b1212ee84558ac61704147fb54a",
+      "size_bytes": 193,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Axioms/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Axioms/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PAPER.md",
+      "blob_sha": "cceadb977ddc7c51a7bd7483005917a195a23684",
+      "size_bytes": 962,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Axioms/blob/main/PAPER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "e61e426b5a0a56688b0dac17ed7d37404552be29",
+      "size_bytes": 2549,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Axioms/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_axiom_audit.py",
+      "blob_sha": "b6064729c50b93868cf71fb925ce93d138600dd5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Axioms/blob/main/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "2b0e0218106ad50d3e50573ff7b99310f9f358c8",
+      "size_bytes": 1131,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Axioms/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

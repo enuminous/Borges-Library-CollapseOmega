@@ -1,0 +1,1243 @@
+{
+  "repository": "enuminous/EFMW-Lagrangian",
+  "default_branch": "main",
+  "tree_sha": "83f9d2ec03e055c6cd09aa6359189161ad1571f6",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/continuum.yml",
+      "blob_sha": "4fad833d77e0e95a14e0fa4fc85dd14bbf1ede62",
+      "size_bytes": 4846,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/.github/workflows/continuum.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "blob_sha": "66c0a9d0b8ca7e68e36b57707550354d0b1fba06",
+      "size_bytes": 5996,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/.github/workflows/verify.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "d2cd16947702c4aafaeef3ab21429bb7f8e67eed",
+      "size_bytes": 64,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/dashboard.template.html",
+      "blob_sha": "b1eca3e971923dfe60beba10c83f89e5a5f0b06c",
+      "size_bytes": 12305,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/assets/dashboard.template.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/assets/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "c5977911462af7a05e6bc860fd1999c24cdebb99",
+      "size_bytes": 798,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit/coupling_dimensions.csv",
+      "blob_sha": "d96e1d8a860a81bd574d503dee5784b6dc50937e",
+      "size_bytes": 2003,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/audit/coupling_dimensions.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit/coupling_identifications.json",
+      "blob_sha": "c0389992754168e6cd1c574dc6f9a8259bee6644",
+      "size_bytes": 10083,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/audit/coupling_identifications.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit/equations.csv",
+      "blob_sha": "97897261aa38eebfc6eb591ef2fc5e10c8523b91",
+      "size_bytes": 243256,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/audit/equations.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit/equations.json",
+      "blob_sha": "e8a5c030d2344059d5652d82dcb7d61862ce2f48",
+      "size_bytes": 391603,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/audit/equations.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit/FULL_AUDIT.md",
+      "blob_sha": "816b00b2288b3a7b6986cad6e221dd3ed4830db1",
+      "size_bytes": 7631,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/audit/FULL_AUDIT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit/lean_atom_map.json",
+      "blob_sha": "1f56738ac34498d96d511b2b8de10bc6d996b1cb",
+      "size_bytes": 4303,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/audit/lean_atom_map.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit/lean_certificate_index.json",
+      "blob_sha": "6aaa0be8bcd5a436d0e699cbdf232ec5a94ec602",
+      "size_bytes": 91067,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/audit/lean_certificate_index.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit/monolithic_scope.csv",
+      "blob_sha": "58367e41ff621f1819f439225bc7b78537c7e864",
+      "size_bytes": 19291,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/audit/monolithic_scope.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit/monolithic_scope.json",
+      "blob_sha": "320fc6c7c8a0a2a51456baaec68371740fc056b6",
+      "size_bytes": 26434,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/audit/monolithic_scope.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/audit/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit/scalar_derivations.json",
+      "blob_sha": "793d2c0e6d47f7f2dfca6c721c90b44d85edd640",
+      "size_bytes": 946427,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/audit/scalar_derivations.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit/source_manifest.json",
+      "blob_sha": "d2cf9d43f70cc959f66d28aa7c17a921b267e307",
+      "size_bytes": 1070,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/audit/source_manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit/summary.json",
+      "blob_sha": "b08d3eefffbae2c78c5ecca3c944f08832ebb300",
+      "size_bytes": 1051,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/audit/summary.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit/triplets.json",
+      "blob_sha": "d75f57facea69edfdc96fa8d285cdfcaf5ec2bea",
+      "size_bytes": 226999,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/audit/triplets.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "candidate/CANDIDATE.md",
+      "blob_sha": "916e04935f50cbbf07ddcd81e7c71a02954b1c96",
+      "size_bytes": 4724,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/candidate/CANDIDATE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "candidate/conventions.json",
+      "blob_sha": "a4d84fa9c70ea53f298675de74c88a505ea0af87",
+      "size_bytes": 3113,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/candidate/conventions.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "candidate/FREEZE.json",
+      "blob_sha": "f6df5a11c434f4aac6e1d2d117a45eb48e30d288",
+      "size_bytes": 695,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/candidate/FREEZE.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "candidate/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/candidate/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/Audit.lean",
+      "blob_sha": "ab82dad267e083da5a2560426b04c130e3761331",
+      "size_bytes": 1268,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/certificate_index.json",
+      "blob_sha": "9931af5c4d4160379a5aa716803cb367e7e2cc75",
+      "size_bytes": 164867,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/certificate_index.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum.lean",
+      "blob_sha": "1cbe308fa24aab379707c3b82f4566a5df24742b",
+      "size_bytes": 583,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum/Generated/Chunk00.lean",
+      "blob_sha": "0c73a8f91ea85f1246f5d522686278580a8d3364",
+      "size_bytes": 18946,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum/Generated/Chunk00.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum/Generated/Chunk01.lean",
+      "blob_sha": "462f3b353fb8e3f7c438773395edddd74627c1f7",
+      "size_bytes": 16983,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum/Generated/Chunk01.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum/Generated/Chunk02.lean",
+      "blob_sha": "a7dbe4aa0e81cc444b762475a5ee7b77cc084ae5",
+      "size_bytes": 20945,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum/Generated/Chunk02.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum/Generated/Chunk03.lean",
+      "blob_sha": "95cdee9d37ae3de66f6250fc492d6f7d697be3f7",
+      "size_bytes": 20945,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum/Generated/Chunk03.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum/Generated/Chunk04.lean",
+      "blob_sha": "f3c90310a56e7d9e0e123922c3e4bfbb2b08fd7c",
+      "size_bytes": 28865,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum/Generated/Chunk04.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum/Generated/Chunk05.lean",
+      "blob_sha": "6320b5004e876c0d6cda7052c19d5e47d44a0a6f",
+      "size_bytes": 32825,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum/Generated/Chunk05.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum/Generated/Chunk06.lean",
+      "blob_sha": "cb6f6233b078788067994b54a7444f09cdea8157",
+      "size_bytes": 29855,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum/Generated/Chunk06.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum/Generated/Chunk07.lean",
+      "blob_sha": "f91a5c6d2f023d6525eaba7d7d578fd5a59484a3",
+      "size_bytes": 20945,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum/Generated/Chunk07.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum/Generated/Chunk08.lean",
+      "blob_sha": "7bd4d14ff56b559adf5114d4cf50199bffd5b0d1",
+      "size_bytes": 19955,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum/Generated/Chunk08.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum/Generated/Chunk09.lean",
+      "blob_sha": "95a06aa7d4a9794241bfbfebb27c6ecfaa30b00f",
+      "size_bytes": 32825,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum/Generated/Chunk09.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum/Generated/Chunk10.lean",
+      "blob_sha": "6f14f856758cf6bd21f5a1db121490d9386a3d15",
+      "size_bytes": 30845,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum/Generated/Chunk10.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum/Generated/Chunk11.lean",
+      "blob_sha": "c9b8872a23ce06363f0975818261143a1c022d4c",
+      "size_bytes": 31835,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum/Generated/Chunk11.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum/Generated/Chunk12.lean",
+      "blob_sha": "6a11806200bc6b67391bb0d61438fef22b32499e",
+      "size_bytes": 30845,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum/Generated/Chunk12.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum/Generated/Chunk13.lean",
+      "blob_sha": "30fc66793e45c25b25a6d7d629a008fffd03fad4",
+      "size_bytes": 21940,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum/Generated/Chunk13.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum/Realization.lean",
+      "blob_sha": "5c27bfc4cb60d3b5070ecb0a9af9e6964647ad79",
+      "size_bytes": 6662,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum/Realization.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/EFMWContinuum/ScalarVariation.lean",
+      "blob_sha": "2dc4f142176417d1e0d3092527b6c24eeec03c08",
+      "size_bytes": 10464,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/EFMWContinuum/ScalarVariation.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/generate.py",
+      "blob_sha": "a657430aa3f4e06d7982162e7a144266d7f3d05c",
+      "size_bytes": 2992,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/generate.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/lake-manifest.json",
+      "blob_sha": "0cde27aed1b539ce024829b13050cf4a6c583ef0",
+      "size_bytes": 3343,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/lakefile.toml",
+      "blob_sha": "031f579b8a0803ef7e8fccaf52cce5f45619effe",
+      "size_bytes": 317,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/negative_checks.py",
+      "blob_sha": "e5e5c97eb1e02db9e58acd0b6f197de852aad5fe",
+      "size_bytes": 2233,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/negative_checks.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "continuum/recheck.py",
+      "blob_sha": "eaaacd5625536988ea4ad9e0f91af477a6e80247",
+      "size_bytes": 1307,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/continuum/recheck.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/CONTINUUM_BRIDGE.md",
+      "blob_sha": "5b631c7fcbe09a7394138e931c0d0f907ed05f26",
+      "size_bytes": 7623,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/docs/CONTINUUM_BRIDGE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/DERIVATION.md",
+      "blob_sha": "dcd375e8c80a661f2e019bbcbb494e16150b3c65",
+      "size_bytes": 5616,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/docs/DERIVATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/FORMAL_SCOPE.md",
+      "blob_sha": "d612282ddcc238b8c7f490b51154b6b49097c1d5",
+      "size_bytes": 4903,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/docs/FORMAL_SCOPE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/GITHUB.md",
+      "blob_sha": "599caf481a98ab2603861928973a4c108884531a",
+      "size_bytes": 1618,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/docs/GITHUB.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/PHYSICAL_OBLIGATIONS.md",
+      "blob_sha": "dad9082a22bc7d77293aa88760e45828a5981f22",
+      "size_bytes": 5017,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/docs/PHYSICAL_OBLIGATIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/docs/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/REPRODUCIBILITY.md",
+      "blob_sha": "6a520c0c370f0c66e85707f6b9564df7f1adb172",
+      "size_bytes": 5308,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/docs/REPRODUCIBILITY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian.lean",
+      "blob_sha": "255f7a4b71a1453a07c4d59d9a255366061bffd9",
+      "size_bytes": 587,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/Core.lean",
+      "blob_sha": "e48424273a6bc9a09a1ced7d87f3458c016e783c",
+      "size_bytes": 4068,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/Core.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/Generated/Chunk00.lean",
+      "blob_sha": "cea73d19a7650b20ed3f1906cae4f212c314175f",
+      "size_bytes": 11852,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/Generated/Chunk00.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/Generated/Chunk01.lean",
+      "blob_sha": "c2e00b5714af6a337393fe8968dd7f853fb9fd60",
+      "size_bytes": 10845,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/Generated/Chunk01.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/Generated/Chunk02.lean",
+      "blob_sha": "b443971d02a3fe22232103fdacaca5bb4ba7212e",
+      "size_bytes": 12942,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/Generated/Chunk02.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/Generated/Chunk03.lean",
+      "blob_sha": "dff96ea114c83c9e823677156343e8a8c283037a",
+      "size_bytes": 12938,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/Generated/Chunk03.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/Generated/Chunk04.lean",
+      "blob_sha": "59c335d03b00c857f6d1857465b86d922f24aa90",
+      "size_bytes": 17270,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/Generated/Chunk04.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/Generated/Chunk05.lean",
+      "blob_sha": "7971f5c364fc4c4b79d8bbb38609d1dc5b70a99a",
+      "size_bytes": 19404,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/Generated/Chunk05.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/Generated/Chunk06.lean",
+      "blob_sha": "ec0718f9e083c1bd6b3b3664f5d74ba5909096d6",
+      "size_bytes": 17793,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/Generated/Chunk06.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/Generated/Chunk07.lean",
+      "blob_sha": "927f05e1cea59afa16ff2691fd25f316619adc81",
+      "size_bytes": 12968,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/Generated/Chunk07.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/Generated/Chunk08.lean",
+      "blob_sha": "04588cba2050c502f876a4cb3a6925f226fc7832",
+      "size_bytes": 12429,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/Generated/Chunk08.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/Generated/Chunk09.lean",
+      "blob_sha": "65f38b1a392cc1035c3bd37782f6224cd817eb2b",
+      "size_bytes": 19426,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/Generated/Chunk09.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/Generated/Chunk10.lean",
+      "blob_sha": "9a0db31a5a34301f32bf47d8c378b8454ab4dbf8",
+      "size_bytes": 18346,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/Generated/Chunk10.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/Generated/Chunk11.lean",
+      "blob_sha": "ea9bd4b64635e0232c355c4f5790bd4816ce8136",
+      "size_bytes": 18865,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/Generated/Chunk11.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/Generated/Chunk12.lean",
+      "blob_sha": "9b018f304b938e47f40989d1e8a8db2fdc7f4bf8",
+      "size_bytes": 18326,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/Generated/Chunk12.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/Generated/Chunk13.lean",
+      "blob_sha": "e2d0afbf8aa1fba6d3d1e9eb47ede4de4ed5b0bf",
+      "size_bytes": 13108,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/Generated/Chunk13.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/Generated/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/Generated/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWLagrangian/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/EFMWLagrangian/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "c6cb316f4fe44034b5542f3295aad47b9ad3a211",
+      "size_bytes": 437041,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "351158355cbf45a877b22b519be961458ca65ad0",
+      "size_bytes": 131,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "01144479d89d86bace8b8a83372aeeef42767ab2",
+      "size_bytes": 123,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE_NOTICE.md",
+      "blob_sha": "5ebf73b5df5cc9d0c17c5938ce0d7aec334c6889",
+      "size_bytes": 769,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/LICENSE_NOTICE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "c76c5a0fdd83bc5649866aab3b93de932fcb1fce",
+      "size_bytes": 7016,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "243ab3403603a175f526748b10004b900bd4cb9a",
+      "size_bytes": 10163,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/audit.py",
+      "blob_sha": "a16e959b4deb78715e670e8521ca3c950e67f620",
+      "size_bytes": 12706,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/scripts/audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/check_axiom_guard.py",
+      "blob_sha": "d098facf16d0f64816431c1b370078b6468db31f",
+      "size_bytes": 2261,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/scripts/check_axiom_guard.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/fetch_continuum_cache.sh",
+      "blob_sha": "ebac084eeb931b37256359e5d514311e0299c8a8",
+      "size_bytes": 712,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/scripts/fetch_continuum_cache.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/freeze.py",
+      "blob_sha": "938030dbd93dc3b2d30eebdda3c42dc7b6144e03",
+      "size_bytes": 1147,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/scripts/freeze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/package.py",
+      "blob_sha": "53af0bd599c39544a1e6460dcb9154ac66086c62",
+      "size_bytes": 2131,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/scripts/package.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/scripts/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/render_dashboard.py",
+      "blob_sha": "a326f8baa1bab383f0bb2a9a0d3c54d5e7d12f9e",
+      "size_bytes": 784,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/scripts/render_dashboard.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/verify.py",
+      "blob_sha": "d73363a1d2e71e95e9db0b9d34c16e23f48812bc",
+      "size_bytes": 3119,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/scripts/verify.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/EFMW_165_field_equations.txt",
+      "blob_sha": "ac6313fe4a2b02a28ac8fb34519c5f96f6ea2bd8",
+      "size_bytes": 64859,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/sources/EFMW_165_field_equations.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/FieldSpace_master_action_original.md",
+      "blob_sha": "337339a42259bee4d9956a76acc23880fb97d07b",
+      "size_bytes": 7532,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/sources/FieldSpace_master_action_original.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/Monolithic_CANONICAL_102.md",
+      "blob_sha": "a328e4ce7c0b80565148ad28fa63eb3337e69335",
+      "size_bytes": 21048,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/sources/Monolithic_CANONICAL_102.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/sources/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sources/source_refs.json",
+      "blob_sha": "8f73b33472371216e341a0566ce8037910333eb7",
+      "size_bytes": 765,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/sources/source_refs.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/__init__.py",
+      "blob_sha": "c3b8394e9dd982cd8f353d4037ed5ef0ef7d753c",
+      "size_bytes": 80,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/src/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/catalogue.py",
+      "blob_sha": "48a1d9ef4bd2f8d48afdfa4133aa554d0fdc89ef",
+      "size_bytes": 5130,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/src/catalogue.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw_audit/__init__.py",
+      "blob_sha": "c3b8394e9dd982cd8f353d4037ed5ef0ef7d753c",
+      "size_bytes": 80,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/src/efmw_audit/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw_audit/catalogue.py",
+      "blob_sha": "48a1d9ef4bd2f8d48afdfa4133aa554d0fdc89ef",
+      "size_bytes": 5130,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/src/efmw_audit/catalogue.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw_audit/model.py",
+      "blob_sha": "1365589afc3573879d69b5285a4ca423c625d875",
+      "size_bytes": 1606,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/src/efmw_audit/model.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw_audit/polynomial.py",
+      "blob_sha": "567b07d5e75f99ff4561825e4e8423fb1b052469",
+      "size_bytes": 1682,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/src/efmw_audit/polynomial.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/efmw_audit/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/src/efmw_audit/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/model.py",
+      "blob_sha": "1365589afc3573879d69b5285a4ca423c625d875",
+      "size_bytes": 1606,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/src/model.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/polynomial.py",
+      "blob_sha": "567b07d5e75f99ff4561825e4e8423fb1b052469",
+      "size_bytes": 1682,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/src/polynomial.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/src/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/tests/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_audit.py",
+      "blob_sha": "efa0c539bb7f1386469e4efc0d7a5acb2d5a45f6",
+      "size_bytes": 5592,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/tests/test_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_cache_download.py",
+      "blob_sha": "3df9b3142ad31f5ad87a7c7f2d1578e2c96d674d",
+      "size_bytes": 3137,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/tests/test_cache_download.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/EXPLICIT_PATH_LAUNCHER.md",
+      "blob_sha": "8ed5b9b6d80920c018f7af00ee3d9e012975cefd",
+      "size_bytes": 2102,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/tools/EXPLICIT_PATH_LAUNCHER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/lean_explicit_path.c",
+      "blob_sha": "5b58e62fe10094ce70817ca2219e4e246b590e51",
+      "size_bytes": 2341,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/tools/lean_explicit_path.c",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/tools/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/audit.log",
+      "blob_sha": "b08d3eefffbae2c78c5ecca3c944f08832ebb300",
+      "size_bytes": 1051,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/verification/audit.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/axiom_audit.log",
+      "blob_sha": "b05b31edb05d90bc89734b33470cef9e13b1cd71",
+      "size_bytes": 71,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/verification/axiom_audit.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/build_status.json",
+      "blob_sha": "2719edc8b5860ce54aa2eb26d7a0319e79100c20",
+      "size_bytes": 3420,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/verification/build_status.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/candidate_lock.log",
+      "blob_sha": "1bdd59fca855e7809d553a64cfae82b6a9fe40db",
+      "size_bytes": 20,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/verification/candidate_lock.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/fresh_extraction_build_status.json",
+      "blob_sha": "31c25929d5608da90d7f16b127c643a42bc394e9",
+      "size_bytes": 3342,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/verification/fresh_extraction_build_status.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/lean_build.log",
+      "blob_sha": "bf368331c6aec832981718b467a165b4ecd0215e",
+      "size_bytes": 930,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/verification/lean_build.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/lean_version.log",
+      "blob_sha": "606f0f08386c2353a010b7881848d971b423d244",
+      "size_bytes": 106,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/verification/lean_version.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/leanchecker.log",
+      "blob_sha": "ca486373f35038c106ae4a8c404e6e6054f4b3ca",
+      "size_bytes": 657,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/verification/leanchecker.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/negative_checks.log",
+      "blob_sha": "ed1fa7888056feb8b575460ef051deaeea9210f8",
+      "size_bytes": 336,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/verification/negative_checks.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/python_tests.log",
+      "blob_sha": "a0fa4c1654437bff891ce06276bfb21d1fa8cb9f",
+      "size_bytes": 1763,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/verification/python_tests.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/verification/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/RELEASE_CHECKS.md",
+      "blob_sha": "f8d382757ba6e51c16402975a9ff0e06cd055dca",
+      "size_bytes": 1699,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/blob/main/verification/RELEASE_CHECKS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

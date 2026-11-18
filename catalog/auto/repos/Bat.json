@@ -1,0 +1,182 @@
+{
+  "repository": "enuminous/Bat",
+  "default_branch": "main",
+  "tree_sha": "3289d50d52b50c3bea6b29c87d811ef1005100f6",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "bat.py",
+      "blob_sha": "d9a67bb9fa58f82e0ab5d8288a44120589c509a8",
+      "size_bytes": 3418,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/bat.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "f79aef01ea407e62447d4f9f7f9d13b3daa7a882",
+      "size_bytes": 260,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "controls.py",
+      "blob_sha": "7182ed1e4eb8c12e9e38e7f67890b859cea12de8",
+      "size_bytes": 2300,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/controls.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_config.yaml",
+      "blob_sha": "59276674330879793b0b5e38639eeebbd5977f6b",
+      "size_bytes": 324,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/example_config.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_data.csv",
+      "blob_sha": "9313cc1845281a8c7126147d0b20b8e7cb28028e",
+      "size_bytes": 34562,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/example_data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_run.py",
+      "blob_sha": "6ce234eb276f756be896f4c95f45760c396ff478",
+      "size_bytes": 325,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/example_run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "freeze.py",
+      "blob_sha": "d6ee2c3dac87646cff138abbb778ee2eae1b1d6c",
+      "size_bytes": 400,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/freeze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "92ab446056248ee0c4f55d438e740fbad23cc3a6",
+      "size_bytes": 1737,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "98177c4fda430906ee3e4a971d5575235c352a9a",
+      "size_bytes": 690,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "e5e9b7e6caa217961a378ee4c0f25bd4a7dafb6a",
+      "size_bytes": 1187,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metrics.py",
+      "blob_sha": "f698d72c06184343263b9b019d04d6c8a6c27f11",
+      "size_bytes": 587,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "models.py",
+      "blob_sha": "264c0430437bb8d9f233ce3756594aa68dbc5f8a",
+      "size_bytes": 811,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/models.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "3ead682c74fb0f5da7d79b64068c7c70818fe45b",
+      "size_bytes": 474,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "51bcd0afd617dc1278997472b5fec0b4db8a8b92",
+      "size_bytes": 5129,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "92960fc2c2068ab631f0a3757dd8e63ce0e1c4f5",
+      "size_bytes": 66,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_bat.py",
+      "blob_sha": "1cdc64812e7cb6195d8fc1bb7fa0b13246dea551",
+      "size_bytes": 869,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/test_bat.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verdict_schema.json",
+      "blob_sha": "fde52a1ffe01d887ddb4f1ce3863e14c323f27a4",
+      "size_bytes": 572,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Bat/blob/main/verdict_schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

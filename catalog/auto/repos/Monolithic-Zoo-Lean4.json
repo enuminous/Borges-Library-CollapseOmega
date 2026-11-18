@@ -1,0 +1,897 @@
+{
+  "repository": "enuminous/Monolithic-Zoo-Lean4",
+  "default_branch": "main",
+  "tree_sha": "b12200364f7d1424c4d9cdfbe20fff4d52de379d",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "68e40525f9467e460c821352fb813640564108f1",
+      "size_bytes": 2337,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ALTERNATIVE_REPORT.md",
+      "blob_sha": "330457f24dbf1c08292555b8cd165c46d77342f8",
+      "size_bytes": 4179,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/ALTERNATIVE_REPORT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Ant.lean",
+      "blob_sha": "625f6b87256144f515b024980356d6c50c4debe5",
+      "size_bytes": 1688,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Ant.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "90a33e2a4b1482c74cf0759ccdceed59c7ba8e84",
+      "size_bytes": 2272,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Axolotl.lean",
+      "blob_sha": "8dea8a4ffa6433fa4c9aba2d1c33fa51f28e7982",
+      "size_bytes": 1135,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Axolotl.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Bat.lean",
+      "blob_sha": "d8a7643e11aa3eae7b400bb5590676319a8e3f5a",
+      "size_bytes": 846,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Bat.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Beaver.lean",
+      "blob_sha": "0f83a9e49d4c3fd33aa7227fbaaf6c1dad58d8d7",
+      "size_bytes": 803,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Beaver.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Bison.lean",
+      "blob_sha": "bd2d35300983a20a998587802b361953f8e5b02a",
+      "size_bytes": 799,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Bison.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Bonobo.lean",
+      "blob_sha": "816b21d38a8d1114d307732f1684abd65cf550a0",
+      "size_bytes": 734,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Bonobo.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BUILD_STATUS.md",
+      "blob_sha": "726b8b4b4db0f0e46370f0997dcecf04fe3fbaf7",
+      "size_bytes": 3617,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/BUILD_STATUS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Butterfly.lean",
+      "blob_sha": "17c341ec9236b991e3d850d895feb89a20180671",
+      "size_bytes": 826,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Butterfly.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Cat.lean",
+      "blob_sha": "9c612165af141d5421f18eacf43d41dd9dcba8ad",
+      "size_bytes": 774,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Cat.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Chameleon.lean",
+      "blob_sha": "471b23c0b87c450979cddc17bf641bbb6638218b",
+      "size_bytes": 667,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Chameleon.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Cobra.lean",
+      "blob_sha": "195d2803023dfba18e4a44a019855e901ae9f112",
+      "size_bytes": 886,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Cobra.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Core.lean",
+      "blob_sha": "4fe032e03c3ea044d7651eeba99c15ee56c90fd6",
+      "size_bytes": 4310,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Core.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "coverage.json",
+      "blob_sha": "847ce4845c9fde8b068dd831ee121fea433558f4",
+      "size_bytes": 36066,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/coverage.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "COVERAGE.md",
+      "blob_sha": "e52f82c501a06532da1b5b5d14a3ced99329ca45",
+      "size_bytes": 5852,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/COVERAGE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Crab.lean",
+      "blob_sha": "0554861ba91cdc95b34f03f99c97a6f02ac1a315",
+      "size_bytes": 1688,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Crab.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Crocodile.lean",
+      "blob_sha": "73541ca7b4c7f24abe4d8020b2c327fc5cbd6ac3",
+      "size_bytes": 975,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Crocodile.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Dolphin.lean",
+      "blob_sha": "32c43643e9ebe5ba4d353cc72e230640ea2a509c",
+      "size_bytes": 1700,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Dolphin.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Dragon.lean",
+      "blob_sha": "b336527024f9aa0c354683715101f85530635cd9",
+      "size_bytes": 1672,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Dragon.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Eagle.lean",
+      "blob_sha": "9c4480e5f2654d478e6b0803de1ce542067e7ec1",
+      "size_bytes": 1553,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Eagle.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Elephant.lean",
+      "blob_sha": "9d71864473cab787e385d3805bb76811d5ca4510",
+      "size_bytes": 1087,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Elephant.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EXACT_ARITHMETIC.md",
+      "blob_sha": "fb294e0ff085ce711d220ead205bc1751fcf5b74",
+      "size_bytes": 1873,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/EXACT_ARITHMETIC.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ExactThresholds.lean",
+      "blob_sha": "bad36bb6e6f6b369f3e6232fec7e0601958df9bd",
+      "size_bytes": 3601,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/ExactThresholds.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "extension-sources.json",
+      "blob_sha": "90dd58358b6df8f47fd307fb82aecdbbdb9bc992",
+      "size_bytes": 20754,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/extension-sources.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EXTENSION_COVERAGE.md",
+      "blob_sha": "37c59eb4356bf3b4bea108520a2611f2c15065ab",
+      "size_bytes": 4409,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/EXTENSION_COVERAGE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ExtensionFixtures.lean",
+      "blob_sha": "5bd67bb722ea5c2f86601742957c69cc1b92de00",
+      "size_bytes": 79837,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/ExtensionFixtures.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Extensions.lean",
+      "blob_sha": "7c8f2948b884b555a759d5e2861996a955d681f9",
+      "size_bytes": 6044,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Extensions.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Falcon.lean",
+      "blob_sha": "2dad87af2f42c0ad5099769d894354d0160287ab",
+      "size_bytes": 823,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Falcon.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FORMALIZATION_NOTES.md",
+      "blob_sha": "fd0944a628a939aa803e62d130dacb3570988e89",
+      "size_bytes": 3195,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/FORMALIZATION_NOTES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Fox.lean",
+      "blob_sha": "a1c1f9d7497da596b233c7f100bcc7f510a4b0da",
+      "size_bytes": 1569,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Fox.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Gecko.lean",
+      "blob_sha": "f31273b6d2b66098da7ffeac88cd5d67d890217b",
+      "size_bytes": 1555,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Gecko.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Hedgehog.lean",
+      "blob_sha": "83205ffdc42dd20884d206403780369a1710e881",
+      "size_bytes": 995,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Hedgehog.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Hive.lean",
+      "blob_sha": "34e06219bc3dfe09bddaff92438970b1253f1672",
+      "size_bytes": 1576,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Hive.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Horse.lean",
+      "blob_sha": "bb388c5a162d18ec1b1e088d97f91944e874dc8d",
+      "size_bytes": 1053,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Horse.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Jellyfish.lean",
+      "blob_sha": "59861ffa83d68a47b6da93bb8a4f714d3785a7ce",
+      "size_bytes": 922,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Jellyfish.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "b3b8fec7ef541f3374567fc545270e7f223ebda1",
+      "size_bytes": 119,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.lean",
+      "blob_sha": "fb15d31a79e7368310ad73f6c443e28de3062d8a",
+      "size_bytes": 700,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/lakefile.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "7aca1d8a939cc24c413eddd793671cdce7070b74",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "62c3e4a9d0c33c730c119fc5813fec3dfacf08d3",
+      "size_bytes": 1244,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limiter-input.example.json",
+      "blob_sha": "5b901d8bb08cb17fde6e740af472d239c821daa8",
+      "size_bytes": 477,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/limiter-input.example.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limiter-output.example.json",
+      "blob_sha": "408f3fd7addc6b192ca7993bebac51060429f2e3",
+      "size_bytes": 11051,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/limiter-output.example.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limiter-policy.json",
+      "blob_sha": "99e4cc2d036670bcb8b1b28357e4836995372267",
+      "size_bytes": 1627,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/limiter-policy.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Lynx.lean",
+      "blob_sha": "43a8bcd12f82e663f1a75124c9198a8360775f15",
+      "size_bytes": 754,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Lynx.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Magpie.lean",
+      "blob_sha": "6a022e8e2e4b1556406de93c605e572fbb05a669",
+      "size_bytes": 1044,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Magpie.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Main.lean",
+      "blob_sha": "c49e179cfe6baf5415c6d3debe841b2cf2dd2b26",
+      "size_bytes": 165,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST_SHA256.txt",
+      "blob_sha": "2190cda4d650cca95d53618bf58b3173015f7c5f",
+      "size_bytes": 6409,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/MANIFEST_SHA256.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Mantis.lean",
+      "blob_sha": "3ba3bd0268ff789f718efbe8e3b52918553fb3ad",
+      "size_bytes": 916,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Mantis.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Mole.lean",
+      "blob_sha": "0418cf9654909acae8d7f33c6aff1a51151b9aa2",
+      "size_bytes": 616,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Mole.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Moth.lean",
+      "blob_sha": "3a1997f391d5817a7e6453683373ba7c1f348cd2",
+      "size_bytes": 1512,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Moth.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Octopus.lean",
+      "blob_sha": "5f195f3386c8006ba5c9cc5519e08c7830c276d7",
+      "size_bytes": 1568,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Octopus.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Orca.lean",
+      "blob_sha": "e7f19f2e5d9bd255613fc21946ba7c2902b1e54a",
+      "size_bytes": 760,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Orca.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Owl.lean",
+      "blob_sha": "c8e7168a73b3d344d9fca3759bae6ff5b01c4306",
+      "size_bytes": 1594,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Owl.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Penguin.lean",
+      "blob_sha": "117afe0c11301df439d4603d1edbc13c60f3de18",
+      "size_bytes": 1612,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Penguin.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Phoenix.lean",
+      "blob_sha": "e84ce7fec7b44add2a453da78d52f2135a674c5f",
+      "size_bytes": 762,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Phoenix.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ProofAudit.lean",
+      "blob_sha": "4be018adae54b41224f17b4ca922a9727b321c88",
+      "size_bytes": 4410,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/ProofAudit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Pulse.lean",
+      "blob_sha": "1f26f73a3259116ce9bee4bb7322b849f559ab34",
+      "size_bytes": 1710,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Pulse.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ranked-components.json",
+      "blob_sha": "89df713d2defaf74749efed2c88879d1fa4989ed",
+      "size_bytes": 8896,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/ranked-components.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Raven.lean",
+      "blob_sha": "ae09e1a0b78f636c91f690bc89b03737025d8e26",
+      "size_bytes": 1540,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Raven.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "b7a891d417ad7d79043f9f6e61c9aec596bc2c48",
+      "size_bytes": 6129,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reference-fixtures.json",
+      "blob_sha": "5b75dbb9c3e99bfb53d58271e835f21685768d56",
+      "size_bytes": 17808,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/reference-fixtures.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Registry.lean",
+      "blob_sha": "684e8bdb68a08840c063349ae9f66e6b651c1a56",
+      "size_bytes": 1688,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Registry.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Regression.lean",
+      "blob_sha": "f3a58259574cd91b62f3c919a3f5b1eddeaaaac7",
+      "size_bytes": 11728,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Regression.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Rhino.lean",
+      "blob_sha": "f554ee79806f8d94b95497582335bf3fe1dfe42d",
+      "size_bytes": 790,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Rhino.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Salmon.lean",
+      "blob_sha": "6908f6dd84e186b24b06dbe32f73e12270afce81",
+      "size_bytes": 826,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Salmon.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/alternative_report.py",
+      "blob_sha": "67ec4e4ee1d7ff5c9c0756d00951575f3e3b5dcb",
+      "size_bytes": 8772,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/scripts/alternative_report.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/extension_fixtures.py",
+      "blob_sha": "0acb9232d55c61beefb2d92efe08377e633268e5",
+      "size_bytes": 8344,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/scripts/extension_fixtures.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/report_fixtures.py",
+      "blob_sha": "4026d6a4fd7e460127062732fc642180a957ac0e",
+      "size_bytes": 7102,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/scripts/report_fixtures.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_alternative_report.py",
+      "blob_sha": "b6efd67a687b24b753711e40d84b4fe1deb2b647",
+      "size_bytes": 5450,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/scripts/test_alternative_report.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/threshold_fixtures.py",
+      "blob_sha": "879a19d91cfe94457c73387f8fc2bf9cf9c855ae",
+      "size_bytes": 2988,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/scripts/threshold_fixtures.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Shark.lean",
+      "blob_sha": "2c0231b86216ffd5633c39f5a78fa6d21a687347",
+      "size_bytes": 1730,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Shark.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Shepherd.lean",
+      "blob_sha": "95a5c0c0872c1d9b51750c4fb542c6031df493e0",
+      "size_bytes": 1723,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Shepherd.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SOURCE_RECORD_COVERAGE.md",
+      "blob_sha": "f7588403183f2985638bf7ce18bf7482b630e008",
+      "size_bytes": 3230,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/SOURCE_RECORD_COVERAGE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SourceRecords.lean",
+      "blob_sha": "a8d3b93b261939ebe9ec85262c2416ba797deb4b",
+      "size_bytes": 9108,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/SourceRecords.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Spider.lean",
+      "blob_sha": "2c64453e098fe630e7e80eb5c1ec4b7cf96c6176",
+      "size_bytes": 1620,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Spider.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Termite.lean",
+      "blob_sha": "73ac3fb327dbb37ab62c46f985f02b17b87d9315",
+      "size_bytes": 832,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Termite.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Tortoise.lean",
+      "blob_sha": "f67ab8d70a89219ae35d2284c848f78ca7a77110",
+      "size_bytes": 752,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Tortoise.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Turtle.lean",
+      "blob_sha": "03bd011560a910b2989ecb6d8b0075bb6f62e47c",
+      "size_bytes": 1314,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Turtle.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "UPSTREAM_SOURCES.json",
+      "blob_sha": "859109bb20a4d062ca3e8c35b1f721da75443f6e",
+      "size_bytes": 407147,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/UPSTREAM_SOURCES.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "09ca747ae84eb978c5a19dba00f4227aaf92885c",
+      "size_bytes": 1157,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify.py",
+      "blob_sha": "98f65ddda5a59c3ae5285452a9e3621dfe8b099d",
+      "size_bytes": 3674,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/verify.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Weasel.lean",
+      "blob_sha": "17396b0cc75eb897168d9c7996d2651a7b8521d4",
+      "size_bytes": 737,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Weasel.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Whale.lean",
+      "blob_sha": "898ac166ec362dae2ff5b6dce365a84f46cfe07a",
+      "size_bytes": 656,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Whale.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Wolf.lean",
+      "blob_sha": "8265289257a163efd8fb37e3b412694bd031fcfb",
+      "size_bytes": 847,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Wolf.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Zoo.lean",
+      "blob_sha": "e3e3f7155d4e72b30f42d1cd6478b6e2c675ea54",
+      "size_bytes": 647,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Monolithic-Zoo-Lean4/blob/main/Zoo.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

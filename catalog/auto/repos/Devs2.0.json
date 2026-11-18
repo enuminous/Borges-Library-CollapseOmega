@@ -1,0 +1,1102 @@
+{
+  "repository": "enuminous/Devs2.0",
+  "default_branch": "main",
+  "tree_sha": "6feaa5c7a9df1631f53d2cbbbb20ccb48034b36f",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/verify.yml",
+      "blob_sha": "bebf4dda550e6c1c4559febc82bc192760aba288",
+      "size_bytes": 3439,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/.github/workflows/verify.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "a5d6114e8267a5309cd88636c45636cfa1cbdd8c",
+      "size_bytes": 137,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bench.py",
+      "blob_sha": "91f4abd9186de2902196cb5fa87f86e059e907bd",
+      "size_bytes": 2599,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/bench.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Devs.lean",
+      "blob_sha": "65bbe852a9cf3e1b7ae4bd7ed57dc5b77e94f332",
+      "size_bytes": 153,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/Devs.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Devs/Agency.lean",
+      "blob_sha": "3aad73fb383732214ba4da1def7a6d526a478bc3",
+      "size_bytes": 1120,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/Devs/Agency.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Devs/Audit.lean",
+      "blob_sha": "b690cc07aea851cb1c18726096b7e6595a8364a6",
+      "size_bytes": 2460,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/Devs/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Devs/Benchmark.lean",
+      "blob_sha": "9ddb205bdfb30a01d50ec2da9976d897e46a9126",
+      "size_bytes": 1817,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/Devs/Benchmark.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Devs/Budget.lean",
+      "blob_sha": "e7f41c08425632e2f6d4b3b5d3d9d3aa70aa4cb4",
+      "size_bytes": 1001,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/Devs/Budget.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Devs/Criticism.lean",
+      "blob_sha": "e1f0107391e675bebecc9473b31426499737c6fc",
+      "size_bytes": 1470,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/Devs/Criticism.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Devs/Possibility.lean",
+      "blob_sha": "8df4cd94a5c9af85cf870a5c4f65826b86f768aa",
+      "size_bytes": 1532,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/Devs/Possibility.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Devs/Provenance.lean",
+      "blob_sha": "9dcfa9fe3563b1b32b5122f23d0e9db053cd2d70",
+      "size_bytes": 2593,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/Devs/Provenance.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Devs/Uncertainty.lean",
+      "blob_sha": "26d3d609d559f3b32bd3a560303a7539301dad4f",
+      "size_bytes": 1452,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/Devs/Uncertainty.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "DEVS2-Protocol.md",
+      "blob_sha": "9f3e6a20b15e917a9d07c13eb1e7eb13b61fd394",
+      "size_bytes": 5163,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/DEVS2-Protocol.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Devs2.0-EFMW.md",
+      "blob_sha": "8ac80aca13be135863c50a549e58e30d58caddaf",
+      "size_bytes": 17276,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/Devs2.0-EFMW.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "blob_sha": "76fb257b247bc48eff23e6cc12b760197b05d7f3",
+      "size_bytes": 2498,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/docs/ARCHITECTURE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/DEPLOYMENT.md",
+      "blob_sha": "b15f61f27fde9cdee52a3b203d2d0904a15964d5",
+      "size_bytes": 1566,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/docs/DEPLOYMENT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/DESIGN_REVIEW.md",
+      "blob_sha": "8bd2902becd03083aa52480a4ecc0be13983ec4e",
+      "size_bytes": 4759,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/docs/DESIGN_REVIEW.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/IMPORT.md",
+      "blob_sha": "cdd795a1fc6cae9e2fb91b6dff65ead1a285683d",
+      "size_bytes": 1586,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/docs/IMPORT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/MATHEMATICS.md",
+      "blob_sha": "ea7ac98486d09c15f91a37200d32c3857266f047",
+      "size_bytes": 7864,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/docs/MATHEMATICS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/screenshots/desktop.jpg",
+      "blob_sha": "5752e0738e17ae07ea7dea9f097f680d27b4b987",
+      "size_bytes": 112875,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/docs/screenshots/desktop.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/theorems.json",
+      "blob_sha": "dcc4cb2ff5abb32d608ae98bdd82a668555e83bd",
+      "size_bytes": 22391,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/docs/theorems.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "IMPORT.json",
+      "blob_sha": "1f21c3016b46038e6cc1d8ccbff19386d27566d7",
+      "size_bytes": 9624,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/IMPORT.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "1cbf0b5e693ebbb39cb1d23335a92ee70e608f7b",
+      "size_bytes": 268953,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "7adc508cb624818b36f6a293eda7f4a48c48d60a",
+      "size_bytes": 111,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "412340e732209cf978d3524f70dcf010d41b5ba7",
+      "size_bytes": 149,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Main.lean",
+      "blob_sha": "3a2ac49fb24abe39aecbdc8cb2558fa90f8ef4c3",
+      "size_bytes": 551,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "package.json",
+      "blob_sha": "7d642e21cc7cbafdcc796814576823938219f9e3",
+      "size_bytes": 178,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/package.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "7dc04525e5d1be9a536fd92d94e2e73bea392c13",
+      "size_bytes": 8914,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/.gitignore",
+      "blob_sha": "cd3a901ba80dee33eede50877ff02cdc9d711672",
+      "size_bytes": 28,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/adapters/fixture.py",
+      "blob_sha": "41bf78f8790f5a733d9a9d5061bca47d01afa091",
+      "size_bytes": 936,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/adapters/fixture.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/adapters/gateway.py",
+      "blob_sha": "9189de096be6d915083c9f435bbe1548fb65a1a2",
+      "size_bytes": 1811,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/adapters/gateway.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/analyze.py",
+      "blob_sha": "c3c07fa383bb95708979b99b6392733665ba1700",
+      "size_bytes": 10669,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/analyze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/APPROVALS.md",
+      "blob_sha": "fba372e2d58c52c536f88a3e7b718dbe232c6a66",
+      "size_bytes": 4401,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/APPROVALS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/arms/A-plain.txt",
+      "blob_sha": "b8c0a89c31436080d24f2f1b5bb38ded313baec1",
+      "size_bytes": 116,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/arms/A-plain.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/arms/B-status.txt",
+      "blob_sha": "a93350dfef1ca72025db2454a694d110ce46535d",
+      "size_bytes": 586,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/arms/B-status.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/arms/C-critic.txt",
+      "blob_sha": "d5cc1523377f2ececb6711d0d0b20fccf7885804",
+      "size_bytes": 575,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/arms/C-critic.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/arms/C-revise.txt",
+      "blob_sha": "ed76ce83f9b97e6039e419266712a5c5f5b33339",
+      "size_bytes": 466,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/arms/C-revise.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/arms/common.txt",
+      "blob_sha": "3cd808b26383f37eb6ac743240f6e63fc2c3863a",
+      "size_bytes": 944,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/arms/common.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/arms/D-cite-abstain.txt",
+      "blob_sha": "fb7e51770ebd940ab1eaed91ed11404bf69bfb6e",
+      "size_bytes": 368,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/arms/D-cite-abstain.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/arms/E-feedback.txt",
+      "blob_sha": "02bb8e1fe38d8d8523dc6da4186167f86eefc2f6",
+      "size_bytes": 298,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/arms/E-feedback.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/arms/E-revise.txt",
+      "blob_sha": "45122b6d0cd15ce978266a5a7c4f29125c2b1b06",
+      "size_bytes": 182,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/arms/E-revise.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/CONFIG.json",
+      "blob_sha": "0c0aafdc635104a83d83f32f965cb70359fb6050",
+      "size_bytes": 2183,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/CONFIG.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/core.py",
+      "blob_sha": "0bb7f173b3f2a150d6c6775b9d16bea4bb8b1601",
+      "size_bytes": 12213,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/core.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/CORPUS.json",
+      "blob_sha": "43adaabadbcbd34ca5d846b85a0abc0c07cd0afa",
+      "size_bytes": 3158,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/CORPUS.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/corpus/continuum.md",
+      "blob_sha": "eff81a03bd4f1ccc86557120bb8ad2d3de8dd4ed",
+      "size_bytes": 30088,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/corpus/continuum.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/corpus/devs.md",
+      "blob_sha": "0f777f9b4f785e122d874207cae37a357cdc400f",
+      "size_bytes": 17058,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/corpus/devs.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/corpus/f001.md",
+      "blob_sha": "2fcaf1751397a80f9dd71636d88abb9b787115ce",
+      "size_bytes": 4831,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/corpus/f001.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/corpus/grid005.md",
+      "blob_sha": "74274e6bb5906ef6a9e234789f29cc4a0e4c3193",
+      "size_bytes": 11723,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/corpus/grid005.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/corpus/me003-initial.md",
+      "blob_sha": "0f3856ecd3dd4f23ff17512a39b1b367c50e54f3",
+      "size_bytes": 10928,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/corpus/me003-initial.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/corpus/me003.md",
+      "blob_sha": "e848882e836c0ac87056f41ae265baf9660d10e7",
+      "size_bytes": 10925,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/corpus/me003.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/corpus/monitoring.md",
+      "blob_sha": "957563eadbdcac738cea799f1d3336048fc430fb",
+      "size_bytes": 15211,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/corpus/monitoring.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/corpus/r001-initial.md",
+      "blob_sha": "dc1ce80c117d337411574b7a707876874d1a18bb",
+      "size_bytes": 9610,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/corpus/r001-initial.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/corpus/r001.md",
+      "blob_sha": "8e13a10379b0a363fffb3a4b8838ec443fc9c182",
+      "size_bytes": 12079,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/corpus/r001.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/corpus/weaver.md",
+      "blob_sha": "282f2fe4a8e45b5330a26b142769f97c781ae8e2",
+      "size_bytes": 26024,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/corpus/weaver.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/DESIGN.md",
+      "blob_sha": "c886e492561ca179c293d92188ab52d08dcf18eb",
+      "size_bytes": 9001,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/DESIGN.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/development/QUESTIONS.json",
+      "blob_sha": "004c5beab28a6a1d6042e2a7ef8e9940b052b0ed",
+      "size_bytes": 18050,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/development/QUESTIONS.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/planning.py",
+      "blob_sha": "ff9182585b7a5b362e53cbf1c3b0bb3e8e06838c",
+      "size_bytes": 1036,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/planning.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/prepare.py",
+      "blob_sha": "2268eb1d34d0df0f5326cbaa3871dfc8d4ffbdae",
+      "size_bytes": 1477,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/prepare.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/PROTOCOL.md",
+      "blob_sha": "e1a5ff8c43699a55da1302cbdd12d4fe9a68649e",
+      "size_bytes": 14486,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/QUESTIONS.json",
+      "blob_sha": "01018c9293ea904e90a721c3767dbfb0bdb76493",
+      "size_bytes": 144,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/QUESTIONS.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/QUESTIONS.schema.json",
+      "blob_sha": "c8c3938ee4e979f2fbd87abd2ed8922141b0eb2b",
+      "size_bytes": 4165,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/QUESTIONS.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/README.md",
+      "blob_sha": "583df8fcfef8c4d6d8fd4e5a52d4039cfecae77d",
+      "size_bytes": 4274,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/REPRODUCIBILITY.md",
+      "blob_sha": "db53df3280dada379af88be22e65ba5374aa8e6f",
+      "size_bytes": 11428,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/REPRODUCIBILITY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/RUN.md",
+      "blob_sha": "4299c5b883ae6c8c33fe9901ebf436e67d00fcce",
+      "size_bytes": 3418,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/RUN.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/run.py",
+      "blob_sha": "03058ee821ad57d07a64de3eff4df63b9e61d456",
+      "size_bytes": 7407,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/score.py",
+      "blob_sha": "d09e0c808f6851dcead3aaa49eb48f749a94ab6f",
+      "size_bytes": 8322,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/score.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/SCORING.md",
+      "blob_sha": "5804812e9ed53f37bfbd5a1a843411d0b67072d8",
+      "size_bytes": 5183,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/SCORING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/SOURCE_AUDIT.md",
+      "blob_sha": "c5185efe2c3536fd2b6f29acce1f805874a26508",
+      "size_bytes": 4538,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/SOURCE_AUDIT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/tests/test_dev2.py",
+      "blob_sha": "c980017487e7d2a3274eb119b69081481744c3e1",
+      "size_bytes": 19755,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/tests/test_dev2.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/tests/test_transport.py",
+      "blob_sha": "56de0032f122c308869c109a19b79b157dee4543",
+      "size_bytes": 3052,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/tests/test_transport.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/dev2-001/THRESHOLDS.json",
+      "blob_sha": "f8729a254087551a2a22bfdf7c5e15f3f4385d1c",
+      "size_bytes": 3510,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/research/dev2-001/THRESHOLDS.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/BASELINE_MANIFEST.json",
+      "blob_sha": "03b2d98fddfb009442f07fc0eb65b9c7bb68d55e",
+      "size_bytes": 7026,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/BASELINE_MANIFEST.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/CONFLICT_SCREENING.json",
+      "blob_sha": "01cdc100abbc9c2afd4a91984686b36821699b2f",
+      "size_bytes": 15866,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/CONFLICT_SCREENING.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/CONFLICT_SCREENING.md",
+      "blob_sha": "ab08f8c51d9f7ee4911f7f7213efa34b5ee130c3",
+      "size_bytes": 2514,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/CONFLICT_SCREENING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/ENGAGEMENT_QUESTIONS.md",
+      "blob_sha": "dd46bb569ff6f80649bd43f80de9f6d1ab5af4ed",
+      "size_bytes": 2078,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/ENGAGEMENT_QUESTIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/evidence/107fed78-ME-003_Flat_Minkowski_Specialization_Discovery.md",
+      "blob_sha": "0f3856ecd3dd4f23ff17512a39b1b367c50e54f3",
+      "size_bytes": 10928,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/evidence/107fed78-ME-003_Flat_Minkowski_Specialization_Discovery.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/evidence/1b8b1f85-Devs2.0-EFMW.md",
+      "blob_sha": "8ac80aca13be135863c50a549e58e30d58caddaf",
+      "size_bytes": 17276,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/evidence/1b8b1f85-Devs2.0-EFMW.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/evidence/2e7d8136-EFMW-Zoo-R001-Primordial-Recursion-Boundary.md",
+      "blob_sha": "dc1ce80c117d337411574b7a707876874d1a18bb",
+      "size_bytes": 9610,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/evidence/2e7d8136-EFMW-Zoo-R001-Primordial-Recursion-Boundary.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/evidence/471a9a24-EFMW-Zoo-R001-Primordial-Recursion-Boundary.md",
+      "blob_sha": "8e13a10379b0a363fffb3a4b8838ec443fc9c182",
+      "size_bytes": 12079,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/evidence/471a9a24-EFMW-Zoo-R001-Primordial-Recursion-Boundary.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/evidence/56f7d321-ME-003_Flat_Minkowski_Specialization_Discovery.md",
+      "blob_sha": "e848882e836c0ac87056f41ae265baf9660d10e7",
+      "size_bytes": 10925,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/evidence/56f7d321-ME-003_Flat_Minkowski_Specialization_Discovery.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/evidence/999bc947-Devs2.0-EFMW.md",
+      "blob_sha": "0f777f9b4f785e122d874207cae37a357cdc400f",
+      "size_bytes": 17058,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/evidence/999bc947-Devs2.0-EFMW.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/evidence/a10f4b35-EFMW-Zoo-R001-Primordial-Recursion-Boundary.md",
+      "blob_sha": "b224e9d0c6ed3198cbe57eca96584ec76538f4f8",
+      "size_bytes": 11293,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/evidence/a10f4b35-EFMW-Zoo-R001-Primordial-Recursion-Boundary.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/HISTORY_CENSUS.json",
+      "blob_sha": "73c04124807628c033053e598764771a156b39c2",
+      "size_bytes": 3455,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/HISTORY_CENSUS.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/HUMAN_SCORING.md",
+      "blob_sha": "ecb0ea509e1477391c50bcfbeaef6f933b52ce27",
+      "size_bytes": 2041,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/HUMAN_SCORING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/METHODS_REVIEW.md",
+      "blob_sha": "006943b606365bacd34b8956418632f4f523b8fc",
+      "size_bytes": 4436,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/METHODS_REVIEW.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/PLANNING_OUTPUT.json",
+      "blob_sha": "6c68530214c5b4d901eb832dc7831b4a3b704466",
+      "size_bytes": 3016,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/PLANNING_OUTPUT.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/QUESTION_REVIEW_WORKSHEET.json",
+      "blob_sha": "96baf768909d6a82114c590305820c5b1a2f1a79",
+      "size_bytes": 34467,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/QUESTION_REVIEW_WORKSHEET.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/READINESS_SNAPSHOT.json",
+      "blob_sha": "67000a56e0eb6f84d2aea4891df831330523d9e6",
+      "size_bytes": 1007,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/READINESS_SNAPSHOT.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/README.md",
+      "blob_sha": "a1d273b20d5e9842ba58c7eafa5467d66ca845f8",
+      "size_bytes": 3894,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/REPRODUCTION_CHECKLIST.md",
+      "blob_sha": "237fa91f62b3c56bca5a57d0b372029b21f106b8",
+      "size_bytes": 2653,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/REPRODUCTION_CHECKLIST.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/SCOPE.md",
+      "blob_sha": "77c33bc2848490c3c2a937c350ee4e5487fa886a",
+      "size_bytes": 2175,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/SCOPE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/SOURCE_CORRECTIONS.md",
+      "blob_sha": "e5b3d9de4b8da80b973641ea7283dcff46112b1e",
+      "size_bytes": 1593,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/SOURCE_CORRECTIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reviews/dev2-001-2026-10-23/verify_packet.py",
+      "blob_sha": "89970af6395586b27f53a37287a1ffa2568cae69",
+      "size_bytes": 3546,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/reviews/dev2-001-2026-10-23/verify_packet.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/build_site.py",
+      "blob_sha": "1335fc66a4ffc370b63aa3ad30b3a7c6453387c3",
+      "size_bytes": 6393,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/scripts/build_site.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/check_lean.py",
+      "blob_sha": "883fe4e2ba7df8f5cb232781a0c018692e4b2d78",
+      "size_bytes": 2226,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/scripts/check_lean.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/tag_checkpoint.py",
+      "blob_sha": "6c0926b768e3d1f3da438df6b6aae84425d063be",
+      "size_bytes": 4158,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/scripts/tag_checkpoint.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/verify.py",
+      "blob_sha": "1e7e0b23f6dca57ded4a38cf4e8eacd56e336c71",
+      "size_bytes": 1376,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/scripts/verify.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/engine.test.mjs",
+      "blob_sha": "7b816edca7c23d415c60d4b7e8a849dd41081315",
+      "size_bytes": 2331,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/tests/engine.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_checkpoint.py",
+      "blob_sha": "1d9c4024b94d6f3cfb6e4152c1b42b7a69299788",
+      "size_bytes": 2771,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/tests/test_checkpoint.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/dev2-001-v0.2-draft.json",
+      "blob_sha": "7fe74d1abed887580fbe340e146546797ec85544",
+      "size_bytes": 2005,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/verification/dev2-001-v0.2-draft.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/hosted-build.json",
+      "blob_sha": "2134a31d5412309b8765b4d5875aff44e2686261",
+      "size_bytes": 766,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/verification/hosted-build.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/README.md",
+      "blob_sha": "a29a29cb2d86e6e6e0da7a0dd790391c1c3912c2",
+      "size_bytes": 2359,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/verification/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "web/app.js",
+      "blob_sha": "d43af781d8541300f1c9a2143c5b6b3329c5f272",
+      "size_bytes": 32887,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/web/app.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "web/engine.js",
+      "blob_sha": "c854c84861c683240ddcead2f7e5240633bf542b",
+      "size_bytes": 4458,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/web/engine.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "web/source-corrections.json",
+      "blob_sha": "a947efa6cb3f9dc0bd488f625e148a6cd2e34961",
+      "size_bytes": 486,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/web/source-corrections.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "web/style.css",
+      "blob_sha": "3d3af2bf7c21c0b410c276323b24849a82e45b40",
+      "size_bytes": 18923,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/web/style.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "web/template.html",
+      "blob_sha": "322fac43084922ee4bcb7ea2d4756b77195cd80a",
+      "size_bytes": 3462,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Devs2.0/blob/main/web/template.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

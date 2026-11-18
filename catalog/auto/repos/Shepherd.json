@@ -1,0 +1,182 @@
+{
+  "repository": "enuminous/Shepherd",
+  "default_branch": "main",
+  "tree_sha": "8c5b95b7524c7c53228653ed4d8635d9590c682a",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "baselines.py",
+      "blob_sha": "d1af85199f6b901f35f6075a85bdd65069286e67",
+      "size_bytes": 1402,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/baselines.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "50542b1659b1b1252b06b35600d9ecda61d27c24",
+      "size_bytes": 324,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_config.yaml",
+      "blob_sha": "bc6c481f7382ebb99d6c9b7caed3c86e91cffdc3",
+      "size_bytes": 172,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/example_config.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_data.csv",
+      "blob_sha": "d1c569c6d88fbdace8efe4a3235bdae3a7092978",
+      "size_bytes": 78688,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/example_data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_run.py",
+      "blob_sha": "b52a7889e71244f28cd33469a7940bbc3701e97e",
+      "size_bytes": 560,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/example_run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "features.py",
+      "blob_sha": "d328daa5ecf8574c226d14b198ffbf3422f7a966",
+      "size_bytes": 3303,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/features.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "freeze.py",
+      "blob_sha": "c0ff9c24bbc4fb265f2e12978184ce7ac4f44bf0",
+      "size_bytes": 433,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/freeze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "hazard_schema.json",
+      "blob_sha": "d1cd507bd4f434adf387923d1055d4613fbca2e6",
+      "size_bytes": 772,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/hazard_schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "cb4a26e481828e1ffcff5a7c0b3006f66acf69df",
+      "size_bytes": 1865,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "79719fc120a524ad10e1a44d1de510cffc80530d",
+      "size_bytes": 1087,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "7ccf8013483d0963789be0d9d1d2f4960e73e51d",
+      "size_bytes": 1199,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metrics.py",
+      "blob_sha": "c051c2c11a5bef74aef31f57336c5c45955006a8",
+      "size_bytes": 1070,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "d6721f041bee4c7f893ef6f4ca4f462480e186d1",
+      "size_bytes": 478,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "bae8b2b8d95e4f59fbdb434c64261c5a93ad874c",
+      "size_bytes": 5216,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "92960fc2c2068ab631f0a3757dd8e63ce0e1c4f5",
+      "size_bytes": 66,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "shepherd.py",
+      "blob_sha": "228660290b3cfeb151e777a6579ce1379f6f80a7",
+      "size_bytes": 2583,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/shepherd.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_shepherd.py",
+      "blob_sha": "3e31632e3eb4d1ed0710c7c93ceaf324598c8a3c",
+      "size_bytes": 920,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Shepherd/blob/main/test_shepherd.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "repository": "enuminous/Research-Program",
+  "default_branch": "main",
+  "tree_sha": "39ea37233b67d3a94dde09e1e6e729b5d746601c",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "ac6d14233ba0da24a7eeaadd1966e5b3edb61106",
+      "size_bytes": 360,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Research-Program/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "4dd3f17cbe7f8f4ddae6fd2fb2444213911df618",
+      "size_bytes": 9315,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Research-Program/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MODEL.py",
+      "blob_sha": "4b5d6294312606e6be38ce27089662faa292590d",
+      "size_bytes": 1222,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Research-Program/blob/main/MODEL.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PAPER.md",
+      "blob_sha": "76c2cec16c5e2b4f0ecf43705ca4f810fb17f7ea",
+      "size_bytes": 5334,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Research-Program/blob/main/PAPER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PROTOCOL.md",
+      "blob_sha": "709e55984d35c4c21a3405c4a40d2c22a7a55d32",
+      "size_bytes": 1691,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Research-Program/blob/main/PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "f774e755a2a76a1f5663cd92f6234db008762759",
+      "size_bytes": 3844,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Research-Program/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "0c36275f9ae28a5ba6a0133eb1e2e00bfc90e155",
+      "size_bytes": 46,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Research-Program/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_model.py",
+      "blob_sha": "d368ce2ba8bf7e4bef8f70d6e24a415f145de861",
+      "size_bytes": 691,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Research-Program/blob/main/test_model.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

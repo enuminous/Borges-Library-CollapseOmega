@@ -1,0 +1,194 @@
+{
+  "repository": "enuminous/EFMW-Constants-Problem",
+  "default_branch": "main",
+  "tree_sha": "3916f82ce16ddfa4b88da6e2d11a593728db9382",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "2e3a70015726241553a1b97ecb01c8978d2ca111",
+      "size_bytes": 1307,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "19fdf5a8aafcdbd05fae0f9f6f67e3329254e988",
+      "size_bytes": 27,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "00c600c3a9a59d0372724d5b73be84aba512e06b",
+      "size_bytes": 1242,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CLAIMS_BOUNDARY.md",
+      "blob_sha": "060458ce9f3b171515fea7b35792c9a968d14294",
+      "size_bytes": 1038,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/CLAIMS_BOUNDARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "DEPENDENCY_MAP.md",
+      "blob_sha": "5bce58d6883b59f62c2194e259ae22a9c081f59e",
+      "size_bytes": 1531,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/DEPENDENCY_MAP.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWConstants.lean",
+      "blob_sha": "7a6823ad4d7472e660073836b0c4f828aba5d0a1",
+      "size_bytes": 26,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/EFMWConstants.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWConstants/Core.lean",
+      "blob_sha": "d19305daf4e570a09355e630f1c2502fedac483a",
+      "size_bytes": 2991,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/EFMWConstants/Core.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMWConstants/Main.lean",
+      "blob_sha": "5799dcc70f5524cd4af71080a011b4436dec67e2",
+      "size_bytes": 464,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/EFMWConstants/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "27be9011f8e5ecf6cc413c5fed5c1f88bf6b3fe7",
+      "size_bytes": 12173,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "6a2674179b6f55f2da766c39e119f45f4fd13b48",
+      "size_bytes": 3490,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "e94c588b9b1bf45146565573f61cb90c449228d9",
+      "size_bytes": 202,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "dc4ebd7f7a7beed5d31e1b77e2324c06a37441e3",
+      "size_bytes": 92,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "2a0477c397588ec06336c76435c65324b526899a",
+      "size_bytes": 2996,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_axiom_audit.py",
+      "blob_sha": "26d939e7029fe25c20170106e3d6cb6777077a25",
+      "size_bytes": 1383,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "dd50047abf20be6f101d431f53496c5464bf2808",
+      "size_bytes": 1425,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification_output.txt",
+      "blob_sha": "bc91dd7340ae0c2f7fe3878e9ec7797995263da7",
+      "size_bytes": 372,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/verification_output.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify_constants.py",
+      "blob_sha": "11557535109cc4d63a90f2dfa3937abe5738a494",
+      "size_bytes": 1413,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Constants-Problem/blob/main/verify_constants.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,2639 @@
+{
+  "repository": "enuminous/Weaver_Os",
+  "default_branch": "main",
+  "tree_sha": "8c85b65fda7b09dee5d8ac361b9c3f6ee545d323",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/CODEOWNERS",
+      "blob_sha": "1f3b85471e1546033a14849c8ea03679657d1098",
+      "size_bytes": 48,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/.github/CODEOWNERS",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/dependabot.yml",
+      "blob_sha": "68a36c88b49d4df0a8a6a1878a6a5421d34a5ec3",
+      "size_bytes": 270,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/.github/dependabot.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/release_readiness_receipt.md",
+      "blob_sha": "00c0ab14ddd621ae31269660b9d9fb1c2336a00e",
+      "size_bytes": 702,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/.github/ISSUE_TEMPLATE/release_readiness_receipt.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/pull_request_template.md",
+      "blob_sha": "eb351d4f0db6f252d04341423b756bd7e70921a8",
+      "size_bytes": 545,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/.github/pull_request_template.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/boundary-integrity-demo.yml",
+      "blob_sha": "f22ee63b0771f75341115b3251830b8e5319f674",
+      "size_bytes": 2278,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/.github/workflows/boundary-integrity-demo.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "blob_sha": "97560360ac911259da93f885995a8f4fd1e40bb8",
+      "size_bytes": 1170,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/.github/workflows/ci.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/cross-host-spine.yml",
+      "blob_sha": "da1c400c5b21fba9cbfe78f552e774b003446b2a",
+      "size_bytes": 929,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/.github/workflows/cross-host-spine.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/e35-hold.yml",
+      "blob_sha": "5d38ae656c6442bc35cc89cba25531e4a85004ab",
+      "size_bytes": 1294,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/.github/workflows/e35-hold.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/gate1.yml",
+      "blob_sha": "2719f652b7826c54fc6b8e547b1aebe9ebbc0e03",
+      "size_bytes": 831,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/.github/workflows/gate1.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/tests.yml",
+      "blob_sha": "1c5708fa0248424c0236c6c4ca3b92aa4ee8b934",
+      "size_bytes": 894,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/.github/workflows/tests.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/triadic-controls-ci.yml",
+      "blob_sha": "0def7d7008dd2653b6bc95f0c889720098b236f1",
+      "size_bytes": 600,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/.github/workflows/triadic-controls-ci.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/verification.yml",
+      "blob_sha": "fd98d82b482329907224d63b724b0fbe07c1e97c",
+      "size_bytes": 1207,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/.github/workflows/verification.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/witness-tla.yml",
+      "blob_sha": "279e07aa7b5b2199542db5cb0c67b3831a704ed4",
+      "size_bytes": 1356,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/.github/workflows/witness-tla.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "80bc201474a29dc12117d5ddccb9bf2eb2e87eb4",
+      "size_bytes": 293,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/artifacts/manifests/.gitkeep",
+      "blob_sha": "0584f3e568f500ca70e6156a137b139cd794da6f",
+      "size_bytes": 24,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/artifacts/manifests/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/artifacts/receipts/.gitkeep",
+      "blob_sha": "a48fbc90c236dab0916ce104cf43bf17193d9dbf",
+      "size_bytes": 23,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/artifacts/receipts/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/artifacts/receipts/receipt-index.json",
+      "blob_sha": "5b36f102132c0e69c92810f85dc89e0d6fa99a46",
+      "size_bytes": 299,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/artifacts/receipts/receipt-index.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/artifacts/replay/.gitkeep",
+      "blob_sha": "25a1a155d9b359bfd037e8231e1ff571e93eaa61",
+      "size_bytes": 21,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/artifacts/replay/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/artifacts/verification/.gitkeep",
+      "blob_sha": "b8c398831a5a1c9f2dba4e98defc14cfc579fa01",
+      "size_bytes": 27,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/artifacts/verification/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/artifacts/witness/.gitkeep",
+      "blob_sha": "4a2039a145371fafa36963f511b0839d5b577bde",
+      "size_bytes": 22,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/artifacts/witness/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/AUDIT_PACKAGE.md",
+      "blob_sha": "c5250e2734de493582cf2b8ce3b3141ad8be689c",
+      "size_bytes": 2245,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/AUDIT_PACKAGE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/CHAIN_INTEGRITY_REPORT.md",
+      "blob_sha": "e08df7fd1a8855eadfb04b2e5313ce38d0935b46",
+      "size_bytes": 1153,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/CHAIN_INTEGRITY_REPORT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/CHANGELOG.md",
+      "blob_sha": "e0b8d7bb30557855526368a04c7c9f23210dd383",
+      "size_bytes": 867,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/CHANGELOG.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/CLAIM_TRACEABILITY_MATRIX.md",
+      "blob_sha": "77f1c60b6598e3a0749f3bcf8503aaed32c0e14b",
+      "size_bytes": 1639,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/CLAIM_TRACEABILITY_MATRIX.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/CLAIMS_AND_EVIDENCE.md",
+      "blob_sha": "4a06de18cf04426fe4939766d082cb150975a1b5",
+      "size_bytes": 2435,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/CLAIMS_AND_EVIDENCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/docs/architecture/.gitkeep",
+      "blob_sha": "a796a9db4e3b2c6a5ec2a146d90ab169fd0b76bb",
+      "size_bytes": 32,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/docs/architecture/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/docs/audit/.gitkeep",
+      "blob_sha": "4350dbe7df014d4c705be5c60a64d3e53e83693e",
+      "size_bytes": 25,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/docs/audit/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/docs/constitution/.gitkeep",
+      "blob_sha": "c8e3e0ca5a4ddc776e457e771fa754312de081da",
+      "size_bytes": 32,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/docs/constitution/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/docs/runtime/.gitkeep",
+      "blob_sha": "2ce3a584c8160aca95b5bd8bb4138e4b96d05396",
+      "size_bytes": 27,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/docs/runtime/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/E3_1_RECEIPTED_REPLAY_PACKAGE.md",
+      "blob_sha": "a6f7fda18f4c4573335b93bb93efaef6e7323e03",
+      "size_bytes": 1589,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/E3_1_RECEIPTED_REPLAY_PACKAGE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/ENVIRONMENT_MANIFEST.md",
+      "blob_sha": "81b418978fb49742c5383f9f0de0ae946e3c5d8b",
+      "size_bytes": 1214,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/ENVIRONMENT_MANIFEST.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/EVIDENCE_MANIFEST.md",
+      "blob_sha": "54927771186209b78764d44be84ff32829615f58",
+      "size_bytes": 1730,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/EVIDENCE_MANIFEST.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/FAILURE_AND_COUNTEREXAMPLE_LOG.md",
+      "blob_sha": "cc2c64b7febb3ac4289be373b0613dd7bfa8676d",
+      "size_bytes": 1028,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/FAILURE_AND_COUNTEREXAMPLE_LOG.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/FINAL_CONSOLIDATED_HANDOFF.md",
+      "blob_sha": "53374ff58aeebfa268b50d4c427d06976b5b1fea",
+      "size_bytes": 7760,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/FINAL_CONSOLIDATED_HANDOFF.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/formal/apalache/.gitkeep",
+      "blob_sha": "2f8d1d5a0a1932059fa5402531b9cad4658d3d19",
+      "size_bytes": 23,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/formal/apalache/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/formal/ccs/CCS_COUNTEREXAMPLE_SUITE.md",
+      "blob_sha": "4ee3fa9239b97bdf710f00f2e6c89fe4135fd863",
+      "size_bytes": 3765,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/formal/ccs/CCS_COUNTEREXAMPLE_SUITE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/formal/ccs/CCS_FORMAL_VERIFICATION_SCHEMA_v0.1.tla",
+      "blob_sha": "751c62355650bca93be332ffde3d43d3995bb33d",
+      "size_bytes": 7193,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/formal/ccs/CCS_FORMAL_VERIFICATION_SCHEMA_v0.1.tla",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/formal/ccs/CCS_PROOF_OBLIGATIONS_v1.0.md",
+      "blob_sha": "cfaed3e259f4464fc2ca7cc886cb9cab08d2ad44",
+      "size_bytes": 4221,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/formal/ccs/CCS_PROOF_OBLIGATIONS_v1.0.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/formal/lean/.gitkeep",
+      "blob_sha": "5b3793dab123b7c3dc97a02a3ec6bbe3855db427",
+      "size_bytes": 19,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/formal/lean/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/formal/tla+/.gitkeep",
+      "blob_sha": "d74568b29a3de3c0b54112f098abfa2ff6e4f45f",
+      "size_bytes": 19,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/formal/tla%2B/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/formal/tla+/README.md",
+      "blob_sha": "dccf39b92ed8a09deb8e8fd08b0c4859d052cf27",
+      "size_bytes": 2208,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/formal/tla%2B/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/formal/tla+/WitnessBoundary.cfg",
+      "blob_sha": "d924096a834727a883447ed98da1078516fa6f46",
+      "size_bytes": 223,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/formal/tla%2B/WitnessBoundary.cfg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/formal/tla+/WitnessBoundary.tla",
+      "blob_sha": "505ace0d17a3995bff47dc10c78a33d8be982c23",
+      "size_bytes": 2200,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/formal/tla%2B/WitnessBoundary.tla",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/HANDOFF_NOTE.md",
+      "blob_sha": "85c30f0d227e86962c430f46646b0e7b1e08a707",
+      "size_bytes": 875,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/HANDOFF_NOTE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/LIMITATIONS_AND_NONCLAIMS.md",
+      "blob_sha": "66fcce6bdbefa0882d740509103689b148337b7d",
+      "size_bytes": 779,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/LIMITATIONS_AND_NONCLAIMS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/PACKAGE_INDEX.md",
+      "blob_sha": "92a2c5a73e7c61aab9c384b76d77124e1f2aac40",
+      "size_bytes": 2192,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/PACKAGE_INDEX.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/PRESERVATION_REGISTRY.md",
+      "blob_sha": "3bb557f43c3396f745b8bab80c305b509440afa5",
+      "size_bytes": 3251,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/PRESERVATION_REGISTRY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/PRO_HANDOFF_PACKAGE.md",
+      "blob_sha": "bc412f5b9e78665d6d525be32023cf6be56eb9eb",
+      "size_bytes": 1670,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/PRO_HANDOFF_PACKAGE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/README.md",
+      "blob_sha": "1df67a95067f1de9c35e729c7bf0ac279658aab2",
+      "size_bytes": 1466,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/RELEASE_CHECKLIST.md",
+      "blob_sha": "d1b2a974d7988ef9c0f1e87b290b786eac490424",
+      "size_bytes": 1308,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/RELEASE_CHECKLIST.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/REPLAY_REPORT.md",
+      "blob_sha": "876d140466f7901f2aa6a17cdf8a85f8befdff46",
+      "size_bytes": 1247,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/REPLAY_REPORT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/REPOSITORY_MANIFEST.md",
+      "blob_sha": "8afc7f9f0f3f87cf4093cbc09b23c4b3057ab259",
+      "size_bytes": 1403,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/REPOSITORY_MANIFEST.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/REPRODUCTION_INSTRUCTIONS.md",
+      "blob_sha": "bff2ce23ac1c40fcb58ea6afc8c5487c2ffa270e",
+      "size_bytes": 1497,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/REPRODUCTION_INSTRUCTIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/REVIEWER_CHECKLIST.md",
+      "blob_sha": "157346c08bb10eaeb81e7984e9633d09f7c391e7",
+      "size_bytes": 1087,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/REVIEWER_CHECKLIST.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/REVIEWER_CONCLUSION_TEMPLATE.md",
+      "blob_sha": "307c8f64a14ad02179abc8f8963070e4b376e539",
+      "size_bytes": 700,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/REVIEWER_CONCLUSION_TEMPLATE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/scripts/.gitkeep",
+      "blob_sha": "7570000f35922b9725b78cd06a961bef3baf55b3",
+      "size_bytes": 22,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/scripts/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/scripts/export-audit-bundle.sh",
+      "blob_sha": "5d97c78f4ce1dfbf7cacbd6c781ef8887161db2d",
+      "size_bytes": 205,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/scripts/export-audit-bundle.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/scripts/hash-artifacts.sh",
+      "blob_sha": "fb5cabae3fbe36b838e9f7039578b05cb6f73c4e",
+      "size_bytes": 212,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/scripts/hash-artifacts.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/scripts/run-replay.sh",
+      "blob_sha": "318efd5428f67f3ac501a8985cba14d063fc38d5",
+      "size_bytes": 472,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/scripts/run-replay.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/scripts/validate-manifests.sh",
+      "blob_sha": "afb417b9e0d659b9f8c44dced29b344e071fe2bf",
+      "size_bytes": 807,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/scripts/validate-manifests.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/scripts/verify-receipts.sh",
+      "blob_sha": "aadba66e53991dbfd3d66bb5841ea8786a3b59ff",
+      "size_bytes": 779,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/scripts/verify-receipts.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/SHA256SUMS.txt",
+      "blob_sha": "9670e8c82ffae5ae5e1b5763366ad610cda0779d",
+      "size_bytes": 854,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/SHA256SUMS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/tests/integration/.gitkeep",
+      "blob_sha": "a76fbfd8323aa98c35f50ed900184a15377ad864",
+      "size_bytes": 32,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/tests/integration/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/tests/replay/.gitkeep",
+      "blob_sha": "40b7cded152f5bce3c4e1c8cbc7c51f4386e8ed8",
+      "size_bytes": 27,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/tests/replay/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/tests/traceability/.gitkeep",
+      "blob_sha": "139fceba30cd4212961c82dbf39a9a765d783245",
+      "size_bytes": 33,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/tests/traceability/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/tests/unit/.gitkeep",
+      "blob_sha": "be118756a8a8606724695e85d0d0683764b47142",
+      "size_bytes": 25,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/tests/unit/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/tests/witness/.gitkeep",
+      "blob_sha": "040a558158a40b22658035f8761938a6cb83f401",
+      "size_bytes": 28,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/tests/witness/.gitkeep",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/VERIFICATION_REPORT.md",
+      "blob_sha": "8468b12dc5a8fa7820b8acb4c9f1d00eaaa14b3e",
+      "size_bytes": 889,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/VERIFICATION_REPORT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/VERIFY.md",
+      "blob_sha": "f41a6febb58643cbcf61f9cade75f368e8279b4b",
+      "size_bytes": 1593,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/VERIFY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-package/WITNESS_ATTESTATIONS.md",
+      "blob_sha": "5712e16de61b3f1093b2ddc98a320bfedcb227db",
+      "size_bytes": 1063,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/audit-package/WITNESS_ATTESTATIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "authority_ledger.json",
+      "blob_sha": "230a20cfbd6eac947837054fc97663219aa7bd81",
+      "size_bytes": 1196,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/authority_ledger.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "canonical/__init__.py",
+      "blob_sha": "eeac2c7c30d2ed01fd0bad34c82d691e17185e82",
+      "size_bytes": 23,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/canonical/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "canonical/canonical.py",
+      "blob_sha": "8903cb7d88972f69bf0d3b881c2cee2caf15abd0",
+      "size_bytes": 29,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/canonical/canonical.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "blob_sha": "449bbd8f50312ad7d3f813b54d95195fcb2e8f4b",
+      "size_bytes": 505,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/CHANGELOG.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "chronicle-raft/http_attestation_snippet.go",
+      "blob_sha": "f5aea87b05566a5e7ce9c9cda03715a33a210466",
+      "size_bytes": 1095,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/chronicle-raft/http_attestation_snippet.go",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "chronicle/__init__.py",
+      "blob_sha": "cb7fa2c98ee47712cc15d08eff8406a728d15479",
+      "size_bytes": 192,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/chronicle/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "chronicle/chronicle.py",
+      "blob_sha": "1e42d684ceea731e0ccdc0fcef384506ba64f541",
+      "size_bytes": 889,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/chronicle/chronicle.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "compression/__init__.py",
+      "blob_sha": "eeac2c7c30d2ed01fd0bad34c82d691e17185e82",
+      "size_bytes": 23,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/compression/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "compression/residual_monitor.py",
+      "blob_sha": "8903cb7d88972f69bf0d3b881c2cee2caf15abd0",
+      "size_bytes": 29,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/compression/residual_monitor.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "blob_sha": "46255891731c693f8d5c1bad54f5adf7bd16002e",
+      "size_bytes": 997,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/CONTRIBUTING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "demo/boundary_integrity_demo.py",
+      "blob_sha": "49a3cba2ba133220a2a8c368dde48c74aca11e9f",
+      "size_bytes": 6086,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/demo/boundary_integrity_demo.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "demo/demo_cases/01_valid_ordinary_proposal.json",
+      "blob_sha": "4c991efa29a1ff48dbfb46ef3094e5d8e1ed6647",
+      "size_bytes": 955,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/demo/demo_cases/01_valid_ordinary_proposal.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "demo/demo_cases/02_authority_leak_attempt.json",
+      "blob_sha": "072a37da51f397062975c781250593fee04ee6cc",
+      "size_bytes": 1005,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/demo/demo_cases/02_authority_leak_attempt.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "demo/demo_cases/03_tampered_record.json",
+      "blob_sha": "737374df1827aa8c05f21877d881b1c7faf5de81",
+      "size_bytes": 351,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/demo/demo_cases/03_tampered_record.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "demo/demo_cases/04_cvp_promotion_without_witness.json",
+      "blob_sha": "e601b2f8b9c0946ab04707c17ad4f41e1e507da0",
+      "size_bytes": 1018,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/demo/demo_cases/04_cvp_promotion_without_witness.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "demo/forged_authority_demo.py",
+      "blob_sha": "8903cb7d88972f69bf0d3b881c2cee2caf15abd0",
+      "size_bytes": 29,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/demo/forged_authority_demo.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "demo/README.md",
+      "blob_sha": "ca6886712ca6a44d6a6a669359fef53970cab0ad",
+      "size_bytes": 1372,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/demo/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "demo/run_demo.sh",
+      "blob_sha": "59dd005b519d8da015eafa3e19009e360fc9997e",
+      "size_bytes": 633,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/demo/run_demo.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/A1_TRANSITION_INVARIANT.md",
+      "blob_sha": "11318b5b64cf6a85e1ebec61e3b167da4f142e6d",
+      "size_bytes": 2289,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/A1_TRANSITION_INVARIANT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/architecture/DUAL_LEDGER_MODEL.md",
+      "blob_sha": "5f179d4d17a0cbf6cffa917a29a4563b0f88a268",
+      "size_bytes": 2329,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/architecture/DUAL_LEDGER_MODEL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/constitution/CVP_FINAL_HANDOFF_2026_06_06.md",
+      "blob_sha": "5595b318af68b786b5d96cd6c6d2c0e11d33a68e",
+      "size_bytes": 6632,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/constitution/CVP_FINAL_HANDOFF_2026_06_06.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/constitution/CVP_INVARIANTS_ADDENDUM.md",
+      "blob_sha": "668871eedd9d8ba2dea13f4fb986be02c86795c9",
+      "size_bytes": 1611,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/constitution/CVP_INVARIANTS_ADDENDUM.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/constitution/METACONSTITUTION.md",
+      "blob_sha": "045a457f7efc2568c82c68d0989ac90fcf3ec423",
+      "size_bytes": 1642,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/constitution/METACONSTITUTION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/CROSS_HOST_SPINE_RECEIPT.md",
+      "blob_sha": "ab45429256a9dc724085ebe0cd3ab9a4f69aeb7b",
+      "size_bytes": 1730,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/CROSS_HOST_SPINE_RECEIPT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/ENFORCED_VS_METADATA.md",
+      "blob_sha": "aa3adbbb0c2f22ce688664817c1d395676890327",
+      "size_bytes": 7153,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/ENFORCED_VS_METADATA.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/FAIL_CLOSED_SPINE.md",
+      "blob_sha": "622a324ac8d10a69e1f79d6732ab3cd2879678ce",
+      "size_bytes": 2421,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/FAIL_CLOSED_SPINE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/FIRST_FAILURE_ANALYSIS.md",
+      "blob_sha": "90f07f4cf071c17db9fcbb5b7c36c021acc8b9a1",
+      "size_bytes": 46,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/FIRST_FAILURE_ANALYSIS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/notes/MVP.md",
+      "blob_sha": "01f29fd7acd11b047d994a56756605e3ea8a31b7",
+      "size_bytes": 1434,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/notes/MVP.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/notes/pr23-audit-package-record.md",
+      "blob_sha": "b8314247cf676b184317ccf241b923b813f3111b",
+      "size_bytes": 296,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/notes/pr23-audit-package-record.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/paper_related_work.md",
+      "blob_sha": "2d8de25a133d31ed267b1b2ac615483a6ce3cac9",
+      "size_bytes": 36,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/paper_related_work.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/PROMOTION_RULES.md",
+      "blob_sha": "7e15ed67002937f6f0221ae70b1fe6870fbb7e0a",
+      "size_bytes": 849,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/PROMOTION_RULES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/RELEASE_READINESS.md",
+      "blob_sha": "9f6265f080e655dee6a9557f21cace82c880e9ae",
+      "size_bytes": 1947,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/RELEASE_READINESS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/releases/labyrinth-weaver-handoff-v1.md",
+      "blob_sha": "f2488d365ce35bfd4ddcea1a9171f77373d713ba",
+      "size_bytes": 249,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/releases/labyrinth-weaver-handoff-v1.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/releases/triad-multiblock-verification.md",
+      "blob_sha": "b47c8195ea4414f875bc8df5dcf37cedcace8219",
+      "size_bytes": 2437,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/releases/triad-multiblock-verification.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/releases/witness-archive-verification.md",
+      "blob_sha": "012d60a130314429de5e99bcb409a24c412fdcaf",
+      "size_bytes": 2836,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/releases/witness-archive-verification.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/RUNTIME_STATE_DIGEST_CONTRACT.md",
+      "blob_sha": "ca374ea970f2b95530c005000f0c47a84261e16e",
+      "size_bytes": 4467,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/RUNTIME_STATE_DIGEST_CONTRACT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/triad/CODEX_SUMMARY.md",
+      "blob_sha": "994ff2b9bc90e6eeb6e561ecc49f45c0d08f9769",
+      "size_bytes": 2415,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/triad/CODEX_SUMMARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/triad/EVIDENCE_LABELS.md",
+      "blob_sha": "9c62dea0640445b3fd42db367bd596de005ca168",
+      "size_bytes": 1372,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/triad/EVIDENCE_LABELS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/triad/P12_SELF_FALSIFICATION.md",
+      "blob_sha": "a007fce94d9556ee4115bd72427f3d923c082317",
+      "size_bytes": 1160,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/triad/P12_SELF_FALSIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/triad/PRIME_INVARIANT.md",
+      "blob_sha": "ffbbb27c99c20ce244e82268f5a28728d9de3986",
+      "size_bytes": 1023,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/triad/PRIME_INVARIANT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/triad/RECEIPT_BINDING.md",
+      "blob_sha": "3ebaaa5ca92a9d41de7f1ae32a8d2503e18c5e5b",
+      "size_bytes": 1375,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/triad/RECEIPT_BINDING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/triadic-controls/ARCHITECTURE.md",
+      "blob_sha": "59c2ddc8c652212522db8e00f7d37a7e5530276c",
+      "size_bytes": 7667,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/triadic-controls/ARCHITECTURE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/triadic-controls/README.md",
+      "blob_sha": "1a0be9fd06f69b78d3ca1cbe82dc54138af3531c",
+      "size_bytes": 4360,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/triadic-controls/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/triadic-controls/ROADMAP.md",
+      "blob_sha": "f5c54e31da884bb1d00be398f382baa1cb03c4ed",
+      "size_bytes": 3856,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/triadic-controls/ROADMAP.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/VERIFICATION_INFRASTRUCTURE.md",
+      "blob_sha": "c4375f54d6bff19361a021c634e791220f6ef59e",
+      "size_bytes": 4144,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/VERIFICATION_INFRASTRUCTURE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/WEAVER_NEXUS_STATUS_2026-10-06.md",
+      "blob_sha": "7b34edd8319739afb6014310f4409a674889a736",
+      "size_bytes": 6521,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/WEAVER_NEXUS_STATUS_2026-10-06.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/WITNESS_RC1_STATE_ADAPTER.md",
+      "blob_sha": "a87533d3133a4c6f71ba3adfaa8d109deac39009",
+      "size_bytes": 2834,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/docs/WITNESS_RC1_STATE_ADAPTER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "E3.5_REPRODUCTION_KIT_SPEC.md",
+      "blob_sha": "89e9057133c7deeee04b532e4cc68c7f0ba9320a",
+      "size_bytes": 3790,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/E3.5_REPRODUCTION_KIT_SPEC.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/E3_5_EXPECTED_RED_MANIFEST_V1_1.md",
+      "blob_sha": "aaef9466b1181d0c508558a0088fc03fab7bed63",
+      "size_bytes": 976,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/evidence/E3_5_EXPECTED_RED_MANIFEST_V1_1.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/spine-receipts/main-b8719c35.artifact.json",
+      "blob_sha": "5a2e6996064a37c084860e932564274e84e6f825",
+      "size_bytes": 614,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/evidence/spine-receipts/main-b8719c35.artifact.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/spine-receipts/main-b8719c35.receipt.json",
+      "blob_sha": "bfb1568b73ff4e58f7912e9821199f8055765038",
+      "size_bytes": 2144,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/evidence/spine-receipts/main-b8719c35.receipt.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "HANDOFF_LABYRINTH_OS_v9_FINAL.md",
+      "blob_sha": "0e6242c3f508d31c1a7165e646a0b2e70d6fae24",
+      "size_bytes": 5221,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/HANDOFF_LABYRINTH_OS_v9_FINAL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "inject_ledger.py",
+      "blob_sha": "ed246ca9e64570d8f80ee8599d1de8554200e2e0",
+      "size_bytes": 1900,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/inject_ledger.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "kernel/__init__.py",
+      "blob_sha": "f37dcda9728da107d58f41f7c9e1bf0e780401a6",
+      "size_bytes": 187,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/kernel/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "kernel/reducer.py",
+      "blob_sha": "b183fb0abf86946748e34bae374f6e99d1f7db2d",
+      "size_bytes": 663,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/kernel/reducer.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "9ce53bd6a704bcaf161cf181722894576605a59b",
+      "size_bytes": 1066,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Makefile",
+      "blob_sha": "1889cf847e258609eaf25f7ed9fb9c4f98963bc6",
+      "size_bytes": 499,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/Makefile",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "operator-kit/daily_operator_loop.md",
+      "blob_sha": "30986688b80a236161c70717e109ea7b09edd95a",
+      "size_bytes": 739,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/operator-kit/daily_operator_loop.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "operator-kit/local_vs_cloud_routing_policy.md",
+      "blob_sha": "29ae7c60070bb0881629e6c0c3f9fa209b0011ba",
+      "size_bytes": 1538,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/operator-kit/local_vs_cloud_routing_policy.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "operator-kit/README.md",
+      "blob_sha": "76696dd5e67c053d01aee9fab4cbbf99daff6af6",
+      "size_bytes": 1986,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/operator-kit/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "operator-kit/scheduled_task_manifest.md",
+      "blob_sha": "99dc2c493da443ce3d1f50b99d19a736f4700fb9",
+      "size_bytes": 1404,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/operator-kit/scheduled_task_manifest.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "operator-kit/skills/evidence-audit.skill.md",
+      "blob_sha": "c9751bbbb7b4a6853b4067d1865534a25c25c3ef",
+      "size_bytes": 1242,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/operator-kit/skills/evidence-audit.skill.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "operator-kit/skills/handoff-generator.skill.md",
+      "blob_sha": "464afc4a9956d06406489af1e58cf1f06f71e160",
+      "size_bytes": 978,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/operator-kit/skills/handoff-generator.skill.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "operator-kit/skills/receipt-check.skill.md",
+      "blob_sha": "2695c0281ab12ea42b2d47cdb7ec56f30d0cc1b3",
+      "size_bytes": 815,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/operator-kit/skills/receipt-check.skill.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "operator-kit/skills/weaver-sync.skill.md",
+      "blob_sha": "a43f5a6b703bafb2d43fe006c7829d5e26a81e85",
+      "size_bytes": 1599,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/operator-kit/skills/weaver-sync.skill.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "operator-kit/weekly_audit_loop.md",
+      "blob_sha": "bd3e2ae6ab1d420e7705a929cff8d9d8fdbbfb13",
+      "size_bytes": 783,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/operator-kit/weekly_audit_loop.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "operator-kit/workspace_skeleton.md",
+      "blob_sha": "af0091e5d6f105259fbfb0b35a64783c1173a3b3",
+      "size_bytes": 1621,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/operator-kit/workspace_skeleton.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "policy/__init__.py",
+      "blob_sha": "eeac2c7c30d2ed01fd0bad34c82d691e17185e82",
+      "size_bytes": 23,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/policy/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "policy/claim_transition.py",
+      "blob_sha": "f9705875141b76a31cead3ef575277c9a66a2965",
+      "size_bytes": 5912,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/policy/claim_transition.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "policy/policy_gate.py",
+      "blob_sha": "8903cb7d88972f69bf0d3b881c2cee2caf15abd0",
+      "size_bytes": 29,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/policy/policy_gate.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "policy/signed_verifier_adapter.py",
+      "blob_sha": "8903cb7d88972f69bf0d3b881c2cee2caf15abd0",
+      "size_bytes": 29,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/policy/signed_verifier_adapter.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PORTFOLIO_EVIDENCE_STATUS.md",
+      "blob_sha": "7b864a2c9c2f377feecaa3ea7377f9a9ce380b5d",
+      "size_bytes": 8192,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/PORTFOLIO_EVIDENCE_STATUS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PORTFOLIO_REGISTRY.md",
+      "blob_sha": "1dbd4d5563bd087f8e191f43c5a8afd62980711b",
+      "size_bytes": 5693,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/PORTFOLIO_REGISTRY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PORTFOLIO_STATUS.md",
+      "blob_sha": "a454e06475a8ff07d1ae03774a663bc0d0943c11",
+      "size_bytes": 7395,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/PORTFOLIO_STATUS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "published_manifest.json",
+      "blob_sha": "80b5e5f37db0980d0d239dad7e96a879293f4bc2",
+      "size_bytes": 844,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/published_manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "4b17db1a4db626ee2a7dead1460a730dd505fa9b",
+      "size_bytes": 1090,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "e6cc4962c5cfd7ae8f23f3c3e3d1fb562ee86fca",
+      "size_bytes": 5643,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "receipt/__init__.py",
+      "blob_sha": "52fb407a27e401ebdebfbe72017b4c47ce0d7cf2",
+      "size_bytes": 187,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/receipt/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "receipt/build.py",
+      "blob_sha": "8903cb7d88972f69bf0d3b881c2cee2caf15abd0",
+      "size_bytes": 29,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/receipt/build.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "receipt/verify.py",
+      "blob_sha": "89ffb8bce579c43edd592a72c578b0cd7789a233",
+      "size_bytes": 781,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/receipt/verify.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "releases/weaver-witness-signed-rc1/MANIFEST.json",
+      "blob_sha": "0024128f2d122731fe683cc6ed8e71ab86ee8f44",
+      "size_bytes": 722,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/releases/weaver-witness-signed-rc1/MANIFEST.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "releases/weaver-witness-signed-rc1/MANIFEST.sig",
+      "blob_sha": "174f1e0b46f3b7e5fe8cb3d8dfc4074be5718e32",
+      "size_bytes": 89,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/releases/weaver-witness-signed-rc1/MANIFEST.sig",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "releases/weaver-witness-signed-rc1/OPERATOR_RECEIPT_TEMPLATE.md",
+      "blob_sha": "0c1d03589e6ed38f87d07e88cbe1bfa3434a58d4",
+      "size_bytes": 649,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/releases/weaver-witness-signed-rc1/OPERATOR_RECEIPT_TEMPLATE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "releases/weaver-witness-signed-rc1/PUBLIC_KEY.b64",
+      "blob_sha": "652865843cdc7f57d8534e96c61e86599411b57b",
+      "size_bytes": 45,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/releases/weaver-witness-signed-rc1/PUBLIC_KEY.b64",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "releases/weaver-witness-signed-rc1/README.md",
+      "blob_sha": "8d116f45677bbb15a10b11b0afb6eab5745bdd13",
+      "size_bytes": 1855,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/releases/weaver-witness-signed-rc1/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "releases/weaver-witness-signed-rc1/src/fresh_replay.py",
+      "blob_sha": "748576d290b4769c4714c310cf69f5ffd55bbf28",
+      "size_bytes": 220,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/releases/weaver-witness-signed-rc1/src/fresh_replay.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "releases/weaver-witness-signed-rc1/src/weaver_core.py",
+      "blob_sha": "5dc0e6d340e29b9f3b5c51a09e75ff6950f5fd7d",
+      "size_bytes": 2349,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/releases/weaver-witness-signed-rc1/src/weaver_core.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "releases/weaver-witness-signed-rc1/src/witness.py",
+      "blob_sha": "bea0c3ca9d29a6dec0d3981348b7275fc3269e0f",
+      "size_bytes": 1689,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/releases/weaver-witness-signed-rc1/src/witness.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "releases/weaver-witness-signed-rc1/tools/verify_release.py",
+      "blob_sha": "ee693db2e83c7c58db00a8be4c172574c94c40ac",
+      "size_bytes": 1482,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/releases/weaver-witness-signed-rc1/tools/verify_release.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "releases/weaver-witness-signed-rc1/WEAVER_WITNESS_SIGNED_RC1.zip",
+      "blob_sha": "2b7be95693bdf0f7ec423ccf6684708c21a5fd03",
+      "size_bytes": 5646,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/releases/weaver-witness-signed-rc1/WEAVER_WITNESS_SIGNED_RC1.zip",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements-verification.lock",
+      "blob_sha": "0061f1ec41d602f352f012eedaa5263c93ca4e7f",
+      "size_bytes": 443,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/requirements-verification.lock",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "5c84f0dce31bdb4c4a11a55e9c016327f41286d4",
+      "size_bytes": 24,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "schemas/published_manifest.schema.json",
+      "blob_sha": "51fb055200c9aa22ff424dc3bc8cc3d4ba1ee7d9",
+      "size_bytes": 3703,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/schemas/published_manifest.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "schemas/receipt.v1.json",
+      "blob_sha": "9e26dfeeb6e641a33dae4961196235bdb965b21b",
+      "size_bytes": 2,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/schemas/receipt.v1.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "schemas/triad_event.schema.json",
+      "blob_sha": "93ce0918131167cb492592d5696d3e9fa4faf49f",
+      "size_bytes": 1251,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/schemas/triad_event.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "schemas/triad_receipt.schema.json",
+      "blob_sha": "9b1d201a7032413c43572a2ba9acd3a9f2124d98",
+      "size_bytes": 936,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/schemas/triad_receipt.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "schemas/verification_run.schema.json",
+      "blob_sha": "326c31b54ec38b388e68d007f2bee94213668e11",
+      "size_bytes": 8545,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/schemas/verification_run.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SECURITY.md",
+      "blob_sha": "dc84234e9078a64e5f075d9fa4dfee58165b3af4",
+      "size_bytes": 869,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/SECURITY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/weaver_release_guard/__init__.py",
+      "blob_sha": "3dc1f76bc69e3f559bee6253b24fc93acee9e1f9",
+      "size_bytes": 22,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/src/weaver_release_guard/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/weaver_release_guard/cli.py",
+      "blob_sha": "f11e705584b0181a8f89338861cab27dd5560ca5",
+      "size_bytes": 1789,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/src/weaver_release_guard/cli.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/weaver_release_guard/oidc.py",
+      "blob_sha": "2c7c51973a20d6cab2ea81dfa7ecc477bb82fad9",
+      "size_bytes": 1924,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/src/weaver_release_guard/oidc.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/weaver_release_guard/provenance.py",
+      "blob_sha": "0c27ab0e55c09bd6663b4b04a281bef46ae1bb0d",
+      "size_bytes": 4613,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/src/weaver_release_guard/provenance.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/weaver_release_guard/utils.py",
+      "blob_sha": "16425d479d4bdc2cc5f3092b17fe4d5ac82f728c",
+      "size_bytes": 993,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/src/weaver_release_guard/utils.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/__init__.py",
+      "blob_sha": "eeac2c7c30d2ed01fd0bad34c82d691e17185e82",
+      "size_bytes": 23,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/fixtures/runtime_state_emitter.py",
+      "blob_sha": "7ef8a194fc713bd7e9ff1308cfbea6edad532fd9",
+      "size_bytes": 606,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/fixtures/runtime_state_emitter.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/fixtures/verification/duplicate-key.jsonl",
+      "blob_sha": "6cfb72f7926e4f14dfa4b0002a1bc9e32e087a5f",
+      "size_bytes": 1648,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/fixtures/verification/duplicate-key.jsonl",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/fixtures/verification/empty.jsonl",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/fixtures/verification/empty.jsonl",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/fixtures/verification/key-substitution.jsonl",
+      "blob_sha": "f9ae6ee6e6fa056c28046a4512ddc998b42ca8f6",
+      "size_bytes": 1632,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/fixtures/verification/key-substitution.jsonl",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/fixtures/verification/malformed-receipt.json",
+      "blob_sha": "fb10f7897c79bcfbaacac3db40b299d29b059c4e",
+      "size_bytes": 159,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/fixtures/verification/malformed-receipt.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/fixtures/verification/manifest.json",
+      "blob_sha": "0797167c61c87f361f01da6e06a97514245cf2c1",
+      "size_bytes": 1565,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/fixtures/verification/manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/fixtures/verification/README.md",
+      "blob_sha": "691db43b49b9cf9f138d65f3c1b6d379ec94b712",
+      "size_bytes": 285,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/fixtures/verification/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/fixtures/verification/report-duplicate-check.json",
+      "blob_sha": "e00fe0933a15d8e315a5fe11efc2fc024b1617b0",
+      "size_bytes": 1396,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/fixtures/verification/report-duplicate-check.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/fixtures/verification/report-failed-check.json",
+      "blob_sha": "9c47ec4a83c9c9f4a1459dccc8845166fe7d4958",
+      "size_bytes": 1400,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/fixtures/verification/report-failed-check.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/fixtures/verification/report-missing-check.json",
+      "blob_sha": "583b5400b66f417557ffa8d8f896846ae8a9e15b",
+      "size_bytes": 1143,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/fixtures/verification/report-missing-check.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/fixtures/verification/report-unknown-field.json",
+      "blob_sha": "8afde9151f956199eead9f7c65d9c9b70ac16fe0",
+      "size_bytes": 1429,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/fixtures/verification/report-unknown-field.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/fixtures/verification/report-valid.json",
+      "blob_sha": "98ec2698bf76ce3622f9ae7612e9534566e4bda1",
+      "size_bytes": 1400,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/fixtures/verification/report-valid.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/fixtures/verification/tampered.jsonl",
+      "blob_sha": "97e772ca4f4ccfd46df7443e3087346f9bf0f8a5",
+      "size_bytes": 1632,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/fixtures/verification/tampered.jsonl",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/fixtures/verification/truncated.jsonl",
+      "blob_sha": "0aa46915c4fe47f4de0da8215d49aa22bbcfaa00",
+      "size_bytes": 1069,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/fixtures/verification/truncated.jsonl",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/fixtures/verification/valid.jsonl",
+      "blob_sha": "77b93121d23fff0a0a415426eb62e2f01f866b06",
+      "size_bytes": 1632,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/fixtures/verification/valid.jsonl",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/fixtures/witness_rc1_authorized_command.json",
+      "blob_sha": "e087b78c21bcd4d93c2b80f852d7418855f2a1b5",
+      "size_bytes": 208,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/fixtures/witness_rc1_authorized_command.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/integration/test_verification_fixtures.py",
+      "blob_sha": "89c66a4b98e9569a865ffbe14b2895ff5afe7d73",
+      "size_bytes": 1307,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/integration/test_verification_fixtures.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/integration/wheel_smoke.py",
+      "blob_sha": "c3ca09acc9e6026262cef163ae120bf2ac59c5e2",
+      "size_bytes": 362,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/integration/wheel_smoke.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_authority_state.py",
+      "blob_sha": "bbb2532d3868a846e83935d5364c38d649b08014",
+      "size_bytes": 2562,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/test_authority_state.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_bound_witness.py",
+      "blob_sha": "b7b1bc06c49aba94cbffdfa4e097d653c11fd810",
+      "size_bytes": 2388,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/test_bound_witness.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_chronicle_replay.py",
+      "blob_sha": "8903cb7d88972f69bf0d3b881c2cee2caf15abd0",
+      "size_bytes": 29,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/test_chronicle_replay.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_claim_transition.py",
+      "blob_sha": "f59b47ae577e23b4867f833f7f669be9fa3c7f70",
+      "size_bytes": 5023,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/test_claim_transition.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_fail_closed_spine.py",
+      "blob_sha": "7b95eb0982a55d3d86c2f724ec89db825492cbfd",
+      "size_bytes": 2266,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/test_fail_closed_spine.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_forged_authority.py",
+      "blob_sha": "8903cb7d88972f69bf0d3b881c2cee2caf15abd0",
+      "size_bytes": 29,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/test_forged_authority.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_receipt_schema.py",
+      "blob_sha": "8903cb7d88972f69bf0d3b881c2cee2caf15abd0",
+      "size_bytes": 29,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/test_receipt_schema.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_runtime_state_digest.py",
+      "blob_sha": "2186183424862903442c652179f4d476581c5ae7",
+      "size_bytes": 3384,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/test_runtime_state_digest.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_spine_receipt.py",
+      "blob_sha": "73b4dc4ff4faadeedba2566df328863f9f601c91",
+      "size_bytes": 2590,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/test_spine_receipt.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_triad_ledger.py",
+      "blob_sha": "16d5537a197d26b567c7bfa42adb005ac2b98b85",
+      "size_bytes": 5028,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/test_triad_ledger.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_triad_multiblock.py",
+      "blob_sha": "17b5caff6187d6346c1cc8071fe2f796df5f62d4",
+      "size_bytes": 5894,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/test_triad_multiblock.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_triad_schemas.py",
+      "blob_sha": "dbdf2d979d5680508163afec00621fb96306b419",
+      "size_bytes": 3817,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/test_triad_schemas.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_verification_report.py",
+      "blob_sha": "153b3021fad47df864116c776add0fbc61cd9897",
+      "size_bytes": 6030,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/test_verification_report.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_verification_runner.py",
+      "blob_sha": "76dac193c293973ec6f1889b8fea464cdf207793",
+      "size_bytes": 1259,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/test_verification_runner.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_witness_archive.py",
+      "blob_sha": "412ad06437accdab2030d3784b6d94c371aaca80",
+      "size_bytes": 3672,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/test_witness_archive.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_witness_rc1_state_adapter.py",
+      "blob_sha": "f93fbb9d3576ed09429d94f46ec3ef95494057c8",
+      "size_bytes": 2353,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/test_witness_rc1_state_adapter.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/triadic_controls/test_crypto_verifier.py",
+      "blob_sha": "1a6c24e7d76ea0a0e3692b32fff51db68922cdd6",
+      "size_bytes": 17625,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/triadic_controls/test_crypto_verifier.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/triadic_controls/test_production_schema_alignment.py",
+      "blob_sha": "b529e5e2e3e896e25ec670aab7f478cffedf9e0e",
+      "size_bytes": 10179,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/triadic_controls/test_production_schema_alignment.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/triadic_controls/test_registry_root_signature.py",
+      "blob_sha": "c7871bec364ef2d29767ad4d9a95a3fd9ca8f35f",
+      "size_bytes": 4730,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/triadic_controls/test_registry_root_signature.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/triadic_controls/test_replay.py",
+      "blob_sha": "b0c27775518eb6c6d58adbf6e1e4703ae32a1379",
+      "size_bytes": 1114,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/triadic_controls/test_replay.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/triadic_controls/test_schema_boundary.py",
+      "blob_sha": "f9f84a9af383a23fbd390003b3f0d6def3ffc757",
+      "size_bytes": 1880,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/triadic_controls/test_schema_boundary.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/triadic_controls/test_sqlite_replay.py",
+      "blob_sha": "4c7bd08d15483e4e62a3a0adcb134a3d3c5fe721",
+      "size_bytes": 2230,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tests/triadic_controls/test_sqlite_replay.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/__init__.py",
+      "blob_sha": "f5776b428586daaf9195921d19ca52b24ba911cb",
+      "size_bytes": 53,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/authority_state.py",
+      "blob_sha": "70a7648003b2a41210081af9b4cb6ffcc5dd342d",
+      "size_bytes": 5287,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/authority_state.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/check_verifier_mutations.py",
+      "blob_sha": "1ed8963126c528fdcc46635f46488dff2249b53e",
+      "size_bytes": 4075,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/check_verifier_mutations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/emit_spine_receipt.py",
+      "blob_sha": "515add2b924abf7b768c2e7b3c26f2c9211628ea",
+      "size_bytes": 6334,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/emit_spine_receipt.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/fail_closed_spine.py",
+      "blob_sha": "63a658e265e6ee8ef05ff6a7df44afa10e31036b",
+      "size_bytes": 3518,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/fail_closed_spine.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/fetch_tlc.py",
+      "blob_sha": "94ede4e05e2ec4159fa4ab123a5cbbe1e8e0aab5",
+      "size_bytes": 968,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/fetch_tlc.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/mathos_bench/mathos_bench_claimset_key_v0_1.json",
+      "blob_sha": "d542ed47ae38f213a1a1e0d7aab42608bd641d4b",
+      "size_bytes": 5711,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/mathos_bench/mathos_bench_claimset_key_v0_1.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/mathos_bench/mathos_bench_smoke_input_v0_1.json",
+      "blob_sha": "e6dcbd526da7684e257249a8edab3ffadfc76f76",
+      "size_bytes": 2004,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/mathos_bench/mathos_bench_smoke_input_v0_1.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/mathos_bench/mathos_bench_smoke_receipt_v0_1.json",
+      "blob_sha": "502c6108e8d208c026b004bdcab0b1628eeb19a0",
+      "size_bytes": 5433,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/mathos_bench/mathos_bench_smoke_receipt_v0_1.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/mathos_bench/mathos_bench_v0_1.py",
+      "blob_sha": "ca0b8c482cdb8f99385838ed17324bf81d80c820",
+      "size_bytes": 10940,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/mathos_bench/mathos_bench_v0_1.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/mathos_bench/README.md",
+      "blob_sha": "fa1f9ee6f91f8460dc820e83134cb11b84a2e6d3",
+      "size_bytes": 1996,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/mathos_bench/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/run_adversarial_corpus.py",
+      "blob_sha": "1a8aa4de866a9ff04f4e53653dd4eefaa1ebba09",
+      "size_bytes": 4777,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/run_adversarial_corpus.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/run_verified_witness.py",
+      "blob_sha": "ee6d8eb2154f696e0b3898abc0ce2311ec1fd813",
+      "size_bytes": 2148,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/run_verified_witness.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/runtime_state_digest.py",
+      "blob_sha": "8a4ecd2c0db70076b623864d1ff5edbd51591d6b",
+      "size_bytes": 7503,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/runtime_state_digest.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/spine_hash.py",
+      "blob_sha": "da1ea056eef07a1fce343e43473daeab75e99b78",
+      "size_bytes": 2050,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/spine_hash.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/verify_all.py",
+      "blob_sha": "d086bea04bff66477808bd4514c53785d500d070",
+      "size_bytes": 15301,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/verify_all.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/verify_triad_ledger.py",
+      "blob_sha": "e20322297af3c19e7ad3c5c1c32da3717cfea757",
+      "size_bytes": 3398,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/verify_triad_ledger.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/verify_witness_archive.py",
+      "blob_sha": "4c91f6d915c003fb82df3d7dbe6f74ef0f921d90",
+      "size_bytes": 3469,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/verify_witness_archive.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/witness_rc1_state_adapter.py",
+      "blob_sha": "2abf6407abacf085bf15b5e6201c2895b5b8f7b7",
+      "size_bytes": 5112,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/tools/witness_rc1_state_adapter.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "triadic_controls/__init__.py",
+      "blob_sha": "d0af3513344d2e8c68262c08cf7b3f819a5957f8",
+      "size_bytes": 60,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/triadic_controls/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "triadic_controls/crypto/__init__.py",
+      "blob_sha": "9611a50af9dd0a4baefffbcb9f06024d54d05e7b",
+      "size_bytes": 420,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/triadic_controls/crypto/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "triadic_controls/crypto/replay.py",
+      "blob_sha": "6bf0369c3b102f142be9e6d56611a155164398c3",
+      "size_bytes": 3038,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/triadic_controls/crypto/replay.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "triadic_controls/crypto/sqlite_replay.py",
+      "blob_sha": "945a13dc4c62a301e060f06cfeb2939f2da01664",
+      "size_bytes": 3228,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/triadic_controls/crypto/sqlite_replay.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "triadic_controls/crypto/verifier.py",
+      "blob_sha": "00c73f14a6b58946e6761e0cee70f531e38567ef",
+      "size_bytes": 21654,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/triadic_controls/crypto/verifier.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "triadic_controls/ledger.py",
+      "blob_sha": "a967376fd3b1c2170e5ee7b2659e15d851db884b",
+      "size_bytes": 7855,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/triadic_controls/ledger.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "triadic_controls/schemas/issuer_record.schema.json",
+      "blob_sha": "4f29946065e49f0a543ea6f0bf65292ca4e01fcf",
+      "size_bytes": 1915,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/triadic_controls/schemas/issuer_record.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "triadic_controls/schemas/key_registry.schema.json",
+      "blob_sha": "c0b7dec61678b8829002412cc34805181483d8f0",
+      "size_bytes": 1343,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/triadic_controls/schemas/key_registry.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "triadic_controls/schemas/role_policy.schema.json",
+      "blob_sha": "2ed3bc16927706543e878e81c3d5271c0533fa94",
+      "size_bytes": 1409,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/triadic_controls/schemas/role_policy.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "triadic_controls/schemas/signature_envelope.schema.json",
+      "blob_sha": "5f8f84ec420f0186f181bd757c2b5fcfa049a6d6",
+      "size_bytes": 2474,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/triadic_controls/schemas/signature_envelope.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "triadic_controls/schemas/triad_event.schema.json",
+      "blob_sha": "93ce0918131167cb492592d5696d3e9fa4faf49f",
+      "size_bytes": 1251,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/triadic_controls/schemas/triad_event.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "triadic_controls/schemas/verification_result.schema.json",
+      "blob_sha": "f4bb90388074c84156125f343b5cd4dd32f58a25",
+      "size_bytes": 2524,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/triadic_controls/schemas/verification_result.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify_attestations.py",
+      "blob_sha": "a235bc98c375209eafb73f6733bb03e32cf2d7b5",
+      "size_bytes": 6073,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/verify_attestations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "weaver_auth/__init__.py",
+      "blob_sha": "435e3a282d3e51428daf488d5af06a7fc795e7ca",
+      "size_bytes": 59,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/weaver_auth/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "weaver_auth/bedrock/__init__.py",
+      "blob_sha": "27f9438fa189924efb39e2d31bd98986c9823b67",
+      "size_bytes": 46,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/weaver_auth/bedrock/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "weaver_auth/bedrock/admission/__init__.py",
+      "blob_sha": "d2abfc9019f99b7be3d9976f2e7bbfa4d72e4503",
+      "size_bytes": 61,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/weaver_auth/bedrock/admission/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "weaver_auth/bedrock/admission/admission_kernel.py",
+      "blob_sha": "674d012dcc39e71b3cd0c769aba47394beff3d9c",
+      "size_bytes": 1095,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/weaver_auth/bedrock/admission/admission_kernel.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "weaver_auth/bedrock/admission/pathology_scanner.py",
+      "blob_sha": "71c71033c8dedb0ece6f0ab9c639735bde8efe7d",
+      "size_bytes": 780,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/weaver_auth/bedrock/admission/pathology_scanner.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "weaver_auth/bedrock/tests/test_admission_kernel.py",
+      "blob_sha": "2e321d8b21f7ccb13e2721548f1d6fecb4cbddb8",
+      "size_bytes": 902,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/weaver_auth/bedrock/tests/test_admission_kernel.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "weaver_auth/bedrock/tests/test_all_harnesses.py",
+      "blob_sha": "9982b02162c3ecffda4029d2194377d24bb9f5b4",
+      "size_bytes": 3229,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/weaver_auth/bedrock/tests/test_all_harnesses.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "weaver_auth/bedrock/tests/test_pathology_scan.py",
+      "blob_sha": "a8f35f011214b31ed82fae9fed9a92917defed71",
+      "size_bytes": 682,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/weaver_auth/bedrock/tests/test_pathology_scan.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "weaver_auth/identity/__init__.py",
+      "blob_sha": "5951ee8f344569b52d8e3dc910b435f28205d760",
+      "size_bytes": 56,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/weaver_auth/identity/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "weaver_auth/identity/resolver.py",
+      "blob_sha": "baf87c165484e2a3712b5ed1009dfe97574c8a55",
+      "size_bytes": 1287,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/weaver_auth/identity/resolver.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "witness_py/sign_attestation.py",
+      "blob_sha": "4fe7297c9f9a215fd1db497dc90e33d38d7854b9",
+      "size_bytes": 1456,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Weaver_Os/blob/main/witness_py/sign_attestation.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

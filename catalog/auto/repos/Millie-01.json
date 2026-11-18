@@ -1,0 +1,644 @@
+{
+  "repository": "enuminous/Millie-01",
+  "default_branch": "main",
+  "tree_sha": "62771c6cfb6504f3614e6cb116bd500a724e2dd4",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/ci.yml",
+      "blob_sha": "c2a8faaaa62cc6272a0dec770fb0a03597ec5fc7",
+      "size_bytes": 727,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/.github/workflows/ci.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "b498d5a5f992f91d4cdf6fe13887ae2d016fa9e3",
+      "size_bytes": 95,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".nojekyll",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/.nojekyll",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/lab.css",
+      "blob_sha": "799e9ef351dd9e723f626b9dcb67ab90c4bfdfce",
+      "size_bytes": 17886,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/assets/lab.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/lab.mjs",
+      "blob_sha": "aae44997701cc1ac091f131aa426e13097e6d99d",
+      "size_bytes": 19142,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/assets/lab.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/scene.mjs",
+      "blob_sha": "25029e6ec9589ef6f6fff74894e7bba196a5d2f9",
+      "size_bytes": 14015,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/assets/scene.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/sim.mjs",
+      "blob_sha": "b8be815cddba5af2530697da6f59044e39a0b758",
+      "size_bytes": 15287,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/assets/sim.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/run_web.mjs",
+      "blob_sha": "f17099863fca2fc360f0c38541f67486c396a2f2",
+      "size_bytes": 1048,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/benchmarks/run_web.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/web-results-v0.2.0.json",
+      "blob_sha": "8e362b5e806360dac128022f928bcb9524c171a4",
+      "size_bytes": 139512,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/benchmarks/web-results-v0.2.0.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/BUILD_STAGES.md",
+      "blob_sha": "60dc4a3aecfe01570727c158801182adeba67296",
+      "size_bytes": 2771,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/docs/BUILD_STAGES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/EXPERIMENT.md",
+      "blob_sha": "d5cfb0b1dcaec6b3e6612b4987a3a380d04d3707",
+      "size_bytes": 3482,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/docs/EXPERIMENT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/ROBOT_SPEC.md",
+      "blob_sha": "611d4be8df8235f75cc5810266fa21586c00ea18",
+      "size_bytes": 4175,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/docs/ROBOT_SPEC.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/SAFETY_CASE.md",
+      "blob_sha": "892a50870ea7f4d9b97c19e00165a281250d2d37",
+      "size_bytes": 3666,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/docs/SAFETY_CASE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/terrain-lab.jpg",
+      "blob_sha": "159bd47e68de7c5da6f6fa78a2ac28fb70e25d60",
+      "size_bytes": 110836,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/docs/terrain-lab.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/TEST_REPORT.md",
+      "blob_sha": "4b3d040a6a4211feb7de339b1bba8d9d5baf9080",
+      "size_bytes": 3435,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/docs/TEST_REPORT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/WEB_LAB.md",
+      "blob_sha": "41026cf0a63075e730b204e5f8bbfd85d8165c9f",
+      "size_bytes": 10808,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/docs/WEB_LAB.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/WEB_LAB_TEST_REPORT.md",
+      "blob_sha": "3061585c961cbeab2a308a80b8e189ebd66c627d",
+      "size_bytes": 4251,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/docs/WEB_LAB_TEST_REPORT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/demo-clear.json",
+      "blob_sha": "e3c912024f7572a187cd56e47d6396b99f7533c2",
+      "size_bytes": 32593,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/examples/demo-clear.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/demo-estop.json",
+      "blob_sha": "4d244ec9dde3e4997c6dcd7a90897eeecdc2b54a",
+      "size_bytes": 30907,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/examples/demo-estop.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/demo-summary.json",
+      "blob_sha": "df6ff208d85103499837efbf282fa5c7a7313336",
+      "size_bytes": 1716,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/examples/demo-summary.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "firmware/pico2_bench.py",
+      "blob_sha": "d9acaef80093cd049ebfb9696643505ad8110c7d",
+      "size_bytes": 545,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/firmware/pico2_bench.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "firmware/PICO2_README.md",
+      "blob_sha": "ff907e981ef94131f37e70119d9fccab70aad9a5",
+      "size_bytes": 1182,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/firmware/PICO2_README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "hardware/ARCHITECTURE.md",
+      "blob_sha": "e022c50ba81393f807f15e738fdfa8fcf4e2612a",
+      "size_bytes": 4936,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/hardware/ARCHITECTURE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "hardware/BOM.csv",
+      "blob_sha": "af4731e063f48cd03e34cde6ff0dc2fb4de3e0b9",
+      "size_bytes": 1976,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/hardware/BOM.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "hardware/BOM.md",
+      "blob_sha": "d4705302662838c7d375234109ffec0cfb9d809a",
+      "size_bytes": 2836,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/hardware/BOM.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "7d10255e84e829f377628bcb74448d8f596012a3",
+      "size_bytes": 15373,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "ce67c44208c2c4cfcc7124cbd750631d6f0ef599",
+      "size_bytes": 1098,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "millie01/__init__.py",
+      "blob_sha": "85b8fb9e693a11521ef84e1640b4639d0df3d77c",
+      "size_bytes": 91,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/millie01/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "millie01/__main__.py",
+      "blob_sha": "9ae637f13cd528a1823ec240ed01b3bdaaa19967",
+      "size_bytes": 61,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/millie01/__main__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "millie01/cli.py",
+      "blob_sha": "9daaf11c8dd64a2be54460e0ae4f7bdb728037ec",
+      "size_bytes": 1302,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/millie01/cli.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "millie01/coherence.py",
+      "blob_sha": "21e8196950226c5ebd3772441be3b57a508a81ca",
+      "size_bytes": 1963,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/millie01/coherence.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "millie01/controller.py",
+      "blob_sha": "82fe25fdedf54067cb55e5b46be317187db8782b",
+      "size_bytes": 1224,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/millie01/controller.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "millie01/model.py",
+      "blob_sha": "f8ebe411633d535f500a5a5093f139d28c96a557",
+      "size_bytes": 1898,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/millie01/model.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "millie01/safety.py",
+      "blob_sha": "8e621f21d478d4da375414f8c1e2d029bac9286a",
+      "size_bytes": 5520,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/millie01/safety.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "millie01/simulator.py",
+      "blob_sha": "fe71a638b11b8282d3b337edbe7fe5528f153a59",
+      "size_bytes": 4429,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/millie01/simulator.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "14315749ab01fe8cd9f887b7be6d6dd0aad75ddf",
+      "size_bytes": 463,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "93eb48f0937b3b192f39425cefaa9e2e52bf6478",
+      "size_bytes": 9796,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "replay.html",
+      "blob_sha": "084cb8d4ec09e0c6fd2a5b81bfd5681d7cee542c",
+      "size_bytes": 8001,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/replay.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/adjacent-flips.csv.gz",
+      "blob_sha": "31b5e5c76e35d78ab34b2709bb39cb4f29716c39",
+      "size_bytes": 78076,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/adjacent-flips.csv.gz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/common-multiplier.csv",
+      "blob_sha": "871fb34c0d371e85665e02bc4752fdad509debd7",
+      "size_bytes": 5543,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/common-multiplier.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/explorer-data.json",
+      "blob_sha": "37c276a9975acbb5faba2000ee655f37150c6a22",
+      "size_bytes": 10776,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/explorer-data.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/explorer-template.html",
+      "blob_sha": "03e38a61f3faa4635230bed2a9c249567ee82c32",
+      "size_bytes": 9115,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/explorer-template.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/explorer-verification.json",
+      "blob_sha": "3382b1417153383b5a9f0be310087db5ad4c68b2",
+      "size_bytes": 413,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/explorer-verification.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/grid-ranking.csv.gz",
+      "blob_sha": "06da5ab63ae57a1d0cbb35e722fdecd63e9fff60",
+      "size_bytes": 333896,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/grid-ranking.csv.gz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/index.html",
+      "blob_sha": "c4ea3e76eae489964066a24ad1d341499e15886f",
+      "size_bytes": 16908,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/pairwise-frontiers.csv",
+      "blob_sha": "5c156c516770f204ebe869e37fb3808b9872a368",
+      "size_bytes": 37098,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/pairwise-frontiers.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/plot_sweep.py",
+      "blob_sha": "655c580fee735b7fc35d94502df47c1198032ba0",
+      "size_bytes": 2579,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/plot_sweep.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/protocol.json",
+      "blob_sha": "08907b2226c98dad71c410d5b1c77e37ca47f0d0",
+      "size_bytes": 2094,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/protocol.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/ranking-grid.png",
+      "blob_sha": "cc5f941af33510c2bef29d22eb1461654e0d3ec4",
+      "size_bytes": 154204,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/ranking-grid.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/ranking-grid.svg",
+      "blob_sha": "f590bdbe47b2a9dea715d1bc823af1a3cae32ba6",
+      "size_bytes": 114742,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/ranking-grid.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/README.md",
+      "blob_sha": "f567d441c91e1ca19bdb021abc14fb6051e3176b",
+      "size_bytes": 10217,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/run.log",
+      "blob_sha": "2571f419afb3508e8a2392b0ab38840cd8268164",
+      "size_bytes": 3738,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/run.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/run_sweep.py",
+      "blob_sha": "67b15663ff25f7629c360c64c3a6291609011efd",
+      "size_bytes": 13556,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/run_sweep.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/SHA256SUMS.txt",
+      "blob_sha": "ed6a69206ead340404100f4dcd609b462dccf267",
+      "size_bytes": 1749,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/SHA256SUMS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/source-traces.csv",
+      "blob_sha": "5a0a87dab6c193717d0364a1a66dbf56ab3d2566",
+      "size_bytes": 105940,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/source-traces.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/summary.json",
+      "blob_sha": "34acd0ba3d11b1c258c818aee9d35677a4f4a999",
+      "size_bytes": 7700,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/summary.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/test_sweep.py",
+      "blob_sha": "e6f82606f9cf078592fd94f2f7ae7deade7836c8",
+      "size_bytes": 926,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/test_sweep.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/threshold-bands.csv",
+      "blob_sha": "23034cc3f0c1796de3a9f4e0622b4be40170bddb",
+      "size_bytes": 10450,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/threshold-bands.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/threshold-curves.csv",
+      "blob_sha": "22f74f989892233b99302d2308e257d78fdc3e19",
+      "size_bytes": 5795,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/threshold-curves.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/threshold-sweep-2026-11-16/verification.log",
+      "blob_sha": "4bafddf730609a3eb4ee067f49016911cd30b91f",
+      "size_bytes": 2611,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/research/threshold-sweep-2026-11-16/verification.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_safety.py",
+      "blob_sha": "9f78bfd8e3f11130613b911192444dd73a7a279c",
+      "size_bytes": 3769,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/tests/test_safety.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_sim.py",
+      "blob_sha": "36731a92373550a001ee0886d95e0099a943c929",
+      "size_bytes": 1930,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/tests/test_sim.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/web_sim.test.mjs",
+      "blob_sha": "54aa0f9ec6bf8e4e06e268404187c4d6b2051b07",
+      "size_bytes": 5653,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Millie-01/blob/main/tests/web_sim.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "repository": "enuminous/efmw-research-cache",
+  "default_branch": "main",
+  "tree_sha": "f4f58d140f88a1021a72efd7a150cb4957652ac6",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".gitignore",
+      "blob_sha": "b4b2bd661cd77c9f55d08e724d87dcbb469e9e76",
+      "size_bytes": 57,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/efmw-research-cache/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/claims.jsonl",
+      "blob_sha": "2ee0ba4605dae52222e19ce2c4b7527ea85adb56",
+      "size_bytes": 6316,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/efmw-research-cache/blob/main/data/claims.jsonl",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/source_index.jsonl",
+      "blob_sha": "a5a54d27596a3c87bae97108d3e2b5f1c07cc12d",
+      "size_bytes": 2297,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/efmw-research-cache/blob/main/data/source_index.jsonl",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RAIL.md",
+      "blob_sha": "40758c829b064d4ad7b6d368f7b0f10bb836f4fe",
+      "size_bytes": 3248,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/efmw-research-cache/blob/main/RAIL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "dd3b2895778bab99489435927c4f4768414c2e45",
+      "size_bytes": 3727,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/efmw-research-cache/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/validate_cache.py",
+      "blob_sha": "9be4ad0cf0500a4ca9bd3508549a0e466b364989",
+      "size_bytes": 1750,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/efmw-research-cache/blob/main/scripts/validate_cache.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_cache.py",
+      "blob_sha": "c5ae0211ef85d36d27518bdfe01a165395dd5b44",
+      "size_bytes": 996,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/efmw-research-cache/blob/main/tests/test_cache.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

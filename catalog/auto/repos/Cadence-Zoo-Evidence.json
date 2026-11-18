@@ -1,0 +1,171 @@
+{
+  "repository": "enuminous/Cadence-Zoo-Evidence",
+  "default_branch": "main",
+  "tree_sha": "1df875f269a17c42f8ac939eadd2cfdc5801e4d4",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "analyze.py",
+      "blob_sha": "c105705686eb77353c451dc1812ab0d6aa81a53c",
+      "size_bytes": 7731,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cadence-Zoo-Evidence/blob/main/analyze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audit-protocol.json",
+      "blob_sha": "33d376f3ff2f119ce75e6555516a4963441c9e1d",
+      "size_bytes": 2444,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cadence-Zoo-Evidence/blob/main/audit-protocol.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "build_report.py",
+      "blob_sha": "f76f2eabd5a3e36fe36ccfe5ad980274ca69e8bc",
+      "size_bytes": 23346,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cadence-Zoo-Evidence/blob/main/build_report.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CADENCE_ZOO_REVIEW.md",
+      "blob_sha": "c02cdfc17fbafc508762bc3e93f964def001e84b",
+      "size_bytes": 31011,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cadence-Zoo-Evidence/blob/main/CADENCE_ZOO_REVIEW.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "focused-tests.log",
+      "blob_sha": "9407d710dc8abdf98c69757240ea1808e9e4d275",
+      "size_bytes": 10633,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cadence-Zoo-Evidence/blob/main/focused-tests.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "focused-tests.xml",
+      "blob_sha": "8c3378214eae787cca67349682b1a389472b7073",
+      "size_bytes": 28615,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cadence-Zoo-Evidence/blob/main/focused-tests.xml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "e70a6130db988c842ab79c9ef80a586a72d5ca37",
+      "size_bytes": 55557,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cadence-Zoo-Evidence/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "instrument-tests.log",
+      "blob_sha": "e7f466944f107f13147d225acdd812bbdecb5306",
+      "size_bytes": 100,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cadence-Zoo-Evidence/blob/main/instrument-tests.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "instrument-tests.xml",
+      "blob_sha": "acf9ac61db17170e947fdd5aea5000429d501e35",
+      "size_bytes": 6560,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cadence-Zoo-Evidence/blob/main/instrument-tests.xml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.json",
+      "blob_sha": "d4db44c62bbcb52b3bcc3108b4b16fa82a96e0c6",
+      "size_bytes": 2088,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cadence-Zoo-Evidence/blob/main/MANIFEST.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "nursery-current-three-seeds.json.gz",
+      "blob_sha": "61e941701683de0b58c6efd8d891f7ae5ca96919",
+      "size_bytes": 10868,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cadence-Zoo-Evidence/blob/main/nursery-current-three-seeds.json.gz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "nursery-run.log",
+      "blob_sha": "f38f89a48671b8a3048041d8839835201bd79fed",
+      "size_bytes": 1314,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cadence-Zoo-Evidence/blob/main/nursery-run.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "fb654025051e88c398aec975c264e185a4ef395a",
+      "size_bytes": 1764,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cadence-Zoo-Evidence/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "readme.md",
+      "blob_sha": "bafd069bf66538e7a668a2146155b8b969803a17",
+      "size_bytes": 13859,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cadence-Zoo-Evidence/blob/main/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "upstream-ci.json",
+      "blob_sha": "18ab2594f7b8deb1181a33905fff735126265a2f",
+      "size_bytes": 1449,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cadence-Zoo-Evidence/blob/main/upstream-ci.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "zoo-results.json",
+      "blob_sha": "8a9ecce565ba5c5ec22731d8f9ee27d4419f5f08",
+      "size_bytes": 30569,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cadence-Zoo-Evidence/blob/main/zoo-results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "repository": "enuminous/lean-worker",
+  "default_branch": "main",
+  "tree_sha": "9767a14f3e6cd2a25a07f05d310d9a4c14e742a0",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "dd9dbdc171b940146f37e3c153044d4289779f09",
+      "size_bytes": 1242,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "87f7d7079702b79a455cd77eb8e1fe3abc35f3b3",
+      "size_bytes": 1461,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "b3d2b69a0593802992eb00592a430fcf125f613a",
+      "size_bytes": 124,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "7e13c489c4587d6555428e67f5f27dd26ef18e5e",
+      "size_bytes": 228,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LeanWorker.lean",
+      "blob_sha": "cab8fecc630cacbcb392d731622b2492de4f1e4e",
+      "size_bytes": 139,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/LeanWorker.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "minimal/CommandExecution.lean",
+      "blob_sha": "dbefcc4d8b1b87a85655a568776828b01c6dd934",
+      "size_bytes": 5052,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/minimal/CommandExecution.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "minimal/CreditUsage.lean",
+      "blob_sha": "b2b634e26d6f1167bcdf00ac701b9e990df294f8",
+      "size_bytes": 4158,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/minimal/CreditUsage.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "minimal/ExecutionTrace.lean",
+      "blob_sha": "5fb173b6084def19d7da304eae7895a5191837fd",
+      "size_bytes": 12514,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/minimal/ExecutionTrace.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "minimal/ProofWorkSpec.md",
+      "blob_sha": "88ab21cd5066452ad856219c732c41af32bd3f58",
+      "size_bytes": 9471,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/minimal/ProofWorkSpec.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "minimal/tasks/agent-a-wave-VI.json",
+      "blob_sha": "ff9254b46374cf6e5199b5c10937d05adff6ad43",
+      "size_bytes": 848,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/minimal/tasks/agent-a-wave-VI.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "minimal/tasks/agent-a-wave-VII.json",
+      "blob_sha": "73740f75d117ad117f2e2be0e666a67efb77f594",
+      "size_bytes": 829,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/minimal/tasks/agent-a-wave-VII.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "minimal/tasks/agent-a-wave-VIII.json",
+      "blob_sha": "8df6b34ebbd4a9879fa27161446bf8cdcaf39fd9",
+      "size_bytes": 864,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/minimal/tasks/agent-a-wave-VIII.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "minimal/tasks/agent-a.json",
+      "blob_sha": "3078a9c4b6704f51ccbe918deb5e294f63d84aa2",
+      "size_bytes": 2572,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/minimal/tasks/agent-a.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "minimal/tasks/agent-b-wave-IX.json",
+      "blob_sha": "52f0aba316be24f53eee20516440b1a7e683f110",
+      "size_bytes": 864,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/minimal/tasks/agent-b-wave-IX.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "minimal/tasks/agent-b-wave-X.json",
+      "blob_sha": "b946d3221b088ac9804e3105f6132d1e3fce3126",
+      "size_bytes": 870,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/minimal/tasks/agent-b-wave-X.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "minimal/tasks/agent-b-wave-XI.json",
+      "blob_sha": "20497295d995b75fb887d030321c63a761638568",
+      "size_bytes": 896,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/minimal/tasks/agent-b-wave-XI.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "minimal/tasks/agent-b-wave-XII.json",
+      "blob_sha": "0b68bd533b2bf31bff33e55056e66a85873cd3dc",
+      "size_bytes": 907,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/minimal/tasks/agent-b-wave-XII.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "minimal/tasks/agent-b.json",
+      "blob_sha": "1ce41f4930fddce390e5e4655949b82956800700",
+      "size_bytes": 2813,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/minimal/tasks/agent-b.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "minimal/tasks/template.json",
+      "blob_sha": "c8ae8dc172ac11b1537bf5a09773657d715a91d5",
+      "size_bytes": 1078,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/minimal/tasks/template.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "minimal/ToolProvenance.lean",
+      "blob_sha": "004ea07f354a2c3718a4da7ebb23376d93101795",
+      "size_bytes": 5401,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/minimal/ToolProvenance.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "minimal/Twin.lean",
+      "blob_sha": "058b338dbe352958ffc81d84dfb201310073327e",
+      "size_bytes": 29468,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/minimal/Twin.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "5b65eb6c7652b9b25b9f44f55a5289531124c19b",
+      "size_bytes": 8582,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "6f6404dc1075c3b43b40383a086df62636f24d20",
+      "size_bytes": 2332,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/lean-worker/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

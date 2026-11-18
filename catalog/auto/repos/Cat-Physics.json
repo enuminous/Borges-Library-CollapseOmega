@@ -1,0 +1,435 @@
+{
+  "repository": "enuminous/Cat-Physics",
+  "default_branch": "main",
+  "tree_sha": "1984590a002928b964e9203c98b541138bd48022",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "7dab3f6606aec1faf1e651e0e4eec49cffdfffed",
+      "size_bytes": 1901,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "23436f08c7f53dfb4a8782c6b0ac198507db3725",
+      "size_bytes": 36,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".nojekyll",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/.nojekyll",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CatPhysics.lean",
+      "blob_sha": "cf96a1489166d98ec350439056bcfc706616616d",
+      "size_bytes": 168,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/CatPhysics.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CatPhysics/Audit.lean",
+      "blob_sha": "2ae6d5d4a3927aa579e2b6ce52cf6ae21cb1f7aa",
+      "size_bytes": 3029,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/CatPhysics/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CatPhysics/Boundaries.lean",
+      "blob_sha": "ff570549eafe02b28547fe016508c9bb5d2c86c3",
+      "size_bytes": 1735,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/CatPhysics/Boundaries.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CatPhysics/Compliance.lean",
+      "blob_sha": "52ac9e0ca1e6eaa379051dadf25ea3c6faeecaad",
+      "size_bytes": 3607,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/CatPhysics/Compliance.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CatPhysics/Decision.lean",
+      "blob_sha": "c616c0176b7819a9da5dc7a8e144bec81ddc4374",
+      "size_bytes": 2604,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/CatPhysics/Decision.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CatPhysics/Dynamics.lean",
+      "blob_sha": "de89e8b6a5120595217f56b87f3d627df789a009",
+      "size_bytes": 3504,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/CatPhysics/Dynamics.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CatPhysics/Harmonics.lean",
+      "blob_sha": "398cfe938ac7f98e4eb070e0218234d49fab6301",
+      "size_bytes": 3100,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/CatPhysics/Harmonics.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CatPhysics/Operators.lean",
+      "blob_sha": "f06d48088d97859d443e2b24918db08293c96cf6",
+      "size_bytes": 4979,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/CatPhysics/Operators.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/ARTICLE.md",
+      "blob_sha": "9a48824b186e9fb2caf43310c06e416bbade47b3",
+      "size_bytes": 2619,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/docs/ARTICLE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/AUDIT.md",
+      "blob_sha": "aabcca16a7c20397dd620dbcac6e5cb95e2a3b07",
+      "size_bytes": 6811,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/docs/AUDIT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/CONVENTIONS.md",
+      "blob_sha": "f06ad2826270b71ad291459c31e520e244e18ee2",
+      "size_bytes": 4183,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/docs/CONVENTIONS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/REFERENCES.md",
+      "blob_sha": "80323d1180519424900477b985d9985ea335d4e2",
+      "size_bytes": 1497,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/docs/REFERENCES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/source-manifest.json",
+      "blob_sha": "7740e0aa5f27983e0946559407e4e9c8ff512fbf",
+      "size_bytes": 2706,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/docs/source-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/SOURCE_TRANSCRIPTION.md",
+      "blob_sha": "5c01425f3d4cd70649ead90a4b95b86b44baff0b",
+      "size_bytes": 5642,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/docs/SOURCE_TRANSCRIPTION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/theorems.json",
+      "blob_sha": "444e71d05e8ff65e69cd2566fc1bd3f6be84a445",
+      "size_bytes": 19951,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/docs/theorems.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "images/01-state.png",
+      "blob_sha": "733fe8f298dbcd30452d2f3b4d9c9d00b6e2e676",
+      "size_bytes": 46929,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/images/01-state.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "images/02-fields.png",
+      "blob_sha": "996bf7f800aa4d568ff547152067a8726edbe150",
+      "size_bytes": 149413,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/images/02-fields.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "images/03-compliance.png",
+      "blob_sha": "287dcb6776f7c6b77bc795f92e028aef0bfaf1e5",
+      "size_bytes": 117563,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/images/03-compliance.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "images/04-harmonics.png",
+      "blob_sha": "6c40676de7b97c7ad3532b55145fac6803bba9ac",
+      "size_bytes": 90525,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/images/04-harmonics.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "images/05-control.png",
+      "blob_sha": "fb572a316154b18d4243eb347327ef4b313d0738",
+      "size_bytes": 121449,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/images/05-control.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "images/06-engineering.png",
+      "blob_sha": "b351565bcf7fff3a40697102673bbe50bc3b3903",
+      "size_bytes": 58988,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/images/06-engineering.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "images/07-cat-professor.png",
+      "blob_sha": "89ffa535b811ca732d8e8bde021fdd41ea085225",
+      "size_bytes": 1377573,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/images/07-cat-professor.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "25b4024e547abf11d953a392f83bca8a7dd66757",
+      "size_bytes": 38024,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "84eadaf107737fc23244a3960566d512f3a39ac8",
+      "size_bytes": 3521,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "eb7f38c44354d783984b39ed63da729e983b9fb6",
+      "size_bytes": 245,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE.md",
+      "blob_sha": "e69f5565ed61376eae02f1006ad81d8ba674d79c",
+      "size_bytes": 648,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/LICENSE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "183753e1c2601aec841760f380214222c2145d38",
+      "size_bytes": 7549,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_demo.py",
+      "blob_sha": "6be35e88bb8e3cd8658e5e4fe9110b17c5df542d",
+      "size_bytes": 2233,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/tests/test_demo.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/audit.py",
+      "blob_sha": "142f7860e942e7f906a8bd5afee606faf387264b",
+      "size_bytes": 2931,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/tools/audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/check_frontend.py",
+      "blob_sha": "b0657ae8237390d58e8c94446b24abc0f730173a",
+      "size_bytes": 2825,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/tools/check_frontend.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/demo.py",
+      "blob_sha": "239a6d7562256f3d0ba9547c91c14419f038f1c7",
+      "size_bytes": 3980,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/tools/demo.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tools/lean_frontend.c",
+      "blob_sha": "7393b8d0d8b54b32887198a0c91dd94bfd59f7d2",
+      "size_bytes": 2754,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/tools/lean_frontend.c",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/axioms.log",
+      "blob_sha": "d2ae5766d75c8e4c954e74fcb900174db20bc38b",
+      "size_bytes": 6065,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/verification/axioms.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/build.log",
+      "blob_sha": "884b1c5baf69ae58675b5d7a0f059ac478337637",
+      "size_bytes": 235,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/verification/build.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/demo-output.json",
+      "blob_sha": "763704934bad3dd5c300e1b9c0bb902d89bb8024",
+      "size_bytes": 3704,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/verification/demo-output.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/python-tests.log",
+      "blob_sha": "21451a4094c470665d70321d47e685c983728334",
+      "size_bytes": 634,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/verification/python-tests.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/SHA256SUMS.txt",
+      "blob_sha": "af4b59a3e3480ccb5008f7e403e6edda8cd5b620",
+      "size_bytes": 3561,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/verification/SHA256SUMS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/STATUS.md",
+      "blob_sha": "42a00aea99feb942ba4666295f9b8569e6263077",
+      "size_bytes": 2665,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cat-Physics/blob/main/verification/STATUS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

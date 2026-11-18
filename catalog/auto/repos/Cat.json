@@ -1,0 +1,192 @@
+{
+  "repository": "enuminous/Cat",
+  "default_branch": "main",
+  "tree_sha": "d3ef2ce0ac47fc9837906ac72b873cd4dc3f20ef",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablation.py",
+      "blob_sha": "56bcbc6df4528392f71f917783ba2b873c6dfd35",
+      "size_bytes": 1324,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/ablation.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ablation_schema.json",
+      "blob_sha": "0b0d8fa9eeb7d063c1eb1e39da811c4ff8bd2aad",
+      "size_bytes": 631,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/ablation_schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "baselines.py",
+      "blob_sha": "c4a4068f2bd590250c9b6bfad119327b9d9ddf10",
+      "size_bytes": 836,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/baselines.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cat.py",
+      "blob_sha": "c576044ab798ca3bd77ccff271f5bf4c27f28dc5",
+      "size_bytes": 2369,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/cat.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "47b659ac8568f44c383016ae0dc30c9645108500",
+      "size_bytes": 258,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_config.yaml",
+      "blob_sha": "7ffe71d95775cfdfe20cdf713046fdd9583e5fc4",
+      "size_bytes": 291,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/example_config.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_data.csv",
+      "blob_sha": "c86989475f177cf671d6cf0dce09528a89b79a2a",
+      "size_bytes": 27389,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/example_data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_run.py",
+      "blob_sha": "eb9a01471bc68dd34dbe44e37706ba442e468231",
+      "size_bytes": 314,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/example_run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "features.py",
+      "blob_sha": "f66aa8e90a8bd9e31b13cab1c9f73f7c5c8d2a05",
+      "size_bytes": 3651,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/features.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "freeze.py",
+      "blob_sha": "c0ff9c24bbc4fb265f2e12978184ce7ac4f44bf0",
+      "size_bytes": 433,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/freeze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "4a85044e542f1e30c392513ce7d0b03144221e6f",
+      "size_bytes": 1770,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "79719fc120a524ad10e1a44d1de510cffc80530d",
+      "size_bytes": 1087,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "fe274e96c0620c93494f0f2de3d95fadc7d5d834",
+      "size_bytes": 1269,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metrics.py",
+      "blob_sha": "8834955ae194b4423745c8433b71f1f746eb40be",
+      "size_bytes": 612,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "ec2d9c3f6a74bd9ecf35f71d74b425e68887e4ec",
+      "size_bytes": 485,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "2227b8c4b9165b120cb47ef336df64bf16ddac29",
+      "size_bytes": 5235,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "92960fc2c2068ab631f0a3757dd8e63ce0e1c4f5",
+      "size_bytes": 66,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_cat.py",
+      "blob_sha": "5382d5c458c80a38ca723c527a11de59994cde9b",
+      "size_bytes": 816,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cat/blob/main/test_cat.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

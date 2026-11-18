@@ -1,0 +1,271 @@
+{
+  "repository": "enuminous/Toast-Cat-Gravity",
+  "default_branch": "main",
+  "tree_sha": "6b898aa829edf24fe7e10a75a180a7435c9bf184",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/checks.yml",
+      "blob_sha": "3b4a60abb978ec78d1179ef6a5db202430623bf0",
+      "size_bytes": 431,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/.github/workflows/checks.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "e0856172906ecfbef7ff9a465233c6785dcfc876",
+      "size_bytes": 44,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".nojekyll",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/.nojekyll",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "app.js",
+      "blob_sha": "8f155b41a9824ae7ccfa5dd73c1d789e38b4d0bb",
+      "size_bytes": 17047,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/app.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/cat-toast.svg",
+      "blob_sha": "966547f5375e5776f740e300e482ab384f7f62ca",
+      "size_bytes": 1591,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/assets/cat-toast.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/favicon.svg",
+      "blob_sha": "5cf5a101b7a2eb919acdd6d9d15455310942735a",
+      "size_bytes": 285,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/assets/favicon.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/source-08.webp",
+      "blob_sha": "4f1dac097d49aab36647d4fa3c4f8cb250e65df6",
+      "size_bytes": 58208,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/assets/source-08.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/source-09.webp",
+      "blob_sha": "b48b3796b5b441e83b39b2612552b617e89ff779",
+      "size_bytes": 58832,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/assets/source-09.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/source-10.webp",
+      "blob_sha": "04ff0368185731a1b6bee80e32c5b83e55b4dd15",
+      "size_bytes": 56700,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/assets/source-10.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/source-11.webp",
+      "blob_sha": "45e0d3cbf6348f97613cb259f42dba7641a1b701",
+      "size_bytes": 65118,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/assets/source-11.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/source-12.webp",
+      "blob_sha": "a5cc189d02162788f5ff4900ad557c83a27bda4f",
+      "size_bytes": 75354,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/assets/source-12.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/source-14.webp",
+      "blob_sha": "616e885c4cbd829eb3a5be9d2269a0b104dfaa52",
+      "size_bytes": 74312,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/assets/source-14.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/source-16.webp",
+      "blob_sha": "9db806612724caeafff96e930819008555dc203a",
+      "size_bytes": 88688,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/assets/source-16.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/source-79.webp",
+      "blob_sha": "907640e7557ce6470d4d27de84f316e6c1c554d6",
+      "size_bytes": 73240,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/assets/source-79.webp",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/toast-cat-gravity-manuscript.pdf",
+      "blob_sha": "8304e12e55defa39d4388d059c77985d00e5844e",
+      "size_bytes": 2508158,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/assets/toast-cat-gravity-manuscript.pdf",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "65ce5347438aad229c226dabf7aa6d6344d009a1",
+      "size_bytes": 16745,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "manuscript.js",
+      "blob_sha": "818cd3d271c7254d4dd9be37b0a0a5d483ced23f",
+      "size_bytes": 158544,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/manuscript.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "models.js",
+      "blob_sha": "38b3d53fb1f4d5dc1db47b08e89a29b1e0ee3379",
+      "size_bytes": 1826,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/models.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "preview-2026-11-01.jpg",
+      "blob_sha": "6bcbc1ffcb10166b5b40287263b7ecbe00a2612a",
+      "size_bytes": 77308,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/preview-2026-11-01.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "c6f4a6453853e985d6d71d752ba04f9df1cf731a",
+      "size_bytes": 4792,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/build.cjs",
+      "blob_sha": "2f8055b45e48c8eca134dbb88bc67b2e3766d262",
+      "size_bytes": 370,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/scripts/build.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/extract.py",
+      "blob_sha": "9882de898982925505061efb25d7ab1770e16232",
+      "size_bytes": 3939,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/scripts/extract.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test.cjs",
+      "blob_sha": "1526938e94bcc165ce9ca880591ae9fcb45dd204",
+      "size_bytes": 2824,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/scripts/test.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "source-manifest.json",
+      "blob_sha": "2a63557a99bc06fa605292e9de4e90e451b2c65b",
+      "size_bytes": 598,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/source-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "style.css",
+      "blob_sha": "6200d20e73b9fe9e6f5d471aaca26df4a5f25007",
+      "size_bytes": 24014,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/style.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VALIDATION.md",
+      "blob_sha": "7b3a4182bc1990b26e6b49a0e9378d5dbc46014d",
+      "size_bytes": 1605,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Toast-Cat-Gravity/blob/main/VALIDATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

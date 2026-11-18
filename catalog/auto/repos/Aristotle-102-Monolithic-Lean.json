@@ -1,0 +1,204 @@
+{
+  "repository": "enuminous/Aristotle-102-Monolithic-Lean",
+  "default_branch": "main",
+  "tree_sha": "7555c5bdd133ac13c60fa06b17b6fa2e84feebca",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "00a87eccfcf0e857dd4d334a9a1b4116b48a615a",
+      "size_bytes": 1241,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ARISTOTLE_SUMMARY.md",
+      "blob_sha": "e47566daa7319586898c88218c84258c3a861bda",
+      "size_bytes": 4122,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/ARISTOTLE_SUMMARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "8b279317e93a0be5d3b80c1ae6d8bf29347107fd",
+      "size_bytes": 1349,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "6bd302d37a4db02e30a1c7958873fbf8947e6190",
+      "size_bytes": 21350,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "57bef473f4e93ba8f5d0387c29642e4327c08cda",
+      "size_bytes": 3109,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "d1331e3725185586634d12846a2ef43f829fc639",
+      "size_bytes": 234,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LAWS.md",
+      "blob_sha": "a07335befe5c02ffa9fcc75fd7c49c37c7da9d0f",
+      "size_bytes": 6155,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/LAWS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "ac97ca7b5eb45099f6f7b8d75d0b7160be503bc6",
+      "size_bytes": 2015,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Coherence.lean",
+      "blob_sha": "1390923fdc1e0440735938d0ab91102d6edb67bf",
+      "size_bytes": 5093,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/RequestProject/Coherence.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Dynamics.lean",
+      "blob_sha": "3aeb69c2e0e6badf93b6203c3595bf25ea899077",
+      "size_bytes": 5320,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/RequestProject/Dynamics.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Fields.lean",
+      "blob_sha": "2013c6d7eb69a0750f7c5e9d071e4e45efb0682f",
+      "size_bytes": 6866,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/RequestProject/Fields.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Golden.lean",
+      "blob_sha": "3fa9e0fa250e96f578ee801ace270bc76bf0ded8",
+      "size_bytes": 3691,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/RequestProject/Golden.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Main.lean",
+      "blob_sha": "308f9cfb58cc562160bcd62ba1e20174f161311d",
+      "size_bytes": 563,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/RequestProject/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Metrics.lean",
+      "blob_sha": "ec15ba864fe319c937eec76607a1eff33a61aee1",
+      "size_bytes": 7790,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/RequestProject/Metrics.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/RequestProject/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "54d57fa977ba3253ba419a91d3e0bb1a8e9dd58f",
+      "size_bytes": 885,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Aristotle-102-Monolithic-Lean/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

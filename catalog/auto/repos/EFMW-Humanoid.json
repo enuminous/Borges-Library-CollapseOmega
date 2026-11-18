@@ -1,0 +1,310 @@
+{
+  "repository": "enuminous/EFMW-Humanoid",
+  "default_branch": "main",
+  "tree_sha": "f4c8e7fcf06c7ee0b6a16ae5aa7d656102c89a47",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/pages.yml",
+      "blob_sha": "4fd0c959c6fc9cb150031b1e007d3c3fbce44a7a",
+      "size_bytes": 1074,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/.github/workflows/pages.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "blob_sha": "a99e2c828a1f6c4cb5b4f3a41447a7c907a4be4d",
+      "size_bytes": 1382,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/.github/workflows/verify.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/app.mjs",
+      "blob_sha": "a6e0f270aeebe52e558bf4a3c1fbf4ed2805106d",
+      "size_bytes": 12845,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/assets/app.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/scene3d.mjs",
+      "blob_sha": "f65301aa29c9ecc1d887905cf082bdd2788a10b3",
+      "size_bytes": 14713,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/assets/scene3d.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/sim-core.mjs",
+      "blob_sha": "aaa1286765d89c61456c64273fa0a7aa78bef304",
+      "size_bytes": 13697,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/assets/sim-core.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/site.css",
+      "blob_sha": "51520c246803dccf6fb62ba2faeb5d62fc360f76",
+      "size_bytes": 22772,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/assets/site.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/TESTBED.md",
+      "blob_sha": "dae21a4780a728066c49cab8d26c1b09dd0e6a56",
+      "size_bytes": 10658,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/docs/TESTBED.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "c7bddae96167f4482e35071507c36e08a8d1dc91",
+      "size_bytes": 20381,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "e52d9f2fc34ccc096775474e04bf73cf7a8b9e9c",
+      "size_bytes": 3571,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/config/architecture.json",
+      "blob_sha": "125634b6d9cb2dedd1f1412140576e670925d675",
+      "size_bytes": 2288,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/config/architecture.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/config/assembly_graph.json",
+      "blob_sha": "951d8301eebcb8400003470a4dc25cd5dc2b2923",
+      "size_bytes": 3924,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/config/assembly_graph.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/config/hazards.json",
+      "blob_sha": "76af9a7304f5dd17228bc3505fc1409ad72636ab",
+      "size_bytes": 5571,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/config/hazards.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/config/requirements.json",
+      "blob_sha": "ae7f6def3b16c16199ea62019eca16af8865770c",
+      "size_bytes": 12953,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/config/requirements.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/diagrams/architecture.mmd",
+      "blob_sha": "47b9641f167eebb5613a0f7d2cc4f95e6566dc8b",
+      "size_bytes": 815,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/diagrams/architecture.mmd",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/docs/LOCAL_EXECUTION_RECORD.md",
+      "blob_sha": "6c2aaaced764bee6e77aee9ade35c06089cbfe15",
+      "size_bytes": 6250,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/docs/LOCAL_EXECUTION_RECORD.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/docs/SOURCES.md",
+      "blob_sha": "30947a0addccff2c3a15b11bd2effe6b20102156",
+      "size_bytes": 3543,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/docs/SOURCES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/docs/TRACEABILITY.md",
+      "blob_sha": "94ad77ac2b444c6cfa41b35d358187350f2fe160",
+      "size_bytes": 2421,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/docs/TRACEABILITY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/examples/simulate_offline.py",
+      "blob_sha": "627a3fa189fc31ce47cbacc073a4145e3c8a3ace",
+      "size_bytes": 2073,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/examples/simulate_offline.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/examples/two_link_offline.py",
+      "blob_sha": "79fc794ea0925609d12d0af83cf1ea8792c42b97",
+      "size_bytes": 1212,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/examples/two_link_offline.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/MANIFEST.sha256",
+      "blob_sha": "d312662987ce324fc6140f8b832e646231c1369d",
+      "size_bytes": 1519,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/prototype/__init__.py",
+      "blob_sha": "bd3a0f288d0a763ae57a03bd94a07e339169613e",
+      "size_bytes": 86,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/prototype/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/prototype/efmw_supervisor.py",
+      "blob_sha": "02d9b4ab0f80e8b725c8a2233c8776eccb4adf7c",
+      "size_bytes": 12922,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/prototype/efmw_supervisor.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/prototype/two_link_dynamics.py",
+      "blob_sha": "1fc79c5284d4632eded843704b9c6f54d1a841c4",
+      "size_bytes": 4348,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/prototype/two_link_dynamics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/PUBLICATION_NOTICE.md",
+      "blob_sha": "cb2fea454709e313cebae82fb8e74c8076f84506",
+      "size_bytes": 2622,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/PUBLICATION_NOTICE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/README.md",
+      "blob_sha": "4d4fe7da88f31c51ae2ca5c4480163302efad8e1",
+      "size_bytes": 3301,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/SPEC.md",
+      "blob_sha": "414776c11548b3c3063ae45f57b563f153df218e",
+      "size_bytes": 58273,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/SPEC.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/tests/test_supervisor.py",
+      "blob_sha": "004ea55adf1714b25a8f4d03aa7bf6e9d24300b6",
+      "size_bytes": 8067,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/tests/test_supervisor.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "research/tests/test_two_link.py",
+      "blob_sha": "ca83628e5d621784889cf73313bca0813cba71a1",
+      "size_bytes": 1684,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/research/tests/test_two_link.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SPEC.md",
+      "blob_sha": "414776c11548b3c3063ae45f57b563f153df218e",
+      "size_bytes": 58273,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/SPEC.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_sim_core.mjs",
+      "blob_sha": "4088245671abde3f8e5ca749fe4673b729ec252c",
+      "size_bytes": 10690,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Humanoid/blob/main/tests/test_sim_core.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

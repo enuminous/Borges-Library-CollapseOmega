@@ -1,0 +1,182 @@
+{
+  "repository": "enuminous/Moth",
+  "default_branch": "main",
+  "tree_sha": "af1fe45498a4e363441443e3b01aa162977f1bb1",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "baselines.py",
+      "blob_sha": "71418aec05dde8459be644ad4c026780809ed361",
+      "size_bytes": 2256,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/baselines.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "74417e7a9d6f4a371975491890db5defd54ad145",
+      "size_bytes": 280,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_config.yaml",
+      "blob_sha": "acd00dea50919dde613072b36f597d70d60e7fc3",
+      "size_bytes": 266,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/example_config.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_data.csv",
+      "blob_sha": "d49602bd3fc9fad76b39067f8883aefc2cd7b9cb",
+      "size_bytes": 34435,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/example_data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_run.py",
+      "blob_sha": "fa1a3712fc5899405454a4bffd5783e099652729",
+      "size_bytes": 359,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/example_run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "features.py",
+      "blob_sha": "7ecd77af292359f26d595e5b2dd895cce2812740",
+      "size_bytes": 3778,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/features.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "freeze.py",
+      "blob_sha": "bda9ead62e004236457b39648db1cd1ad3a55814",
+      "size_bytes": 419,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/freeze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "320d1e4cce2e84b05c1b7c46b804834b9c02344c",
+      "size_bytes": 1837,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "79719fc120a524ad10e1a44d1de510cffc80530d",
+      "size_bytes": 1087,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "b3d41cf14b90533bab856734e9511bcd387b0d00",
+      "size_bytes": 1193,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metrics.py",
+      "blob_sha": "49d0f53f6f6ae56b15b7ceb23ee0c8537b984a00",
+      "size_bytes": 1060,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "moth.py",
+      "blob_sha": "c7c885adbf225d66d40c5e52ca3de1b52b14869a",
+      "size_bytes": 2534,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/moth.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "6740c83d284fa059d3f1eea2411276cdb91503a5",
+      "size_bytes": 487,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "1d81741ed00cd240b954779bd2f9069ab5d40bd7",
+      "size_bytes": 5243,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "c9ca33a35982d850ab46e0916abb12b020aac563",
+      "size_bytes": 78,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "temporal_schema.json",
+      "blob_sha": "e070bb6967be831f416011e0cae15a4f4f1c986c",
+      "size_bytes": 733,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/temporal_schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_moth.py",
+      "blob_sha": "69068b85b519eac76f196b0b96cb8562ce206822",
+      "size_bytes": 696,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Moth/blob/main/test_moth.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

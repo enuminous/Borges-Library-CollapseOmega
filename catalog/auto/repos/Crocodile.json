@@ -1,0 +1,182 @@
+{
+  "repository": "enuminous/Crocodile",
+  "default_branch": "main",
+  "tree_sha": "46a353978b962a697989b9266e933080064dd5b9",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "6824020be8a8d176468a3ef4385041707c6be2c3",
+      "size_bytes": 337,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "crocodile.py",
+      "blob_sha": "e74a1d0cbc61b5dfd86c3e444624cb097459edf6",
+      "size_bytes": 3230,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/crocodile.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_config.yaml",
+      "blob_sha": "5773669d4e77352f5b18eca793f890b9c98affa3",
+      "size_bytes": 280,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/example_config.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_data.csv",
+      "blob_sha": "5955e9ea31327915ccbf8d878db3d26530bdd504",
+      "size_bytes": 33882,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/example_data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_run.py",
+      "blob_sha": "c940898fe0e45a996dd5d63fc4fbd1d05e69d43d",
+      "size_bytes": 422,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/example_run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "features.py",
+      "blob_sha": "2054f7978e5e3d2fe3c3a40d3dced60006fefde7",
+      "size_bytes": 672,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/features.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "freeze.py",
+      "blob_sha": "481ced3fec015a295fe7be0a160b034eb40ba860",
+      "size_bytes": 403,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/freeze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "intervention_schema.json",
+      "blob_sha": "657aa3e7694d9459c6b7be1455c7ca1f7162cb63",
+      "size_bytes": 736,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/intervention_schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "fa548fcad7fd7c13fa825971149bb5fd4817058c",
+      "size_bytes": 1816,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "a1cda1da6da9179854c747920491c9d59dbe3300",
+      "size_bytes": 459,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "83e5e747d5ca18e8bcc94fdb2d17c0d6599f1590",
+      "size_bytes": 1204,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metrics.py",
+      "blob_sha": "7669370c779994da467c48c7e44281741a4b8e42",
+      "size_bytes": 1203,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "models.py",
+      "blob_sha": "2470e771792ccb122d45b9901c7ed756e5eac308",
+      "size_bytes": 292,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/models.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "c9684f059c912a01fc72873a5a34c6727ed68dd4",
+      "size_bytes": 470,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "254f03488734778d5ee7e71886e20434f1b3e7d5",
+      "size_bytes": 5143,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "92960fc2c2068ab631f0a3757dd8e63ce0e1c4f5",
+      "size_bytes": 66,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_crocodile.py",
+      "blob_sha": "7651176e3f66c331073cbf10618334908bda1d8e",
+      "size_bytes": 922,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Crocodile/blob/main/test_crocodile.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

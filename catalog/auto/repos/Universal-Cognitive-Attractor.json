@@ -1,0 +1,225 @@
+{
+  "repository": "enuminous/Universal-Cognitive-Attractor",
+  "default_branch": "main",
+  "tree_sha": "57dab8bd18b8e2dacb74a2b4cdc6697bbeeab628",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "b6541df48e82c63cfe842dec0b7b9aba4d568023",
+      "size_bytes": 1227,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "19fdf5a8aafcdbd05fae0f9f6f67e3329254e988",
+      "size_bytes": 27,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "1eb59957d73ffeadcdeb652af548f1e9f7f20188",
+      "size_bytes": 1202,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CLAIMS_BOUNDARY.md",
+      "blob_sha": "d07927520bafe10e3eff3ae41d04251ed6e7583c",
+      "size_bytes": 1276,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/CLAIMS_BOUNDARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EXPERIMENT_PROTOCOL.md",
+      "blob_sha": "1a51a15d2f3e212761555156b01e333157c9287c",
+      "size_bytes": 1132,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/EXPERIMENT_PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FORMAL_DEFINITION.md",
+      "blob_sha": "21ddabe8b692609cb308b3f015d3c23e3325554b",
+      "size_bytes": 1180,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/FORMAL_DEFINITION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "15b1dec7668febdb5ab117f4a3ae6aeffb376ea3",
+      "size_bytes": 10780,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "6bb526bd455c7bab0e2ea720c4db7c568c3df9e0",
+      "size_bytes": 3480,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "bf6fc591c2ed1fffaa53d740f2d94a62df5ea559",
+      "size_bytes": 172,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "dc4ebd7f7a7beed5d31e1b77e2324c06a37441e3",
+      "size_bytes": 92,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PAPER.md",
+      "blob_sha": "e2b852dbad4db70ea7efff5bd5626c87c739ed83",
+      "size_bytes": 4473,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/PAPER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "bdce81685ece9e70e0c77ea54dafcf47e5f3f88a",
+      "size_bytes": 3096,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_axiom_audit.py",
+      "blob_sha": "f6051e13fc72c6ddf4ef1da32943eba267e551b6",
+      "size_bytes": 1323,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "simulate_convergence.py",
+      "blob_sha": "30c4d58aae8e67b7ff7f680a8c0c834eb349f7b8",
+      "size_bytes": 780,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/simulate_convergence.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "simulation_output.txt",
+      "blob_sha": "bf1c1f386255b9bdf6933b3e941236b2f523be14",
+      "size_bytes": 228,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/simulation_output.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "UCA.lean",
+      "blob_sha": "d93edba0f24c7a259ab187cd9b77d17ff631bb06",
+      "size_bytes": 16,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/UCA.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "UCA/Core.lean",
+      "blob_sha": "d44570d57b22cec79a8a59e0ebb8c2045d1d18a4",
+      "size_bytes": 1922,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/UCA/Core.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "UCA/Main.lean",
+      "blob_sha": "3f224cc5cbb7d536007182a382ddc3dc4ac4d83f",
+      "size_bytes": 298,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/UCA/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "UCA/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/UCA/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "72641b20a1cb5a572fd60395d02621f0d70ed450",
+      "size_bytes": 1462,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Universal-Cognitive-Attractor/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "repository": "enuminous/EFMW-Physics-Lab",
+  "default_branch": "main",
+  "tree_sha": "df6d6d52c0f82690459da87686048bf486485b24",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "index.html",
+      "blob_sha": "66f6c1e05d4300e0632a04e2e3562b78d0bab623",
+      "size_bytes": 37276,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Physics-Lab/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE_NOTICE.md",
+      "blob_sha": "e95d1a27a1729834ec99b2c35346c197a871dc32",
+      "size_bytes": 425,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Physics-Lab/blob/main/LICENSE_NOTICE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MODEL.md",
+      "blob_sha": "2ed814f47a7ce97f8df9060a804126640acca30f",
+      "size_bytes": 3964,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Physics-Lab/blob/main/MODEL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "preview.png",
+      "blob_sha": "b0837fababc42d5a3b23929d96f3bef90fc299a5",
+      "size_bytes": 1253028,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Physics-Lab/blob/main/preview.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "fd7a6403b6638fcf98164ff6d45d8078960bf41e",
+      "size_bytes": 6096,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Physics-Lab/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.md",
+      "blob_sha": "063e086973d097f3e5f8e0a021755e97cc426732",
+      "size_bytes": 1735,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Physics-Lab/blob/main/TEST_RESULTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VALIDATION.md",
+      "blob_sha": "22dbbe23e464327a590e6550389996193ee89d4f",
+      "size_bytes": 2679,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-Physics-Lab/blob/main/VALIDATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

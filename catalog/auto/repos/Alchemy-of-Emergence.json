@@ -1,0 +1,211 @@
+{
+  "repository": "enuminous/Alchemy-of-Emergence",
+  "default_branch": "main",
+  "tree_sha": "726683ebc0086ca0b4a5ae52d1632cfa52613acd",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/alchemy-harmonics-lean.yml",
+      "blob_sha": "e8be7dfb381dbbbdacaef3d6327caad3a341b67c",
+      "size_bytes": 1530,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/.github/workflows/alchemy-harmonics-lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BOOK.md",
+      "blob_sha": "c7604c08e7d1b1149218e9e9299fb30d10fb3dc5",
+      "size_bytes": 1271,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/BOOK.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/elements.csv",
+      "blob_sha": "4aab02f04444ef0c139704434fb10a6858ca892a",
+      "size_bytes": 1009,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/data/elements.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "elements/anti/cryptonullium.md",
+      "blob_sha": "41365e3dc63f5e5909380f9b83b7b6de5b668e59",
+      "size_bytes": 1821,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/elements/anti/cryptonullium.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "elements/anti/thanatherium.md",
+      "blob_sha": "595dde506aefc14a5d9b059ad49d074262aeb58b",
+      "size_bytes": 1378,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/elements/anti/thanatherium.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "elements/conventional/ALL_118.md",
+      "blob_sha": "a7577e56417553778b38fc686cb5a322b49d7170",
+      "size_bytes": 100224,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/elements/conventional/ALL_118.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "elements/meta/philosophon.md",
+      "blob_sha": "d45a23d6d85cef00640484f38bb301886e769efc",
+      "size_bytes": 1765,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/elements/meta/philosophon.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "elements/nonconventional/EXPANDED.md",
+      "blob_sha": "ecaef501aed407a0f847abdbe52bea21b04a8820",
+      "size_bytes": 17842,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/elements/nonconventional/EXPANDED.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EQUATION_INDEX.md",
+      "blob_sha": "3148113244292d562c7e016da6cf12f039aabef1",
+      "size_bytes": 990,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/EQUATION_INDEX.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/AlchemyHarmonics.lean",
+      "blob_sha": "736fd6513686a4ff8e8508f2b4fb6d957a2534ea",
+      "size_bytes": 2637,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/formal/AlchemyHarmonics.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lake-manifest.json",
+      "blob_sha": "d0e9d77b9d113d976d96879c44ada129348ef8b3",
+      "size_bytes": 3497,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/formal/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lakefile.toml",
+      "blob_sha": "b66bb5a3223941ec2a05ba32e2967e0d95785252",
+      "size_bytes": 266,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/formal/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/formal/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/README.md",
+      "blob_sha": "0277d0cbb3edd7f27b5df6f2b2239ef88fe6034c",
+      "size_bytes": 2654,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/formal/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "78f48ffbaa34331bf095fbefe61829bd926b88ff",
+      "size_bytes": 98771,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "OCTAVES.md",
+      "blob_sha": "776192790541f429bb602b98ad128e08ed3b6b25",
+      "size_bytes": 2218,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/OCTAVES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "b9f654b8b149ea7c24f9a0fccd18b0dd548c3601",
+      "size_bytes": 5209,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TAXONOMY.md",
+      "blob_sha": "83b329f3788b74fd8abecd1e5541224e687bcfbe",
+      "size_bytes": 2409,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/TAXONOMY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "THEORY.md",
+      "blob_sha": "87ebfe980a5d7647428553ea86d633ae31d03541",
+      "size_bytes": 3390,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/THEORY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VALIDATION.md",
+      "blob_sha": "e9fd2914ce62ebe1c3d0ed5d12583bfa1dcb1908",
+      "size_bytes": 1174,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Alchemy-of-Emergence/blob/main/VALIDATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

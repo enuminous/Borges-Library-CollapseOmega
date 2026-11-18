@@ -1,0 +1,406 @@
+{
+  "repository": "enuminous/Oroboros",
+  "default_branch": "main",
+  "tree_sha": "64650a1dc578ed2e89dfd5951a4757cf9be32703",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "50a18df24a917232ceed6b3c5bf096ce6c4d404e",
+      "size_bytes": 2850,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "ef4d41fb6393ddce414cdf2958fe1c37428420f0",
+      "size_bytes": 57,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".nojekyll",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/.nojekyll",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "archive/2025-02-05-original.html",
+      "blob_sha": "1e5e912bf4fb3112caceb94dbd83a75df4500cc6",
+      "size_bytes": 8538,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/archive/2025-02-05-original.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ARISTOTLE_SUMMARY.md",
+      "blob_sha": "47919f1a5e93fec16e0522dcd6e31dbff26c39f3",
+      "size_bytes": 3617,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/ARISTOTLE_SUMMARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/app.js",
+      "blob_sha": "c7f665202f3fbef9231d9a5cfc4f5ee01dee80a5",
+      "size_bytes": 4113,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/assets/app.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/ouroboros-universe.png",
+      "blob_sha": "b176300b2d4f354ee46dfdfbbbe7fa6cfde8db53",
+      "size_bytes": 3228775,
+      "kinds": [
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/assets/ouroboros-universe.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/style.css",
+      "blob_sha": "d6da5198f4cd876200e8897ff2a2a9bae2d7a380",
+      "size_bytes": 8247,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/assets/style.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "3e3b3a3cee269606fcfb7084381a198a30ebd232",
+      "size_bytes": 1256,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "DERIVATION.md",
+      "blob_sha": "4e69710de3819fc39189292c5905a2cc6bb1da3f",
+      "size_bytes": 10439,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/DERIVATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/ARTWORK.md",
+      "blob_sha": "b6bcaa33b4bbeb0c035cd7bfa9442c0bb626da83",
+      "size_bytes": 2372,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/docs/ARTWORK.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/CONSISTENCY_REVIEW.md",
+      "blob_sha": "8a9b05876f473a1eb48ee2360e779328bf5380ac",
+      "size_bytes": 5245,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/docs/CONSISTENCY_REVIEW.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/DERIVATION.md",
+      "blob_sha": "4e69710de3819fc39189292c5905a2cc6bb1da3f",
+      "size_bytes": 10439,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/docs/DERIVATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/PROVENANCE.md",
+      "blob_sha": "67847baa88a3d312a1e473c77d9fc72ec44afdc0",
+      "size_bytes": 1912,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/docs/PROVENANCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/Audit.lean",
+      "blob_sha": "b2cdd80ef9c822eeb4e4b1acdc90019324fd1d3a",
+      "size_bytes": 1204,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/formal/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/COVERAGE.md",
+      "blob_sha": "686d5e21b4945159955b623b8aabe1aa9cf0341f",
+      "size_bytes": 2001,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/formal/COVERAGE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lake-manifest.json",
+      "blob_sha": "e57e8fe645a62d0acfbcf9a18ab1f5a560a1cac2",
+      "size_bytes": 3485,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/formal/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lakefile.toml",
+      "blob_sha": "2618145166f4568b7d35b4ed0efcd364d36da955",
+      "size_bytes": 238,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/formal/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/formal/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/Oroboros.lean",
+      "blob_sha": "ee4d3423b6042a20a712b919754501a5324f0e9d",
+      "size_bytes": 5127,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/formal/Oroboros.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/formal/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/VERIFICATION.md",
+      "blob_sha": "54d57fa977ba3253ba419a91d3e0bb1a8e9dd58f",
+      "size_bytes": 885,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/formal/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "4088919bcbb51e0a5477ad6a0e32a992815c0c7c",
+      "size_bytes": 17618,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "57bef473f4e93ba8f5d0387c29642e4327c08cda",
+      "size_bytes": 3109,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "d1331e3725185586634d12846a2ef43f829fc639",
+      "size_bytes": 234,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "blob_sha": "67847baa88a3d312a1e473c77d9fc72ec44afdc0",
+      "size_bytes": 1912,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/PROVENANCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README (2).md",
+      "blob_sha": "b2ed49f4fa1293a81d1d4a951066403206fe771b",
+      "size_bytes": 6862,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/README%20%282%29.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "34e327428f5297b7e2865df266776581e6826759",
+      "size_bytes": 9262,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Main.lean",
+      "blob_sha": "308f9cfb58cc562160bcd62ba1e20174f161311d",
+      "size_bytes": 563,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/RequestProject/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Oroboros.lean",
+      "blob_sha": "e87e26b541364b8336ca1df203acf2d61d0a8861",
+      "size_bytes": 20622,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/RequestProject/Oroboros.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/RequestProject/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/verify.cjs",
+      "blob_sha": "54c36a0b925137016563bda94ba48f4aedabdc0a",
+      "size_bytes": 3433,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/scripts/verify.cjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/verify_catalogue.py",
+      "blob_sha": "306e1dc53405cf3ca11372a4079d5421e312f0a1",
+      "size_bytes": 829,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/scripts/verify_catalogue.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/math.js",
+      "blob_sha": "608b85e7ab398534b4eaf9d096c6ace67f702bf9",
+      "size_bytes": 1651,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/src/math.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "UNIVERSE.md",
+      "blob_sha": "a5b66b11d162afed52535e70fc47b0532743c6f8",
+      "size_bytes": 8519,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/UNIVERSE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "3b1bef9bc87912d545cc5d774089312942af1d63",
+      "size_bytes": 1474,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verification/results.json",
+      "blob_sha": "d7f873c08b6f57220ef9f11fec6c21d583b651a5",
+      "size_bytes": 1147,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Oroboros/blob/main/verification/results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

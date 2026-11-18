@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Mantis",
+  "default_branch": "main",
+  "tree_sha": "30af61a035709e719a710b91614ea63a9c791f16",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "ae8c88ce965816462db509dfeed6cc5d4a0e028f",
+      "size_bytes": 570,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "f016240a3117083e786e60b02fc9317db873ff4b",
+      "size_bytes": 1094,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "3b28e38ff5ca26ed35c21fc4e6b2eede79625767",
+      "size_bytes": 1189,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "2e4392e1153692df55e55aa002aff10d857a70f7",
+      "size_bytes": 1604,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "8df64de0914fce11cb9ccd5394b60e7172dad89d",
+      "size_bytes": 306,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "2b987643855031acfd383f8ac4f71c4243e11c2b",
+      "size_bytes": 488,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "c0cec2fe39d99fa8608232c10d5c7530451b8af5",
+      "size_bytes": 1763,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "3e4ca7113ccc2c2742a50e8082bae65e49abcf78",
+      "size_bytes": 975,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "mantis.py",
+      "blob_sha": "63b6108e114c44244997abb216270fa0465e143e",
+      "size_bytes": 3387,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/mantis.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "084fcb6d85140cf86c12c2b788bd07b3836453bf",
+      "size_bytes": 1782,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "99fe81083beeec18c46c8d054390886a46f3776c",
+      "size_bytes": 2985,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_mantis.py",
+      "blob_sha": "ce7fb14b3175d18141d46e80b2ff024c333dbde6",
+      "size_bytes": 962,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/test_mantis.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "bb0aca65d488f6a19c77a778ac9f6b00f2d3ca9d",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "ac35676babfc0637fade4549f87f0865772d88c0",
+      "size_bytes": 2359,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "transition_model.md",
+      "blob_sha": "ded3d048a3a637bcad4ae527534ec17d9a9b7a05",
+      "size_bytes": 962,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mantis/blob/main/transition_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

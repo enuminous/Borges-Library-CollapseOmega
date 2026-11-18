@@ -1,0 +1,184 @@
+{
+  "repository": "enuminous/Horse",
+  "default_branch": "main",
+  "tree_sha": "1ca652fb2ad0244a7fcae460311c3cb77cb37b64",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "ablations.py",
+      "blob_sha": "08898a0f3a338c91e8ced121e49caf9c2499219f",
+      "size_bytes": 455,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/ablations.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "architecture.md",
+      "blob_sha": "a06b43e19ee56dab05f931e55a7874695b36f124",
+      "size_bytes": 1116,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/architecture.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmark.py",
+      "blob_sha": "1889468ba6e966ccfed43b58435a6c1c4f6eedd9",
+      "size_bytes": 730,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "BENCHMARK_SAMPLE.txt",
+      "blob_sha": "07f75fa1b945c4184bf42eabbe58a428d8395df0",
+      "size_bytes": 1589,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/BENCHMARK_SAMPLE.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "23d7b8b08590cfc6b30e97cc23274e9d38be9b02",
+      "size_bytes": 289,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example.py",
+      "blob_sha": "b8369161c367168604101a5e54b19f09f21a48cb",
+      "size_bytes": 589,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/example.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "horse.py",
+      "blob_sha": "04809f7906cbe9882a86a4f926df3a0350692626",
+      "size_bytes": 2694,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/horse.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "human_system_model.md",
+      "blob_sha": "be1d6c268d9faced2583e212e44a40fbd06e3a5c",
+      "size_bytes": 910,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/human_system_model.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "ccfaddb8290f8848ce06f8c6a66cca3a55ca8406",
+      "size_bytes": 1754,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "0cdb2cb4ef6fd25021b402632540e1f10c62ed97",
+      "size_bytes": 453,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "limitations.md",
+      "blob_sha": "9b96b4a5221687a76950db391634d82b13575a8f",
+      "size_bytes": 930,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/limitations.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "paper.md",
+      "blob_sha": "34b13efa889cbb18fbedbdc8aefada444230500e",
+      "size_bytes": 1820,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/paper.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "38e08e30d7ded94fa1d387facd803c5d7069dd54",
+      "size_bytes": 2951,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "b44c783fb81056523850916c63db21ed17fb5027",
+      "size_bytes": 50,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_horse.py",
+      "blob_sha": "13e73d4222b23e74c4499460aba9dab94ba8571c",
+      "size_bytes": 1122,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/test_horse.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TEST_RESULTS.txt",
+      "blob_sha": "fc0ec9447c124e7917ce0dfdc8f74200bad6adbd",
+      "size_bytes": 1177,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/TEST_RESULTS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory.md",
+      "blob_sha": "74fc51ac1eb74e4417ab376a69f4da68c0ff81c9",
+      "size_bytes": 2406,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Horse/blob/main/theory.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

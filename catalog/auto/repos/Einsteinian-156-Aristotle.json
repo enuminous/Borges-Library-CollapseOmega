@@ -1,0 +1,304 @@
+{
+  "repository": "enuminous/Einsteinian-156-Aristotle",
+  "default_branch": "main",
+  "tree_sha": "4a6f0c97c2f9302cbdc1c9940e8588a5c884f404",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "00a87eccfcf0e857dd4d334a9a1b4116b48a615a",
+      "size_bytes": 1241,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ARISTOTLE_SUMMARY.md",
+      "blob_sha": "64033a3e4c4d7c285bd3768928c4a5b25accdf53",
+      "size_bytes": 11806,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/ARISTOTLE_SUMMARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Audit.lean",
+      "blob_sha": "65da2badf57f5f1493b6d469ab9b0568b9669edd",
+      "size_bytes": 1850,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "FIELDSPACE_NOTES.md",
+      "blob_sha": "5d42a94def3bc923d0bd432305956d22aac20477",
+      "size_bytes": 6256,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/FIELDSPACE_NOTES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "GLOBAL_RECONSTRUCTION.md",
+      "blob_sha": "2e5ede8a4e691e2f3bb6ad7006642a241c8da170",
+      "size_bytes": 4012,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/GLOBAL_RECONSTRUCTION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "GLUING_AUDIT.md",
+      "blob_sha": "83d203dffeb2b3e4a10749b3181a27cf6b72201f",
+      "size_bytes": 3897,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/GLUING_AUDIT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lake-manifest.json",
+      "blob_sha": "57bef473f4e93ba8f5d0387c29642e4327c08cda",
+      "size_bytes": 3109,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lakefile.toml",
+      "blob_sha": "d1331e3725185586634d12846a2ef43f829fc639",
+      "size_bytes": 234,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MASTER_INTERACTION_INVENTORY.md",
+      "blob_sha": "e33793862419edbe4fb7c9f184ea02c05b47c24d",
+      "size_bytes": 1973,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/MASTER_INTERACTION_INVENTORY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "c21ebbc15b865b77668f96d0fa34c10e308f285d",
+      "size_bytes": 3329,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RECONSTRUCTION.md",
+      "blob_sha": "52374f17984e225c0ba1fa8293e8ca717c173cfb",
+      "size_bytes": 1882,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/RECONSTRUCTION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/FieldSpace.lean",
+      "blob_sha": "3f050d88903a481d4283434f13344deba9cb440c",
+      "size_bytes": 356,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/RequestProject/FieldSpace.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/FieldSpace/Basic.lean",
+      "blob_sha": "23f45fef797fe7cf5f15eeb709d0d3ad9bbef04d",
+      "size_bytes": 7470,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/RequestProject/FieldSpace/Basic.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/FieldSpace/Conservation.lean",
+      "blob_sha": "44130ca26de179b226d67d63b3b46f5194478696",
+      "size_bytes": 9493,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/RequestProject/FieldSpace/Conservation.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/FieldSpace/Coupling.lean",
+      "blob_sha": "7b694acb8365d5b537489a929db580d1b117fde2",
+      "size_bytes": 3354,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/RequestProject/FieldSpace/Coupling.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/FieldSpace/Gluing.lean",
+      "blob_sha": "0d25c25a55057b4d3572b288368303d25549e3b7",
+      "size_bytes": 11537,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/RequestProject/FieldSpace/Gluing.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/FieldSpace/Inventory.lean",
+      "blob_sha": "fa3aa6fcff6c05fc50dbfd39d9d461350b51d718",
+      "size_bytes": 3153,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/RequestProject/FieldSpace/Inventory.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/FieldSpace/Readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/RequestProject/FieldSpace/Readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/FieldSpace/Reciprocity.lean",
+      "blob_sha": "0620a1655e658ba75c4c535be2b0a1d32db56230",
+      "size_bytes": 9403,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/RequestProject/FieldSpace/Reciprocity.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/FieldSpace/SourceData.lean",
+      "blob_sha": "04f73c039c39ef8847c34f5cd30b740f2e0b990d",
+      "size_bytes": 14034,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/RequestProject/FieldSpace/SourceData.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/Main.lean",
+      "blob_sha": "308f9cfb58cc562160bcd62ba1e20174f161311d",
+      "size_bytes": 563,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/RequestProject/Main.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RequestProject/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/RequestProject/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "source/EFMW_165_field_equations.txt",
+      "blob_sha": "ac6313fe4a2b02a28ac8fb34519c5f96f6ea2bd8",
+      "size_bytes": 64859,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/source/EFMW_165_field_equations.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "source/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/source/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "THEOREMS.md",
+      "blob_sha": "9b09c069eb00167a386e681219b1e64951d2a6cc",
+      "size_bytes": 11535,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/THEOREMS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "blob_sha": "54d57fa977ba3253ba419a91d3e0bb1a8e9dd58f",
+      "size_bytes": 885,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/blob/main/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

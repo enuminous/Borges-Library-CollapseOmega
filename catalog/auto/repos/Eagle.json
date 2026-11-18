@@ -1,0 +1,182 @@
+{
+  "repository": "enuminous/Eagle",
+  "default_branch": "main",
+  "tree_sha": "518a2770bf943cad36be7dec7b878cb29f5a7e70",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "alert_schema.json",
+      "blob_sha": "ddc108f10c87b71190e257e7fb15002ac7487863",
+      "size_bytes": 705,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/alert_schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "baselines.py",
+      "blob_sha": "82e2ad60b9f71629a0f46d53c3b1c855d00c9d4b",
+      "size_bytes": 1808,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/baselines.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "e432371663d9abfde50b13351ebffb2312044549",
+      "size_bytes": 278,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "eagle.py",
+      "blob_sha": "0078b31993d2c69069a4cdf3ccc61a2eb452653c",
+      "size_bytes": 2673,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/eagle.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_config.yaml",
+      "blob_sha": "81ab0675b58fda0baf5a3ff8adc57da4f777af2d",
+      "size_bytes": 260,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/example_config.yaml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_data.csv",
+      "blob_sha": "ddce978d5f24f1dfb5213c0a4f654104adaf63c8",
+      "size_bytes": 45125,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/example_data.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "example_run.py",
+      "blob_sha": "4e7efef79afc6520977359f496f5875530f8e636",
+      "size_bytes": 414,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/example_run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "features.py",
+      "blob_sha": "3cab89621aa4405885ce07b8853d6714edd2b2c7",
+      "size_bytes": 2750,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/features.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "freeze.py",
+      "blob_sha": "c0ff9c24bbc4fb265f2e12978184ce7ac4f44bf0",
+      "size_bytes": 433,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/freeze.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LEAN_VERIFICATION.md",
+      "blob_sha": "5224e42f98e5ae271353ae2a32dc4a7ecb97f9d7",
+      "size_bytes": 1844,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/LEAN_VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "79719fc120a524ad10e1a44d1de510cffc80530d",
+      "size_bytes": 1087,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "blob_sha": "9315e56d113717b37830fa37077a616ed766aa17",
+      "size_bytes": 1192,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metrics.py",
+      "blob_sha": "6c98a7429ea2dcf03fd4dcd0981b43a9d2c5cf70",
+      "size_bytes": 2097,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "43e8036e20a361d627ee523611451c9731ca1aec",
+      "size_bytes": 473,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "86caa2f5427befed349d789364b373f87cd83c85",
+      "size_bytes": 4647,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "92960fc2c2068ab631f0a3757dd8e63ce0e1c4f5",
+      "size_bytes": 66,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_eagle.py",
+      "blob_sha": "a77016edf5ec93dce2964553f212c36ab2e8d4a4",
+      "size_bytes": 718,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Eagle/blob/main/test_eagle.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

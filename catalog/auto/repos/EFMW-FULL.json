@@ -1,0 +1,479 @@
+{
+  "repository": "enuminous/EFMW-FULL",
+  "default_branch": "main",
+  "tree_sha": "df1117ebb00d7de5b89cece5af67943a6cfde9c5",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "__init__.py",
+      "blob_sha": "05dd9128f7a9b1cb817cf284752a2c0a6897eafd",
+      "size_bytes": 173,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CITATION.cff",
+      "blob_sha": "4ac9fe54a3a335b840e891709d8c1d46912c2a62",
+      "size_bytes": 387,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/CITATION.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "blob_sha": "21964e07865caed11b59e3c0b14e9d21c0a78959",
+      "size_bytes": 182,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/CODE_OF_CONDUCT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "blob_sha": "2b254fd0db7a70c6714e7295862d8588561d8fd3",
+      "size_bytes": 364,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/CONTRIBUTING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/EFMW_OVERVIEW.md",
+      "blob_sha": "6bc9ac7d2f0a9da5c3338a76f9197b5b56042196",
+      "size_bytes": 549,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/docs/EFMW_OVERVIEW.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/EXP001_INTERPRETATION.md",
+      "blob_sha": "00f55bf83298917bc2576585d1f63d22d5a27620",
+      "size_bytes": 322,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/docs/EXP001_INTERPRETATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/GLOSSARY.md",
+      "blob_sha": "e0c775ff19675b38926ef141d134174f9886b9cc",
+      "size_bytes": 556,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/docs/GLOSSARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/docs/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/TESTING_STANDARD.md",
+      "blob_sha": "b30871124da4c77031e93159fa6c8278aec24d0a",
+      "size_bytes": 411,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/docs/TESTING_STANDARD.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW_OVERVIEW.md",
+      "blob_sha": "6bc9ac7d2f0a9da5c3338a76f9197b5b56042196",
+      "size_bytes": 549,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/EFMW_OVERVIEW.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EXP001_INTERPRETATION.md",
+      "blob_sha": "00f55bf83298917bc2576585d1f63d22d5a27620",
+      "size_bytes": 322,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/EXP001_INTERPRETATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiment-result.schema.json",
+      "blob_sha": "6bfd7f15742fde00133e2ddaa8bc7a53ca2e0292",
+      "size_bytes": 392,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/experiment-result.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/EXP-001/audit/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/experiments/EXP-001/audit/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/EXP-001/audit/TRANSPORT_NOTE.md",
+      "blob_sha": "1da4e8200e29a872e7ddc2e15206be51eea666dd",
+      "size_bytes": 373,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/experiments/EXP-001/audit/TRANSPORT_NOTE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/EXP-001/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/experiments/EXP-001/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/EXP-001/results/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/experiments/EXP-001/results/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/EXP-001/results/result.json",
+      "blob_sha": "aa0f27c08469f931d2813caece64354b6a01673b",
+      "size_bytes": 1179,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/experiments/EXP-001/results/result.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/EXP-001/results/RESULTS.md",
+      "blob_sha": "64becfb6e1ca43cc5e349fcaed0d3123fb29179f",
+      "size_bytes": 479,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/experiments/EXP-001/results/RESULTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/experiments/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "GLOSSARY.md",
+      "blob_sha": "e0c775ff19675b38926ef141d134174f9886b9cc",
+      "size_bytes": 556,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/GLOSSARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "55dbe45f9a9e7a36e26d091ed22b5c3c6a0dffb6",
+      "size_bytes": 348,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "MANIFEST_SHA256.txt",
+      "blob_sha": "ef978e98ac9d5d0b172f26bc2f4235e8ae27bfaf",
+      "size_bytes": 2212,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/MANIFEST_SHA256.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "metrics.py",
+      "blob_sha": "8975eb4c7cc8ceda0d97092451297f002cf5248c",
+      "size_bytes": 315,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "monitors.py",
+      "blob_sha": "cc045ab952bae55b308ff78a66fb449e57f3d077",
+      "size_bytes": 771,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/monitors.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "pyproject.toml",
+      "blob_sha": "67fb709e7e920a7a3455fd7ba0f168234ad75b77",
+      "size_bytes": 407,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/pyproject.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "4914023e10c7b7a2f90e3168199c6f170dbd0aa7",
+      "size_bytes": 4899,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "result.json",
+      "blob_sha": "aa0f27c08469f931d2813caece64354b6a01673b",
+      "size_bytes": 1179,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/result.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RESULTS.md",
+      "blob_sha": "5b65ed2adde18634e0a1fbd675e2478b5188bbde",
+      "size_bytes": 1639,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/RESULTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ROADMAP.md",
+      "blob_sha": "8a2011cd555747a7c3d6e7f02efde44826230789",
+      "size_bytes": 554,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/ROADMAP.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "schemas/experiment-result.schema.json",
+      "blob_sha": "6bfd7f15742fde00133e2ddaa8bc7a53ca2e0292",
+      "size_bytes": 392,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/schemas/experiment-result.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "schemas/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/schemas/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SCIENTIFIC_INTEGRITY.md",
+      "blob_sha": "b5752ff8ed5392c51d1ffe14e8ccbe1295a7166d",
+      "size_bytes": 501,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/SCIENTIFIC_INTEGRITY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "simulator.py",
+      "blob_sha": "f6d5582642ebcc11cbd55fd41473aad9e68b0b4b",
+      "size_bytes": 717,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/simulator.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/EFMW/__init__.py",
+      "blob_sha": "05dd9128f7a9b1cb817cf284752a2c0a6897eafd",
+      "size_bytes": 173,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/src/EFMW/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/EFMW/metrics.py",
+      "blob_sha": "8975eb4c7cc8ceda0d97092451297f002cf5248c",
+      "size_bytes": 315,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/src/EFMW/metrics.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/EFMW/monitors.py",
+      "blob_sha": "cc045ab952bae55b308ff78a66fb449e57f3d077",
+      "size_bytes": 771,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/src/EFMW/monitors.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/EFMW/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/src/EFMW/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/EFMW/simulator.py",
+      "blob_sha": "f6d5582642ebcc11cbd55fd41473aad9e68b0b4b",
+      "size_bytes": 717,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/src/EFMW/simulator.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "src/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/src/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "STATUS.md",
+      "blob_sha": "aac0885911a6b67d70f0f36ba480abe3c6682f2e",
+      "size_bytes": 1790,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/STATUS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_core.py",
+      "blob_sha": "a24fdb01769b99f4632e3677358feedbca44a555",
+      "size_bytes": 680,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/test_core.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TESTING_STANDARD.md",
+      "blob_sha": "b30871124da4c77031e93159fa6c8278aec24d0a",
+      "size_bytes": 411,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/TESTING_STANDARD.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/tests/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_core.py",
+      "blob_sha": "a24fdb01769b99f4632e3677358feedbca44a555",
+      "size_bytes": 680,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/tests/test_core.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "theory/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/theory/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TRANSPORT_NOTE.md",
+      "blob_sha": "1da4e8200e29a872e7ddc2e15206be51eea666dd",
+      "size_bytes": 373,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/EFMW-FULL/blob/main/TRANSPORT_NOTE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

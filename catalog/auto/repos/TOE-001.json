@@ -1,0 +1,393 @@
+{
+  "repository": "enuminous/TOE-001",
+  "default_branch": "main",
+  "tree_sha": "0bf3bcd27a53ef2fa1e2878dff165109f6f3c66b",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/verify-me007.yml",
+      "blob_sha": "93f5147aa55cc1d2aff89970181ad4de70a2473f",
+      "size_bytes": 6017,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/.github/workflows/verify-me007.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "F01_ME007_INFORMATION_IDENTIFICATION.md",
+      "blob_sha": "b660f7423973fa062d55202457353b70461abba7",
+      "size_bytes": 15695,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/F01_ME007_INFORMATION_IDENTIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "F02_COVARIANT_INFORMATION_ACTION.md",
+      "blob_sha": "2a8bc23fe411fbd08989fe8013cd397433ad66f5",
+      "size_bytes": 16739,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/F02_COVARIANT_INFORMATION_ACTION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "F03_TWO_OSCILLATOR_MEASUREMENT_PROTOCOL.md",
+      "blob_sha": "95ba83a7de74c0df661626281500fca3616f6443",
+      "size_bytes": 12755,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/F03_TWO_OSCILLATOR_MEASUREMENT_PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "a3641121062f62d9e931e27e29d3ff0e7a5cc462",
+      "size_bytes": 41879,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ME007_INTEGRATION.md",
+      "blob_sha": "f09c2f8213b10f11ecc75b87dffd25281adc3866",
+      "size_bytes": 12664,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/ME007_INTEGRATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PAPER.md",
+      "blob_sha": "972c2bdc8ac0ad764db4292b2d54197fa52f74f3",
+      "size_bytes": 17234,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/PAPER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "2f5b3438757df55b8d2fa71910a92bbd13aa4e79",
+      "size_bytes": 12513,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "fa5be816574c7cd19fe0544c53f0f1fcf39e6e81",
+      "size_bytes": 44,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/f03_oscillator_reference.json",
+      "blob_sha": "48a46d43531280b30c0991e9b02b76cd147d5a67",
+      "size_bytes": 1953,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/results/f03_oscillator_reference.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/me007_covariant_reference.json",
+      "blob_sha": "cf82c8fd5bb5b00c92bd9b3b01edbcb0273d0f2b",
+      "size_bytes": 2590,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/results/me007_covariant_reference.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/me007_covariant_symbolic.json",
+      "blob_sha": "41e9ea3851f9c86f3c13ee494656f52344ac1bb9",
+      "size_bytes": 1173,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/results/me007_covariant_symbolic.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/me007_flrw_reference.json",
+      "blob_sha": "e2ea41508a37b3e75135ab0c927b6a42e8c9b13e",
+      "size_bytes": 7741,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/results/me007_flrw_reference.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/me007_identity_reference.json",
+      "blob_sha": "e7a213fd58b7687746884b92ffd6923c5b562f69",
+      "size_bytes": 2807,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/results/me007_identity_reference.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/me007_symbolic_checks.json",
+      "blob_sha": "e5df4030a922bb374c16e01ce8906b46fa6aa5af",
+      "size_bytes": 1105,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/results/me007_symbolic_checks.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/results/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/reference.json",
+      "blob_sha": "64fc4de5aab06459bd062e52b58f823df52fefed",
+      "size_bytes": 1787,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/results/reference.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "run.py",
+      "blob_sha": "4402bea0b84392fb8b2efb0bf8abbf11eda45566",
+      "size_bytes": 2558,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/check_me007_covariant_symbolic.py",
+      "blob_sha": "c4464784fc5655fb2c9b547ff40b30a09e724f88",
+      "size_bytes": 2956,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/scripts/check_me007_covariant_symbolic.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/check_me007_symbolic.py",
+      "blob_sha": "4a339d287c568d2125cdf3a30dfae3fe1e3286ca",
+      "size_bytes": 2480,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/scripts/check_me007_symbolic.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/f03_calibration_template.json",
+      "blob_sha": "6312ef16ee14dde8df0ae49c4dbf9197859f73c3",
+      "size_bytes": 123,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/scripts/f03_calibration_template.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/run_f03_oscillators.py",
+      "blob_sha": "fe4518c91a81f091b41a3b35d3b14d911583c949",
+      "size_bytes": 3400,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/scripts/run_f03_oscillators.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/run_me007_covariant.py",
+      "blob_sha": "14d2170970f2e012a1ab4d094ae7a70cca85e5ac",
+      "size_bytes": 628,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/scripts/run_me007_covariant.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/run_me007_identity.py",
+      "blob_sha": "b59ea26f075f311157b7896a78fd8c8a0c47e1c8",
+      "size_bytes": 1617,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/scripts/run_me007_identity.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/tests/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_me007.py",
+      "blob_sha": "074e3017bdc77b0e6e41e0da9e0da50f884cee02",
+      "size_bytes": 4472,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/tests/test_me007.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_me007_covariant.py",
+      "blob_sha": "54d2aa2e3b94dc35b25a7e76a74d10de3db76ec7",
+      "size_bytes": 3599,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/tests/test_me007_covariant.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_me007_experiment.py",
+      "blob_sha": "cf5ba3f957ae406640ca8f15c0fa073fd7fbd208",
+      "size_bytes": 4710,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/tests/test_me007_experiment.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_me007_identity.py",
+      "blob_sha": "aee4d8235cb62b2f711f8d0e3f17a7b44900662d",
+      "size_bytes": 4395,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/tests/test_me007_identity.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_me007_reference.py",
+      "blob_sha": "b8e49d92be07614a41603856eb8ee27263322821",
+      "size_bytes": 1888,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/tests/test_me007_reference.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_model.py",
+      "blob_sha": "0e7fd3da224208ae63d214b89ca19207e6d16a0e",
+      "size_bytes": 3601,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/tests/test_model.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "toe001/__init__.py",
+      "blob_sha": "43af3a13c9d1fd835da724ce5549179062c63390",
+      "size_bytes": 115,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/toe001/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "toe001/me007.py",
+      "blob_sha": "8516202f60d2b49b6b978d1ac941523d4d338873",
+      "size_bytes": 7174,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/toe001/me007.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "toe001/me007_covariant.py",
+      "blob_sha": "8fd91451070230a23d3b525ef39db40073912bee",
+      "size_bytes": 7137,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/toe001/me007_covariant.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "toe001/me007_experiment.py",
+      "blob_sha": "9f46377e7a4366b3be3ece324931d901a1e301c3",
+      "size_bytes": 7373,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/toe001/me007_experiment.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "toe001/me007_identity.py",
+      "blob_sha": "aa59068b5b756218d72c51482c65b1e6fa26bcc4",
+      "size_bytes": 5871,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/toe001/me007_identity.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "toe001/model.py",
+      "blob_sha": "710d4b3569150e5e2f813d97b701f6a6ce682a79",
+      "size_bytes": 4391,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/toe001/model.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "toe001/readme.md",
+      "blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size_bytes": 1,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/TOE-001/blob/main/toe001/readme.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

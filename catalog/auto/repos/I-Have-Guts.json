@@ -1,0 +1,174 @@
+{
+  "repository": "enuminous/I-Have-Guts",
+  "default_branch": "main",
+  "tree_sha": "158c50be57e21ac43d375df72055b306f428f4a4",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/lean.yml",
+      "blob_sha": "6e34f2e9b980e792db0dcb373e5ce5d187514774",
+      "size_bytes": 1440,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/I-Have-Guts/blob/main/.github/workflows/lean.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "dc3bbe7bf9c34a7eb996fe65b3a35f4473626ef6",
+      "size_bytes": 33,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/I-Have-Guts/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "AUDIT.md",
+      "blob_sha": "aa89823a770dbe60842186b2a42972824ffaca9c",
+      "size_bytes": 983,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/I-Have-Guts/blob/main/AUDIT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/Audit.lean",
+      "blob_sha": "ae573fc05ae0954f8ed0b56116803d4656ff953a",
+      "size_bytes": 1206,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/I-Have-Guts/blob/main/formal/Audit.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/COVERAGE.md",
+      "blob_sha": "51f6677a690f1b3a4c80b43a95091d6310315931",
+      "size_bytes": 1849,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/I-Have-Guts/blob/main/formal/COVERAGE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lake-manifest.json",
+      "blob_sha": "4cd44fb1e329acf65108b7b61f6a69f3f36fce87",
+      "size_bytes": 3486,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/I-Have-Guts/blob/main/formal/lake-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lakefile.toml",
+      "blob_sha": "f977afb219120b30c84ef902107ec6621f2e82b0",
+      "size_bytes": 241,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/I-Have-Guts/blob/main/formal/lakefile.toml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/lean-toolchain",
+      "blob_sha": "4c685fa085fa1c66103533e992fc82c014a12142",
+      "size_bytes": 25,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/I-Have-Guts/blob/main/formal/lean-toolchain",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/Radiation.lean",
+      "blob_sha": "7d42e9d201c3bb195214a308ddad08d6b1aa0644",
+      "size_bytes": 2600,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/I-Have-Guts/blob/main/formal/Radiation.lean",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/scripts/test_axiom_audit.py",
+      "blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+      "size_bytes": 1365,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/I-Have-Guts/blob/main/formal/scripts/test_axiom_audit.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "formal/VERIFICATION.md",
+      "blob_sha": "54d57fa977ba3253ba419a91d3e0bb1a8e9dd58f",
+      "size_bytes": 885,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/I-Have-Guts/blob/main/formal/VERIFICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "8bcd2c800bda30204f22c3a4f652f1ea75f9b5af",
+      "size_bytes": 8296,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/I-Have-Guts/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PAPER.md",
+      "blob_sha": "6540533c6c6c307654d51571cb26d04477404713",
+      "size_bytes": 4301,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/I-Have-Guts/blob/main/PAPER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "f35b49118370ed5909ad343db604f3402fffa1c3",
+      "size_bytes": 2630,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/I-Have-Guts/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "simulation.py",
+      "blob_sha": "0c0234ac2ab0b88e6ec0c81898a774b19b1a5bde",
+      "size_bytes": 1219,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/I-Have-Guts/blob/main/simulation.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test_simulation.py",
+      "blob_sha": "0066a97191a8dcf213b60eba24136a1b3a8bc243",
+      "size_bytes": 453,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/I-Have-Guts/blob/main/test_simulation.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

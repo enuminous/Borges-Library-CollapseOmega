@@ -1,0 +1,120 @@
+{
+  "repository": "enuminous/GPU-Hour-Survey",
+  "default_branch": "main",
+  "tree_sha": "e67e21ee78f7327b67323d3aa10f69e71e8fd6b8",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/ci.yml",
+      "blob_sha": "672acba7e5f548b3017a71a7bff7ff9d26792d58",
+      "size_bytes": 560,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GPU-Hour-Survey/blob/main/.github/workflows/ci.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".nojekyll",
+      "blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size_bytes": 0,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GPU-Hour-Survey/blob/main/.nojekyll",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "data/prices.json",
+      "blob_sha": "dae6c7fed06ca9a450769b01129861a717ae1a04",
+      "size_bytes": 18815,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GPU-Hour-Survey/blob/main/data/prices.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "e6725d61bae4966330cb409e058957de336e60d9",
+      "size_bytes": 37644,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GPU-Hour-Survey/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "2988eee3fa181479839c2e0b255581e0407e94f1",
+      "size_bytes": 1085,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/GPU-Hour-Survey/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "METHODOLOGY.md",
+      "blob_sha": "bf22e266e346277dfee93202c03e946b499105ca",
+      "size_bytes": 5043,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GPU-Hour-Survey/blob/main/METHODOLOGY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "210c60d01db8b375f163b9a94b843470e2423f57",
+      "size_bytes": 4275,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GPU-Hour-Survey/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/build_site.py",
+      "blob_sha": "67ca56c1579825d0229457207fd00bb6b288fdaa",
+      "size_bytes": 670,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/GPU-Hour-Survey/blob/main/scripts/build_site.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/seed_data.py",
+      "blob_sha": "66bd624ddf321e9427693b013669412b1e08edbf",
+      "size_bytes": 971,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/GPU-Hour-Survey/blob/main/scripts/seed_data.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "template.html",
+      "blob_sha": "f7060b68d0488afa735e7a2c1a2ba81754e4e3a9",
+      "size_bytes": 23070,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/GPU-Hour-Survey/blob/main/template.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_prices.py",
+      "blob_sha": "32b9f88ee31b229b5e02ace0b2d4ce2af6d5ade7",
+      "size_bytes": 3243,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/GPU-Hour-Survey/blob/main/tests/test_prices.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+name: Sophia — catalogue all public enuminous repositories
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '27 16 * * *'
+  push:
+    paths:
+      - 'scripts/sophia_catalog.py'
+      - 'tests/test_sophia_catalog.py'
+      - '.github/workflows/sophia-catalog.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sophia-public-catalogue
+  cancel-in-progress: false
+
+jobs:
+  catalogue:
+    name: Sophia public accession & metadata verification
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test inventory classification and evidence boundaries
+        run: python -m unittest discover -s tests -p 'test_sophia_catalog.py' -v
+      - name: Index public enuminous repositories and every accessible default-branch file
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/sophia_catalog.py --owner enuminous --dest catalog/auto
+      - name: Publish the resulting catalogue snapshot
+        if: success()
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "Sophia Catalogue Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A catalog/auto
+          if git diff --cached --quiet; then
+            echo "Catalogue unchanged"
+          else
+            git commit -m "catalog(sophia): refresh all public papers, results and documents"
+            git push
+          fi

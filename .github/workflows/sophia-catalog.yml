@@ -15,7 +15,7 @@ permissions:
 
 concurrency:
   group: sophia-public-catalogue
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   catalogue:
@@ -47,5 +47,6 @@ jobs:
             echo "Catalogue unchanged"
           else
             git commit -m "catalog(sophia): refresh all public papers, results and documents"
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi

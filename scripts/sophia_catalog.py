@@ -159,7 +159,7 @@ def write(path,value):
 
 
 def scan(owner,repo,token,outdir):
-    blobs,sha,fallback=tree(owner,repo,token)
+    blobs,sha,tree_status=tree(owner,repo,token)
     files=sorted((record(owner,repo,f) for f in blobs if
                   f.get("type")=="blob" and include(f["path"])),
                  key=lambda f:f["path"].casefold())
@@ -170,7 +170,7 @@ def scan(owner,repo,token,outdir):
              "default_branch":repo["default_branch"],
              "tree_sha":sha,
              "visibility":"public",
-             "status":"COMPLETE_SUBTREE_FALLBACK" if fallback else "COMPLETE",
+             "status":tree_status,
              "content_review":"NONE",
              "files":files}
     write(outdir/"repos"/(repo["name"]+".json"),details)
@@ -187,7 +187,7 @@ def md_link(label,url):
 
 def publish(owner,dest,token):
     generated_at=dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
-    repos=discover(owner,token)
+    repos=sorted(discover(owner,token),key=lambda r:(r["name"].lower()!="papers",r["name"].casefold()))
     if not repos:
         raise RuntimeError("Zero public repos returned; preserving old catalogue")
     old={}
@@ -200,7 +200,10 @@ def publish(owner,dest,token):
     for i,repo in enumerate(repos,1):
         name=repo["name"]; expected.add(name+".json")
         try:
-            rows.append(scan(owner,repo,token,dest))
+            row=scan(owner,repo,token,dest)
+            rows.append(row)
+            if row["status"]=="PARTIAL_TRUNCATED":
+                errors.append({"repository":row["repository"],"error":"GitHub tree truncated; partial source-tree file inventory"})
         except Exception as exc:
             msg=str(exc)[:500]
             errors.append({"repository":repo["full_name"],"error":msg})
@@ -236,7 +239,7 @@ def publish(owner,dest,token):
       "repositories_found":len(repos),
       "complete_repositories":sum(r["status"].startswith("COMPLETE") for r in rows),
       "stale_repositories":sum(r["status"]=="STALE_PREVIOUS_SNAPSHOT" for r in rows),
-      "incomplete_repositories":sum(r["status"]=="INCOMPLETE" for r in rows),
+      "incomplete_repositories":sum(r["status"] in ("INCOMPLETE","PARTIAL_TRUNCATED") for r in rows),
       "coverage_complete":not bool(errors),
       "totals":totals,"errors":errors,"repositories":rows
     }
@@ -298,7 +301,9 @@ def publish(owner,dest,token):
         "results":totals["data_or_result"],"files":totals["files"],
         "papers_documents":(pr or {}).get("counts",{}).get("papers_document",0),
         "errors":len(errors)},sort_keys=True))
-    return 0 if not errors else 2
+    if errors:
+        print("::warning::Sophia catalogue has %d disclosed coverage gaps" % len(errors))
+    return 0  # A published partial snapshot is better than an invisible inventory.
 
 
 def main():

@@ -1,0 +1,342 @@
+{
+  "repository": "enuminous/Autonomy",
+  "default_branch": "main",
+  "tree_sha": "49b3240e83fd745db781529445a2ff58d79aca77",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/validate.yml",
+      "blob_sha": "e1626713679e9ea07e14259fed69f75f1ecb52bf",
+      "size_bytes": 1175,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/.github/workflows/validate.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "4fa1c43dcbb1f74562e75aa5a77587f500077ba6",
+      "size_bytes": 49,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "autonomy/__init__.py",
+      "blob_sha": "2f1da12521dd79851ab9afccfde51d16fa695e5b",
+      "size_bytes": 100,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/autonomy/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "autonomy/__main__.py",
+      "blob_sha": "907f391709c3ced7e2c7e1687e55541abb3341ca",
+      "size_bytes": 2263,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/autonomy/__main__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "autonomy/demo.py",
+      "blob_sha": "beb22e48bde694899c6f2ac74e8da7b84243eb4a",
+      "size_bytes": 3055,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/autonomy/demo.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "autonomy/evidence.py",
+      "blob_sha": "2241b845ca2e2b37f1caa9641d868b5cf1eee9c3",
+      "size_bytes": 9826,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/autonomy/evidence.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "autonomy/policy.py",
+      "blob_sha": "5f6323be3afb9bb28c468556896af130dfbbfab8",
+      "size_bytes": 1948,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/autonomy/policy.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "blob_sha": "63187a443c939fdef6ec4eb6af3853cad8c232bc",
+      "size_bytes": 648,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/CHANGELOG.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "blob_sha": "c28a4afc6baf790854943e19f75128540b09ddbe",
+      "size_bytes": 790,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/CONTRIBUTING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/AUT-001.md",
+      "blob_sha": "f36e671286c940f8c245ed49c125cd16658ec692",
+      "size_bytes": 3603,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/docs/AUT-001.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/EFMW-METHOD.md",
+      "blob_sha": "1b7a884745d0352bbc9df047bc902d9f16d08c7e",
+      "size_bytes": 2973,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/docs/EFMW-METHOD.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/EVIDENCE-CUSTODY.md",
+      "blob_sha": "3b7c3c60d1d919179aa1a97b6a09aca6ce2dce1d",
+      "size_bytes": 3000,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/docs/EVIDENCE-CUSTODY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/FRAMEWORK.md",
+      "blob_sha": "b97b8a07d5694b9e15fb738053efc3dabd3b722f",
+      "size_bytes": 3831,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/docs/FRAMEWORK.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/PILOT.md",
+      "blob_sha": "188e08a761c2e5a813b519f9fef0c67aca68a004",
+      "size_bytes": 2992,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/docs/PILOT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/ROADMAP.md",
+      "blob_sha": "77d082cf3092ef256d6bcc726195205661b1dde0",
+      "size_bytes": 1314,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/docs/ROADMAP.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/SOURCES.md",
+      "blob_sha": "455abada9fbfe34cd12ded06660a9e330ea18869",
+      "size_bytes": 2118,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/docs/SOURCES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/THREAT-MODEL.md",
+      "blob_sha": "ac1e998565ef4cca0f16d29624d6e5cfdc17f035",
+      "size_bytes": 2555,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/docs/THREAT-MODEL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/UDCR-FILTER.md",
+      "blob_sha": "00de735bb07d277dde9ea92b4e6d736268d8fec7",
+      "size_bytes": 3285,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/docs/UDCR-FILTER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/VERDICTS.md",
+      "blob_sha": "7f9aaaa272e8df3646c0e17e2a8e1f22f3884828",
+      "size_bytes": 2309,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/docs/VERDICTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "f34859e59dc42da0aeff23d7c47a91962dc88e34",
+      "size_bytes": 20356,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE-STATUS.md",
+      "blob_sha": "c4675f577b9973c2c64b58be44ec122096a03f69",
+      "size_bytes": 578,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/LICENSE-STATUS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "2e6d124a1d1a7967316f32c4b4e80ddf30e680f6",
+      "size_bytes": 5421,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "2033083a01a7f2750c455bc90dbd8ab3c0770331",
+      "size_bytes": 21,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/check_docs.py",
+      "blob_sha": "0f88e0dd73311fb285a77dac2f947c87890f2d4b",
+      "size_bytes": 712,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/scripts/check_docs.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SECURITY.md",
+      "blob_sha": "20ffe5368c482dc1cb0d9a3d647bbf8afd941e00",
+      "size_bytes": 739,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/SECURITY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "templates/assessment.md",
+      "blob_sha": "5d5c3e4dd7d3ea011a7b36a8fe721b0b57082f05",
+      "size_bytes": 1045,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/templates/assessment.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "templates/challenge.md",
+      "blob_sha": "7dcd68014f3331f30b8f9ff9a674f37531ec95ab",
+      "size_bytes": 729,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/templates/challenge.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "templates/charter.md",
+      "blob_sha": "419c1cbffa24b8f08ffcc50a10e59b30c1fbc941",
+      "size_bytes": 854,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/templates/charter.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "templates/decision.md",
+      "blob_sha": "fdeeba1083b3359cf53d954b4f94bad86f0aa51d",
+      "size_bytes": 698,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/templates/decision.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "templates/README.md",
+      "blob_sha": "80df375558138c7e3cb45e207626c3d85ac8990c",
+      "size_bytes": 639,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/templates/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_browser_model.py",
+      "blob_sha": "16027ea188e2be77b2f3cc9712168202a6f16cdb",
+      "size_bytes": 3006,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/tests/test_browser_model.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_policy.py",
+      "blob_sha": "4df103a1d7f5ba2328873e61c58316e3f756b74f",
+      "size_bytes": 1473,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/tests/test_policy.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_reversal.py",
+      "blob_sha": "a9b44ae0caab932117c0300dbda720fdbb02b6cf",
+      "size_bytes": 7879,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Autonomy/blob/main/tests/test_reversal.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

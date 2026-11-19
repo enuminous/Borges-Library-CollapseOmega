@@ -1,0 +1,1072 @@
+{
+  "repository": "enuminous/alex-mrtb-verify-bundle",
+  "default_branch": "main",
+  "tree_sha": "79ac75b9cd9cd214f61f64f117368bd6838195af",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "blob_sha": "2ef3064161db8ae201bc9ffeee6e0accb82197a2",
+      "size_bytes": 111,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/.gitattributes",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/actions/verify/action.yml",
+      "blob_sha": "48f942d234055b938447ea624c24b05b6ed393eb",
+      "size_bytes": 4042,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/.github/actions/verify/action.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/allowed_signers",
+      "blob_sha": "1ca06a555f2d89ce3aa93f0de27803689df70112",
+      "size_bytes": 102,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/.github/allowed_signers",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/dependabot.yml",
+      "blob_sha": "d914301bdc1b4b7b3d57c43671f97b39069b31b1",
+      "size_bytes": 405,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/.github/dependabot.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/critical-file-cooldown.yml",
+      "blob_sha": "94f2e76d0efa02b26176101291213ddb4de60499",
+      "size_bytes": 4466,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/.github/workflows/critical-file-cooldown.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/release.yml",
+      "blob_sha": "cb906f685bfa1d5a120a1cf00f10acde2f710282",
+      "size_bytes": 10572,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/.github/workflows/release.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".github/workflows/test.yml",
+      "blob_sha": "32fbca99aae0a7f9f03c4d87e19620328645ef97",
+      "size_bytes": 494,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/.github/workflows/test.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "d5e7ff62420ce76ca4c52ede2f83d082f66d71a7",
+      "size_bytes": 39,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "audits/2026-11-19-monolithic-zoo/README.md",
+      "blob_sha": "ab86bc571636d5c750114fd1fa29ceb303fa6110",
+      "size_bytes": 19814,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/audits/2026-11-19-monolithic-zoo/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bundle-acdl_contract_5796bbb5-b3b1-4934-b7d4-20b71db7e435.json",
+      "blob_sha": "bdbaf3c449ed2f7b03ed9a4c7b847c48aea09aa4",
+      "size_bytes": 1423,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/bundle-acdl_contract_5796bbb5-b3b1-4934-b7d4-20b71db7e435.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bundle-dt-1787662064400-sjiw.json",
+      "blob_sha": "6f9dc3c55ff9c0af213528a2ca998ec6ec6a5374",
+      "size_bytes": 2104,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/bundle-dt-1787662064400-sjiw.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bundle-real-run_1787366396912-noevent.json",
+      "blob_sha": "87e58e1648274e5184c2464da102e48045c996d4",
+      "size_bytes": 1010,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/bundle-real-run_1787366396912-noevent.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bundle-real-run_1787366396912-tampered.json",
+      "blob_sha": "09b5d52248a91c58e3252313f1085dbcefe931c6",
+      "size_bytes": 1436,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/bundle-real-run_1787366396912-tampered.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bundle-real-run_1787366396912.json",
+      "blob_sha": "a58b4c575255625a544e3056e5377e6d657218d1",
+      "size_bytes": 1429,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/bundle-real-run_1787366396912.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bundle-write-integrity-alex-mrtb-checkpointb-1787390503107-mathUtils.js-noafter.json",
+      "blob_sha": "262266dc151295c8b044072ba039d77ad31da9ce",
+      "size_bytes": 1222,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/bundle-write-integrity-alex-mrtb-checkpointb-1787390503107-mathUtils.js-noafter.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bundle-write-integrity-alex-mrtb-checkpointb-1787390503107-mathUtils.js-tampered.json",
+      "blob_sha": "1c7587bd5440beef933cd0b9b7e1d45b18226b51",
+      "size_bytes": 1484,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/bundle-write-integrity-alex-mrtb-checkpointb-1787390503107-mathUtils.js-tampered.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "bundle-write-integrity-alex-mrtb-checkpointb-1787390503107-mathUtils.js.json",
+      "blob_sha": "9966050bffdc4f3b45966c6d54b11d4837dace1f",
+      "size_bytes": 1486,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/bundle-write-integrity-alex-mrtb-checkpointb-1787390503107-mathUtils.js.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cline-acp-anthropic-canary-1.json",
+      "blob_sha": "312766e692778e1dd46c79610f70f74753322e9c",
+      "size_bytes": 10079,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/cline-acp-anthropic-canary-1.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cline-acp-canary-13.json",
+      "blob_sha": "762aab29e7cc917ed1d4be5df188645edf3ca571",
+      "size_bytes": 9876,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/cline-acp-canary-13.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cline-acp-openai-canary-1.json",
+      "blob_sha": "b168436666583750d61761ecffbb76c4f4d62f6b",
+      "size_bytes": 10019,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/cline-acp-openai-canary-1.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "enforced-egress-proxy-only-canary-1.json",
+      "blob_sha": "2cf00e7154130c80b335482551c19ebe76903ef7",
+      "size_bytes": 13959,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/enforced-egress-proxy-only-canary-1.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "epistemic-gate-changed.json",
+      "blob_sha": "d844419d2fd925f979f8eff8117cd9ca48ffd2bc",
+      "size_bytes": 13450,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/epistemic-gate-changed.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "epistemic-gate-removed.json",
+      "blob_sha": "5e60c3465c67bfabaa57ad174397c852aff2d227",
+      "size_bytes": 12604,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/epistemic-gate-removed.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "epistemic-gate-replayed.json",
+      "blob_sha": "2473a64720d098c5aca1843e36f8397d3e479202",
+      "size_bytes": 11057,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/epistemic-gate-replayed.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence-package-2-0-contract-snapshot-tampered.json",
+      "blob_sha": "af6c2cd785eea941cc9d449c0fe80a5c84958271",
+      "size_bytes": 3174,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/evidence-package-2-0-contract-snapshot-tampered.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence-package-2-1-customer-summary-tampered.json",
+      "blob_sha": "d61cee528df844e327d76d344bb3339643a0b87e",
+      "size_bytes": 3830,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/evidence-package-2-1-customer-summary-tampered.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence-package-2-3-canary-downgrade-2-2.json",
+      "blob_sha": "5161a7cb0eaaae0196ee899f83472b57d5860cac",
+      "size_bytes": 3526,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/evidence-package-2-3-canary-downgrade-2-2.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence-package-2-3-canary-gate-missing.json",
+      "blob_sha": "e4ddefe68ee0b09e13c72e9073a559d0b1251516",
+      "size_bytes": 3454,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/evidence-package-2-3-canary-gate-missing.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence-package-2-3-canary-gate-replayed.json",
+      "blob_sha": "dc5bcf584c9373d0798e98563de988590b92b37a",
+      "size_bytes": 4182,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/evidence-package-2-3-canary-gate-replayed.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence-package-2-3-canary-gate-tampered.json",
+      "blob_sha": "6d43cc24f847bc1f9735ecd98ea99ecd51af50fb",
+      "size_bytes": 4183,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/evidence-package-2-3-canary-gate-tampered.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence-package-2-3-example-policy-requires-gate.json",
+      "blob_sha": "940798e563e660183bd5b3cbc09fc9137f946673",
+      "size_bytes": 137,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/evidence-package-2-3-example-policy-requires-gate.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/pr-19-deepseek.json",
+      "blob_sha": "08f04a489a1ca520d959761b299525087abc0dfe",
+      "size_bytes": 11776,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/evidence/pr-19-deepseek.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/pr-20-hermes.json",
+      "blob_sha": "e36a9e300d6b033f2f978db3974f56557c630700",
+      "size_bytes": 12023,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/evidence/pr-20-hermes.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/pr-21-cline.json",
+      "blob_sha": "5265fdb4a507bde609f6eeb174f0e1226bfaea2a",
+      "size_bytes": 12020,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/evidence/pr-21-cline.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/pr-31-deepseek.json",
+      "blob_sha": "afbe9293f7ff230c9597d33a8b187a901cdb0481",
+      "size_bytes": 14187,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/evidence/pr-31-deepseek.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "evidence/README.md",
+      "blob_sha": "527974154773e6484c120025c45dc6a80553c566",
+      "size_bytes": 2287,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/evidence/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "fixtures/webauthn-approval-assertion.json",
+      "blob_sha": "caca085476eb51056565a1f52dc23f3eb11b4693",
+      "size_bytes": 1563,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/fixtures/webauthn-approval-assertion.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "forged-resigned-bundle.json",
+      "blob_sha": "9565ddf8b39afb2ce25ed01525f7d6747981f79e",
+      "size_bytes": 1368,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/forged-resigned-bundle.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "independence/demo-pr-38.json",
+      "blob_sha": "319e6c51d55a5031d8f8aaaa61ad6f22b07e470f",
+      "size_bytes": 38073,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/independence/demo-pr-38.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "independence/README.md",
+      "blob_sha": "3a82ea1b61d53c8a5e1f85968768bf4870ebbcc3",
+      "size_bytes": 3460,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/independence/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "independence/SHA256SUMS",
+      "blob_sha": "98a77bd088c274849a335b5ff3b6fa4a7b5cfb85",
+      "size_bytes": 929,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/independence/SHA256SUMS",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "independence/spec/canonicalization-v1.gold.json",
+      "blob_sha": "cbdb035dee74eee039231c3941a5b1ad3b4c456d",
+      "size_bytes": 718,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/independence/spec/canonicalization-v1.gold.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "independence/spec/devtask.execution@1.0.md",
+      "blob_sha": "d4817a71bad9777d49b0c1f1b89e4569ba49f3c3",
+      "size_bytes": 3005,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/independence/spec/devtask.execution%401.0.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "independence/spec/devtask.execution@1.0.schema.json",
+      "blob_sha": "112512e14f617621082b57ce67e6b04219ae15da",
+      "size_bytes": 2247,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/independence/spec/devtask.execution%401.0.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "independence/spec/INVARIANTS.md",
+      "blob_sha": "b4cdc7d99948015a78339bda728b47fbcad424cc",
+      "size_bytes": 2325,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/independence/spec/INVARIANTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "independence/TEST-A-OFFLINE.md",
+      "blob_sha": "52e43ccbcc4d9d98ff0abdac759abe90a91afbed",
+      "size_bytes": 721,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/independence/TEST-A-OFFLINE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "independence/TEST-B-FOREIGN-ENVIRONMENT.md",
+      "blob_sha": "76011017fe0ee716b18b96c1f1d8bef566c4d567",
+      "size_bytes": 809,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/independence/TEST-B-FOREIGN-ENVIRONMENT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "independence/TEST-C-NO-ALEX-RUNTIME.md",
+      "blob_sha": "ec02535079cabd7f7edc6d0c1ede0ec6afc4f379",
+      "size_bytes": 1332,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/independence/TEST-C-NO-ALEX-RUNTIME.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "independence/trust-anchor-20260906.json",
+      "blob_sha": "9896f37175eed8bce53e4d7f27658e6d6b859a1b",
+      "size_bytes": 3639,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/independence/trust-anchor-20260906.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "independence/trusted-approval.pem",
+      "blob_sha": "a0d1fefcae3ba61768c06a935ac9541267206881",
+      "size_bytes": 113,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/independence/trusted-approval.pem",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "independence/trusted-evidence.pem",
+      "blob_sha": "aad1482b2d951b35930e3fbefdcd5d4d9098b91f",
+      "size_bytes": 113,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/independence/trusted-evidence.pem",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "independence/verify.py",
+      "blob_sha": "dda00c32d154ef0838ef50da98b1386796e033bb",
+      "size_bytes": 20050,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/independence/verify.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "invalid-tampered-bundle.json",
+      "blob_sha": "a2a4b1a60832a4cb1f2e9762a277615183695ca4",
+      "size_bytes": 1345,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/invalid-tampered-bundle.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "9100ca465f882e53644476fdaed96a225c618031",
+      "size_bytes": 10326,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/LICENSE",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "network-egress-deny-canary-14.json",
+      "blob_sha": "99327373e6d10825532b930207efbbecdacd6a4f",
+      "size_bytes": 12175,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/network-egress-deny-canary-14.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "package-lock.json",
+      "blob_sha": "133a9bea7e7b038ccca45d9723db6a50e00a71b0",
+      "size_bytes": 23492,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/package-lock.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "package.json",
+      "blob_sha": "d7d038c972abf3a205cec88a36b1fcc6ef017f37",
+      "size_bytes": 1477,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/package.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "php-exposure-collector/ANLEITUNG.md",
+      "blob_sha": "8a7fc1214dcd223396f337dc2ef8b649ef0e17a7",
+      "size_bytes": 3918,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/php-exposure-collector/ANLEITUNG.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "php-exposure-collector/collect.mjs",
+      "blob_sha": "9d9a1ea7fb6b6352a2f56a9f46edbc6a85764d53",
+      "size_bytes": 5798,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/php-exposure-collector/collect.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "prove-pr-20.sh",
+      "blob_sha": "3bd6655436d012b678c1f39c5470c3b21e510515",
+      "size_bytes": 2855,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/prove-pr-20.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "prove-pr-31.sh",
+      "blob_sha": "1ef43c2c721465875be206ba37a3e96318d8268c",
+      "size_bytes": 3403,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/prove-pr-31.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "prove-pr-33.sh",
+      "blob_sha": "f95ad7d62993d65c330572b6a5b40d16f6c88540",
+      "size_bytes": 4551,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/prove-pr-33.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "prove-pr-36.sh",
+      "blob_sha": "85b40781cbec3e08fa0cda26ef2e275ca3f44496",
+      "size_bytes": 4551,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/prove-pr-36.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "prove-pr-37.sh",
+      "blob_sha": "36ba8609379453677a113e1f32943575970b9b53",
+      "size_bytes": 5063,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/prove-pr-37.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "prove-pr-38.sh",
+      "blob_sha": "29eaa18e963d14c1ac6e1fd77d23f79296039b5d",
+      "size_bytes": 5063,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/prove-pr-38.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "c4e506d5534b48c7fad65d316ece42baf9f92d40",
+      "size_bytes": 67604,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "rights-gate-check.sh",
+      "blob_sha": "9a0ff946f03ba068e0449c92c57d606156fecc99",
+      "size_bytes": 2725,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/rights-gate-check.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sample-bundle.json",
+      "blob_sha": "50d041bfaf32a5e9e13912427b0ce763ffd7e1fa",
+      "size_bytes": 1342,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/sample-bundle.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "sample-rights-gate-plan.json",
+      "blob_sha": "c0b4e24345a44836c11d2d232fb075dd13294cfa",
+      "size_bytes": 295,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/sample-rights-gate-plan.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/build-sea.mjs",
+      "blob_sha": "b758e52a641d4906427339e8d4609981688f67f8",
+      "size_bytes": 5110,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/scripts/build-sea.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "spec/canonicalization-v1.gold.json",
+      "blob_sha": "cbdb035dee74eee039231c3941a5b1ad3b4c456d",
+      "size_bytes": 718,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/spec/canonicalization-v1.gold.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "spec/devtask.execution@1.0.md",
+      "blob_sha": "d4817a71bad9777d49b0c1f1b89e4569ba49f3c3",
+      "size_bytes": 3005,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/spec/devtask.execution%401.0.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "spec/devtask.execution@1.0.schema.json",
+      "blob_sha": "3d602498e751e2d58c77818a61df3353c2cafaf6",
+      "size_bytes": 2447,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/spec/devtask.execution%401.0.schema.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "spec/INVARIANTS.md",
+      "blob_sha": "b4cdc7d99948015a78339bda728b47fbcad424cc",
+      "size_bytes": 2325,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/spec/INVARIANTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "spec/webauthn-approval-assertion@1.0.md",
+      "blob_sha": "6ec05d0306c34e91470b6d111e9789dc717fd0e0",
+      "size_bytes": 6901,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/spec/webauthn-approval-assertion%401.0.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/claim-decomposition.test.mjs",
+      "blob_sha": "dcddf8c63cbc637b0513b544ebc64c8fa130b671",
+      "size_bytes": 10302,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/claim-decomposition.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/epistemic-gate.test.mjs",
+      "blob_sha": "4f192554eee0f0648bec791215ed49c534513f24",
+      "size_bytes": 3737,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/epistemic-gate.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/evidence-bundle-envelope.test.mjs",
+      "blob_sha": "bdaa8b093c7691566ee4003c3f8466a9c7535b47",
+      "size_bytes": 4706,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/evidence-bundle-envelope.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/governance-foundation.test.mjs",
+      "blob_sha": "1094a6da7084e97d0fcd8b8aa0ed5f9655952ced",
+      "size_bytes": 17899,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/governance-foundation.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/mirror-sync-approval-type-and-surrogate-pair.test.mjs",
+      "blob_sha": "986e5e8fb35a9a97deeefd18ef853baa71e3a106",
+      "size_bytes": 7949,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/mirror-sync-approval-type-and-surrogate-pair.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/observer-receipt.test.mjs",
+      "blob_sha": "2a44e06c470751293c681b68c493d36ad16eacab",
+      "size_bytes": 6564,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/observer-receipt.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/python-canonical.test.mjs",
+      "blob_sha": "dc08b6a2fd9e91f1b8db6c2adcc91995ba06a228",
+      "size_bytes": 2952,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/python-canonical.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/python-devtask-derive.test.mjs",
+      "blob_sha": "f29fd75cc035962b1319d4cc83516188f13bb348",
+      "size_bytes": 10924,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/python-devtask-derive.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/python-helpers.test.mjs",
+      "blob_sha": "119626a6481c968c5d82a89d0911c393f34043c3",
+      "size_bytes": 11440,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/python-helpers.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/python-memory-capabilities-and-legacy-path.test.mjs",
+      "blob_sha": "83e281282c428611c79010f313193859fa93dd1e",
+      "size_bytes": 13807,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/python-memory-capabilities-and-legacy-path.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/python-parity-gaps.test.mjs",
+      "blob_sha": "fe602585b45e7e6cb0b31d2953553bf4b8e01c98",
+      "size_bytes": 7744,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/python-parity-gaps.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/python-passport-card.test.mjs",
+      "blob_sha": "5147b72c4da4168d4d7025c12e002b5c2883cde6",
+      "size_bytes": 5584,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/python-passport-card.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/python-rfc3161.test.mjs",
+      "blob_sha": "05f91b22261fd6820822317b23b6c8d6851e4615",
+      "size_bytes": 2993,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/python-rfc3161.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/python-verdict.test.mjs",
+      "blob_sha": "197e12c00b9ceb5dc676fbd85a289af52311d43c",
+      "size_bytes": 6249,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/python-verdict.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/README.md",
+      "blob_sha": "d8ac749fef7e28574cae56b0907c4e3dcc0f29b6",
+      "size_bytes": 364,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/rekor-stapling.test.mjs",
+      "blob_sha": "a814b7bd5b9021791b56f7ecf0063b73e540c789",
+      "size_bytes": 17400,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/rekor-stapling.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/rfc3161-token-binding.test.mjs",
+      "blob_sha": "cd0760e16e796897098611b6a696c9d6f073e540",
+      "size_bytes": 4650,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/rfc3161-token-binding.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/trust-anchor-consensus.test.mjs",
+      "blob_sha": "2f7b100626377db46b79166eab611667b6547689",
+      "size_bytes": 3044,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/trust-anchor-consensus.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/trust-anchor-legacy-path-bypass.test.mjs",
+      "blob_sha": "42fa5b126d36d6e12cf90ff9d1f8007860349322",
+      "size_bytes": 3937,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/trust-anchor-legacy-path-bypass.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/unknown-capability-and-observer-ssrf.test.mjs",
+      "blob_sha": "c8092019c89b3ef43dc26b99ff06af5a7200e104",
+      "size_bytes": 4723,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/unknown-capability-and-observer-ssrf.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/verifier-binding-manifest-rfc3161-adversarial.test.mjs",
+      "blob_sha": "b8a267628b1d256dacaa850b78ea27c2a6d9c6fb",
+      "size_bytes": 10272,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/verifier-binding-manifest-rfc3161-adversarial.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/verifier-binding-manifest-rfc3161-trust-boundary.test.mjs",
+      "blob_sha": "3b280776276ad3d0a33f8fd8407c82fa535a1d00",
+      "size_bytes": 12243,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/verifier-binding-manifest-rfc3161-trust-boundary.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/verifier-binding-manifest.test.mjs",
+      "blob_sha": "2d522b77f3b2e29caf13cedecdc1baa6d60020b7",
+      "size_bytes": 9562,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/verifier-binding-manifest.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/verify.test.mjs",
+      "blob_sha": "f0f856f11176bbef4a80263676262a2487de8150",
+      "size_bytes": 25572,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/verify.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "test/webauthn-approval-assertion.test.mjs",
+      "blob_sha": "1ba9639534c65bfecfe90ad848f9ff97a73a5272",
+      "size_bytes": 3343,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/test/webauthn-approval-assertion.test.mjs",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "trust-anchor.json",
+      "blob_sha": "75dbd16e54df66ae4458c87fe680c8d996ddd8af",
+      "size_bytes": 7510,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/trust-anchor.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TRUST-BOUNDARY.md",
+      "blob_sha": "8f2e89fb3b834ed7329787014609adc0a8da77a8",
+      "size_bytes": 9462,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/TRUST-BOUNDARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tsconfig.json",
+      "blob_sha": "fd89d993388b92643c5c38c4372c1b161fde6a14",
+      "size_bytes": 255,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/tsconfig.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify-release.sh",
+      "blob_sha": "a1829b8ef954ed5266b985adcda2eb0c92f948f5",
+      "size_bytes": 3175,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/verify-release.sh",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify.py",
+      "blob_sha": "4d171d659b7410dc0d9afe477b2c1c360fdece5b",
+      "size_bytes": 105008,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/verify.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify.ts",
+      "blob_sha": "f8edcc2c1268332073acc9c25d45171d0d33a246",
+      "size_bytes": 237779,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/alex-mrtb-verify-bundle/blob/main/verify.ts",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

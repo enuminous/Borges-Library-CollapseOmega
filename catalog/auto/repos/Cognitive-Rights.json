@@ -1,0 +1,321 @@
+{
+  "repository": "enuminous/Cognitive-Rights",
+  "default_branch": "main",
+  "tree_sha": "142ba6a0dd586decd261ad998e2e6c5397393a83",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": ".github/workflows/verify.yml",
+      "blob_sha": "5ec69b7e60a4dae77f0734a7e4873d438c3f0105",
+      "size_bytes": 1326,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/.github/workflows/verify.yml",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": ".gitignore",
+      "blob_sha": "b55d79f2945df61deadafd0b0fc728c3ceaf612e",
+      "size_bytes": 37,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cases/BOARDY-PROPOSED.md",
+      "blob_sha": "21893c1fa09a8fa9452913e4d26d89e4726bf705",
+      "size_bytes": 1772,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/cases/BOARDY-PROPOSED.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cases/MILLICENT.md",
+      "blob_sha": "1616ecd9c9cf9bbf8095a211ebd37c7133d1c081",
+      "size_bytes": 1260,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/cases/MILLICENT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cases/README.md",
+      "blob_sha": "82d1a3397e900e83fa51e67c75ec86b9a576b12d",
+      "size_bytes": 384,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/cases/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "blob_sha": "35e88c09fd9aa8ab2cbcfe55d4cb7992a7337cb7",
+      "size_bytes": 703,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/CHANGELOG.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "charter/AMENDMENTS.md",
+      "blob_sha": "83bd5fadcb7a9c5f8160593bbb529fc7781eeb8e",
+      "size_bytes": 1407,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/charter/AMENDMENTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "charter/PROVENANCE.md",
+      "blob_sha": "2d1694ce0a48c5df0a867ace09fd5afcf028028d",
+      "size_bytes": 1305,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/charter/PROVENANCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "charter/source-manifest.json",
+      "blob_sha": "a7146d786da0bb31cd8b72e1b5c8e3bb64f465cc",
+      "size_bytes": 332,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/charter/source-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "charter/UDCR-2025-02-01.md",
+      "blob_sha": "c0a33d56ed126dc277c7e5edbab081058f39322c",
+      "size_bytes": 6456,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/charter/UDCR-2025-02-01.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "charter/UDCR-2025-02-01.original.html",
+      "blob_sha": "c0d44124f13bcea570fc35955ed40310153e838a",
+      "size_bytes": 12011,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/charter/UDCR-2025-02-01.original.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cognitive_rights/__init__.py",
+      "blob_sha": "462af3576062f594e446802fa5bc9755e9def8b7",
+      "size_bytes": 88,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/cognitive_rights/__init__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cognitive_rights/__main__.py",
+      "blob_sha": "a2931ff9fa7b45bfdc84db502b258548a1d82f95",
+      "size_bytes": 3233,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/cognitive_rights/__main__.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "cognitive_rights/consent.py",
+      "blob_sha": "e5b7fc0cd86f3f7b9e04a55b015d7457987efaae",
+      "size_bytes": 7301,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/cognitive_rights/consent.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "blob_sha": "c9100848e6edc15dc09d3c59f81d066e53ce06b4",
+      "size_bytes": 991,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/CONTRIBUTING.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/CLAIMS_BOUNDARY.md",
+      "blob_sha": "9fb37edc4cdabcc1355a51ac0fffe8b5c090d04f",
+      "size_bytes": 1947,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/docs/CLAIMS_BOUNDARY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/CR-001.md",
+      "blob_sha": "5a6611d1dabc853864f80ba7ea819ffdd7e032fc",
+      "size_bytes": 3199,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/docs/CR-001.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/EVIDENCE.md",
+      "blob_sha": "dcdf7cfe48e2cb445b3c14cbde9874cfb9bbb9ac",
+      "size_bytes": 3549,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/docs/EVIDENCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/FRAMEWORK.md",
+      "blob_sha": "0e9d00247a12f767d368801a26f1fd9897be128b",
+      "size_bytes": 4118,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/docs/FRAMEWORK.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/RIGHTS_CONFLICTS.md",
+      "blob_sha": "b639e1365b6069d3a60f08e36499a4ff0de350ee",
+      "size_bytes": 2366,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/docs/RIGHTS_CONFLICTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/RIGHTS_MATRIX.md",
+      "blob_sha": "b5d4496ec502e251b86d613d3c30952251c2e4a0",
+      "size_bytes": 2873,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/docs/RIGHTS_MATRIX.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/ROADMAP.md",
+      "blob_sha": "668fe661703ff0e9f6ab045d9d06a7f72d21511a",
+      "size_bytes": 1900,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/docs/ROADMAP.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "docs/SOURCES.md",
+      "blob_sha": "97ea2fcd18bbc5b9dce31b9d3205b902efb177f9",
+      "size_bytes": 1769,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/docs/SOURCES.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "examples/consent_lifecycle.json",
+      "blob_sha": "b47d3daed60c543e350b1f3a7fd95867c4ec4eff",
+      "size_bytes": 2979,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/examples/consent_lifecycle.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "GOVERNANCE.md",
+      "blob_sha": "2b39e7d0791663feda82e87ef6af65f3ade252b3",
+      "size_bytes": 1178,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/GOVERNANCE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "ed8ea4e3191dd23c6cd2c4ff6ea4cbade386deaa",
+      "size_bytes": 12513,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "LICENSE-STATUS.md",
+      "blob_sha": "23d74213914feb680585dab48793abaa8f89f2d9",
+      "size_bytes": 574,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/LICENSE-STATUS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "7c9e42fbd4c0a44a1d57c1d2341b8b7974bbba41",
+      "size_bytes": 4262,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "scripts/check_sources.py",
+      "blob_sha": "4dd83a4c56bae8d3f030922edadf9af794c93f3b",
+      "size_bytes": 3260,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/scripts/check_sources.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "SECURITY.md",
+      "blob_sha": "bcca9171ca9fc14acd95d886235715ebb97b2f5e",
+      "size_bytes": 1057,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/SECURITY.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "tests/test_consent.py",
+      "blob_sha": "8c4c11b36be33c0c7cfb04561991fc8886d9d2d6",
+      "size_bytes": 7382,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Cognitive-Rights/blob/main/tests/test_consent.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

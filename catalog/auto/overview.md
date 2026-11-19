@@ -1,19 +1,20 @@
 # Sophia's Universal Catalogue — Public Source Snapshot
 
-**Generated:** 2026-11-18T16:58:20+00:00 UTC  
+**Generated:** 2026-11-19T23:07:22+00:00 UTC  
 **Scope:** ALL discoverable PUBLIC owner repositories. Private repositories and connected cloud files are excluded.  
 **Scientific caution:** Metadata only. Filename claims of PASS, proof, verification or discovery have NOT been reviewed.
 
-**Discovered:** 166 repositories; 164 complete; 0 stale; 2 incomplete.
-**Inventory:** 142970 files, 8903 documents, 29626 data/result candidates, 119611 reproducibility-source candidates.
+**Discovered:** 169 repositories; 167 complete; 0 stale; 2 incomplete.
+**Inventory:** 143142 files, 8964 documents, 29645 data/result candidates, 119636 reproducibility-source candidates.
 
 [Machine-readable manifest](manifest.json) · [All files in papers](papers.md) · [Searchable catalogue](../index.html)
 
 | Repository | All files | Documents | Results/data | Code/proof source | Coverage | Inventory |
 |---|---:|---:|---:|---:|---|---|
-| [papers](https://github.com/enuminous/papers) | 610 | 295 | 172 | 91 | COMPLETE | [Files](repos/papers.json) |
+| [papers](https://github.com/enuminous/papers) | 610 | 295 | 173 | 91 | COMPLETE | [Files](repos/papers.json) |
 | [accelerando-8192](https://github.com/enuminous/accelerando-8192) | 28 | 3 | 0 | 0 | COMPLETE | [Files](repos/accelerando-8192.json) |
 | [Alchemy-of-Emergence](https://github.com/enuminous/Alchemy-of-Emergence) | 20 | 14 | 2 | 1 | COMPLETE | [Files](repos/Alchemy-of-Emergence.json) |
+| [alex-mrtb-verify-bundle](https://github.com/enuminous/alex-mrtb-verify-bundle) | 106 | 15 | 15 | 11 | COMPLETE | [Files](repos/alex-mrtb-verify-bundle.json) |
 | [Ant](https://github.com/enuminous/Ant) | 18 | 3 | 4 | 7 | COMPLETE | [Files](repos/Ant.json) |
 | [aok](https://github.com/enuminous/aok) | 87 | 63 | 9 | 14 | COMPLETE | [Files](repos/aok.json) |
 | [Archimedes-3D](https://github.com/enuminous/Archimedes-3D) | 68 | 28 | 13 | 20 | COMPLETE | [Files](repos/Archimedes-3D.json) |
@@ -25,6 +26,7 @@
 | [Aristotle-eNuminous](https://github.com/enuminous/Aristotle-eNuminous) | 11 | 6 | 0 | 1 | COMPLETE | [Files](repos/Aristotle-eNuminous.json) |
 | [Aristotle-Ramtastic-Audit](https://github.com/enuminous/Aristotle-Ramtastic-Audit) | 116 | 13 | 4 | 92 | COMPLETE | [Files](repos/Aristotle-Ramtastic-Audit.json) |
 | [Aristotle_EFMW_Lean](https://github.com/enuminous/Aristotle_EFMW_Lean) | 30 | 8 | 3 | 16 | COMPLETE | [Files](repos/Aristotle_EFMW_Lean.json) |
+| [Autonomy](https://github.com/enuminous/Autonomy) | 33 | 22 | 2 | 9 | COMPLETE | [Files](repos/Autonomy.json) |
 | [Avenue5](https://github.com/enuminous/Avenue5) | 10 | 5 | 1 | 2 | COMPLETE | [Files](repos/Avenue5.json) |
 | [Axolotl](https://github.com/enuminous/Axolotl) | 17 | 10 | 4 | 5 | COMPLETE | [Files](repos/Axolotl.json) |
 | [BackroomsProtocol-EFMW-Analysis](https://github.com/enuminous/BackroomsProtocol-EFMW-Analysis) | 4 | 2 | 0 | 0 | COMPLETE | [Files](repos/BackroomsProtocol-EFMW-Analysis.json) |
@@ -49,6 +51,7 @@
 | [Cobra](https://github.com/enuminous/Cobra) | 17 | 10 | 4 | 5 | COMPLETE | [Files](repos/Cobra.json) |
 | [Codex-888](https://github.com/enuminous/Codex-888) | 28 | 10 | 4 | 13 | COMPLETE | [Files](repos/Codex-888.json) |
 | [Codex-Universalis](https://github.com/enuminous/Codex-Universalis) | 138 | 3 | 1 | 3 | COMPLETE | [Files](repos/Codex-Universalis.json) |
+| [Cognitive-Rights](https://github.com/enuminous/Cognitive-Rights) | 31 | 22 | 1 | 5 | COMPLETE | [Files](repos/Cognitive-Rights.json) |
 | [Coherence-Lab](https://github.com/enuminous/Coherence-Lab) | 4 | 3 | 1 | 0 | COMPLETE | [Files](repos/Coherence-Lab.json) |
 | [Coherence-Prediction-Engine](https://github.com/enuminous/Coherence-Prediction-Engine) | 107 | 34 | 28 | 19 | COMPLETE | [Files](repos/Coherence-Prediction-Engine.json) |
 | [Cosmology](https://github.com/enuminous/Cosmology) | 269 | 24 | 152 | 32 | COMPLETE | [Files](repos/Cosmology.json) |
@@ -111,7 +114,7 @@
 | [Magpie](https://github.com/enuminous/Magpie) | 15 | 8 | 2 | 5 | COMPLETE | [Files](repos/Magpie.json) |
 | [Mantis](https://github.com/enuminous/Mantis) | 17 | 10 | 4 | 5 | COMPLETE | [Files](repos/Mantis.json) |
 | [math-Sat3](https://github.com/enuminous/math-Sat3) | 6 | 3 | 4 | 0 | COMPLETE | [Files](repos/math-Sat3.json) |
-| [Mathematics-and-Elite-Squad-Dynamics](https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics) | 40 | 21 | 0 | 0 | COMPLETE | [Files](repos/Mathematics-and-Elite-Squad-Dynamics.json) |
+| [Mathematics-and-Elite-Squad-Dynamics](https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics) | 42 | 23 | 0 | 0 | COMPLETE | [Files](repos/Mathematics-and-Elite-Squad-Dynamics.json) |
 | [medium](https://github.com/enuminous/medium) | 1102 | 1101 | 82 | 0 | COMPLETE | [Files](repos/medium.json) |
 | [Medium2](https://github.com/enuminous/Medium2) | 1004 | 1003 | 39 | 0 | COMPLETE | [Files](repos/Medium2.json) |
 | [Medium3](https://github.com/enuminous/Medium3) | 311 | 311 | 11 | 0 | COMPLETE | [Files](repos/Medium3.json) |

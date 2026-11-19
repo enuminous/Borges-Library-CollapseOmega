@@ -1,7 +1,7 @@
 {
   "repository": "enuminous/papers",
   "default_branch": "main",
-  "tree_sha": "67b128e8df4baa00d745ba29e6c15aa046cac287",
+  "tree_sha": "94e88a7b1bd353f358ba1cd3c967b3c700faeeff",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
@@ -209,6 +209,18 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/A-Thank-You-to-Alex-Garland-for-Devs.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ALEX-PR38-Replaying-Signed-Evidence-and-Read-Only-Tests-2026-11-19.md",
+      "blob_sha": "7a620c1d36b2fcbdb01c981e7dd5130cfe4e060f",
+      "size_bytes": 7127,
+      "kinds": [
+        "document",
+        "data_or_result",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/ALEX-PR38-Replaying-Signed-Evidence-and-Read-Only-Tests-2026-11-19.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
@@ -1482,8 +1494,8 @@
     },
     {
       "path": "index.html",
-      "blob_sha": "5e185f96e324f8bfbd3064b01f40ac98f90104eb",
-      "size_bytes": 44954,
+      "blob_sha": "23b67112d4bf9d2a46f07c9891471944e4cbf88c",
+      "size_bytes": 46231,
       "kinds": [
         "document",
         "papers_document"
@@ -1614,17 +1626,6 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/MONOLITHIC-23-EFMW-Physical-Falsification-Program.md",
-      "review_status": "UNREVIEWED_METADATA_ONLY"
-    },
-    {
-      "path": "Monolithic-Investor-Partner-Pitch-Deck-2026-11-01.pdf",
-      "blob_sha": "74875e34ae2c4a984d1d541b2624b52f4b7a480f",
-      "size_bytes": 467197,
-      "kinds": [
-        "document",
-        "papers_document"
-      ],
-      "url": "https://github.com/enuminous/papers/blob/main/Monolithic-Investor-Partner-Pitch-Deck-2026-11-01.pdf",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
@@ -1940,8 +1941,8 @@
     },
     {
       "path": "README.md",
-      "blob_sha": "8f8932802904896e41e1c6083edf8e270aecd13e",
-      "size_bytes": 63257,
+      "blob_sha": "3952b6a4ce4701f096d697be37704efd548693ff",
+      "size_bytes": 63210,
       "kinds": [
         "document",
         "papers_document"
@@ -3125,8 +3126,8 @@
     },
     {
       "path": "research/efmw-c1-obs-001/EXPERIMENT_CONTRACT.md",
-      "blob_sha": "ac4764fb65fec8878e6a55204aec2b84e49541a6",
-      "size_bytes": 6399,
+      "blob_sha": "81ca853bfe66b36ed201cf2f8e8e41be134e2273",
+      "size_bytes": 6402,
       "kinds": [
         "document",
         "data_or_result",

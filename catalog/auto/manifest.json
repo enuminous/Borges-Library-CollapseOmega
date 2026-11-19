@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "name": "Sophia's public publications, documents, results and source catalogue",
-  "generated_at_utc": "2026-11-18T16:58:20+00:00",
+  "generated_at_utc": "2026-11-19T23:07:22+00:00",
   "scope": "All PUBLIC GitHub repositories owned by enuminous; all non-vendor/default-branch files",
   "excluded": "Private repositories, connected Drive/Gmail/Library files, non-default branches, unlisted releases",
   "evidence_rule": "METADATA ONLY; DO NOT infer PASS, theorem verification or physical reality from titles",
-  "repositories_found": 166,
-  "complete_repositories": 164,
+  "repositories_found": 169,
+  "complete_repositories": 167,
   "stale_repositories": 0,
   "incomplete_repositories": 2,
   "coverage_complete": false,
   "totals": {
-    "document": 8903,
+    "document": 8964,
     "papers_document": 295,
-    "data_or_result": 29626,
-    "reproducibility_source": 119611,
+    "data_or_result": 29645,
+    "reproducibility_source": 119636,
     "media": 2037,
-    "other": 10808,
-    "files": 142970
+    "other": 10881,
+    "files": 143142
   },
   "errors": [
     {
@@ -34,12 +34,12 @@
       "name": "papers",
       "repository": "enuminous/papers",
       "default_branch": "main",
-      "tree_sha": "67b128e8df4baa00d745ba29e6c15aa046cac287",
+      "tree_sha": "94e88a7b1bd353f358ba1cd3c967b3c700faeeff",
       "files": 610,
       "counts": {
         "document": 295,
         "papers_document": 295,
-        "data_or_result": 172,
+        "data_or_result": 173,
         "reproducibility_source": 91,
         "media": 10,
         "other": 124
@@ -85,6 +85,25 @@
       "status": "COMPLETE",
       "inventory": "repos/Alchemy-of-Emergence.json",
       "fork": false,
+      "archived": false
+    },
+    {
+      "name": "alex-mrtb-verify-bundle",
+      "repository": "enuminous/alex-mrtb-verify-bundle",
+      "default_branch": "main",
+      "tree_sha": "79ac75b9cd9cd214f61f64f117368bd6838195af",
+      "files": 106,
+      "counts": {
+        "document": 15,
+        "papers_document": 0,
+        "data_or_result": 15,
+        "reproducibility_source": 11,
+        "media": 0,
+        "other": 67
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/alex-mrtb-verify-bundle.json",
+      "fork": true,
       "archived": false
     },
     {
@@ -297,6 +316,25 @@
       "archived": false
     },
     {
+      "name": "Autonomy",
+      "repository": "enuminous/Autonomy",
+      "default_branch": "main",
+      "tree_sha": "49b3240e83fd745db781529445a2ff58d79aca77",
+      "files": 33,
+      "counts": {
+        "document": 22,
+        "papers_document": 0,
+        "data_or_result": 2,
+        "reproducibility_source": 9,
+        "media": 0,
+        "other": 2
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Autonomy.json",
+      "fork": false,
+      "archived": false
+    },
+    {
       "name": "Avenue5",
       "repository": "enuminous/Avenue5",
       "default_branch": "main",
@@ -490,7 +528,7 @@
       "name": "Borges-Library-CollapseOmega",
       "repository": "enuminous/Borges-Library-CollapseOmega",
       "default_branch": "main",
-      "tree_sha": "e07624fbe6688624da1889e0303f57339829ac8a",
+      "tree_sha": "300a26ba420bd9f6739b210b5fb50e5d46337a12",
       "files": 20,
       "counts": {
         "document": 10,
@@ -753,6 +791,25 @@
       "archived": false
     },
     {
+      "name": "Cognitive-Rights",
+      "repository": "enuminous/Cognitive-Rights",
+      "default_branch": "main",
+      "tree_sha": "142ba6a0dd586decd261ad998e2e6c5397393a83",
+      "files": 31,
+      "counts": {
+        "document": 22,
+        "papers_document": 0,
+        "data_or_result": 1,
+        "reproducibility_source": 5,
+        "media": 0,
+        "other": 4
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Cognitive-Rights.json",
+      "fork": false,
+      "archived": false
+    },
+    {
       "name": "Coherence-Lab",
       "repository": "enuminous/Coherence-Lab",
       "default_branch": "main",
@@ -984,7 +1041,7 @@
       "name": "EFMW",
       "repository": "enuminous/EFMW",
       "default_branch": "main",
-      "tree_sha": "b999588282595b6ad0c5d054e190aabbb2aec51a",
+      "tree_sha": "850bbd525ff798c66a7954adf127cb22c08764a9",
       "files": 39,
       "counts": {
         "document": 12,
@@ -1117,7 +1174,7 @@
       "name": "EFMW-EXP-001",
       "repository": "enuminous/EFMW-EXP-001",
       "default_branch": "main",
-      "tree_sha": "33438b36e82073079b7a3201e1969bb1e2809035",
+      "tree_sha": "c955ba9bbb7339b04d6e6699f75649cda2c67ea3",
       "files": 62,
       "counts": {
         "document": 31,
@@ -1934,10 +1991,10 @@
       "name": "Mathematics-and-Elite-Squad-Dynamics",
       "repository": "enuminous/Mathematics-and-Elite-Squad-Dynamics",
       "default_branch": "main",
-      "tree_sha": "f182ed9d9bcc9e443b2f05ffa74b48981984e706",
-      "files": 40,
+      "tree_sha": "6b387bea758d6641bea0ca1e728198f57ecc1898",
+      "files": 42,
       "counts": {
-        "document": 21,
+        "document": 23,
         "papers_document": 0,
         "data_or_result": 0,
         "reproducibility_source": 0,
@@ -2333,7 +2390,7 @@
       "name": "Observatory",
       "repository": "enuminous/Observatory",
       "default_branch": "main",
-      "tree_sha": "d2970a9779eeeaf80c77cc62319bb47118438d7a",
+      "tree_sha": "7e57ebe4e5130934a5f67854c0360c99cec6e53b",
       "files": 19,
       "counts": {
         "document": 5,
@@ -2694,7 +2751,7 @@
       "name": "Rotation",
       "repository": "enuminous/Rotation",
       "default_branch": "main",
-      "tree_sha": "1adee9d42c5abe210b0a64f4b4bf92558d5a6f9b",
+      "tree_sha": "d2063c128a336f44af26d2fa9222ff370abb7d52",
       "files": 58,
       "counts": {
         "document": 28,

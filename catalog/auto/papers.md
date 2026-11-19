@@ -1,6 +1,6 @@
 # Sophia's Complete Public Papers Document Shelf
 
-**Snapshot:** 2026-11-18T16:58:20+00:00
+**Snapshot:** 2026-11-19T23:07:22+00:00
 **Evidence:** file inventory, not a journal peer-review or publication-status assertion.
 
 [Universal catalogue](overview.md) · [Source repository](https://github.com/enuminous/papers)
@@ -11,6 +11,7 @@
 | 2026-11-04-Frozen-Polling-vs-Election-Returns-Preliminary-Retrospective-Audit.md | 12148 | [Open](https://github.com/enuminous/papers/blob/main/2026-11-04-Frozen-Polling-vs-Election-Returns-Preliminary-Retrospective-Audit.md) |
 | A-Field-That-Remembers-Inside-the-Wrightian-Tensor-Laboratory-2026-11-04.md | 16941 | [Open](https://github.com/enuminous/papers/blob/main/A-Field-That-Remembers-Inside-the-Wrightian-Tensor-Laboratory-2026-11-04.md) |
 | A-Thank-You-to-Alex-Garland-for-Devs.md | 1520 | [Open](https://github.com/enuminous/papers/blob/main/A-Thank-You-to-Alex-Garland-for-Devs.md) |
+| ALEX-PR38-Replaying-Signed-Evidence-and-Read-Only-Tests-2026-11-19.md | 7127 | [Open](https://github.com/enuminous/papers/blob/main/ALEX-PR38-Replaying-Signed-Evidence-and-Read-Only-Tests-2026-11-19.md) |
 | archimedes-engine-efmw-paper.md | 9678 | [Open](https://github.com/enuminous/papers/blob/main/archimedes-engine-efmw-paper.md) |
 | ARISTOTLE_156_TOTAL_NOVELTY_AUDIT.md | 28752 | [Open](https://github.com/enuminous/papers/blob/main/ARISTOTLE_156_TOTAL_NOVELTY_AUDIT.md) |
 | Beyond-the-Trace-ROT-009-Exact-Einstein-Source-Obstruction-2026-11-17.md | 21163 | [Open](https://github.com/enuminous/papers/blob/main/Beyond-the-Trace-ROT-009-Exact-Einstein-Source-Obstruction-2026-11-17.md) |
@@ -82,7 +83,7 @@
 | Human-Centric-AGI-Partnerships.md | 19960 | [Open](https://github.com/enuminous/papers/blob/main/Human-Centric-AGI-Partnerships.md) |
 | HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.docx | 56814 | [Open](https://github.com/enuminous/papers/blob/main/HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.docx) |
 | HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.md | 38693 | [Open](https://github.com/enuminous/papers/blob/main/HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.md) |
-| index.html | 44954 | [Open](https://github.com/enuminous/papers/blob/main/index.html) |
+| index.html | 46231 | [Open](https://github.com/enuminous/papers/blob/main/index.html) |
 | IST-001-Deriving-Informational-Stress-from-Covariant-Memory-and-Reservoir-Models-2026-11-09.md | 10938 | [Open](https://github.com/enuminous/papers/blob/main/IST-001-Deriving-Informational-Stress-from-Covariant-Memory-and-Reservoir-Models-2026-11-09.md) |
 | IST-FAM-001-Referee-Review-and-Spectral-Novelty-Audit-2026-11-09.md | 21247 | [Open](https://github.com/enuminous/papers/blob/main/IST-FAM-001-Referee-Review-and-Spectral-Novelty-Audit-2026-11-09.md) |
 | Master-LightWeb-Namespace.md | 25678 | [Open](https://github.com/enuminous/papers/blob/main/Master-LightWeb-Namespace.md) |
@@ -94,7 +95,6 @@
 | Mondello-Reproducibility-Assessment-2026-11-02.md | 3144 | [Open](https://github.com/enuminous/papers/blob/main/Mondello-Reproducibility-Assessment-2026-11-02.md) |
 | Mondello-Separable-Jacobian-Full-Zoo-Audit.md | 44785 | [Open](https://github.com/enuminous/papers/blob/main/Mondello-Separable-Jacobian-Full-Zoo-Audit.md) |
 | MONOLITHIC-23-EFMW-Physical-Falsification-Program.md | 41381 | [Open](https://github.com/enuminous/papers/blob/main/MONOLITHIC-23-EFMW-Physical-Falsification-Program.md) |
-| Monolithic-Investor-Partner-Pitch-Deck-2026-11-01.pdf | 467197 | [Open](https://github.com/enuminous/papers/blob/main/Monolithic-Investor-Partner-Pitch-Deck-2026-11-01.pdf) |
 | monolithic-open-mathematical-intelligence-revolution.md | 14743 | [Open](https://github.com/enuminous/papers/blob/main/monolithic-open-mathematical-intelligence-revolution.md) |
 | Monolithic-Puts-Its-Research-to-the-Test-2026-10-29.md | 23143 | [Open](https://github.com/enuminous/papers/blob/main/Monolithic-Puts-Its-Research-to-the-Test-2026-10-29.md) |
 | Monolithic-Zoo-Certified-Auditor-Licensing-Business-Model.md | 23175 | [Open](https://github.com/enuminous/papers/blob/main/Monolithic-Zoo-Certified-Auditor-Licensing-Business-Model.md) |
@@ -114,7 +114,7 @@
 | QNET-001-artifacts/requirements.txt | 79 | [Open](https://github.com/enuminous/papers/blob/main/QNET-001-artifacts/requirements.txt) |
 | QNET-001-Dynamical-Connections-and-Dimensionality-Obstructions.md | 30502 | [Open](https://github.com/enuminous/papers/blob/main/QNET-001-Dynamical-Connections-and-Dimensionality-Obstructions.md) |
 | Quantum-Math-the-Greek-Way-Music-of-the-Spheres.md | 17990 | [Open](https://github.com/enuminous/papers/blob/main/Quantum-Math-the-Greek-Way-Music-of-the-Spheres.md) |
-| README.md | 63257 | [Open](https://github.com/enuminous/papers/blob/main/README.md) |
+| README.md | 63210 | [Open](https://github.com/enuminous/papers/blob/main/README.md) |
 | Recursive-Coherence-Monitoring-Synthetic-Control-Degradation.md | 15211 | [Open](https://github.com/enuminous/papers/blob/main/Recursive-Coherence-Monitoring-Synthetic-Control-Degradation.md) |
 | research/cl33-review-2026-10-25/README.md | 2709 | [Open](https://github.com/enuminous/papers/blob/main/research/cl33-review-2026-10-25/README.md) |
 | research/cmb-alignment/nonzero-vorticity/v1/DERIVATION.md | 17260 | [Open](https://github.com/enuminous/papers/blob/main/research/cmb-alignment/nonzero-vorticity/v1/DERIVATION.md) |
@@ -151,7 +151,7 @@
 | research/efmw-bio-001/source/README_author.txt | 3200 | [Open](https://github.com/enuminous/papers/blob/main/research/efmw-bio-001/source/README_author.txt) |
 | research/efmw-c1-obs-001/AUDIT.md | 5889 | [Open](https://github.com/enuminous/papers/blob/main/research/efmw-c1-obs-001/AUDIT.md) |
 | research/efmw-c1-obs-001/DERIVATION.md | 16653 | [Open](https://github.com/enuminous/papers/blob/main/research/efmw-c1-obs-001/DERIVATION.md) |
-| research/efmw-c1-obs-001/EXPERIMENT_CONTRACT.md | 6399 | [Open](https://github.com/enuminous/papers/blob/main/research/efmw-c1-obs-001/EXPERIMENT_CONTRACT.md) |
+| research/efmw-c1-obs-001/EXPERIMENT_CONTRACT.md | 6402 | [Open](https://github.com/enuminous/papers/blob/main/research/efmw-c1-obs-001/EXPERIMENT_CONTRACT.md) |
 | research/efmw-c1-obs-001/PUBLICATION_NOTICE.md | 1707 | [Open](https://github.com/enuminous/papers/blob/main/research/efmw-c1-obs-001/PUBLICATION_NOTICE.md) |
 | research/efmw-c1-obs-001/README.md | 3159 | [Open](https://github.com/enuminous/papers/blob/main/research/efmw-c1-obs-001/README.md) |
 | research/efmw-c1-obs-001/requirements.txt | 61 | [Open](https://github.com/enuminous/papers/blob/main/research/efmw-c1-obs-001/requirements.txt) |

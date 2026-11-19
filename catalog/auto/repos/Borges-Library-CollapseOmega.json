@@ -1,15 +1,15 @@
 {
   "repository": "enuminous/Borges-Library-CollapseOmega",
   "default_branch": "main",
-  "tree_sha": "e07624fbe6688624da1889e0303f57339829ac8a",
+  "tree_sha": "300a26ba420bd9f6739b210b5fb50e5d46337a12",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
   "files": [
     {
       "path": ".github/workflows/pages.yml",
-      "blob_sha": "859ddc3531f22e53601939a2aad0722942c8c370",
-      "size_bytes": 732,
+      "blob_sha": "3d8ed45aaf5c6470dd9176f083cc3bddf1169af9",
+      "size_bytes": 845,
       "kinds": [
         "other"
       ],

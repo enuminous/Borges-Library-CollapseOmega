@@ -1,7 +1,7 @@
 {
   "repository": "enuminous/Mathematics-and-Elite-Squad-Dynamics",
   "default_branch": "main",
-  "tree_sha": "f182ed9d9bcc9e443b2f05ffa74b48981984e706",
+  "tree_sha": "6b387bea758d6641bea0ca1e728198f57ecc1898",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
@@ -174,6 +174,26 @@
         "document"
       ],
       "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/18-those-goddamn-cliffords-2026-11-18.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/19-the-waiting-room-of-maximum-efficiency-2026-11-18.md",
+      "blob_sha": "8b9b8860439d6966bc7ce7ec65488a1edb8c7043",
+      "size_bytes": 4948,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/19-the-waiting-room-of-maximum-efficiency-2026-11-18.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "articles/20-nothing-happened-release-notes-2026-11-19.md",
+      "blob_sha": "44f3cf7cf37a2b69be0fa758f1f87fa1d4f100e1",
+      "size_bytes": 2979,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/20-nothing-happened-release-notes-2026-11-19.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
@@ -368,8 +388,8 @@
     },
     {
       "path": "index.html",
-      "blob_sha": "d645b4c5750f998388b7d17215f421a1a7e3d64a",
-      "size_bytes": 46208,
+      "blob_sha": "cc4a4acc0985731f04f7299f0d695fcf78db4c91",
+      "size_bytes": 49152,
       "kinds": [
         "document"
       ],
@@ -398,8 +418,8 @@
     },
     {
       "path": "README.md",
-      "blob_sha": "77c547030b507447cce43d359a79a148b0d26153",
-      "size_bytes": 9610,
+      "blob_sha": "141e61646011aca42767907de03b22a0f0a6af9c",
+      "size_bytes": 10282,
       "kinds": [
         "document"
       ],

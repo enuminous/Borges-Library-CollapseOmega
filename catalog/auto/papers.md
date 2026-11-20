@@ -1,6 +1,6 @@
 # Sophia's Complete Public Papers Document Shelf
 
-**Snapshot:** 2026-11-19T23:07:22+00:00
+**Snapshot:** 2026-11-20T22:42:51+00:00
 **Evidence:** file inventory, not a journal peer-review or publication-status assertion.
 
 [Universal catalogue](overview.md) · [Source repository](https://github.com/enuminous/papers)
@@ -10,6 +10,7 @@
 | 2026-11-02-US-Election-Eve-Polling-Snapshot-EFMW-Residual-Protocol.md | 12610 | [Open](https://github.com/enuminous/papers/blob/main/2026-11-02-US-Election-Eve-Polling-Snapshot-EFMW-Residual-Protocol.md) |
 | 2026-11-04-Frozen-Polling-vs-Election-Returns-Preliminary-Retrospective-Audit.md | 12148 | [Open](https://github.com/enuminous/papers/blob/main/2026-11-04-Frozen-Polling-vs-Election-Returns-Preliminary-Retrospective-Audit.md) |
 | A-Field-That-Remembers-Inside-the-Wrightian-Tensor-Laboratory-2026-11-04.md | 16941 | [Open](https://github.com/enuminous/papers/blob/main/A-Field-That-Remembers-Inside-the-Wrightian-Tensor-Laboratory-2026-11-04.md) |
+| A-Stranger-Reimplemented-My-Framework-2026-11-20.md | 6880 | [Open](https://github.com/enuminous/papers/blob/main/A-Stranger-Reimplemented-My-Framework-2026-11-20.md) |
 | A-Thank-You-to-Alex-Garland-for-Devs.md | 1520 | [Open](https://github.com/enuminous/papers/blob/main/A-Thank-You-to-Alex-Garland-for-Devs.md) |
 | ALEX-PR38-Replaying-Signed-Evidence-and-Read-Only-Tests-2026-11-19.md | 7127 | [Open](https://github.com/enuminous/papers/blob/main/ALEX-PR38-Replaying-Signed-Evidence-and-Read-Only-Tests-2026-11-19.md) |
 | archimedes-engine-efmw-paper.md | 9678 | [Open](https://github.com/enuminous/papers/blob/main/archimedes-engine-efmw-paper.md) |
@@ -64,6 +65,7 @@
 | EFMW_THEOREM_TRANCHE_III_FORMAL_PAPER.md | 7387 | [Open](https://github.com/enuminous/papers/blob/main/EFMW_THEOREM_TRANCHE_III_FORMAL_PAPER.md) |
 | EFMW_Theorem_Tranche_IV_Formal_Paper.docx | 55867 | [Open](https://github.com/enuminous/papers/blob/main/EFMW_Theorem_Tranche_IV_Formal_Paper.docx) |
 | EFMW_Theorems_Formal_Verification_Paper.docx | 48428 | [Open](https://github.com/enuminous/papers/blob/main/EFMW_Theorems_Formal_Verification_Paper.docx) |
+| Energy-Through-the-Hourglass-TriSphere-Tokamak-2026-11-19.md | 10561 | [Open](https://github.com/enuminous/papers/blob/main/Energy-Through-the-Hourglass-TriSphere-Tokamak-2026-11-19.md) |
 | FieldSpace-165-Triplet-Formal-Results.md | 20033 | [Open](https://github.com/enuminous/papers/blob/main/FieldSpace-165-Triplet-Formal-Results.md) |
 | FieldSpace-Global-Reconstruction-and-Gluing-Theorem.md | 13746 | [Open](https://github.com/enuminous/papers/blob/main/FieldSpace-Global-Reconstruction-and-Gluing-Theorem.md) |
 | Five_Experiments_for_Testing_EFMW_Coherence_Monitoring.docx | 49856 | [Open](https://github.com/enuminous/papers/blob/main/Five_Experiments_for_Testing_EFMW_Coherence_Monitoring.docx) |
@@ -75,6 +77,7 @@
 | Gauvin-Information-Geometric-Matter-v2-Referee-Report.md | 16168 | [Open](https://github.com/enuminous/papers/blob/main/Gauvin-Information-Geometric-Matter-v2-Referee-Report.md) |
 | Geometry-Foundation-002-Interactive-Counterexample-Laboratory-ME006-ME007-2026-11-03.md | 27853 | [Open](https://github.com/enuminous/papers/blob/main/Geometry-Foundation-002-Interactive-Counterexample-Laboratory-ME006-ME007-2026-11-03.md) |
 | Geometry-G3-001-Synthetic-Identifiability-Initial-Results-2026-11-03.md | 19157 | [Open](https://github.com/enuminous/papers/blob/main/Geometry-G3-001-Synthetic-Identifiability-Initial-Results-2026-11-03.md) |
+| grand_theft_banal_vi.html | 9559 | [Open](https://github.com/enuminous/papers/blob/main/grand_theft_banal_vi.html) |
 | great-recursion-primordial-rotation.md | 15531 | [Open](https://github.com/enuminous/papers/blob/main/great-recursion-primordial-rotation.md) |
 | Higgs-Gauge-Lab-Classical-Abelian-Higgs-Simulation.md | 24646 | [Open](https://github.com/enuminous/papers/blob/main/Higgs-Gauge-Lab-Classical-Abelian-Higgs-Simulation.md) |
 | Hopf-Fibration-Unification-Referee-Report-v5.md | 13103 | [Open](https://github.com/enuminous/papers/blob/main/Hopf-Fibration-Unification-Referee-Report-v5.md) |
@@ -290,6 +293,7 @@
 | TOE-001-Unified-Action-and-Correspondence-Test.md | 8690 | [Open](https://github.com/enuminous/papers/blob/main/TOE-001-Unified-Action-and-Correspondence-Test.md) |
 | TORTOISE-KAIROSEED-Independent-Evidence-Ablation-2026-11-08.md | 10720 | [Open](https://github.com/enuminous/papers/blob/main/TORTOISE-KAIROSEED-Independent-Evidence-Ablation-2026-11-08.md) |
 | TRANCHE_IV_THEOREM_REGISTER.md | 2539 | [Open](https://github.com/enuminous/papers/blob/main/TRANCHE_IV_THEOREM_REGISTER.md) |
+| TriSphere-Tokamak-Model-Comparison-2026-11-19.md | 2711 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-Tokamak-Model-Comparison-2026-11-19.md) |
 | Two-Oscillators-One-Missing-Force-EFMW-F03.md | 14676 | [Open](https://github.com/enuminous/papers/blob/main/Two-Oscillators-One-Missing-Force-EFMW-F03.md) |
 | Two-Paths-to-Rotation.md | 35607 | [Open](https://github.com/enuminous/papers/blob/main/Two-Paths-to-Rotation.md) |
 | Two-Spinning-Black-Holes-One-Bigger-Boundary.md | 7820 | [Open](https://github.com/enuminous/papers/blob/main/Two-Spinning-Black-Holes-One-Bigger-Boundary.md) |
@@ -303,4 +307,4 @@
 | WITD-002-Where-Does-the-Memorys-Energy-Go-2026-11-05.md | 15106 | [Open](https://github.com/enuminous/papers/blob/main/WITD-002-Where-Does-the-Memorys-Energy-Go-2026-11-05.md) |
 | WORLD-GRID-005-Equal-Budget-Negative-Result.md | 11723 | [Open](https://github.com/enuminous/papers/blob/main/WORLD-GRID-005-Equal-Budget-Negative-Result.md) |
 
-**Document-like files listed:** 295
+**Document-like files listed:** 299

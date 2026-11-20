@@ -1,0 +1,331 @@
+{
+  "repository": "enuminous/Tokamak",
+  "default_branch": "main",
+  "tree_sha": "26fc1fb49decbf56acbe563608284c417fe61877",
+  "visibility": "public",
+  "status": "COMPLETE",
+  "content_review": "NONE",
+  "files": [
+    {
+      "path": "engine.html",
+      "blob_sha": "cbeefb4b84a1ef99ca093d33ff12bd2c4e5a5b0c",
+      "size_bytes": 3283,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/engine.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "engine.js",
+      "blob_sha": "f57ae889387f767ba5e11c26886b52fb08c9ad79",
+      "size_bytes": 4214,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/engine.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "ENGINE.md",
+      "blob_sha": "fbe79038da09eb5cc10e72dcf382e79723fd45e9",
+      "size_bytes": 2228,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/ENGINE.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "index.html",
+      "blob_sha": "e793c4b7440f63f131b405571d8c5664dcb830f2",
+      "size_bytes": 6295,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/index.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "lab.js",
+      "blob_sha": "a9a83f110566071a0405dcb1d62b2d3399c86415",
+      "size_bytes": 4304,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/lab.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "model.js",
+      "blob_sha": "e21a0e43cad0590fec5d41224adec9de97ff7a8a",
+      "size_bytes": 3173,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/model.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "PHYSICS.md",
+      "blob_sha": "ac807e86bfcac8c3ec6f89e78c160b6167a92619",
+      "size_bytes": 7060,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/PHYSICS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "reactor.js",
+      "blob_sha": "9d2e34e817e89866c60d02b76833cfc4152661c3",
+      "size_bytes": 5054,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/reactor.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "aa0c4c08ce8f419f2934d68e5cc160149e27a69d",
+      "size_bytes": 3217,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/trisphere-v2/default-summary.json",
+      "blob_sha": "a4770d27dc35ca16127a02f6e89830ecc8aa1e2f",
+      "size_bytes": 4861,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/results/trisphere-v2/default-summary.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/trisphere-v2/evidence.json",
+      "blob_sha": "5bd9b4304b65019f5e6b872586367df3e4430435",
+      "size_bytes": 17941,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/results/trisphere-v2/evidence.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/trisphere-v2/interface-checks.json",
+      "blob_sha": "26655b156b6fc9ac00c8194adf9c3e4b281f8c40",
+      "size_bytes": 1867,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/results/trisphere-v2/interface-checks.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/trisphere-v2/parameter-scan.csv",
+      "blob_sha": "70ad2814cf76fa8392933dce8ae7e865c133b46e",
+      "size_bytes": 4663,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/results/trisphere-v2/parameter-scan.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/trisphere-v2/parameter-scan.json",
+      "blob_sha": "e3c6626068d04891091164eb9d25c2566976df05",
+      "size_bytes": 16809,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/results/trisphere-v2/parameter-scan.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/trisphere-v2/radial-sampled-0.1.csv",
+      "blob_sha": "8f7eef465844da5f5133e35d90ade1c5a6e07d76",
+      "size_bytes": 258217,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/results/trisphere-v2/radial-sampled-0.1.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/trisphere-v2/transport-all-ticks.csv",
+      "blob_sha": "5d1a22db096a78229167cf5febb5e5aba82b5153",
+      "size_bytes": 225552,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/results/trisphere-v2/transport-all-ticks.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "results/trisphere-v2/verification.json",
+      "blob_sha": "93d2b530a14746a1806127a0f9e3c939856d4d7b",
+      "size_bytes": 1850,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/results/trisphere-v2/verification.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "run-trisphere.js",
+      "blob_sha": "bf593a832d42980653891b8417e207fae8501591",
+      "size_bytes": 4247,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/run-trisphere.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "style.css",
+      "blob_sha": "32f27a56f195624ed1ef9bd743d5c97e0323c3c9",
+      "size_bytes": 2179,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/style.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TRISPHERE-CONTRACT.md",
+      "blob_sha": "784935c167c25e94440c53127904d1ce7b2a84e7",
+      "size_bytes": 14747,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/TRISPHERE-CONTRACT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "trisphere-core.js",
+      "blob_sha": "cd7f286f08a2adbaea5fb11ade51a793d085281b",
+      "size_bytes": 15562,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/trisphere-core.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "trisphere-prototype.css",
+      "blob_sha": "c37da5eddf1331badf3ef4f0d978da02343218af",
+      "size_bytes": 6229,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/trisphere-prototype.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "trisphere-prototype.html",
+      "blob_sha": "562870098690b6dc258bb7915de9e576c47b3c4f",
+      "size_bytes": 8194,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/trisphere-prototype.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "trisphere-prototype.js",
+      "blob_sha": "7a98858180330b34dd2eb2c6657c0c05a01831e9",
+      "size_bytes": 15639,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/trisphere-prototype.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TRISPHERE-RESULTS-2026-11-20.md",
+      "blob_sha": "94da5fa043fd191a0aa64722407ec1f0852785bf",
+      "size_bytes": 5209,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/TRISPHERE-RESULTS-2026-11-20.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TRISPHERE-SOURCE-2026-11-20.md",
+      "blob_sha": "66f0abb7113fbb07024deeea9ba68f445cf556bb",
+      "size_bytes": 17691,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/TRISPHERE-SOURCE-2026-11-20.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "trisphere-source.json",
+      "blob_sha": "add64186bed3b0e23abab09cf1201877191de838",
+      "size_bytes": 639,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/trisphere-source.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "trisphere.html",
+      "blob_sha": "5d566fe42a6fa118b10e8c94cf25c61652eca17a",
+      "size_bytes": 2610,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/trisphere.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "trisphere.js",
+      "blob_sha": "1ce3173a3e753e45442413339c68a18f9b2886d1",
+      "size_bytes": 7526,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/trisphere.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify-trisphere.js",
+      "blob_sha": "56c552b88b115101da25bbfb429e8bed5ca77645",
+      "size_bytes": 5864,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/verify-trisphere.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "verify.js",
+      "blob_sha": "cceccf0f81d80b1e09e9ca1abc8fb89c8af107a8",
+      "size_bytes": 1782,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/verify.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "X-POINT-CONTINUATION.md",
+      "blob_sha": "1bab7838bae0d4b302ddff3e26b5a885e0f2fc93",
+      "size_bytes": 3444,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/X-POINT-CONTINUATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    }
+  ]
+}

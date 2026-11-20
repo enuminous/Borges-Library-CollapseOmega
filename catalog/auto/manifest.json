@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "name": "Sophia's public publications, documents, results and source catalogue",
-  "generated_at_utc": "2026-11-19T23:07:22+00:00",
+  "generated_at_utc": "2026-11-20T22:42:51+00:00",
   "scope": "All PUBLIC GitHub repositories owned by enuminous; all non-vendor/default-branch files",
   "excluded": "Private repositories, connected Drive/Gmail/Library files, non-default branches, unlisted releases",
   "evidence_rule": "METADATA ONLY; DO NOT infer PASS, theorem verification or physical reality from titles",
-  "repositories_found": 169,
-  "complete_repositories": 167,
+  "repositories_found": 170,
+  "complete_repositories": 168,
   "stale_repositories": 0,
   "incomplete_repositories": 2,
   "coverage_complete": false,
   "totals": {
-    "document": 8964,
-    "papers_document": 295,
-    "data_or_result": 29645,
-    "reproducibility_source": 119636,
+    "document": 8980,
+    "papers_document": 299,
+    "data_or_result": 29654,
+    "reproducibility_source": 119646,
     "media": 2037,
-    "other": 10881,
-    "files": 143142
+    "other": 10884,
+    "files": 143179
   },
   "errors": [
     {
@@ -34,11 +34,11 @@
       "name": "papers",
       "repository": "enuminous/papers",
       "default_branch": "main",
-      "tree_sha": "94e88a7b1bd353f358ba1cd3c967b3c700faeeff",
-      "files": 610,
+      "tree_sha": "eb4045d81295d4018dcde2ce6e6569a97beec05d",
+      "files": 614,
       "counts": {
-        "document": 295,
-        "papers_document": 295,
+        "document": 299,
+        "papers_document": 299,
         "data_or_result": 173,
         "reproducibility_source": 91,
         "media": 10,
@@ -528,7 +528,7 @@
       "name": "Borges-Library-CollapseOmega",
       "repository": "enuminous/Borges-Library-CollapseOmega",
       "default_branch": "main",
-      "tree_sha": "300a26ba420bd9f6739b210b5fb50e5d46337a12",
+      "tree_sha": "50247fbb105dacf778d5144cde3b5ccacd8cc3de",
       "files": 20,
       "counts": {
         "document": 10,
@@ -1801,7 +1801,7 @@
       "name": "Jacobian",
       "repository": "enuminous/Jacobian",
       "default_branch": "main",
-      "tree_sha": "b1cf48fa6ece97c7cd31844c61d03174f91db1b2",
+      "tree_sha": "a5562efa07b81e6738c97a61d2179546b62625f9",
       "files": 51,
       "counts": {
         "document": 24,
@@ -1991,10 +1991,10 @@
       "name": "Mathematics-and-Elite-Squad-Dynamics",
       "repository": "enuminous/Mathematics-and-Elite-Squad-Dynamics",
       "default_branch": "main",
-      "tree_sha": "6b387bea758d6641bea0ca1e728198f57ecc1898",
-      "files": 42,
+      "tree_sha": "592977608f6cf179cb0417387e978f4c6c948d38",
+      "files": 43,
       "counts": {
-        "document": 23,
+        "document": 24,
         "papers_document": 0,
         "data_or_result": 0,
         "reproducibility_source": 0,
@@ -2991,6 +2991,25 @@
       },
       "status": "COMPLETE",
       "inventory": "repos/TOE-001.json",
+      "fork": false,
+      "archived": false
+    },
+    {
+      "name": "Tokamak",
+      "repository": "enuminous/Tokamak",
+      "default_branch": "main",
+      "tree_sha": "26fc1fb49decbf56acbe563608284c417fe61877",
+      "files": 32,
+      "counts": {
+        "document": 11,
+        "papers_document": 0,
+        "data_or_result": 9,
+        "reproducibility_source": 10,
+        "media": 0,
+        "other": 3
+      },
+      "status": "COMPLETE",
+      "inventory": "repos/Tokamak.json",
       "fork": false,
       "archived": false
     },

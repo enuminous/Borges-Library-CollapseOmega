@@ -1,7 +1,7 @@
 {
   "repository": "enuminous/papers",
   "default_branch": "main",
-  "tree_sha": "94e88a7b1bd353f358ba1cd3c967b3c700faeeff",
+  "tree_sha": "eb4045d81295d4018dcde2ce6e6569a97beec05d",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
@@ -198,6 +198,17 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/A-Field-That-Remembers-Inside-the-Wrightian-Tensor-Laboratory-2026-11-04.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "A-Stranger-Reimplemented-My-Framework-2026-11-20.md",
+      "blob_sha": "10621fe97483faea96a5357f44264e546253c5d1",
+      "size_bytes": 6880,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/A-Stranger-Reimplemented-My-Framework-2026-11-20.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
@@ -936,6 +947,17 @@
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
+      "path": "Energy-Through-the-Hourglass-TriSphere-Tokamak-2026-11-19.md",
+      "blob_sha": "310f07ab07f16cf73b8b51bbc227598e87b18bdc",
+      "size_bytes": 10561,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/Energy-Through-the-Hourglass-TriSphere-Tokamak-2026-11-19.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
       "path": "FieldSpace-165-Triplet-Formal-Results.md",
       "blob_sha": "6e4eb07a3d9796f682be9255096c2c759cff2530",
       "size_bytes": 20033,
@@ -1371,6 +1393,17 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/Geometry-G3-001-Synthetic-Identifiability-Initial-Results-2026-11-03.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "grand_theft_banal_vi.html",
+      "blob_sha": "411d09ec0e8e5ff0d8da74f40c942713413e78f5",
+      "size_bytes": 9559,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/grand_theft_banal_vi.html",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
@@ -6338,6 +6371,17 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/TRANCHE_IV_THEOREM_REGISTER.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TriSphere-Tokamak-Model-Comparison-2026-11-19.md",
+      "blob_sha": "d7e928000576ff8a103f2ee7fbc44529bee1e5fa",
+      "size_bytes": 2711,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/TriSphere-Tokamak-Model-Comparison-2026-11-19.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {

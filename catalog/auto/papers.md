@@ -1,6 +1,6 @@
 # Sophia's Complete Public Papers Document Shelf
 
-**Snapshot:** 2026-11-20T22:42:51+00:00
+**Snapshot:** 2026-11-21T21:43:21+00:00
 **Evidence:** file inventory, not a journal peer-review or publication-status assertion.
 
 [Universal catalogue](overview.md) · [Source repository](https://github.com/enuminous/papers)
@@ -77,6 +77,7 @@
 | Gauvin-Information-Geometric-Matter-v2-Referee-Report.md | 16168 | [Open](https://github.com/enuminous/papers/blob/main/Gauvin-Information-Geometric-Matter-v2-Referee-Report.md) |
 | Geometry-Foundation-002-Interactive-Counterexample-Laboratory-ME006-ME007-2026-11-03.md | 27853 | [Open](https://github.com/enuminous/papers/blob/main/Geometry-Foundation-002-Interactive-Counterexample-Laboratory-ME006-ME007-2026-11-03.md) |
 | Geometry-G3-001-Synthetic-Identifiability-Initial-Results-2026-11-03.md | 19157 | [Open](https://github.com/enuminous/papers/blob/main/Geometry-G3-001-Synthetic-Identifiability-Initial-Results-2026-11-03.md) |
+| grand_theft_banal_vi (2).html | 20025 | [Open](https://github.com/enuminous/papers/blob/main/grand_theft_banal_vi%20%282%29.html) |
 | grand_theft_banal_vi.html | 9559 | [Open](https://github.com/enuminous/papers/blob/main/grand_theft_banal_vi.html) |
 | great-recursion-primordial-rotation.md | 15531 | [Open](https://github.com/enuminous/papers/blob/main/great-recursion-primordial-rotation.md) |
 | Higgs-Gauge-Lab-Classical-Abelian-Higgs-Simulation.md | 24646 | [Open](https://github.com/enuminous/papers/blob/main/Higgs-Gauge-Lab-Classical-Abelian-Higgs-Simulation.md) |
@@ -86,7 +87,7 @@
 | Human-Centric-AGI-Partnerships.md | 19960 | [Open](https://github.com/enuminous/papers/blob/main/Human-Centric-AGI-Partnerships.md) |
 | HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.docx | 56814 | [Open](https://github.com/enuminous/papers/blob/main/HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.docx) |
 | HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.md | 38693 | [Open](https://github.com/enuminous/papers/blob/main/HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.md) |
-| index.html | 46231 | [Open](https://github.com/enuminous/papers/blob/main/index.html) |
+| index.html | 46426 | [Open](https://github.com/enuminous/papers/blob/main/index.html) |
 | IST-001-Deriving-Informational-Stress-from-Covariant-Memory-and-Reservoir-Models-2026-11-09.md | 10938 | [Open](https://github.com/enuminous/papers/blob/main/IST-001-Deriving-Informational-Stress-from-Covariant-Memory-and-Reservoir-Models-2026-11-09.md) |
 | IST-FAM-001-Referee-Review-and-Spectral-Novelty-Audit-2026-11-09.md | 21247 | [Open](https://github.com/enuminous/papers/blob/main/IST-FAM-001-Referee-Review-and-Spectral-Novelty-Audit-2026-11-09.md) |
 | Master-LightWeb-Namespace.md | 25678 | [Open](https://github.com/enuminous/papers/blob/main/Master-LightWeb-Namespace.md) |
@@ -117,7 +118,7 @@
 | QNET-001-artifacts/requirements.txt | 79 | [Open](https://github.com/enuminous/papers/blob/main/QNET-001-artifacts/requirements.txt) |
 | QNET-001-Dynamical-Connections-and-Dimensionality-Obstructions.md | 30502 | [Open](https://github.com/enuminous/papers/blob/main/QNET-001-Dynamical-Connections-and-Dimensionality-Obstructions.md) |
 | Quantum-Math-the-Greek-Way-Music-of-the-Spheres.md | 17990 | [Open](https://github.com/enuminous/papers/blob/main/Quantum-Math-the-Greek-Way-Music-of-the-Spheres.md) |
-| README.md | 63210 | [Open](https://github.com/enuminous/papers/blob/main/README.md) |
+| README.md | 63395 | [Open](https://github.com/enuminous/papers/blob/main/README.md) |
 | Recursive-Coherence-Monitoring-Synthetic-Control-Degradation.md | 15211 | [Open](https://github.com/enuminous/papers/blob/main/Recursive-Coherence-Monitoring-Synthetic-Control-Degradation.md) |
 | research/cl33-review-2026-10-25/README.md | 2709 | [Open](https://github.com/enuminous/papers/blob/main/research/cl33-review-2026-10-25/README.md) |
 | research/cmb-alignment/nonzero-vorticity/v1/DERIVATION.md | 17260 | [Open](https://github.com/enuminous/papers/blob/main/research/cmb-alignment/nonzero-vorticity/v1/DERIVATION.md) |
@@ -307,4 +308,4 @@
 | WITD-002-Where-Does-the-Memorys-Energy-Go-2026-11-05.md | 15106 | [Open](https://github.com/enuminous/papers/blob/main/WITD-002-Where-Does-the-Memorys-Energy-Go-2026-11-05.md) |
 | WORLD-GRID-005-Equal-Budget-Negative-Result.md | 11723 | [Open](https://github.com/enuminous/papers/blob/main/WORLD-GRID-005-Equal-Budget-Negative-Result.md) |
 
-**Document-like files listed:** 299
+**Document-like files listed:** 300

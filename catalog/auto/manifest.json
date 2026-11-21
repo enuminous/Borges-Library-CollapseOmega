@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "name": "Sophia's public publications, documents, results and source catalogue",
-  "generated_at_utc": "2026-11-20T22:42:51+00:00",
+  "generated_at_utc": "2026-11-21T21:43:21+00:00",
   "scope": "All PUBLIC GitHub repositories owned by enuminous; all non-vendor/default-branch files",
   "excluded": "Private repositories, connected Drive/Gmail/Library files, non-default branches, unlisted releases",
   "evidence_rule": "METADATA ONLY; DO NOT infer PASS, theorem verification or physical reality from titles",
@@ -11,13 +11,13 @@
   "incomplete_repositories": 2,
   "coverage_complete": false,
   "totals": {
-    "document": 8980,
-    "papers_document": 299,
-    "data_or_result": 29654,
-    "reproducibility_source": 119646,
-    "media": 2037,
-    "other": 10884,
-    "files": 143179
+    "document": 9010,
+    "papers_document": 300,
+    "data_or_result": 30035,
+    "reproducibility_source": 119680,
+    "media": 2058,
+    "other": 10885,
+    "files": 143569
   },
   "errors": [
     {
@@ -34,11 +34,11 @@
       "name": "papers",
       "repository": "enuminous/papers",
       "default_branch": "main",
-      "tree_sha": "eb4045d81295d4018dcde2ce6e6569a97beec05d",
-      "files": 614,
+      "tree_sha": "ce3ca2e00c4a0ff7a455ba7f07ae50bdf2369f87",
+      "files": 615,
       "counts": {
-        "document": 299,
-        "papers_document": 299,
+        "document": 300,
+        "papers_document": 300,
         "data_or_result": 173,
         "reproducibility_source": 91,
         "media": 10,
@@ -528,7 +528,7 @@
       "name": "Borges-Library-CollapseOmega",
       "repository": "enuminous/Borges-Library-CollapseOmega",
       "default_branch": "main",
-      "tree_sha": "50247fbb105dacf778d5144cde3b5ccacd8cc3de",
+      "tree_sha": "22b26308de826eb9564fed346a314e91096606b4",
       "files": 20,
       "counts": {
         "document": 10,
@@ -1041,7 +1041,7 @@
       "name": "EFMW",
       "repository": "enuminous/EFMW",
       "default_branch": "main",
-      "tree_sha": "850bbd525ff798c66a7954adf127cb22c08764a9",
+      "tree_sha": "d57cde0d56596efd83e10670c50b02b46de616a3",
       "files": 39,
       "counts": {
         "document": 12,
@@ -1383,7 +1383,7 @@
       "name": "EFMW-Scientific-Claims",
       "repository": "enuminous/EFMW-Scientific-Claims",
       "default_branch": "main",
-      "tree_sha": "ce388864042ce8eabc859534808d5adcf7712c45",
+      "tree_sha": "20ec597765b83f6f70f0c2ea5c0642c33d3c0d31",
       "files": 10,
       "counts": {
         "document": 4,
@@ -1991,10 +1991,10 @@
       "name": "Mathematics-and-Elite-Squad-Dynamics",
       "repository": "enuminous/Mathematics-and-Elite-Squad-Dynamics",
       "default_branch": "main",
-      "tree_sha": "592977608f6cf179cb0417387e978f4c6c948d38",
-      "files": 43,
+      "tree_sha": "0e302f60a2078a95c11c397dc9f20725492c096e",
+      "files": 45,
       "counts": {
-        "document": 24,
+        "document": 26,
         "papers_document": 0,
         "data_or_result": 0,
         "reproducibility_source": 0,
@@ -2751,7 +2751,7 @@
       "name": "Rotation",
       "repository": "enuminous/Rotation",
       "default_branch": "main",
-      "tree_sha": "d2063c128a336f44af26d2fa9222ff370abb7d52",
+      "tree_sha": "a911f2def99e7ea9ecd14ac3c99b17be013b5ecf",
       "files": 58,
       "counts": {
         "document": 28,
@@ -2998,15 +2998,15 @@
       "name": "Tokamak",
       "repository": "enuminous/Tokamak",
       "default_branch": "main",
-      "tree_sha": "26fc1fb49decbf56acbe563608284c417fe61877",
-      "files": 32,
+      "tree_sha": "4939a9314d2db8482a4a0f7421ca4bb1d125917d",
+      "files": 419,
       "counts": {
-        "document": 11,
+        "document": 38,
         "papers_document": 0,
-        "data_or_result": 9,
-        "reproducibility_source": 10,
-        "media": 0,
-        "other": 3
+        "data_or_result": 390,
+        "reproducibility_source": 44,
+        "media": 21,
+        "other": 4
       },
       "status": "COMPLETE",
       "inventory": "repos/Tokamak.json",

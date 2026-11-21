@@ -1,7 +1,7 @@
 {
   "repository": "enuminous/Mathematics-and-Elite-Squad-Dynamics",
   "default_branch": "main",
-  "tree_sha": "592977608f6cf179cb0417387e978f4c6c948d38",
+  "tree_sha": "0e302f60a2078a95c11c397dc9f20725492c096e",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
@@ -207,6 +207,26 @@
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
+      "path": "articles/22-fear-and-loathing-brady-briefing-room-stephen-miller-2026-11-21.md",
+      "blob_sha": "3e9455cc5b20eac8bbb5f410bfe2df5068991a90",
+      "size_bytes": 12209,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/22-fear-and-loathing-brady-briefing-room-stephen-miller-2026-11-21.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "games/grand-theft-banal-vi.html",
+      "blob_sha": "37d7f9513088748bd6409f615b0940b810e5e1cc",
+      "size_bytes": 20024,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/games/grand-theft-banal-vi.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
       "path": "image - 2026-10-08T163041.989.jpg",
       "blob_sha": "4a22d2752a4d92497902fa1bad6966294bd48bf1",
       "size_bytes": 446157,
@@ -398,8 +418,8 @@
     },
     {
       "path": "index.html",
-      "blob_sha": "d154a02263737b32cf771c9fd6b0ee09b732139c",
-      "size_bytes": 50135,
+      "blob_sha": "7df72766bdb2a966039aadadc125e014d2bfa40a",
+      "size_bytes": 51024,
       "kinds": [
         "document"
       ],
@@ -428,8 +448,8 @@
     },
     {
       "path": "README.md",
-      "blob_sha": "9f5c7349005d0f214b9452f4780fcbaecee71fe0",
-      "size_bytes": 11070,
+      "blob_sha": "74ed9193df16df4f707d52f3ee8d4d7f3298059e",
+      "size_bytes": 11838,
       "kinds": [
         "document"
       ],

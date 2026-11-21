@@ -1,11 +1,3918 @@
 {
   "repository": "enuminous/Tokamak",
   "default_branch": "main",
-  "tree_sha": "26fc1fb49decbf56acbe563608284c417fe61877",
+  "tree_sha": "4939a9314d2db8482a4a0f7421ca4bb1d125917d",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
   "files": [
+    {
+      "path": "benchmarks/openstep-001/.gitignore",
+      "blob_sha": "f226f6565497d17cc6108e73fbc64e111d73d4e9",
+      "size_bytes": 38,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/artifact-manifest.json",
+      "blob_sha": "88eb80748f47cec2a23344ddd3410bba750bc7e0",
+      "size_bytes": 11933,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/artifact-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/assess.py",
+      "blob_sha": "e96fbb135f0406bab23aa65cc5e698c545d40778",
+      "size_bytes": 9780,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/assess.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/benchmark.py",
+      "blob_sha": "5a7d7bd2ee2fe2383f937f8c3bb1b907ad5581aa",
+      "size_bytes": 11383,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/benchmark.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/assessment.log",
+      "blob_sha": "7815e8c23f690a92d9752bce142aa78a980003d2",
+      "size_bytes": 7895,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/assessment.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/attempt-index.json",
+      "blob_sha": "d436b74f11fbc0e8cbc1ea8dbddc416f9835bec6",
+      "size_bytes": 2371,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/attempt-index.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/baseline-129-cell.json",
+      "blob_sha": "d6949711c9415068d188732c096d04ca54fc7549",
+      "size_bytes": 2949,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/baseline-129-cell.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/baseline-129-cell2.json",
+      "blob_sha": "c730fde1ba4d91a9853363e471c3bdcb0d2d7193",
+      "size_bytes": 2954,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/baseline-129-cell2.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/baseline-129-corrected.json",
+      "blob_sha": "8130d77f4e6c6355542226b3993421a2b752abd9",
+      "size_bytes": 4690,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/baseline-129-corrected.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/baseline-129-newton.json",
+      "blob_sha": "3ae498668fb6f5039fc5bfec4fd4dcdc3dd0bcb1",
+      "size_bytes": 6442,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/baseline-129-newton.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/baseline-129-precise.json",
+      "blob_sha": "d1ce764d31545097d4266a06b3ce2b99a32f8487",
+      "size_bytes": 6447,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/baseline-129-precise.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/baseline-129.json",
+      "blob_sha": "7e2369a496f27ed8ff0928fb448bbb9ed18f5e63",
+      "size_bytes": 12783,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/baseline-129.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/baseline-65.json",
+      "blob_sha": "70f0246b2222d26f341f3687c04e6207175912c1",
+      "size_bytes": 10909,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/baseline-65.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/cell-129.log",
+      "blob_sha": "32e4c5b5dc412d4a631f77b664585c1666214ad1",
+      "size_bytes": 3199,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/cell-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/cell-p9-65.log",
+      "blob_sha": "fd13fd4400cca6f433678420fa5595b11b700e86",
+      "size_bytes": 9364,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/cell-p9-65.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/cell2-129.log",
+      "blob_sha": "6639665d41b401a370bbaae2fc4145a069156131",
+      "size_bytes": 3204,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/cell2-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/cell2-p9-65.log",
+      "blob_sha": "92a8d4dcfd2d21f1454ca71b48d37ed67ab8cac0",
+      "size_bytes": 11081,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/cell2-p9-65.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/corrected-129.log",
+      "blob_sha": "618082dd98fc9467268ebbab257f2fbba80beaf1",
+      "size_bytes": 6961,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/corrected-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/corrected-p9-65.log",
+      "blob_sha": "451b533450c873f4600b206eba1d5aebfa7155c0",
+      "size_bytes": 9293,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/corrected-p9-65.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/newton-129.log",
+      "blob_sha": "b3b9149efc992d7394d4a1bd248715c814d5ec6d",
+      "size_bytes": 9205,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/newton-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/newton-p9-65.log",
+      "blob_sha": "76b365daf7f1254cde363805f09258549fa8c52c",
+      "size_bytes": 9211,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/newton-p9-65.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/p9-inward-65-cell.json",
+      "blob_sha": "2e4f0ce3989d082e6645cc898a09f42ca9095726",
+      "size_bytes": 6562,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/p9-inward-65-cell.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/p9-inward-65-cell2.json",
+      "blob_sha": "18c4441c0daafc9fbb56a9a363fc1e95b9d38eb5",
+      "size_bytes": 7574,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/p9-inward-65-cell2.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/p9-inward-65-corrected.json",
+      "blob_sha": "0cd69e8013c0bc9de1ea34244dc1f31f53ef1fc7",
+      "size_bytes": 6530,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/p9-inward-65-corrected.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/p9-inward-65-newton.json",
+      "blob_sha": "8560c7536d61a5e8f468c925c9e522927d28fabc",
+      "size_bytes": 6440,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/p9-inward-65-newton.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/p9-inward-65-precise.json",
+      "blob_sha": "2d4f30e3cab9765e40f0d58fad8e29d15a2193c8",
+      "size_bytes": 6437,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/p9-inward-65-precise.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/p9-inward-65.json",
+      "blob_sha": "79545da9164ed0f547555030bd0bf80ff57fdbe7",
+      "size_bytes": 12628,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/p9-inward-65.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/picard-129.log",
+      "blob_sha": "97078a72b6a2bc29cb00f0474d07cba8c3a1aeac",
+      "size_bytes": 14539,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/picard-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/picard-65.log",
+      "blob_sha": "2e5200af1ab65d566f9761d6be0c8c8def7af05e",
+      "size_bytes": 12408,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/picard-65.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/picard-p9-65.log",
+      "blob_sha": "addf6985665742acee501b4cb7a7a5babdfca22c",
+      "size_bytes": 14178,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/picard-p9-65.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/precise-129.log",
+      "blob_sha": "84bf5bde386f4984ffea7461507370c8a8668db0",
+      "size_bytes": 9213,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/precise-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/precise-p9-65.log",
+      "blob_sha": "9fdb855f3efc4c6f8eedb949ef0cc1aee48ca34e",
+      "size_bytes": 9210,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/precise-p9-65.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/development/verification.log",
+      "blob_sha": "12a0d71adb689739cc1361f55c3415ecfc3e20ff",
+      "size_bytes": 3478,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/development/verification.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/fetch_sources.py",
+      "blob_sha": "4d3477c261856927724e39395de4f4b5c89737ee",
+      "size_bytes": 1357,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/fetch_sources.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/METHODS.md",
+      "blob_sha": "82cb2f47d12c56da7ab0e9b702ad7dbbf1c8eccc",
+      "size_bytes": 5381,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/METHODS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/PROTOCOL.md",
+      "blob_sha": "69bebb63dcecf972818736558e429d7de897a732",
+      "size_bytes": 4212,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/README.md",
+      "blob_sha": "79801cdb222296072735852910292f10dacdb860",
+      "size_bytes": 6153,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/requirements.txt",
+      "blob_sha": "ab4838bde71dbb9f65fd4582fdbafced8525ca94",
+      "size_bytes": 279,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/assessment.log",
+      "blob_sha": "7815e8c23f690a92d9752bce142aa78a980003d2",
+      "size_bytes": 7895,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/assessment.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/baseline-129-symmetric.json",
+      "blob_sha": "7d7a0949b3ca1899c07b43244edb88527f37baec",
+      "size_bytes": 2949,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/baseline-129-symmetric.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/baseline-129-symmetric.npz",
+      "blob_sha": "4332b7618ca4207733eee3d02bce03bdfa0dd585",
+      "size_bytes": 328501,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/baseline-129-symmetric.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/baseline-257-symmetric.json",
+      "blob_sha": "56a178a2c42fc91a23af88f9026b521b5ed6ae1e",
+      "size_bytes": 2954,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/baseline-257-symmetric.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/baseline-257-symmetric.npz",
+      "blob_sha": "98636b95fd474103c48682407d00f4bd126240e2",
+      "size_bytes": 1313167,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/baseline-257-symmetric.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/baseline-65-symmetric.json",
+      "blob_sha": "28e197b12c83a4a0fa06672fbf300b7382d2b9fe",
+      "size_bytes": 6583,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/baseline-65-symmetric.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/baseline-65-symmetric.npz",
+      "blob_sha": "77d238004666e00e368e2707f011b768d10e950a",
+      "size_bytes": 83422,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/baseline-65-symmetric.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/coil-section.svg",
+      "blob_sha": "a4f37e7df58a0697f78d7468ff64c92d413c743a",
+      "size_bytes": 192082,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/coil-section.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/equilibrium-comparison.png",
+      "blob_sha": "606298afa48fd2bfef3deb35809433bc73c58cba",
+      "size_bytes": 345453,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/equilibrium-comparison.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/equilibrium-comparison.svg",
+      "blob_sha": "bc9cf54476fe8a7f1ecdd9b6a57efcb3dda3d355",
+      "size_bytes": 201943,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/equilibrium-comparison.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/p9-inward-129-symmetric.json",
+      "blob_sha": "b4490b1ea0d12c2c445083f7b9ae2bfd7c4d6cd0",
+      "size_bytes": 3048,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/p9-inward-129-symmetric.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/p9-inward-129-symmetric.npz",
+      "blob_sha": "520a64b52e92c8d5f41f490d2f540d7488ed45da",
+      "size_bytes": 328408,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/p9-inward-129-symmetric.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/p9-inward-257-symmetric.json",
+      "blob_sha": "9f07c60e92d4824fe6e7fcfdbfbd423339a5550f",
+      "size_bytes": 2947,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/p9-inward-257-symmetric.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/p9-inward-257-symmetric.npz",
+      "blob_sha": "db90227224331000ab337d2a738842d9310f40f5",
+      "size_bytes": 1312966,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/p9-inward-257-symmetric.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/p9-inward-65-symmetric.json",
+      "blob_sha": "2ea761f661547726e45377084f755c5bb4b0ffeb",
+      "size_bytes": 6584,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/p9-inward-65-symmetric.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/p9-inward-65-symmetric.npz",
+      "blob_sha": "700b05d749345b829593c9155b55f451211c9194",
+      "size_bytes": 83486,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/p9-inward-65-symmetric.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/pressure-profile.svg",
+      "blob_sha": "c6188f9ff8316b8b5ed88d24eb7c5b3e76d8fe0d",
+      "size_bytes": 35933,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/pressure-profile.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/summary.json",
+      "blob_sha": "7815e8c23f690a92d9752bce142aa78a980003d2",
+      "size_bytes": 7895,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/summary.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/symmetric-129.log",
+      "blob_sha": "daa1519ec2630af932dff66aa33b7fcaa0231d1c",
+      "size_bytes": 3197,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/symmetric-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/symmetric-257.log",
+      "blob_sha": "0f19e9983fca77cfff009f1de67b435584b795c1",
+      "size_bytes": 3203,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/symmetric-257.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/symmetric-65.log",
+      "blob_sha": "a3729f4c1c8022af94e86eac13ff57e9e4449ade",
+      "size_bytes": 9395,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/symmetric-65.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/symmetric-p9-129.log",
+      "blob_sha": "a308945d7052b9ffebe0036f90e31bb81b178c88",
+      "size_bytes": 3363,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/symmetric-p9-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/symmetric-p9-257.log",
+      "blob_sha": "cbf13ef3984d7e400d26e12b28c2c140e694cf4b",
+      "size_bytes": 3196,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/symmetric-p9-257.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/symmetric-p9-65.log",
+      "blob_sha": "0e4d0a6abc18897bc70c44378e5a476f798bb277",
+      "size_bytes": 9403,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/symmetric-p9-65.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/verification.json",
+      "blob_sha": "1be8edf3187d9d436da5bb9002bf6bb8710d1b79",
+      "size_bytes": 7107,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/verification.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/verification.log",
+      "blob_sha": "1be8edf3187d9d436da5bb9002bf6bb8710d1b79",
+      "size_bytes": 7107,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/verification.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/results/xpoint-detail.svg",
+      "blob_sha": "f31b77a48540328081d2f366ba7f4c1297b05d50",
+      "size_bytes": 38451,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/results/xpoint-detail.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/source/CITATION-OpenSTEP.cff",
+      "blob_sha": "c6221ba6968170e73989f4de287580f09bbe96e5",
+      "size_bytes": 2727,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/source/CITATION-OpenSTEP.cff",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/source/coil-inputs.csv",
+      "blob_sha": "d249c0d9860f6d4ef8845d34c25b9a275b538954",
+      "size_bytes": 1253,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/source/coil-inputs.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/source/coilset.mat",
+      "blob_sha": "e0bc03024886092a932cd4b3c29f7611c1496178",
+      "size_bytes": 9164,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/source/coilset.mat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/source/equilibrium.mat",
+      "blob_sha": "4ded1e40f1ed30a8700d281f2246c1a0686d0d18",
+      "size_bytes": 1740703,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/source/equilibrium.mat",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/source/LICENSE-OpenSTEP.txt",
+      "blob_sha": "4ea99c213c5c0c005ae4e80df8e52169d06896ec",
+      "size_bytes": 18656,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/source/LICENSE-OpenSTEP.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/source/manifest.json",
+      "blob_sha": "6441c0fd1a0267d19d3230c93faa1d659a4950bd",
+      "size_bytes": 701,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/source/manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/source/README-OpenSTEP.md",
+      "blob_sha": "5f33e772daaa29c2f9f290549af254f3433aba28",
+      "size_bytes": 8842,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/source/README-OpenSTEP.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/source/STEP_SPP_001_EBCC_freeboundary.nc",
+      "blob_sha": "870894ca0440d5d7516954f6ec6ebaacb78f6f7e",
+      "size_bytes": 1273723,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/source/STEP_SPP_001_EBCC_freeboundary.nc",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-001/verify.py",
+      "blob_sha": "27cb8f1643b2b22b8f3f5b9b639d3cafad712270",
+      "size_bytes": 4272,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-001/verify.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/.gitignore",
+      "blob_sha": "c18dd8d83ceed1806b50b0aaa46beb7e335fff13",
+      "size_bytes": 13,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/.gitignore",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/AMENDMENTS.md",
+      "blob_sha": "3e52df34b5f2d4ce86cb1231a5f6b7e72e87f823",
+      "size_bytes": 1282,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/AMENDMENTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/artifact-manifest.json",
+      "blob_sha": "1e515f1754c09e5b648b32797e43b00dce8a3373",
+      "size_bytes": 31217,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/artifact-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/assess.py",
+      "blob_sha": "863009fe19c22655bbba048576ee57fdf2a5e26c",
+      "size_bytes": 9102,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/assess.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/boundary_check.py",
+      "blob_sha": "f780fe87f32f097a88d00f71c48a5c911d4c1793",
+      "size_bytes": 945,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/boundary_check.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/cached_boundary.py",
+      "blob_sha": "b70a1977053a04c0ee81d21e94a5804c9bd94554",
+      "size_bytes": 2141,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/cached_boundary.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/controlled.py",
+      "blob_sha": "0229df6df3ee7a92ca0c333452db0680a122e97a",
+      "size_bytes": 4082,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/controlled.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/COPYING-GPL-3.txt",
+      "blob_sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "size_bytes": 35149,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/COPYING-GPL-3.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/critical_check.py",
+      "blob_sha": "c224a9e9419dd6682666aa934719c313731423ae",
+      "size_bytes": 977,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/critical_check.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/critical_scope.py",
+      "blob_sha": "7717ed92561cbd2b94724a3b97193a9def72dfcd",
+      "size_bytes": 691,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/critical_scope.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/DEVELOPMENT.md",
+      "blob_sha": "51bf1cfaa0e0cdef6d237e42747d09db47e1ac96",
+      "size_bytes": 2854,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/DEVELOPMENT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/development/baseline-129-controlled-warm257.json",
+      "blob_sha": "4b658886432a07ff9a8453e9c8bac5e3530488d5",
+      "size_bytes": 5866,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/development/baseline-129-controlled-warm257.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/development/baseline-129-controlled-warm257.log",
+      "blob_sha": "1f0c4e3bf8b6944693f37c7debab9c376c6d185b",
+      "size_bytes": 8680,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/development/baseline-129-controlled-warm257.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/development/baseline-129-controlled-warm257.npz",
+      "blob_sha": "00f724779bb7838263ef77887ab17f765ae7f6c3",
+      "size_bytes": 328490,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/development/baseline-129-controlled-warm257.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/development/baseline-513-cached-interrupted.log",
+      "blob_sha": "8fbb8e96af88b1b01a69637528524c20b754aa75",
+      "size_bytes": 59,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/development/baseline-513-cached-interrupted.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/development/baseline-513-profiled-interrupted.log",
+      "blob_sha": "5b6abc922ca1e4cdb88cc5fc7740fa2c2263c198",
+      "size_bytes": 4595,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/development/baseline-513-profiled-interrupted.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/development/baseline-513-uncached-interrupted.log",
+      "blob_sha": "c5c2e89d2393dab3d02e2d169289f467db42bbd9",
+      "size_bytes": 126,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/development/baseline-513-uncached-interrupted.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/development/p9-inward-257-controlled-uncached-interrupted.log",
+      "blob_sha": "b1833d1d156561ff82c84b573161aa8988500b21",
+      "size_bytes": 340,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/development/p9-inward-257-controlled-uncached-interrupted.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/development/p9-inward-513-cached-interrupted.log",
+      "blob_sha": "4fa66cd58561ebc06ac7cb90bdb5536de718a61c",
+      "size_bytes": 130,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/development/p9-inward-513-cached-interrupted.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/development/p9-inward-513-uncached-interrupted.log",
+      "blob_sha": "16b595494dc6631b424299d4587fd3976960fff8",
+      "size_bytes": 60,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/development/p9-inward-513-uncached-interrupted.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/diagnostic_checks.py",
+      "blob_sha": "84e00b0e0eaf25724a795a9e7b35a5b2952821c2",
+      "size_bytes": 1492,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/diagnostic_checks.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/fetch_sources.py",
+      "blob_sha": "90b84287a7813179d0be4be211d01329f71e0afd",
+      "size_bytes": 611,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/fetch_sources.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/LICENSE-FreeGS.txt",
+      "blob_sha": "65c5ca88a67c30becee01c5a8816d964b03862f9",
+      "size_bytes": 7651,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/LICENSE-FreeGS.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/make_manifest.py",
+      "blob_sha": "d924bd239d9382d331d38d6797312978da2207a7",
+      "size_bytes": 1143,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/make_manifest.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/METHODS.md",
+      "blob_sha": "461cb1317f8e5827e4fcb6e1e2479531312d4d5f",
+      "size_bytes": 6094,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/METHODS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/PROTOCOL.md",
+      "blob_sha": "de2a6230df8c202a01f356a5757ef0fa87d161a7",
+      "size_bytes": 4968,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/README.md",
+      "blob_sha": "089ccc2384fa45d866ee3e0b61b19e9dcf4e9b12",
+      "size_bytes": 13181,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/refine.py",
+      "blob_sha": "fb2517a824338715c52e5ea114636d8332f5bbdd",
+      "size_bytes": 2568,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/refine.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/requirements.txt",
+      "blob_sha": "63c3f52040d62220cc2846057335e9906365558b",
+      "size_bytes": 36,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/assessment.log",
+      "blob_sha": "fdffe44b94f365e539051b504d527fe596018afe",
+      "size_bytes": 3082,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/assessment.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/baseline-129-controlled.json",
+      "blob_sha": "46d403fe71f8cbf2f2b44d6860248aad6510e044",
+      "size_bytes": 5862,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/baseline-129-controlled.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/baseline-129-controlled.log",
+      "blob_sha": "e0d98d960adfd6811cb180d88977207d93d58013",
+      "size_bytes": 8673,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/baseline-129-controlled.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/baseline-129-controlled.npz",
+      "blob_sha": "87b8c70bab3c766b0b5f823a5d6fd1f8d2f5dfa8",
+      "size_bytes": 328593,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/baseline-129-controlled.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/baseline-129-q.csv",
+      "blob_sha": "e3477c1595a69a41d5ec94206539e4ca03040273",
+      "size_bytes": 1208,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/baseline-129-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/baseline-257-controlled-q.csv",
+      "blob_sha": "c7be1ddc6b83059cf6d9d1eb922f584c7fb3deb7",
+      "size_bytes": 1210,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/baseline-257-controlled-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/baseline-257-controlled.json",
+      "blob_sha": "df27049e4a5415d988f630b0fd4ef2d792bb9e55",
+      "size_bytes": 1957,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/baseline-257-controlled.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/baseline-257-controlled.log",
+      "blob_sha": "9bad140d4b6f4a26b5926e06c76a99b04c17bea0",
+      "size_bytes": 2203,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/baseline-257-controlled.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/baseline-257-controlled.npz",
+      "blob_sha": "89802fff73110bb1c36fe83646f9fe5ddcad99a2",
+      "size_bytes": 1313043,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/baseline-257-controlled.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/baseline-257-q.csv",
+      "blob_sha": "d0d4f85be33e941ecf984a64d19c16e3ace1f5dc",
+      "size_bytes": 1207,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/baseline-257-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/baseline-513-q.csv",
+      "blob_sha": "19ab1c0d9d9e53e001fe6ae6ac2fa1457198aaa9",
+      "size_bytes": 1212,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/baseline-513-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/baseline-513-symmetric.json",
+      "blob_sha": "5bd68c2055f183696a324e53fae948d18c5c3597",
+      "size_bytes": 2386,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/baseline-513-symmetric.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/baseline-513-symmetric.npz",
+      "blob_sha": "ed15b709299a89dad1f9942ee08efcc48dd1e4ad",
+      "size_bytes": 5290818,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/baseline-513-symmetric.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/baseline-513.log",
+      "blob_sha": "26ba21feb6e3d883df1d488a2f69864f22649f99",
+      "size_bytes": 2632,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/baseline-513.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/boundary-equivalence.json",
+      "blob_sha": "0cb1487ca45b9d80e0dbf702992def21c9ae1bfd",
+      "size_bytes": 299,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/boundary-equivalence.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/boundary-equivalence.log",
+      "blob_sha": "bddc1c20f67b9584664c8dc790617b4b4f6153e5",
+      "size_bytes": 231,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/boundary-equivalence.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/confinement-sweep-129.csv",
+      "blob_sha": "965eb88dda6214ec3b0c44c1cb4e6fa140bc357a",
+      "size_bytes": 9852,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/confinement-sweep-129.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/confinement-sweep-257.csv",
+      "blob_sha": "e295792676123d01f6555abcc7783cc0c6764b41",
+      "size_bytes": 9858,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/confinement-sweep-257.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/confinement-sweep-513.csv",
+      "blob_sha": "2e36df9a107b44f2f411653d31ccebc856c52220",
+      "size_bytes": 9854,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/confinement-sweep-513.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/confinement-traces-129.csv",
+      "blob_sha": "f83a08d73e3662757ff6657f0b7bbb186fdfeef9",
+      "size_bytes": 101182,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/confinement-traces-129.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/confinement-traces-257.csv",
+      "blob_sha": "d9db79b07b697da1754aedf68e4f6eccd10031a6",
+      "size_bytes": 101160,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/confinement-traces-257.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/confinement-traces-513.csv",
+      "blob_sha": "bb8c53770626b9179c9f34516317048ccf681dda",
+      "size_bytes": 101196,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/confinement-traces-513.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/confinement.png",
+      "blob_sha": "32ae18740151081af82c553f1a2bf97ebf01f4ca",
+      "size_bytes": 90506,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/confinement.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/confinement.svg",
+      "blob_sha": "0aec7017537d03ff3fec3abf7b3d2e106e4827df",
+      "size_bytes": 28072,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/confinement.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/controlled-magnetic.json",
+      "blob_sha": "424f41918e80dce85c8dc0791a79ef6ca9579e97",
+      "size_bytes": 1754,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/controlled-magnetic.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/critical-search-equivalence.json",
+      "blob_sha": "5359293d8ac108b940bc42928e76b2ca8bcfd46f",
+      "size_bytes": 722,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/critical-search-equivalence.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/critical-search-equivalence.log",
+      "blob_sha": "5359293d8ac108b940bc42928e76b2ca8bcfd46f",
+      "size_bytes": 722,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/critical-search-equivalence.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/electric-sweep.csv",
+      "blob_sha": "d628a1ae1d1097f6ffb45190579b31837f21f4a7",
+      "size_bytes": 5622,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/electric-sweep.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/engineering.png",
+      "blob_sha": "7d7367b45efdd49d45704f1523b9cda63e7d0c6c",
+      "size_bytes": 85522,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/engineering.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/engineering.svg",
+      "blob_sha": "3897e6bc4cc7d26e75a9779b511ebba61932d709",
+      "size_bytes": 26228,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/engineering.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/exhaust.png",
+      "blob_sha": "bceb14aaf98fe46d79f491b59b81fbce7e539fec",
+      "size_bytes": 118813,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/exhaust.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/exhaust.svg",
+      "blob_sha": "80630476dbd17cde6ef843f6214be9202e5deda2",
+      "size_bytes": 24549,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/exhaust.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/fieldline-paths-129.npz",
+      "blob_sha": "d563157d1530106977060572e229f2929a49c405",
+      "size_bytes": 504929,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/fieldline-paths-129.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/fieldline-paths-257.npz",
+      "blob_sha": "a946322685fd0919b88b22b1d60ea91082f86792",
+      "size_bytes": 504831,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/fieldline-paths-257.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/fieldline-paths-513.npz",
+      "blob_sha": "f511f3fa4ce18c2a01a060a38ef2c2df78b441b1",
+      "size_bytes": 504782,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/fieldline-paths-513.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/fieldline-traces-129.csv",
+      "blob_sha": "06cd25bce5d8d5501941192f89a77b11cd0531de",
+      "size_bytes": 3658,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/fieldline-traces-129.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/fieldline-traces-257.csv",
+      "blob_sha": "251a4f27e79839bbd75d98b083055de8d33ec053",
+      "size_bytes": 3672,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/fieldline-traces-257.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/fieldline-traces-513.csv",
+      "blob_sha": "20a23201602fc2dfd9163a2888284cf1286dd012",
+      "size_bytes": 3664,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/fieldline-traces-513.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/force-independent-check.json",
+      "blob_sha": "d29ca0bdeb04505a46006211d1c4877f83811e6e",
+      "size_bytes": 177,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/force-independent-check.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/heat-load-sweep-129.csv",
+      "blob_sha": "694bcf4b494b5b3a754490dd003fae9ded791d4d",
+      "size_bytes": 14180,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/heat-load-sweep-129.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/heat-load-sweep-257.csv",
+      "blob_sha": "223931e8d75e28065909edd7f77f8447862ccc77",
+      "size_bytes": 14186,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/heat-load-sweep-257.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/heat-load-sweep-513.csv",
+      "blob_sha": "939de3e9a54dc63885740dcb4d6bba68d9752e40",
+      "size_bytes": 14179,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/heat-load-sweep-513.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/kinetic-inputs.json",
+      "blob_sha": "8f2d63282311e5269228df01a1038ade1dd58836",
+      "size_bytes": 1054,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/kinetic-inputs.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/magnetic-screens.png",
+      "blob_sha": "d59bbf5ef60b8ec5f786e34f613cfa6833064ec6",
+      "size_bytes": 104866,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/magnetic-screens.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/magnetic-screens.svg",
+      "blob_sha": "f013b15de975dcb6cbcb604e1821a4b6a073078d",
+      "size_bytes": 23628,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/magnetic-screens.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/p9-inward-129-controlled-q.csv",
+      "blob_sha": "0f15e6c2c79d1033ad31eec8d247c197b4eab26a",
+      "size_bytes": 1210,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/p9-inward-129-controlled-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/p9-inward-129-controlled.json",
+      "blob_sha": "3636f3b6490632e7be748d792ad7e258fef9f9a7",
+      "size_bytes": 2553,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/p9-inward-129-controlled.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/p9-inward-129-controlled.log",
+      "blob_sha": "70314d344e9fdbf1d3b4f925e92c966e7753b895",
+      "size_bytes": 3028,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/p9-inward-129-controlled.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/p9-inward-129-controlled.npz",
+      "blob_sha": "bfed16b4f442352062dee6a1715a5b2271f8f43b",
+      "size_bytes": 328546,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/p9-inward-129-controlled.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/p9-inward-129-q.csv",
+      "blob_sha": "74c6ad6da7c7c2be6fb38119ab7c199c9320dd23",
+      "size_bytes": 1205,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/p9-inward-129-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/p9-inward-257-controlled-q.csv",
+      "blob_sha": "37c92dbf82e8fd6f6b448a71d99ac056248becd9",
+      "size_bytes": 1206,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/p9-inward-257-controlled-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/p9-inward-257-controlled.json",
+      "blob_sha": "55647bc2b51a67a756200130aef1de6fa85fe6e7",
+      "size_bytes": 2355,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/p9-inward-257-controlled.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/p9-inward-257-controlled.log",
+      "blob_sha": "cc81218c91556f9470b347fcab02f0572b7fbfc6",
+      "size_bytes": 2563,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/p9-inward-257-controlled.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/p9-inward-257-controlled.npz",
+      "blob_sha": "346a1e1262c5fdf2f83d68e01df4ad5f4fcbf8e5",
+      "size_bytes": 1312889,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/p9-inward-257-controlled.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/p9-inward-257-q.csv",
+      "blob_sha": "e5fb7a8ec15ea6cfbe56c1847db5713b358c75b4",
+      "size_bytes": 1204,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/p9-inward-257-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/p9-inward-513-q.csv",
+      "blob_sha": "566e4bf7ff430beb606612356dc870318ee56bb5",
+      "size_bytes": 1208,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/p9-inward-513-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/p9-inward-513-symmetric.json",
+      "blob_sha": "b2780638c984809939ea949facbd1183c9d70950",
+      "size_bytes": 2391,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/p9-inward-513-symmetric.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/p9-inward-513-symmetric.npz",
+      "blob_sha": "be15d4e123d53c891ea448f2385cf1b19bc14a33",
+      "size_bytes": 5291036,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/p9-inward-513-symmetric.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/p9-inward-513.log",
+      "blob_sha": "3c2bb7048c455ffaab453fc1ef625eaee78ee008",
+      "size_bytes": 2638,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/p9-inward-513.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/screens-129-core.json",
+      "blob_sha": "4e30b4c9cc110c8734df36c9579dd2526e3c69db",
+      "size_bytes": 5414,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/screens-129-core.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/screens-129-core.log",
+      "blob_sha": "4e30b4c9cc110c8734df36c9579dd2526e3c69db",
+      "size_bytes": 5414,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/screens-129-core.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/screens-129-engineering.json",
+      "blob_sha": "244710115ab2c626352a569472244551b1e28829",
+      "size_bytes": 23433,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/screens-129-engineering.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/screens-129-engineering.log",
+      "blob_sha": "a62c7aabc9b8d7ff7a85fe4e136e1891f073368a",
+      "size_bytes": 250,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/screens-129-engineering.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/screens-129-exhaust.json",
+      "blob_sha": "de383452d05c5501aec8b227dada82c2d339b1a7",
+      "size_bytes": 627,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/screens-129-exhaust.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/screens-129-exhaust.log",
+      "blob_sha": "de383452d05c5501aec8b227dada82c2d339b1a7",
+      "size_bytes": 627,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/screens-129-exhaust.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/screens-257-all.json",
+      "blob_sha": "b75e336004a4ad819ad1524aa4da38a0790ac35b",
+      "size_bytes": 28968,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/screens-257-all.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/screens-257-core.json",
+      "blob_sha": "e2a593e91c88a80d0e2a07d1bc5af12e6fd33166",
+      "size_bytes": 5404,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/screens-257-core.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/screens-257-core.log",
+      "blob_sha": "e2a593e91c88a80d0e2a07d1bc5af12e6fd33166",
+      "size_bytes": 5404,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/screens-257-core.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/screens-257.log",
+      "blob_sha": "ebbc644aed825239b8df0f728287cafe303c6361",
+      "size_bytes": 5785,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/screens-257.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/screens-513-all.json",
+      "blob_sha": "7bc32c73cfab5e1ae2a9c496b0c03bdea9c504b7",
+      "size_bytes": 28976,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/screens-513-all.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/screens-513.log",
+      "blob_sha": "afde1f32b044a9aca265edee26608d3a1e2bae0f",
+      "size_bytes": 5798,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/screens-513.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/summary.json",
+      "blob_sha": "423562e6a830fd358249d6130d9b3c997f75008e",
+      "size_bytes": 37799,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/summary.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/thermal-central-160.csv",
+      "blob_sha": "83f3aca6a2e3b8af33bfb8b5516aa0f8d2a71d09",
+      "size_bytes": 9189,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/thermal-central-160.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/thermal-central-40.csv",
+      "blob_sha": "1b146544c30cbf5d282d67c069f564fcdaea6ebf",
+      "size_bytes": 9038,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/thermal-central-40.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/thermal-central-80.csv",
+      "blob_sha": "482870137c9cced520c63bc4c35ed43639549f7d",
+      "size_bytes": 8885,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/thermal-central-80.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/thermal-sweep.csv",
+      "blob_sha": "17d0a89246e9a87b4c16d83da8bb738f941b9904",
+      "size_bytes": 3705,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/thermal-sweep.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/thermal.json",
+      "blob_sha": "93314e838e7a6eacab2921ebe73ccbbc73a3162a",
+      "size_bytes": 1759,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/thermal.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/thermal.log",
+      "blob_sha": "93314e838e7a6eacab2921ebe73ccbbc73a3162a",
+      "size_bytes": 1759,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/thermal.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/verification.json",
+      "blob_sha": "7d181edad2cdb7698acaf311850b1ee2a90cfe07",
+      "size_bytes": 9857,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/verification.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/results/verification.log",
+      "blob_sha": "7d181edad2cdb7698acaf311850b1ee2a90cfe07",
+      "size_bytes": 9857,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/results/verification.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/screens.py",
+      "blob_sha": "cbb441c8464592f51759eb88eb7fd9e2d19adf68",
+      "size_bytes": 19763,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/screens.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/source/manifest.json",
+      "blob_sha": "d4bc03fe802405ef540f7a291c61e5d29e39f197",
+      "size_bytes": 1248,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/source/manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/source/SPR45_2D_Wall.csv",
+      "blob_sha": "a44988aa898bff5fc61190c9cdd813810846b8c5",
+      "size_bytes": 11288,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/source/SPR45_2D_Wall.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/source/STEP_SPP_001_EBCC_ftop.nc",
+      "blob_sha": "0b64f06d3f8b8d23b1ac289276f6d207150e3e80",
+      "size_bytes": 1262321,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/source/STEP_SPP_001_EBCC_ftop.nc",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/source/summary.h5",
+      "blob_sha": "b34e17ee3ec8f058f4a6c07ee7af86bf97236b64",
+      "size_bytes": 224090,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/source/summary.h5",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/thermal.py",
+      "blob_sha": "c88a66b505f853ea38c69be85ac8b38133fa4376",
+      "size_bytes": 2932,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/thermal.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/verify.py",
+      "blob_sha": "23139faa61a3ad3ec51ff2c2f532d7e7967aaf45",
+      "size_bytes": 6161,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/verify.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-002/write_report.py",
+      "blob_sha": "aa05ddb35f8a5404e49b47568c82df747ccb15de",
+      "size_bytes": 14544,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-002/write_report.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/AMENDMENTS.md",
+      "blob_sha": "8ba513057b13152f170a0efa199e2fb43d0e6372",
+      "size_bytes": 1768,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/AMENDMENTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/artifact-manifest.json",
+      "blob_sha": "da9d79f97eabf7dd58e69bbe7aee5c08b8ed02d1",
+      "size_bytes": 41332,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/artifact-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/assess.py",
+      "blob_sha": "9b4e3638c98018066e27162227177985bf7ec7c6",
+      "size_bytes": 4687,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/assess.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/COMMANDS.md",
+      "blob_sha": "0fdb82411af08266fb0549d42e15e91e234f2117",
+      "size_bytes": 6864,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/COMMANDS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/DEVELOPMENT.md",
+      "blob_sha": "6264066c9c35b27e0d8e40f7a96d809e88437f53",
+      "size_bytes": 4830,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/DEVELOPMENT.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/development/baseline-from-negative-interrupted.log",
+      "blob_sha": "ac429f112fc8de05d67f24507df63c727055cb7a",
+      "size_bytes": 4759,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/development/baseline-from-negative-interrupted.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/environment.json",
+      "blob_sha": "5f3540af73147a6356221f9fac4044147a48674f",
+      "size_bytes": 334,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/environment.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/plot.py",
+      "blob_sha": "a0737c1907a3215dcc6ea522bea73707babe2e9a",
+      "size_bytes": 2745,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/plot.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/PROTOCOL.md",
+      "blob_sha": "c77703f397f6cf46859aebf3d3b66a4d88583d33",
+      "size_bytes": 3938,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/provenance.py",
+      "blob_sha": "fb8344d2151de14b32f72bb7ec12a85a90bcb7b1",
+      "size_bytes": 2917,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/provenance.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/README.md",
+      "blob_sha": "263750933b1176db759a654fac5153a27f796c49",
+      "size_bytes": 6865,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/recover.py",
+      "blob_sha": "9cec6737105fc23b5a3cd1d39ef0497c371f9fca",
+      "size_bytes": 1191,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/recover.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/recovery_check.py",
+      "blob_sha": "bc462076eae3250c6fd5b6cf513e5a7ca7d5f3c6",
+      "size_bytes": 1184,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/recovery_check.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/requirements.txt",
+      "blob_sha": "63c3f52040d62220cc2846057335e9906365558b",
+      "size_bytes": 36,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/alternate--025mm-257-fd3.log",
+      "blob_sha": "9b88857ef549f7b97548816eb4cbda48e4496ae7",
+      "size_bytes": 1037,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/alternate--025mm-257-fd3.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/assessment.log",
+      "blob_sha": "b65cd94c6ca510a67bad843233a880d5bd32a94f",
+      "size_bytes": 2728,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/assessment.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/candidate-grid.csv",
+      "blob_sha": "c5083d44ad06e117986bf32f119606abcd410e66",
+      "size_bytes": 1601,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/candidate-grid.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/coil-scan.png",
+      "blob_sha": "ebbd8a778a6977faba57a5a7046562a09beaf07c",
+      "size_bytes": 203417,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/coil-scan.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/coil-scan.svg",
+      "blob_sha": "4561cf33373e75cd676d1b791dc527cea308b814",
+      "size_bytes": 63315,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/coil-scan.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/confinement-sweep-129.csv",
+      "blob_sha": "0861f72c0263e8ae4cde0f2f89da452d845929fa",
+      "size_bytes": 20795,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/confinement-sweep-129.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/confinement-sweep-257.csv",
+      "blob_sha": "f00d9f4d14da99626c8f088d86e4ee58ec5c1ab6",
+      "size_bytes": 20672,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/confinement-sweep-257.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/confinement-traces-129.csv",
+      "blob_sha": "985f25108bb1a7e3ab3372e4917b065c97ec9ba8",
+      "size_bytes": 243180,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/confinement-traces-129.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/confinement-traces-257.csv",
+      "blob_sha": "9d0c7497731fc072dc3f7e79fa6a382640c2a600",
+      "size_bytes": 238451,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/confinement-traces-257.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/fieldline-paths-129.npz",
+      "blob_sha": "cea4c8c5a7ea8bb4ac2bcf3e59fa0ff3f7a984cf",
+      "size_bytes": 1009829,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/fieldline-paths-129.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/fieldline-paths-257.npz",
+      "blob_sha": "71b1e7043d91b27d005e687c9a5a1a1dd2d98acb",
+      "size_bytes": 1010749,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/fieldline-paths-257.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/fieldline-traces-129.csv",
+      "blob_sha": "084074e9ccdb4bf99523c33b13cde2454b5d6e88",
+      "size_bytes": 7729,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/fieldline-traces-129.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/fieldline-traces-257.csv",
+      "blob_sha": "9e6cdf3eba0c3bcbb9bc6db5b49b2ef61899b9a7",
+      "size_bytes": 7544,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/fieldline-traces-257.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/heat-load-sweep-129.csv",
+      "blob_sha": "7b0c2eb57d67ed7db8240e05e9614adfebf0051e",
+      "size_bytes": 32446,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/heat-load-sweep-129.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/heat-load-sweep-257.csv",
+      "blob_sha": "30a3555b8def663cc545abd258d71b6c74912dc7",
+      "size_bytes": 31893,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/heat-load-sweep-257.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/interrupted-attempts.json",
+      "blob_sha": "5b7e63ac1f23c03f2a0362a5aaf3c4ad9aa5545d",
+      "size_bytes": 3918,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/interrupted-attempts.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-010mm-129-129-controlled-q.csv",
+      "blob_sha": "aa210f92565beee28d7345bb09a64fdf1fdfef73",
+      "size_bytes": 1205,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-010mm-129-129-controlled-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-010mm-129.json",
+      "blob_sha": "cb4244d35f8767a5c3dc774e8204240c23a32fe3",
+      "size_bytes": 2713,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-010mm-129.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-010mm-129.log",
+      "blob_sha": "16b9da04e0c3b04559b7c1abb6bca2478a30d2d7",
+      "size_bytes": 1655,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-010mm-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-010mm-129.npz",
+      "blob_sha": "f6897158167c84b8f459ff590aade6a2d9039647",
+      "size_bytes": 328458,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-010mm-129.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-010mm-257-257-controlled-q.csv",
+      "blob_sha": "e18c6777b5454ea00ecf810b796e9dc2a3d2de08",
+      "size_bytes": 1203,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-010mm-257-257-controlled-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-010mm-257.json",
+      "blob_sha": "d21b031d35986876c8b14f76f07903a503bc8e48",
+      "size_bytes": 2999,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-010mm-257.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-010mm-257.log",
+      "blob_sha": "42bb9a8be57ccde2f638ed556832533e689af9a7",
+      "size_bytes": 1924,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-010mm-257.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-010mm-257.npz",
+      "blob_sha": "30d8594404dc44dcca780343c5b7ae10b2f4f1aa",
+      "size_bytes": 1313056,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-010mm-257.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-025mm-129.json",
+      "blob_sha": "d86b28e4c86c173ff0440160a9a62e142a71b712",
+      "size_bytes": 8322,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-025mm-129.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-025mm-129.log",
+      "blob_sha": "8c41d682abf1b417fb0f83cd5e21f7a89183d776",
+      "size_bytes": 8273,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-025mm-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-025mm-129.npz",
+      "blob_sha": "44805358126f7dcd2451880c578488fff120c22d",
+      "size_bytes": 328583,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-025mm-129.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-025mm-257.json",
+      "blob_sha": "af720160c03d5370892da319ee08a199f196b6cd",
+      "size_bytes": 8343,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-025mm-257.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-025mm-257.log",
+      "blob_sha": "427ef0c01acb776a815fff9de92009acfc159c55",
+      "size_bytes": 7161,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-025mm-257.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-025mm-257.npz",
+      "blob_sha": "b225222bfe0532ae710c3b7d4566eca41e8fbd15",
+      "size_bytes": 1313041,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-025mm-257.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-050mm-129.json",
+      "blob_sha": "55b83f629a9531691e0d7197b5e6e428aeb7524d",
+      "size_bytes": 8354,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-050mm-129.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-050mm-129.log",
+      "blob_sha": "f9d2e284e5fe07cc4dce38d14ae13ce543b9a369",
+      "size_bytes": 7387,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-050mm-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-050mm-129.npz",
+      "blob_sha": "f207535dc739ad6a24239be89a15230908d7f673",
+      "size_bytes": 328684,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-050mm-129.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-050mm-257-257-controlled-q.csv",
+      "blob_sha": "bf85743b0cc341e7b4bf2547b8a0db2bff691bf8",
+      "size_bytes": 1204,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-050mm-257-257-controlled-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-050mm-257.json",
+      "blob_sha": "c12f090097901df32ead3d3f5413c4eb327e1898",
+      "size_bytes": 2817,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-050mm-257.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-050mm-257.log",
+      "blob_sha": "65525a0cc952d575663c284a6f51831b6766c4c2",
+      "size_bytes": 1747,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-050mm-257.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-050mm-257.npz",
+      "blob_sha": "21ed21b12bcbe870387207ca178c5750a201e66a",
+      "size_bytes": 1313086,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-050mm-257.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-sweep-129.json",
+      "blob_sha": "d362fe0d481b2070fb8277778c1bfe623d4a7827",
+      "size_bytes": 191,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-sweep-129.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-sweep-129.log",
+      "blob_sha": "6b37c7d5315117691f019af64136f3b9880290b7",
+      "size_bytes": 143,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-sweep-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-sweep-257.json",
+      "blob_sha": "01bc5c3738a4a0e4bbcfec97a23f03ab37eefd26",
+      "size_bytes": 190,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-sweep-257.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/inward-sweep-257.log",
+      "blob_sha": "387f317cdd3b9b8db7d586a196ea5e8135fe31d1",
+      "size_bytes": 142,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/inward-sweep-257.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-129-fd3.log",
+      "blob_sha": "c4090ae78a008273a299e01ba4f87c9b5e1fdcdd",
+      "size_bytes": 4963,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-129-fd3.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-129-fd7.json",
+      "blob_sha": "1d06989d8a80a08a4cce03c16890512a17233a33",
+      "size_bytes": 3677,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-129-fd7.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-129-fd7.log",
+      "blob_sha": "f563cf324b5960d11f56211dfe343e2980b110cf",
+      "size_bytes": 3682,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-129-fd7.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-129-fd7.npz",
+      "blob_sha": "8858a942aac7b4d198bf41874ac702a9365536e7",
+      "size_bytes": 328652,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-129-fd7.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-129-no-linesearch.json",
+      "blob_sha": "d5a67877f4a570563c97c406aa8c838200d95e1d",
+      "size_bytes": 8324,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-129-no-linesearch.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-129-no-linesearch.log",
+      "blob_sha": "6ded169fcdf5e3f6bf9de3a9f648ad2f7729e222",
+      "size_bytes": 7744,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-129-no-linesearch.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-129-no-linesearch.npz",
+      "blob_sha": "0f073ed798f916406ca5f3fa3b088c53cac23898",
+      "size_bytes": 328614,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-129-no-linesearch.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-check.json",
+      "blob_sha": "ee0738c8b7d7e92af3326428bec2ed818c46687d",
+      "size_bytes": 283,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-check.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-geometry-075mm.json",
+      "blob_sha": "d5a806b455785dde4a14c7b010c8055d52f903e1",
+      "size_bytes": 2201,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-geometry-075mm.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-geometry-075mm.log",
+      "blob_sha": "2bd791ece6de55c725c24bba1d665a7edcd9f7b8",
+      "size_bytes": 2266,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-geometry-075mm.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-geometry-075mm.npz",
+      "blob_sha": "e75d281cebff3fae13efa6ccfc40036904bd146d",
+      "size_bytes": 328516,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-geometry-075mm.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-00.json",
+      "blob_sha": "dd10cc95ce993a61cac91429bfc914c0a1889d49",
+      "size_bytes": 2537,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-00.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-00.log",
+      "blob_sha": "762b6284dbfae663e96b7194c88be7e8eb1c0f38",
+      "size_bytes": 1473,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-00.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-00.npz",
+      "blob_sha": "9b1e0d3ee380da1881a09418d6cf124ba8260427",
+      "size_bytes": 328460,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-00.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-01.json",
+      "blob_sha": "7e7412c32e700b0652a8f86e0cb874f7a7f331e3",
+      "size_bytes": 2707,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-01.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-01.log",
+      "blob_sha": "d26e8f5fbfab439a08c045c97980b9f14af0f023",
+      "size_bytes": 1651,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-01.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-01.npz",
+      "blob_sha": "850c51d7b04fa2738ed68e735216754f47b133ac",
+      "size_bytes": 328535,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-01.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-02.json",
+      "blob_sha": "f547139d70fb5e2158d6ab9fd876557e43b27cd4",
+      "size_bytes": 2722,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-02.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-02.log",
+      "blob_sha": "77d2019670087110d0ed80236ea8ce22588e6d9f",
+      "size_bytes": 1672,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-02.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-02.npz",
+      "blob_sha": "bb9fa4767efd0c75c9adf2bd1a428bd0563fe15c",
+      "size_bytes": 328555,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-02.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-03.json",
+      "blob_sha": "6051dc32383f7813ecda67cec386700dfaea5f1e",
+      "size_bytes": 2732,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-03.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-03.log",
+      "blob_sha": "2057695aa57e3b0e200c65b49c48d8e367c0fa5a",
+      "size_bytes": 1668,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-03.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-03.npz",
+      "blob_sha": "bcc89753bffdd70df4830ee83c47e447d7c24e01",
+      "size_bytes": 328626,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-03.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-04.json",
+      "blob_sha": "89ae0938ee03561e28a782845c1bd259e2c91f14",
+      "size_bytes": 2729,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-04.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-04.log",
+      "blob_sha": "8e82f9bd74c5157c037774c9da36d4bc67fffeba",
+      "size_bytes": 1669,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-04.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-04.npz",
+      "blob_sha": "b3572b92a3f43c061be4a919cfcb792cc6a5e775",
+      "size_bytes": 328499,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-04.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-05.json",
+      "blob_sha": "c08f07b9168e53e3c752435d0971d44baab3df44",
+      "size_bytes": 2726,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-05.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-05.log",
+      "blob_sha": "8fe2b70ce3319e301b66d1bb86045250c25ffc9e",
+      "size_bytes": 1668,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-05.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-05.npz",
+      "blob_sha": "c89bd0e2d4f2ba4a68f6c1d8e20863e7411bfb12",
+      "size_bytes": 328478,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-05.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-06.json",
+      "blob_sha": "e457789bafbf0282384a30dc7b89c606465f04be",
+      "size_bytes": 2726,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-06.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-06.log",
+      "blob_sha": "6cf4b07380a8fc0be0c6f14136ac2c8dddb94d2d",
+      "size_bytes": 1669,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-06.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-06.npz",
+      "blob_sha": "b6f2f82a8d9ab2d86cf59ad0f2ebc546747816e2",
+      "size_bytes": 328476,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-06.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-07.json",
+      "blob_sha": "aaba4681ecb7c60e019ffffe7f41bd79cb94d981",
+      "size_bytes": 7036,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-07.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-07.log",
+      "blob_sha": "399ee788b35e821d5f660e4e6f016fb647e6a5ce",
+      "size_bytes": 6065,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-07.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-07.npz",
+      "blob_sha": "082ef4232f2495d16440040e2ac0d0c4ae2b0dad",
+      "size_bytes": 328372,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-07.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-08.json",
+      "blob_sha": "1eb03ebedec1fbfff9b1f72278764d9c50ba09fa",
+      "size_bytes": 2635,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-08.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-08.log",
+      "blob_sha": "ceb53865ac7fd3434227fdde4f312562087a8598",
+      "size_bytes": 1570,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-08.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-08.npz",
+      "blob_sha": "50d6fd7b83e5fd282147a5bd6bc652d37756cc2b",
+      "size_bytes": 328449,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-08.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-09.json",
+      "blob_sha": "2308324016b5755bde49be1cc01e5d6da4ca680e",
+      "size_bytes": 2722,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-09.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-09.log",
+      "blob_sha": "5ecd181941ca98a9ae1d85b46c473a551785302a",
+      "size_bytes": 1668,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-09.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-09.npz",
+      "blob_sha": "cc7169002c4bab50b4f78d4a75156795d883b963",
+      "size_bytes": 328535,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-09.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-10-129-controlled-q.csv",
+      "blob_sha": "c96754297bfef9d3ad9c4fc5c8aa6772acb65041",
+      "size_bytes": 1202,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-10-129-controlled-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-10.json",
+      "blob_sha": "b6c5cacd5b54ef12365e531f4aa00121f697912c",
+      "size_bytes": 2627,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-10.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-10.log",
+      "blob_sha": "24df7c35d878d1bb7cb75167b289ec05947e1d43",
+      "size_bytes": 1569,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-10.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-homotopy-10.npz",
+      "blob_sha": "a88c726009733ed9a66e9ef2dffa055271286fc1",
+      "size_bytes": 328465,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-homotopy-10.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-path-geometry.json",
+      "blob_sha": "92611564e8f4ef5de82275a47a3ddab08a031f7e",
+      "size_bytes": 129,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-path-geometry.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-path-geometry.log",
+      "blob_sha": "2173c6381b4b7f1e6c7783a8041ae22e8590f6fe",
+      "size_bytes": 99,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-path-geometry.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-path-operating-point.json",
+      "blob_sha": "daa73b25cf27f297dccd81c1870fba8d132123ea",
+      "size_bytes": 1515,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-path-operating-point.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/recovery-path-operating-point.log",
+      "blob_sha": "e234d8c93ad8f190530decc043d862565cc9cafa",
+      "size_bytes": 1392,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/recovery-path-operating-point.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/screens-129.json",
+      "blob_sha": "1876dedced97498c1a4cd4ccecbb7e60ccc00f00",
+      "size_bytes": 15085,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/screens-129.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/screens-129.log",
+      "blob_sha": "da437ef801d327a4218b282903a5e71fcdb2fa44",
+      "size_bytes": 1932,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/screens-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/screens-257.json",
+      "blob_sha": "3a0f41816f17dec8174026c20e11007d509ce1e4",
+      "size_bytes": 15042,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/screens-257.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/screens-257.log",
+      "blob_sha": "c019af6adeb813d232adbf851a40cc545d566ca4",
+      "size_bytes": 3467,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/screens-257.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/selection-129.json",
+      "blob_sha": "aae87d14ca0c86a509b521406977b58ce2f9b080",
+      "size_bytes": 66,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/selection-129.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/selection-257.json",
+      "blob_sha": "a57bdb6e9c7e713c8a1953246dfb2e530689800b",
+      "size_bytes": 63,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/selection-257.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift-+000mm-129.json",
+      "blob_sha": "1a36b94be780020fd600b4ac1944b5cb15e551c8",
+      "size_bytes": 2512,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift-%2B000mm-129.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift-+000mm-129.log",
+      "blob_sha": "9c501080f11e8dc9b4af251719f44670109e7225",
+      "size_bytes": 1443,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift-%2B000mm-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift-+000mm-129.npz",
+      "blob_sha": "8f7658cee6eec543d3278bd9e51af774164df523",
+      "size_bytes": 328426,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift-%2B000mm-129.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift-+000mm-257-257-controlled-q.csv",
+      "blob_sha": "d4b0f7dba54598f24de42c8e9352f76f1a7cbb96",
+      "size_bytes": 1208,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift-%2B000mm-257-257-controlled-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift-+000mm-257.json",
+      "blob_sha": "33a836801782ad357a523f806367f509aec78c69",
+      "size_bytes": 2527,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift-%2B000mm-257.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift-+000mm-257.log",
+      "blob_sha": "1f20ac63429b33271e667c30e96691c6d19bd035",
+      "size_bytes": 1462,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift-%2B000mm-257.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift-+000mm-257.npz",
+      "blob_sha": "3de0d273cef0722616c0d02aba4b8537b377203c",
+      "size_bytes": 1313303,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift-%2B000mm-257.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift-+010mm-129.json",
+      "blob_sha": "ea624cfb8556bcd8d5fd087920a568fe0504ae84",
+      "size_bytes": 2694,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift-%2B010mm-129.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift-+010mm-129.log",
+      "blob_sha": "41722f7966c7cd3f668787a3d50cbb6cb772ef69",
+      "size_bytes": 1630,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift-%2B010mm-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift-+010mm-129.npz",
+      "blob_sha": "a1ddf9fdf616c362ef943d5a855cb74202e498e9",
+      "size_bytes": 328627,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift-%2B010mm-129.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift-+010mm-257.log",
+      "blob_sha": "bb765fec3a42bb445332d311f3321f0f04b5ac82",
+      "size_bytes": 385,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift-%2B010mm-257.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift-+025mm-129.json",
+      "blob_sha": "6c2291e30258f4843d052c6b7491faab30099772",
+      "size_bytes": 1212,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift-%2B025mm-129.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift-+025mm-129.log",
+      "blob_sha": "cf559f85fc68a9231a5d9da515efd095e0c42eff",
+      "size_bytes": 1186,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift-%2B025mm-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift-+025mm-129.npz",
+      "blob_sha": "7a432195fa758086ba5c5bc46a6bd22f17e75e70",
+      "size_bytes": 328722,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift-%2B025mm-129.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift-+050mm-129.log",
+      "blob_sha": "80b12e0fcf1e5f0df17abac1a68dd03c08c63862",
+      "size_bytes": 283,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift-%2B050mm-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--010mm-129-129-controlled-q.csv",
+      "blob_sha": "0b77f37ff170a142cd8167d120f5e3acc932927a",
+      "size_bytes": 1207,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--010mm-129-129-controlled-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--010mm-129.json",
+      "blob_sha": "3e4b869ee6a86e4b8d3ba1a1856ce4f372629fc6",
+      "size_bytes": 2804,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--010mm-129.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--010mm-129.log",
+      "blob_sha": "4d4d905afcd3459cf4b591e206ef5e656909878e",
+      "size_bytes": 1734,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--010mm-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--010mm-129.npz",
+      "blob_sha": "0bc36a88fbaf35b3419e1dbc2b86645ea81e8b15",
+      "size_bytes": 328568,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--010mm-129.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--010mm-257-257-controlled-q.csv",
+      "blob_sha": "158278a4aa7cd84ed4944fcefaeffac597027542",
+      "size_bytes": 1206,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--010mm-257-257-controlled-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--010mm-257.json",
+      "blob_sha": "15e1d655f75c6097e305eb6892ba5e0d96f02885",
+      "size_bytes": 2910,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--010mm-257.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--010mm-257.log",
+      "blob_sha": "91f3166401c62b11a4ca378587bfbae03df772a5",
+      "size_bytes": 1843,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--010mm-257.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--010mm-257.npz",
+      "blob_sha": "17ef4fc78e82d1f83f4411b801963f4dffd5ec88",
+      "size_bytes": 1312875,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--010mm-257.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--025mm-129.json",
+      "blob_sha": "9d117a6fce966b5940bb37fb185dc99e52df16c8",
+      "size_bytes": 3899,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--025mm-129.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--025mm-129.log",
+      "blob_sha": "df1aacb114c3e26dbda97733c47096d65d3a2022",
+      "size_bytes": 3819,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--025mm-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--025mm-129.npz",
+      "blob_sha": "7eccd57fa11b0e42f72695066176ddc167fe221a",
+      "size_bytes": 328603,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--025mm-129.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--025mm-257.json",
+      "blob_sha": "346b0e94d4c12ced727603985aa18b05508e82cf",
+      "size_bytes": 8416,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--025mm-257.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--025mm-257.log",
+      "blob_sha": "0cb39838712cf59acfca227ae99876b923030be0",
+      "size_bytes": 7236,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--025mm-257.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--025mm-257.npz",
+      "blob_sha": "9614c69ff1e28ef94b986f5d6753b36f70be9661",
+      "size_bytes": 1313192,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--025mm-257.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--050mm-129-129-controlled-q.csv",
+      "blob_sha": "64ae86bb2d5f27fd1eda428b7f0e53ad373a4870",
+      "size_bytes": 1205,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--050mm-129-129-controlled-q.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--050mm-129.json",
+      "blob_sha": "735d9292e54835f3cab77c5cd960226c25515d41",
+      "size_bytes": 3286,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--050mm-129.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--050mm-129.log",
+      "blob_sha": "ec26c6d9d0bdb1b99c2ed0269d8ea9e56e14dedb",
+      "size_bytes": 2205,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--050mm-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--050mm-129.npz",
+      "blob_sha": "7618f3d1d0959c77d630e5f4146871c385291cc4",
+      "size_bytes": 328617,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--050mm-129.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--050mm-257.json",
+      "blob_sha": "6970163ba2ee2ce5b8423aa6624dd42216db130e",
+      "size_bytes": 8452,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--050mm-257.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--050mm-257.log",
+      "blob_sha": "714306df3a09a7e34288fc6d2039b0b9b70dc771",
+      "size_bytes": 7271,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--050mm-257.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/shift--050mm-257.npz",
+      "blob_sha": "6cbb83dd90bad4474b62b549587131729e16eb34",
+      "size_bytes": 1313135,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/shift--050mm-257.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/small-move-heat.png",
+      "blob_sha": "a2ff6f953625a5ac408b48c0ad05bc9cebc0fd17",
+      "size_bytes": 97655,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/small-move-heat.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/small-move-heat.svg",
+      "blob_sha": "986ab8323aa74460516c5135ae7cc92189021232",
+      "size_bytes": 16679,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/small-move-heat.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/summary.json",
+      "blob_sha": "a8fa3efb8df8a88d96bc4057b76bed555e90c576",
+      "size_bytes": 53460,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/summary.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/sweep-129.log",
+      "blob_sha": "0bd9cb2e2c3893a1db6b732cb6f037f7848445ba",
+      "size_bytes": 461,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/sweep-129.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/sweep-257.log",
+      "blob_sha": "beb585fafc6bf11adf27c08436a9cd96e6c9e581",
+      "size_bytes": 367,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/sweep-257.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/verification.json",
+      "blob_sha": "7b520297fdc41e57644ca13cb5cb867beb799674",
+      "size_bytes": 17578,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/verification.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/results/verification.log",
+      "blob_sha": "58d0435ff7f6b61f4a97d5ba8f1de49191a4ec14",
+      "size_bytes": 743,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/results/verification.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/run_inward.py",
+      "blob_sha": "2a15aa0e1b51e3a0aaabea6dcb90e8c7463e43e3",
+      "size_bytes": 984,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/run_inward.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/run_sweep.py",
+      "blob_sha": "a5112bef287d7a910c08bd3ba6fc88fa613a6e98",
+      "size_bytes": 1386,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/run_sweep.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/screen_sweep.py",
+      "blob_sha": "7ddc8fc4cb001efa118db2ba4f091a13fc8ea5a7",
+      "size_bytes": 6687,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/screen_sweep.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/solve.py",
+      "blob_sha": "67de8e0972dcb614a61d6e05767be997c2d9f2a9",
+      "size_bytes": 5761,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/solve.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/verify.py",
+      "blob_sha": "61e8ec497446441461178ba0fe001a6bc4bc027e",
+      "size_bytes": 5423,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/verify.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-003/write_report.py",
+      "blob_sha": "74ebe9dea807882f2b42f4dd48e2d7520b6b30a1",
+      "size_bytes": 7806,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-003/write_report.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/AMENDMENTS.md",
+      "blob_sha": "b967b140502e2d57e88c7eb9228925e61b74d69f",
+      "size_bytes": 1009,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/AMENDMENTS.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/artifact-manifest.json",
+      "blob_sha": "03021bf1bc2be066305560a7d54a868493551269",
+      "size_bytes": 7536,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/artifact-manifest.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/inputs.json",
+      "blob_sha": "86d0d4757c9f00ea2a08447ffe3427c73f3c7865",
+      "size_bytes": 225,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/inputs.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/PROTOCOL.md",
+      "blob_sha": "46e1ab4586e850742d92cbb0e6aafa79e8a378bc",
+      "size_bytes": 4652,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/PROTOCOL.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/README.md",
+      "blob_sha": "9ec913f6c5918165d6fd5f4685b2b68e5054cf7c",
+      "size_bytes": 9560,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/refine_traces.py",
+      "blob_sha": "dc6785463d34b58b5cebc0f7ff6d396121b2be57",
+      "size_bytes": 1622,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/refine_traces.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/report.py",
+      "blob_sha": "b797e63d9d683912bce9f75bf53d2c8510e1d36a",
+      "size_bytes": 21737,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/report.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/requirements.txt",
+      "blob_sha": "63c3f52040d62220cc2846057335e9906365558b",
+      "size_bytes": 36,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results-controls.log",
+      "blob_sha": "5d842413356a4d1401ffa02ce5959e83a344f46c",
+      "size_bytes": 18,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results-controls.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results-equilibria.log",
+      "blob_sha": "0a0901a885771a18ff9b98edb816322ee386f713",
+      "size_bytes": 700,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results-equilibria.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results-preflight.log",
+      "blob_sha": "e8988a837a4f4d5af0e1ae394cd107f7e32c7c78",
+      "size_bytes": 21,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results-preflight.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results-refinement.log",
+      "blob_sha": "88993d96457e5fc0219839abda704616d24b620d",
+      "size_bytes": 487,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results-refinement.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results-tracing.log",
+      "blob_sha": "c83aa3a6a94ec929340ae0e3a7650f4701295589",
+      "size_bytes": 598,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results-tracing.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/adaptive-paths.npz",
+      "blob_sha": "0cb3fdbc6287527a9415cc45b61aa28aab9f3a68",
+      "size_bytes": 1893491,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/adaptive-paths.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/adaptive-traces.csv",
+      "blob_sha": "336b9a30afda195fda3b281a1606d0b173430098",
+      "size_bytes": 22645,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/adaptive-traces.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/controls.json",
+      "blob_sha": "30e7df8c517566330dd144631ce6d79e3c5e426c",
+      "size_bytes": 3400,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/controls.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/dense-footprints.csv",
+      "blob_sha": "17ae02ef8fe979ad80100ba0e88430bf1c47b8b2",
+      "size_bytes": 41390,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/dense-footprints.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/dense-footprints.png",
+      "blob_sha": "14e740a6d40170a0c436bcfccaee1c09b2bd4fcd",
+      "size_bytes": 172353,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/dense-footprints.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/dense-footprints.svg",
+      "blob_sha": "495ad86fc672c7dd22985a1dede7a819387a17d0",
+      "size_bytes": 110083,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/dense-footprints.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/equilibria.json",
+      "blob_sha": "a33fc91e7c204b3506fb8722913ec6e8145f1661",
+      "size_bytes": 13071,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/equilibria.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/preflight.json",
+      "blob_sha": "ea20d4e7ec0b657def9bb0ef2d2d366fc1ffb44d",
+      "size_bytes": 62544,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/preflight.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/refinement-assessment.json",
+      "blob_sha": "61d3178e72e37d37bd63da5c60249ca512d70c78",
+      "size_bytes": 8320,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/refinement-assessment.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/representative-refinement-paths.npz",
+      "blob_sha": "9244354b00807a94d46c3d1cf5fdd8746b9bb317",
+      "size_bytes": 562411,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/representative-refinement-paths.npz",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/representative-refinement.json",
+      "blob_sha": "7867d467fd5558a04b3b7874408a5b0216d8cea4",
+      "size_bytes": 10097,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/representative-refinement.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/summary.json",
+      "blob_sha": "97412911f7a88fc9ee5e7954cbc28b30df834153",
+      "size_bytes": 60590,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/summary.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/tracer-comparison.csv",
+      "blob_sha": "7e9da2877aad6638565164d6152d3c5847579c75",
+      "size_bytes": 5570,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/tracer-comparison.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/tracing.json",
+      "blob_sha": "750e0671eea9018f67e006ad773ae72f77f7b34e",
+      "size_bytes": 152880,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/tracing.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/verification.json",
+      "blob_sha": "d890a310a4841b45b79a303c0d3c93696f7adc6c",
+      "size_bytes": 196532,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/verification.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/wall-corner.png",
+      "blob_sha": "da24fddaed247ee9fdc4fce6561caf1b4dd6251c",
+      "size_bytes": 83790,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/wall-corner.png",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/results/wall-corner.svg",
+      "blob_sha": "f270b9c38c37155e501ce435b36eec96a9874d11",
+      "size_bytes": 59481,
+      "kinds": [
+        "data_or_result",
+        "media"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/results/wall-corner.svg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "benchmarks/openstep-004/validate.py",
+      "blob_sha": "b9d7ca983cf16381dc59afce7813c1cb33deb8b1",
+      "size_bytes": 17752,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/benchmarks/openstep-004/validate.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "coil-scan.html",
+      "blob_sha": "c162d96d2c61fb26a3eeeede554450e81e0d9f86",
+      "size_bytes": 5526,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/coil-scan.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "coil-scan.js",
+      "blob_sha": "a1b49aee4958310637fce943efaeaab2ed988cd6",
+      "size_bytes": 4033,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/coil-scan.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
     {
       "path": "engine.html",
       "blob_sha": "cbeefb4b84a1ef99ca093d33ff12bd2c4e5a5b0c",
@@ -37,9 +3944,19 @@
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
+      "path": "equilibrium.html",
+      "blob_sha": "e9ddcf4fae1562c8e88883d983078bc5739e396b",
+      "size_bytes": 10005,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/equilibrium.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
       "path": "index.html",
-      "blob_sha": "e793c4b7440f63f131b405571d8c5664dcb830f2",
-      "size_bytes": 6295,
+      "blob_sha": "eac34791b7073a9caf41f24f6103f4942f8d93a6",
+      "size_bytes": 6741,
       "kinds": [
         "document"
       ],
@@ -88,8 +4005,8 @@
     },
     {
       "path": "README.md",
-      "blob_sha": "aa0c4c08ce8f419f2934d68e5cc160149e27a69d",
-      "size_bytes": 3217,
+      "blob_sha": "1ff7269702ce8774efddfcaf6bcaa20f404ca3e2",
+      "size_bytes": 4897,
       "kinds": [
         "document"
       ],
@@ -187,6 +4104,36 @@
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
+      "path": "screening.css",
+      "blob_sha": "b57b7fde617023ef156d821c8a73a577c7945073",
+      "size_bytes": 3596,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/screening.css",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "screening.html",
+      "blob_sha": "1771e4530a5afde1d179c27625ac457cf4294de5",
+      "size_bytes": 7619,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/screening.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "screening.js",
+      "blob_sha": "31ca4fc50956690d105761b5ce122ce26f9df780",
+      "size_bytes": 4212,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Tokamak/blob/main/screening.js",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
       "path": "style.css",
       "blob_sha": "32f27a56f195624ed1ef9bd743d5c97e0323c3c9",
       "size_bytes": 2179,
@@ -228,8 +4175,8 @@
     },
     {
       "path": "trisphere-prototype.html",
-      "blob_sha": "562870098690b6dc258bb7915de9e576c47b3c4f",
-      "size_bytes": 8194,
+      "blob_sha": "547cfa61cd24f0b3a2d7854089d352dac29ee0e8",
+      "size_bytes": 8307,
       "kinds": [
         "document"
       ],

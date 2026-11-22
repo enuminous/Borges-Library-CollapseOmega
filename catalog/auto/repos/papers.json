@@ -1,7 +1,7 @@
 {
   "repository": "enuminous/papers",
   "default_branch": "main",
-  "tree_sha": "ce3ca2e00c4a0ff7a455ba7f07ae50bdf2369f87",
+  "tree_sha": "2dc15aed8dd17affd85ccfb4cda04799745635a9",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
@@ -275,6 +275,16 @@
         "media"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/assets/horizon-cosmology/horizon-preview-2026-10-24.jpg",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "assets/tokamak-interim-2026-11-21/evidence-index.json",
+      "blob_sha": "19d67f3967df68cd60d6bfed34b3beb47ef2b602",
+      "size_bytes": 14895,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/assets/tokamak-interim-2026-11-21/evidence-index.json",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
@@ -1538,8 +1548,8 @@
     },
     {
       "path": "index.html",
-      "blob_sha": "b34ccafe75f568d98b8fcb7c1da8f9206bb69600",
-      "size_bytes": 46426,
+      "blob_sha": "01fe4cb02d0bde2a53e214f6c09562caf59fff28",
+      "size_bytes": 48394,
       "kinds": [
         "document",
         "papers_document"
@@ -1985,8 +1995,8 @@
     },
     {
       "path": "README.md",
-      "blob_sha": "853ae37736227b6c1602991ac5c8640077c2b6b0",
-      "size_bytes": 63395,
+      "blob_sha": "b84193a1a00a55b0e2cf65edf59319bcad7781cc",
+      "size_bytes": 64635,
       "kinds": [
         "document",
         "papers_document"
@@ -6359,6 +6369,29 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/TOE-001-Unified-Action-and-Correspondence-Test.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Tokamak-Interim-Report-OPENSTEP-001-005-2026-11-21.md",
+      "blob_sha": "4580c0be8ac38e37da82610b8578399bafe336a1",
+      "size_bytes": 30191,
+      "kinds": [
+        "document",
+        "data_or_result",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/Tokamak-Interim-Report-OPENSTEP-001-005-2026-11-21.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Tokamak-Native-Stability-and-Reactor-Requirements-OPENSTEP-006-2026-11-22.md",
+      "blob_sha": "42d1cad20fae6ce7e25f463d9476915c7742011f",
+      "size_bytes": 17474,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/Tokamak-Native-Stability-and-Reactor-Requirements-OPENSTEP-006-2026-11-22.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {

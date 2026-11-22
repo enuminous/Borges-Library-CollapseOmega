@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "name": "Sophia's public publications, documents, results and source catalogue",
-  "generated_at_utc": "2026-11-21T21:43:21+00:00",
+  "generated_at_utc": "2026-11-22T21:55:03+00:00",
   "scope": "All PUBLIC GitHub repositories owned by enuminous; all non-vendor/default-branch files",
   "excluded": "Private repositories, connected Drive/Gmail/Library files, non-default branches, unlisted releases",
   "evidence_rule": "METADATA ONLY; DO NOT infer PASS, theorem verification or physical reality from titles",
@@ -11,13 +11,13 @@
   "incomplete_repositories": 2,
   "coverage_complete": false,
   "totals": {
-    "document": 9010,
-    "papers_document": 300,
-    "data_or_result": 30035,
-    "reproducibility_source": 119680,
-    "media": 2058,
+    "document": 9023,
+    "papers_document": 302,
+    "data_or_result": 30176,
+    "reproducibility_source": 119699,
+    "media": 2068,
     "other": 10885,
-    "files": 143569
+    "files": 143711
   },
   "errors": [
     {
@@ -34,12 +34,12 @@
       "name": "papers",
       "repository": "enuminous/papers",
       "default_branch": "main",
-      "tree_sha": "ce3ca2e00c4a0ff7a455ba7f07ae50bdf2369f87",
-      "files": 615,
+      "tree_sha": "2dc15aed8dd17affd85ccfb4cda04799745635a9",
+      "files": 618,
       "counts": {
-        "document": 300,
-        "papers_document": 300,
-        "data_or_result": 173,
+        "document": 302,
+        "papers_document": 302,
+        "data_or_result": 175,
         "reproducibility_source": 91,
         "media": 10,
         "other": 124
@@ -528,7 +528,7 @@
       "name": "Borges-Library-CollapseOmega",
       "repository": "enuminous/Borges-Library-CollapseOmega",
       "default_branch": "main",
-      "tree_sha": "22b26308de826eb9564fed346a314e91096606b4",
+      "tree_sha": "e48a06257ca2414983ce9ab3d6a7647d24007274",
       "files": 20,
       "counts": {
         "document": 10,
@@ -2998,14 +2998,14 @@
       "name": "Tokamak",
       "repository": "enuminous/Tokamak",
       "default_branch": "main",
-      "tree_sha": "4939a9314d2db8482a4a0f7421ca4bb1d125917d",
-      "files": 419,
+      "tree_sha": "7f2842f3086fae73ad51c1b784830862c314658f",
+      "files": 558,
       "counts": {
-        "document": 38,
+        "document": 49,
         "papers_document": 0,
-        "data_or_result": 390,
-        "reproducibility_source": 44,
-        "media": 21,
+        "data_or_result": 529,
+        "reproducibility_source": 63,
+        "media": 31,
         "other": 4
       },
       "status": "COMPLETE",

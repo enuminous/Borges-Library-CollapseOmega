@@ -1,6 +1,6 @@
 # Sophia's Complete Public Papers Document Shelf
 
-**Snapshot:** 2026-11-21T21:43:21+00:00
+**Snapshot:** 2026-11-22T21:55:03+00:00
 **Evidence:** file inventory, not a journal peer-review or publication-status assertion.
 
 [Universal catalogue](overview.md) · [Source repository](https://github.com/enuminous/papers)
@@ -87,7 +87,7 @@
 | Human-Centric-AGI-Partnerships.md | 19960 | [Open](https://github.com/enuminous/papers/blob/main/Human-Centric-AGI-Partnerships.md) |
 | HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.docx | 56814 | [Open](https://github.com/enuminous/papers/blob/main/HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.docx) |
 | HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.md | 38693 | [Open](https://github.com/enuminous/papers/blob/main/HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.md) |
-| index.html | 46426 | [Open](https://github.com/enuminous/papers/blob/main/index.html) |
+| index.html | 48394 | [Open](https://github.com/enuminous/papers/blob/main/index.html) |
 | IST-001-Deriving-Informational-Stress-from-Covariant-Memory-and-Reservoir-Models-2026-11-09.md | 10938 | [Open](https://github.com/enuminous/papers/blob/main/IST-001-Deriving-Informational-Stress-from-Covariant-Memory-and-Reservoir-Models-2026-11-09.md) |
 | IST-FAM-001-Referee-Review-and-Spectral-Novelty-Audit-2026-11-09.md | 21247 | [Open](https://github.com/enuminous/papers/blob/main/IST-FAM-001-Referee-Review-and-Spectral-Novelty-Audit-2026-11-09.md) |
 | Master-LightWeb-Namespace.md | 25678 | [Open](https://github.com/enuminous/papers/blob/main/Master-LightWeb-Namespace.md) |
@@ -118,7 +118,7 @@
 | QNET-001-artifacts/requirements.txt | 79 | [Open](https://github.com/enuminous/papers/blob/main/QNET-001-artifacts/requirements.txt) |
 | QNET-001-Dynamical-Connections-and-Dimensionality-Obstructions.md | 30502 | [Open](https://github.com/enuminous/papers/blob/main/QNET-001-Dynamical-Connections-and-Dimensionality-Obstructions.md) |
 | Quantum-Math-the-Greek-Way-Music-of-the-Spheres.md | 17990 | [Open](https://github.com/enuminous/papers/blob/main/Quantum-Math-the-Greek-Way-Music-of-the-Spheres.md) |
-| README.md | 63395 | [Open](https://github.com/enuminous/papers/blob/main/README.md) |
+| README.md | 64635 | [Open](https://github.com/enuminous/papers/blob/main/README.md) |
 | Recursive-Coherence-Monitoring-Synthetic-Control-Degradation.md | 15211 | [Open](https://github.com/enuminous/papers/blob/main/Recursive-Coherence-Monitoring-Synthetic-Control-Degradation.md) |
 | research/cl33-review-2026-10-25/README.md | 2709 | [Open](https://github.com/enuminous/papers/blob/main/research/cl33-review-2026-10-25/README.md) |
 | research/cmb-alignment/nonzero-vorticity/v1/DERIVATION.md | 17260 | [Open](https://github.com/enuminous/papers/blob/main/research/cmb-alignment/nonzero-vorticity/v1/DERIVATION.md) |
@@ -292,6 +292,8 @@
 | TheObservablePast-Reconstruction.md | 19482 | [Open](https://github.com/enuminous/papers/blob/main/TheObservablePast-Reconstruction.md) |
 | THEOREMS_IN_PLAIN_ENGLISH.md | 22191 | [Open](https://github.com/enuminous/papers/blob/main/THEOREMS_IN_PLAIN_ENGLISH.md) |
 | TOE-001-Unified-Action-and-Correspondence-Test.md | 8690 | [Open](https://github.com/enuminous/papers/blob/main/TOE-001-Unified-Action-and-Correspondence-Test.md) |
+| Tokamak-Interim-Report-OPENSTEP-001-005-2026-11-21.md | 30191 | [Open](https://github.com/enuminous/papers/blob/main/Tokamak-Interim-Report-OPENSTEP-001-005-2026-11-21.md) |
+| Tokamak-Native-Stability-and-Reactor-Requirements-OPENSTEP-006-2026-11-22.md | 17474 | [Open](https://github.com/enuminous/papers/blob/main/Tokamak-Native-Stability-and-Reactor-Requirements-OPENSTEP-006-2026-11-22.md) |
 | TORTOISE-KAIROSEED-Independent-Evidence-Ablation-2026-11-08.md | 10720 | [Open](https://github.com/enuminous/papers/blob/main/TORTOISE-KAIROSEED-Independent-Evidence-Ablation-2026-11-08.md) |
 | TRANCHE_IV_THEOREM_REGISTER.md | 2539 | [Open](https://github.com/enuminous/papers/blob/main/TRANCHE_IV_THEOREM_REGISTER.md) |
 | TriSphere-Tokamak-Model-Comparison-2026-11-19.md | 2711 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-Tokamak-Model-Comparison-2026-11-19.md) |
@@ -308,4 +310,4 @@
 | WITD-002-Where-Does-the-Memorys-Energy-Go-2026-11-05.md | 15106 | [Open](https://github.com/enuminous/papers/blob/main/WITD-002-Where-Does-the-Memorys-Energy-Go-2026-11-05.md) |
 | WORLD-GRID-005-Equal-Budget-Negative-Result.md | 11723 | [Open](https://github.com/enuminous/papers/blob/main/WORLD-GRID-005-Equal-Budget-Negative-Result.md) |
 
-**Document-like files listed:** 300
+**Document-like files listed:** 302

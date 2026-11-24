@@ -1,7 +1,7 @@
 {
   "repository": "enuminous/Mathematics-and-Elite-Squad-Dynamics",
   "default_branch": "main",
-  "tree_sha": "0e302f60a2078a95c11c397dc9f20725492c096e",
+  "tree_sha": "a795ae9c92a592cc6ec04cd9851c77a1423bd2ab",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
@@ -217,6 +217,16 @@
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
+      "path": "articles/23-zhengming-2026-11-23.md",
+      "blob_sha": "9421f94914f3d37426f8001b5c64eabf871d93c0",
+      "size_bytes": 492,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/23-zhengming-2026-11-23.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
       "path": "games/grand-theft-banal-vi.html",
       "blob_sha": "37d7f9513088748bd6409f615b0940b810e5e1cc",
       "size_bytes": 20024,
@@ -418,8 +428,8 @@
     },
     {
       "path": "index.html",
-      "blob_sha": "7df72766bdb2a966039aadadc125e014d2bfa40a",
-      "size_bytes": 51024,
+      "blob_sha": "c7c062f124a60cd92d2c10a6951b26c14079fc2e",
+      "size_bytes": 51374,
       "kinds": [
         "document"
       ],
@@ -448,8 +458,8 @@
     },
     {
       "path": "README.md",
-      "blob_sha": "74ed9193df16df4f707d52f3ee8d4d7f3298059e",
-      "size_bytes": 11838,
+      "blob_sha": "00cd3834c01324baa4b042dee34496761c661add",
+      "size_bytes": 11989,
       "kinds": [
         "document"
       ],

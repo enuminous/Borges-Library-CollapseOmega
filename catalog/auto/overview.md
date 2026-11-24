@@ -1,17 +1,17 @@
 # Sophia's Universal Catalogue — Public Source Snapshot
 
-**Generated:** 2026-11-22T21:55:03+00:00 UTC  
+**Generated:** 2026-11-24T02:57:42+00:00 UTC  
 **Scope:** ALL discoverable PUBLIC owner repositories. Private repositories and connected cloud files are excluded.  
 **Scientific caution:** Metadata only. Filename claims of PASS, proof, verification or discovery have NOT been reviewed.
 
-**Discovered:** 170 repositories; 168 complete; 0 stale; 2 incomplete.
-**Inventory:** 143711 files, 9023 documents, 30176 data/result candidates, 119699 reproducibility-source candidates.
+**Discovered:** 171 repositories; 169 complete; 0 stale; 2 incomplete.
+**Inventory:** 143729 files, 9033 documents, 30181 data/result candidates, 119702 reproducibility-source candidates.
 
 [Machine-readable manifest](manifest.json) · [All files in papers](papers.md) · [Searchable catalogue](../index.html)
 
 | Repository | All files | Documents | Results/data | Code/proof source | Coverage | Inventory |
 |---|---:|---:|---:|---:|---|---|
-| [papers](https://github.com/enuminous/papers) | 618 | 302 | 175 | 91 | COMPLETE | [Files](repos/papers.json) |
+| [papers](https://github.com/enuminous/papers) | 622 | 306 | 175 | 91 | COMPLETE | [Files](repos/papers.json) |
 | [accelerando-8192](https://github.com/enuminous/accelerando-8192) | 28 | 3 | 0 | 0 | COMPLETE | [Files](repos/accelerando-8192.json) |
 | [Alchemy-of-Emergence](https://github.com/enuminous/Alchemy-of-Emergence) | 20 | 14 | 2 | 1 | COMPLETE | [Files](repos/Alchemy-of-Emergence.json) |
 | [alex-mrtb-verify-bundle](https://github.com/enuminous/alex-mrtb-verify-bundle) | 106 | 15 | 15 | 11 | COMPLETE | [Files](repos/alex-mrtb-verify-bundle.json) |
@@ -58,7 +58,7 @@
 | [Crab](https://github.com/enuminous/Crab) | 17 | 3 | 3 | 7 | COMPLETE | [Files](repos/Crab.json) |
 | [Crocodile](https://github.com/enuminous/Crocodile) | 17 | 3 | 3 | 7 | COMPLETE | [Files](repos/Crocodile.json) |
 | [DePIN](https://github.com/enuminous/DePIN) | 13 | 5 | 0 | 5 | COMPLETE | [Files](repos/DePIN.json) |
-| [Devs2.0](https://github.com/enuminous/Devs2.0) | 108 | 52 | 15 | 29 | COMPLETE | [Files](repos/Devs2.0.json) |
+| [Devs2.0](https://github.com/enuminous/Devs2.0) | 113 | 54 | 15 | 31 | COMPLETE | [Files](repos/Devs2.0.json) |
 | [docs](https://github.com/enuminous/docs) | 35 | 25 | 0 | 0 | COMPLETE | [Files](repos/docs.json) |
 | [Dolphin](https://github.com/enuminous/Dolphin) | 18 | 3 | 4 | 7 | COMPLETE | [Files](repos/Dolphin.json) |
 | [Dragon](https://github.com/enuminous/Dragon) | 17 | 3 | 3 | 7 | COMPLETE | [Files](repos/Dragon.json) |
@@ -114,7 +114,7 @@
 | [Magpie](https://github.com/enuminous/Magpie) | 15 | 8 | 2 | 5 | COMPLETE | [Files](repos/Magpie.json) |
 | [Mantis](https://github.com/enuminous/Mantis) | 17 | 10 | 4 | 5 | COMPLETE | [Files](repos/Mantis.json) |
 | [math-Sat3](https://github.com/enuminous/math-Sat3) | 6 | 3 | 4 | 0 | COMPLETE | [Files](repos/math-Sat3.json) |
-| [Mathematics-and-Elite-Squad-Dynamics](https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics) | 45 | 26 | 0 | 0 | COMPLETE | [Files](repos/Mathematics-and-Elite-Squad-Dynamics.json) |
+| [Mathematics-and-Elite-Squad-Dynamics](https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics) | 46 | 27 | 0 | 0 | COMPLETE | [Files](repos/Mathematics-and-Elite-Squad-Dynamics.json) |
 | [medium](https://github.com/enuminous/medium) | 1102 | 1101 | 82 | 0 | COMPLETE | [Files](repos/medium.json) |
 | [Medium2](https://github.com/enuminous/Medium2) | 1004 | 1003 | 39 | 0 | COMPLETE | [Files](repos/Medium2.json) |
 | [Medium3](https://github.com/enuminous/Medium3) | 311 | 311 | 11 | 0 | COMPLETE | [Files](repos/Medium3.json) |
@@ -140,6 +140,7 @@
 | [OpenAI-math](https://github.com/enuminous/OpenAI-math) | 57739 | 3 | 26690 | 57328 | PARTIAL_TRUNCATED | [Files](repos/OpenAI-math.json) |
 | [oph-lab](https://github.com/enuminous/oph-lab) | 150 | 26 | 12 | 74 | COMPLETE | [Files](repos/oph-lab.json) |
 | [Orca](https://github.com/enuminous/Orca) | 17 | 10 | 4 | 5 | COMPLETE | [Files](repos/Orca.json) |
+| [Orion](https://github.com/enuminous/Orion) | 3 | 2 | 0 | 0 | COMPLETE | [Files](repos/Orion.json) |
 | [Oroboros](https://github.com/enuminous/Oroboros) | 39 | 16 | 7 | 10 | COMPLETE | [Files](repos/Oroboros.json) |
 | [Owl](https://github.com/enuminous/Owl) | 17 | 3 | 3 | 7 | COMPLETE | [Files](repos/Owl.json) |
 | [P-NP](https://github.com/enuminous/P-NP) | 17 | 7 | 5 | 4 | COMPLETE | [Files](repos/P-NP.json) |
@@ -167,7 +168,7 @@
 | [The-ORION-Project](https://github.com/enuminous/The-ORION-Project) | 4178 | 2098 | 171 | 231 | COMPLETE | [Files](repos/The-ORION-Project.json) |
 | [Toast-Cat-Gravity](https://github.com/enuminous/Toast-Cat-Gravity) | 26 | 4 | 1 | 4 | COMPLETE | [Files](repos/Toast-Cat-Gravity.json) |
 | [TOE-001](https://github.com/enuminous/TOE-001) | 38 | 11 | 11 | 18 | COMPLETE | [Files](repos/TOE-001.json) |
-| [Tokamak](https://github.com/enuminous/Tokamak) | 558 | 49 | 529 | 63 | COMPLETE | [Files](repos/Tokamak.json) |
+| [Tokamak](https://github.com/enuminous/Tokamak) | 563 | 50 | 534 | 64 | COMPLETE | [Files](repos/Tokamak.json) |
 | [Topology](https://github.com/enuminous/Topology) | 37 | 11 | 11 | 15 | COMPLETE | [Files](repos/Topology.json) |
 | [Tortoise](https://github.com/enuminous/Tortoise) | 77 | 7 | 3 | 10 | COMPLETE | [Files](repos/Tortoise.json) |
 | [Turtle](https://github.com/enuminous/Turtle) | 17 | 3 | 2 | 7 | COMPLETE | [Files](repos/Turtle.json) |

@@ -1,7 +1,7 @@
 {
   "repository": "enuminous/papers",
   "default_branch": "main",
-  "tree_sha": "2dc15aed8dd17affd85ccfb4cda04799745635a9",
+  "tree_sha": "bd2763e74c21c16713b39612aa90f0204c0e3cb3",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
@@ -490,6 +490,17 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/EFMW%20Neural%20CA.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-and-Boardy-Methods-Paper.md",
+      "blob_sha": "7a592faeabff0df96546fe43e8e3c0275aaf07f9",
+      "size_bytes": 11103,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-and-Boardy-Methods-Paper.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
@@ -1504,6 +1515,17 @@
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
+      "path": "How-Do-You-Hold-a-Star-Shaped-Fire-2026-11-22.md",
+      "blob_sha": "74af03de876bdcd66309405c0d48896be8399307",
+      "size_bytes": 8937,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/How-Do-You-Hold-a-Star-Shaped-Fire-2026-11-22.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
       "path": "Human-Centric-AGI-Partnerships.md",
       "blob_sha": "c901671e2caa4d840468a44275c53b0b0cb80586",
       "size_bytes": 19960,
@@ -1758,6 +1780,17 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/NASA_Anomalous_Incident_Continuity_Report.docx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Next-Paper-EFMW-Boardy-Ablation.md",
+      "blob_sha": "6f6c27d9e9a7fbe59a098eb8080bc2a625f2baaf",
+      "size_bytes": 6251,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/Next-Paper-EFMW-Boardy-Ablation.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
@@ -6514,6 +6547,17 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/What-If-the-Whole-Universe-Is-Spinning-2026-11-18.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "What-Would-Change-Our-Minds-2026-11-22.md",
+      "blob_sha": "49388103e8486fe75d0f917159015c367605e5bb",
+      "size_bytes": 7242,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/What-Would-Change-Our-Minds-2026-11-22.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {

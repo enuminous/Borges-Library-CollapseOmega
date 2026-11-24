@@ -1,6 +1,6 @@
 # Sophia's Complete Public Papers Document Shelf
 
-**Snapshot:** 2026-11-22T21:55:03+00:00
+**Snapshot:** 2026-11-24T02:57:42+00:00
 **Evidence:** file inventory, not a journal peer-review or publication-status assertion.
 
 [Universal catalogue](overview.md) · [Source repository](https://github.com/enuminous/papers)
@@ -27,6 +27,7 @@
 | Do-Opposing-Errors-Predict-Human-Confidence-2026-11-06.md | 11595 | [Open](https://github.com/enuminous/papers/blob/main/Do-Opposing-Errors-Predict-Human-Confidence-2026-11-06.md) |
 | Efficient_Coding_The_EFMW_System.docx | 16983 | [Open](https://github.com/enuminous/papers/blob/main/Efficient_Coding_The_EFMW_System.docx) |
 | EFMW Neural CA.html | 26068 | [Open](https://github.com/enuminous/papers/blob/main/EFMW%20Neural%20CA.html) |
+| EFMW-and-Boardy-Methods-Paper.md | 11103 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-and-Boardy-Methods-Paper.md) |
 | EFMW-Binance-Traceback-Bounded-Public-Evidence-Audit-2026-10-30.md | 19791 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-Binance-Traceback-Bounded-Public-Evidence-Audit-2026-10-30.md) |
 | EFMW-BIO-001-Cellular-Memory-Negative-Result.md | 24925 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-BIO-001-Cellular-Memory-Negative-Result.md) |
 | EFMW-C1-OBS-001-From-Action-to-Observable-2026-11-14.md | 16891 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-C1-OBS-001-From-Action-to-Observable-2026-11-14.md) |
@@ -84,6 +85,7 @@
 | Hopf-Fibration-Unification-Referee-Report-v5.md | 13103 | [Open](https://github.com/enuminous/papers/blob/main/Hopf-Fibration-Unification-Referee-Report-v5.md) |
 | HORIZON-Brings-Cosmic-Horizons-Into-the-Browser.md | 11613 | [Open](https://github.com/enuminous/papers/blob/main/HORIZON-Brings-Cosmic-Horizons-Into-the-Browser.md) |
 | HORIZON-Cosmology-Journalistic-Article.docx | 161349 | [Open](https://github.com/enuminous/papers/blob/main/HORIZON-Cosmology-Journalistic-Article.docx) |
+| How-Do-You-Hold-a-Star-Shaped-Fire-2026-11-22.md | 8937 | [Open](https://github.com/enuminous/papers/blob/main/How-Do-You-Hold-a-Star-Shaped-Fire-2026-11-22.md) |
 | Human-Centric-AGI-Partnerships.md | 19960 | [Open](https://github.com/enuminous/papers/blob/main/Human-Centric-AGI-Partnerships.md) |
 | HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.docx | 56814 | [Open](https://github.com/enuminous/papers/blob/main/HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.docx) |
 | HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.md | 38693 | [Open](https://github.com/enuminous/papers/blob/main/HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.md) |
@@ -106,6 +108,7 @@
 | Monolithic_Zoo_46_Main_Sequence.docx | 69640 | [Open](https://github.com/enuminous/papers/blob/main/Monolithic_Zoo_46_Main_Sequence.docx) |
 | My-Dinner-With-Claude-2026-11-11.md | 16197 | [Open](https://github.com/enuminous/papers/blob/main/My-Dinner-With-Claude-2026-11-11.md) |
 | NASA_Anomalous_Incident_Continuity_Report.docx | 63199 | [Open](https://github.com/enuminous/papers/blob/main/NASA_Anomalous_Incident_Continuity_Report.docx) |
+| Next-Paper-EFMW-Boardy-Ablation.md | 6251 | [Open](https://github.com/enuminous/papers/blob/main/Next-Paper-EFMW-Boardy-Ablation.md) |
 | NOVEL-PHYSICAL-LAW-CANDIDATE-REGISTER.md | 20514 | [Open](https://github.com/enuminous/papers/blob/main/NOVEL-PHYSICAL-LAW-CANDIDATE-REGISTER.md) |
 | Observer-Discrepancy-Local-Repair.md | 9682 | [Open](https://github.com/enuminous/papers/blob/main/Observer-Discrepancy-Local-Repair.md) |
 | On-Introspective-Machines-2026-11-13.md | 25760 | [Open](https://github.com/enuminous/papers/blob/main/On-Introspective-Machines-2026-11-13.md) |
@@ -304,10 +307,11 @@
 | UNITY-001-Pathway-to-Physical-Unification-Action-Plan-2026-11-08.md | 21011 | [Open](https://github.com/enuminous/papers/blob/main/UNITY-001-Pathway-to-Physical-Unification-Action-Plan-2026-11-08.md) |
 | Weaver-OS-EFMW-Residual-Core-Formalization.md | 26155 | [Open](https://github.com/enuminous/papers/blob/main/Weaver-OS-EFMW-Residual-Core-Formalization.md) |
 | What-If-the-Whole-Universe-Is-Spinning-2026-11-18.md | 14439 | [Open](https://github.com/enuminous/papers/blob/main/What-If-the-Whole-Universe-Is-Spinning-2026-11-18.md) |
+| What-Would-Change-Our-Minds-2026-11-22.md | 7242 | [Open](https://github.com/enuminous/papers/blob/main/What-Would-Change-Our-Minds-2026-11-22.md) |
 | When-Errors-Agree-Directional-Coherence-in-EFMW-Residual-Memory-2026-11-06.md | 10718 | [Open](https://github.com/enuminous/papers/blob/main/When-Errors-Agree-Directional-Coherence-in-EFMW-Residual-Memory-2026-11-06.md) |
 | When-Old-Hardware-Becomes-a-Security-Emergency-2026-11-13.md | 6404 | [Open](https://github.com/enuminous/papers/blob/main/When-Old-Hardware-Becomes-a-Security-Emergency-2026-11-13.md) |
 | When-The-Universe-Balanced-The-Books-ME007-TOE001.md | 16447 | [Open](https://github.com/enuminous/papers/blob/main/When-The-Universe-Balanced-The-Books-ME007-TOE001.md) |
 | WITD-002-Where-Does-the-Memorys-Energy-Go-2026-11-05.md | 15106 | [Open](https://github.com/enuminous/papers/blob/main/WITD-002-Where-Does-the-Memorys-Energy-Go-2026-11-05.md) |
 | WORLD-GRID-005-Equal-Budget-Negative-Result.md | 11723 | [Open](https://github.com/enuminous/papers/blob/main/WORLD-GRID-005-Equal-Budget-Negative-Result.md) |
 
-**Document-like files listed:** 302
+**Document-like files listed:** 306

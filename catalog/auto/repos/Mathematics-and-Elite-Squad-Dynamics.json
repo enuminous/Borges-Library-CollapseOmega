@@ -1,7 +1,7 @@
 {
   "repository": "enuminous/Mathematics-and-Elite-Squad-Dynamics",
   "default_branch": "main",
-  "tree_sha": "a795ae9c92a592cc6ec04cd9851c77a1423bd2ab",
+  "tree_sha": "09f96f593f39aecb2f5b4f94c1e2590c38dc5f90",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
@@ -227,6 +227,16 @@
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
+      "path": "articles/24-can-it-run-without-jensen-2026-11-24.md",
+      "blob_sha": "8e9a9f7dd7ff226bee1f3d887b7667fb8d480b58",
+      "size_bytes": 6675,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics/blob/main/articles/24-can-it-run-without-jensen-2026-11-24.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
       "path": "games/grand-theft-banal-vi.html",
       "blob_sha": "37d7f9513088748bd6409f615b0940b810e5e1cc",
       "size_bytes": 20024,
@@ -428,8 +438,8 @@
     },
     {
       "path": "index.html",
-      "blob_sha": "c7c062f124a60cd92d2c10a6951b26c14079fc2e",
-      "size_bytes": 51374,
+      "blob_sha": "513d9b21f16d64471b69ae487a017be6db4a62f4",
+      "size_bytes": 51793,
       "kinds": [
         "document"
       ],
@@ -458,8 +468,8 @@
     },
     {
       "path": "README.md",
-      "blob_sha": "00cd3834c01324baa4b042dee34496761c661add",
-      "size_bytes": 11989,
+      "blob_sha": "d524451998af1fdb7176c9bda28dfe7411516620",
+      "size_bytes": 12242,
       "kinds": [
         "document"
       ],

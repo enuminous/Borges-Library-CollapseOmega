@@ -1,7 +1,7 @@
 {
   "repository": "enuminous/papers",
   "default_branch": "main",
-  "tree_sha": "bd2763e74c21c16713b39612aa90f0204c0e3cb3",
+  "tree_sha": "144f0bda954f64a4de03d46ec9219df90d3dc7c7",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
@@ -1570,8 +1570,8 @@
     },
     {
       "path": "index.html",
-      "blob_sha": "01fe4cb02d0bde2a53e214f6c09562caf59fff28",
-      "size_bytes": 48394,
+      "blob_sha": "2a46d09bdc1d36cf49056433f1db249cd74e3f0a",
+      "size_bytes": 51103,
       "kinds": [
         "document",
         "papers_document"
@@ -2028,8 +2028,8 @@
     },
     {
       "path": "README.md",
-      "blob_sha": "b84193a1a00a55b0e2cf65edf59319bcad7781cc",
-      "size_bytes": 64635,
+      "blob_sha": "18670e7f1c2c93baa8cba3bb94dacf4ee0f3a27f",
+      "size_bytes": 66171,
       "kinds": [
         "document",
         "papers_document"
@@ -6230,6 +6230,39 @@
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
+      "path": "Starting-and-Sustaining-the-TriSphere-Oscillator-2026-11-24.html",
+      "blob_sha": "741f0cd8536a98296b63bdc63b100699c85634db",
+      "size_bytes": 7026,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/Starting-and-Sustaining-the-TriSphere-Oscillator-2026-11-24.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Starting-and-Sustaining-the-TriSphere-Oscillator-2026-11-24.md",
+      "blob_sha": "cc2f34c306da9219cfacfee36ca1cfb4e32ac7ed",
+      "size_bytes": 5143,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/Starting-and-Sustaining-the-TriSphere-Oscillator-2026-11-24.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "STEP-EB-CC-p9-Strike-Point-and-Fiesta-Comparison-2026-11-24.md",
+      "blob_sha": "d2c5f5ec4cc060551611af13be796a23d3e31823",
+      "size_bytes": 11506,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/STEP-EB-CC-p9-Strike-Point-and-Fiesta-Comparison-2026-11-24.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
       "path": "StorySpace-The-Story-Arrives-After-the-Signal-2026-11-09.md",
       "blob_sha": "0b575353f9ff341c9a1ceec596300e831640072b",
       "size_bytes": 20621,
@@ -6271,6 +6304,39 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/The-Monolithic-Zoo-Dissertation.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "The-Part-from-Another-Shop-2026-11-24.html",
+      "blob_sha": "72c6dfbdd06acf6cb620ac21138ef0895f2cb43d",
+      "size_bytes": 12112,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/The-Part-from-Another-Shop-2026-11-24.html",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "The-Part-from-Another-Shop-2026-11-24.md",
+      "blob_sha": "9fb9a9ba8279cff1907b1c7415f9a8d905bdd6b6",
+      "size_bytes": 9530,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/The-Part-from-Another-Shop-2026-11-24.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "The-Part-from-Another-Shop-2026-11-24.pdf",
+      "blob_sha": "e8fbb4baf543be0b6cdd337c901279d75459a9a7",
+      "size_bytes": 74310,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/The-Part-from-Another-Shop-2026-11-24.pdf",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
@@ -6451,6 +6517,17 @@
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
+      "path": "TriSphere-Blueprint-Equation-10-Corrected-2026-11-24.docx",
+      "blob_sha": "dd9d58f845c3f73310a68a7e843382e2acd6d7c3",
+      "size_bytes": 1737929,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/TriSphere-Blueprint-Equation-10-Corrected-2026-11-24.docx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
       "path": "TriSphere-Tokamak-Model-Comparison-2026-11-19.md",
       "blob_sha": "d7e928000576ff8a103f2ee7fbc44529bee1e5fa",
       "size_bytes": 2711,
@@ -6591,6 +6668,17 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/When-The-Universe-Balanced-The-Books-ME007-TOE001.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Where-Does-the-Heat-Go-2026-11-24.md",
+      "blob_sha": "92da936d4bd8d0532703022e1397370270398407",
+      "size_bytes": 3217,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/Where-Does-the-Heat-Go-2026-11-24.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {

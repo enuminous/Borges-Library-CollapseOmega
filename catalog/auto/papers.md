@@ -1,6 +1,6 @@
 # Sophia's Complete Public Papers Document Shelf
 
-**Snapshot:** 2026-11-24T02:57:42+00:00
+**Snapshot:** 2026-11-25T00:54:38+00:00
 **Evidence:** file inventory, not a journal peer-review or publication-status assertion.
 
 [Universal catalogue](overview.md) · [Source repository](https://github.com/enuminous/papers)
@@ -89,7 +89,7 @@
 | Human-Centric-AGI-Partnerships.md | 19960 | [Open](https://github.com/enuminous/papers/blob/main/Human-Centric-AGI-Partnerships.md) |
 | HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.docx | 56814 | [Open](https://github.com/enuminous/papers/blob/main/HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.docx) |
 | HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.md | 38693 | [Open](https://github.com/enuminous/papers/blob/main/HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.md) |
-| index.html | 48394 | [Open](https://github.com/enuminous/papers/blob/main/index.html) |
+| index.html | 51103 | [Open](https://github.com/enuminous/papers/blob/main/index.html) |
 | IST-001-Deriving-Informational-Stress-from-Covariant-Memory-and-Reservoir-Models-2026-11-09.md | 10938 | [Open](https://github.com/enuminous/papers/blob/main/IST-001-Deriving-Informational-Stress-from-Covariant-Memory-and-Reservoir-Models-2026-11-09.md) |
 | IST-FAM-001-Referee-Review-and-Spectral-Novelty-Audit-2026-11-09.md | 21247 | [Open](https://github.com/enuminous/papers/blob/main/IST-FAM-001-Referee-Review-and-Spectral-Novelty-Audit-2026-11-09.md) |
 | Master-LightWeb-Namespace.md | 25678 | [Open](https://github.com/enuminous/papers/blob/main/Master-LightWeb-Namespace.md) |
@@ -121,7 +121,7 @@
 | QNET-001-artifacts/requirements.txt | 79 | [Open](https://github.com/enuminous/papers/blob/main/QNET-001-artifacts/requirements.txt) |
 | QNET-001-Dynamical-Connections-and-Dimensionality-Obstructions.md | 30502 | [Open](https://github.com/enuminous/papers/blob/main/QNET-001-Dynamical-Connections-and-Dimensionality-Obstructions.md) |
 | Quantum-Math-the-Greek-Way-Music-of-the-Spheres.md | 17990 | [Open](https://github.com/enuminous/papers/blob/main/Quantum-Math-the-Greek-Way-Music-of-the-Spheres.md) |
-| README.md | 64635 | [Open](https://github.com/enuminous/papers/blob/main/README.md) |
+| README.md | 66171 | [Open](https://github.com/enuminous/papers/blob/main/README.md) |
 | Recursive-Coherence-Monitoring-Synthetic-Control-Degradation.md | 15211 | [Open](https://github.com/enuminous/papers/blob/main/Recursive-Coherence-Monitoring-Synthetic-Control-Degradation.md) |
 | research/cl33-review-2026-10-25/README.md | 2709 | [Open](https://github.com/enuminous/papers/blob/main/research/cl33-review-2026-10-25/README.md) |
 | research/cmb-alignment/nonzero-vorticity/v1/DERIVATION.md | 17260 | [Open](https://github.com/enuminous/papers/blob/main/research/cmb-alignment/nonzero-vorticity/v1/DERIVATION.md) |
@@ -280,10 +280,16 @@
 | Rotation-Under-Constraint-Covariant-and-Source-First-Audits-ROT004-ROT008-2026-11-17.md | 27959 | [Open](https://github.com/enuminous/papers/blob/main/Rotation-Under-Constraint-Covariant-and-Source-First-Audits-ROT004-ROT008-2026-11-17.md) |
 | Self-Replicating-Prompt-Injections-Coherence-Parasites.md | 13605 | [Open](https://github.com/enuminous/papers/blob/main/Self-Replicating-Prompt-Injections-Coherence-Parasites.md) |
 | spacex_xai_efmw_2045_x_article.md | 5927 | [Open](https://github.com/enuminous/papers/blob/main/spacex_xai_efmw_2045_x_article.md) |
+| Starting-and-Sustaining-the-TriSphere-Oscillator-2026-11-24.html | 7026 | [Open](https://github.com/enuminous/papers/blob/main/Starting-and-Sustaining-the-TriSphere-Oscillator-2026-11-24.html) |
+| Starting-and-Sustaining-the-TriSphere-Oscillator-2026-11-24.md | 5143 | [Open](https://github.com/enuminous/papers/blob/main/Starting-and-Sustaining-the-TriSphere-Oscillator-2026-11-24.md) |
+| STEP-EB-CC-p9-Strike-Point-and-Fiesta-Comparison-2026-11-24.md | 11506 | [Open](https://github.com/enuminous/papers/blob/main/STEP-EB-CC-p9-Strike-Point-and-Fiesta-Comparison-2026-11-24.md) |
 | StorySpace-The-Story-Arrives-After-the-Signal-2026-11-09.md | 20621 | [Open](https://github.com/enuminous/papers/blob/main/StorySpace-The-Story-Arrives-After-the-Signal-2026-11-09.md) |
 | Systemic-Corpus-Valuation.md | 22481 | [Open](https://github.com/enuminous/papers/blob/main/Systemic-Corpus-Valuation.md) |
 | The-Common-Measure-Humanism-Extremism-and-American-Reconciliation-2026-11-09.md | 17062 | [Open](https://github.com/enuminous/papers/blob/main/The-Common-Measure-Humanism-Extremism-and-American-Reconciliation-2026-11-09.md) |
 | The-Monolithic-Zoo-Dissertation.md | 33012 | [Open](https://github.com/enuminous/papers/blob/main/The-Monolithic-Zoo-Dissertation.md) |
+| The-Part-from-Another-Shop-2026-11-24.html | 12112 | [Open](https://github.com/enuminous/papers/blob/main/The-Part-from-Another-Shop-2026-11-24.html) |
+| The-Part-from-Another-Shop-2026-11-24.md | 9530 | [Open](https://github.com/enuminous/papers/blob/main/The-Part-from-Another-Shop-2026-11-24.md) |
+| The-Part-from-Another-Shop-2026-11-24.pdf | 74310 | [Open](https://github.com/enuminous/papers/blob/main/The-Part-from-Another-Shop-2026-11-24.pdf) |
 | The-Peer-Review-Apocalypse.md | 8134 | [Open](https://github.com/enuminous/papers/blob/main/The-Peer-Review-Apocalypse.md) |
 | The-Record-Donald-J-Trump-Research-Draft.md | 176221 | [Open](https://github.com/enuminous/papers/blob/main/The-Record-Donald-J-Trump-Research-Draft.md) |
 | The-Rug-That-Started-Dude-Physics-2026-11-07.md | 8895 | [Open](https://github.com/enuminous/papers/blob/main/The-Rug-That-Started-Dude-Physics-2026-11-07.md) |
@@ -299,6 +305,7 @@
 | Tokamak-Native-Stability-and-Reactor-Requirements-OPENSTEP-006-2026-11-22.md | 17474 | [Open](https://github.com/enuminous/papers/blob/main/Tokamak-Native-Stability-and-Reactor-Requirements-OPENSTEP-006-2026-11-22.md) |
 | TORTOISE-KAIROSEED-Independent-Evidence-Ablation-2026-11-08.md | 10720 | [Open](https://github.com/enuminous/papers/blob/main/TORTOISE-KAIROSEED-Independent-Evidence-Ablation-2026-11-08.md) |
 | TRANCHE_IV_THEOREM_REGISTER.md | 2539 | [Open](https://github.com/enuminous/papers/blob/main/TRANCHE_IV_THEOREM_REGISTER.md) |
+| TriSphere-Blueprint-Equation-10-Corrected-2026-11-24.docx | 1737929 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-Blueprint-Equation-10-Corrected-2026-11-24.docx) |
 | TriSphere-Tokamak-Model-Comparison-2026-11-19.md | 2711 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-Tokamak-Model-Comparison-2026-11-19.md) |
 | Two-Oscillators-One-Missing-Force-EFMW-F03.md | 14676 | [Open](https://github.com/enuminous/papers/blob/main/Two-Oscillators-One-Missing-Force-EFMW-F03.md) |
 | Two-Paths-to-Rotation.md | 35607 | [Open](https://github.com/enuminous/papers/blob/main/Two-Paths-to-Rotation.md) |
@@ -311,7 +318,8 @@
 | When-Errors-Agree-Directional-Coherence-in-EFMW-Residual-Memory-2026-11-06.md | 10718 | [Open](https://github.com/enuminous/papers/blob/main/When-Errors-Agree-Directional-Coherence-in-EFMW-Residual-Memory-2026-11-06.md) |
 | When-Old-Hardware-Becomes-a-Security-Emergency-2026-11-13.md | 6404 | [Open](https://github.com/enuminous/papers/blob/main/When-Old-Hardware-Becomes-a-Security-Emergency-2026-11-13.md) |
 | When-The-Universe-Balanced-The-Books-ME007-TOE001.md | 16447 | [Open](https://github.com/enuminous/papers/blob/main/When-The-Universe-Balanced-The-Books-ME007-TOE001.md) |
+| Where-Does-the-Heat-Go-2026-11-24.md | 3217 | [Open](https://github.com/enuminous/papers/blob/main/Where-Does-the-Heat-Go-2026-11-24.md) |
 | WITD-002-Where-Does-the-Memorys-Energy-Go-2026-11-05.md | 15106 | [Open](https://github.com/enuminous/papers/blob/main/WITD-002-Where-Does-the-Memorys-Energy-Go-2026-11-05.md) |
 | WORLD-GRID-005-Equal-Budget-Negative-Result.md | 11723 | [Open](https://github.com/enuminous/papers/blob/main/WORLD-GRID-005-Equal-Budget-Negative-Result.md) |
 
-**Document-like files listed:** 306
+**Document-like files listed:** 314

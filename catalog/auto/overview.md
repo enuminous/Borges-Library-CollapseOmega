@@ -1,17 +1,17 @@
 # Sophia's Universal Catalogue — Public Source Snapshot
 
-**Generated:** 2026-11-24T02:57:42+00:00 UTC  
+**Generated:** 2026-11-25T00:54:38+00:00 UTC  
 **Scope:** ALL discoverable PUBLIC owner repositories. Private repositories and connected cloud files are excluded.  
 **Scientific caution:** Metadata only. Filename claims of PASS, proof, verification or discovery have NOT been reviewed.
 
-**Discovered:** 171 repositories; 169 complete; 0 stale; 2 incomplete.
-**Inventory:** 143729 files, 9033 documents, 30181 data/result candidates, 119702 reproducibility-source candidates.
+**Discovered:** 172 repositories; 170 complete; 0 stale; 2 incomplete.
+**Inventory:** 144021 files, 9076 documents, 30315 data/result candidates, 119806 reproducibility-source candidates.
 
 [Machine-readable manifest](manifest.json) · [All files in papers](papers.md) · [Searchable catalogue](../index.html)
 
 | Repository | All files | Documents | Results/data | Code/proof source | Coverage | Inventory |
 |---|---:|---:|---:|---:|---|---|
-| [papers](https://github.com/enuminous/papers) | 622 | 306 | 175 | 91 | COMPLETE | [Files](repos/papers.json) |
+| [papers](https://github.com/enuminous/papers) | 630 | 314 | 175 | 91 | COMPLETE | [Files](repos/papers.json) |
 | [accelerando-8192](https://github.com/enuminous/accelerando-8192) | 28 | 3 | 0 | 0 | COMPLETE | [Files](repos/accelerando-8192.json) |
 | [Alchemy-of-Emergence](https://github.com/enuminous/Alchemy-of-Emergence) | 20 | 14 | 2 | 1 | COMPLETE | [Files](repos/Alchemy-of-Emergence.json) |
 | [alex-mrtb-verify-bundle](https://github.com/enuminous/alex-mrtb-verify-bundle) | 106 | 15 | 15 | 11 | COMPLETE | [Files](repos/alex-mrtb-verify-bundle.json) |
@@ -114,7 +114,7 @@
 | [Magpie](https://github.com/enuminous/Magpie) | 15 | 8 | 2 | 5 | COMPLETE | [Files](repos/Magpie.json) |
 | [Mantis](https://github.com/enuminous/Mantis) | 17 | 10 | 4 | 5 | COMPLETE | [Files](repos/Mantis.json) |
 | [math-Sat3](https://github.com/enuminous/math-Sat3) | 6 | 3 | 4 | 0 | COMPLETE | [Files](repos/math-Sat3.json) |
-| [Mathematics-and-Elite-Squad-Dynamics](https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics) | 46 | 27 | 0 | 0 | COMPLETE | [Files](repos/Mathematics-and-Elite-Squad-Dynamics.json) |
+| [Mathematics-and-Elite-Squad-Dynamics](https://github.com/enuminous/Mathematics-and-Elite-Squad-Dynamics) | 47 | 28 | 0 | 0 | COMPLETE | [Files](repos/Mathematics-and-Elite-Squad-Dynamics.json) |
 | [medium](https://github.com/enuminous/medium) | 1102 | 1101 | 82 | 0 | COMPLETE | [Files](repos/medium.json) |
 | [Medium2](https://github.com/enuminous/Medium2) | 1004 | 1003 | 39 | 0 | COMPLETE | [Files](repos/Medium2.json) |
 | [Medium3](https://github.com/enuminous/Medium3) | 311 | 311 | 11 | 0 | COMPLETE | [Files](repos/Medium3.json) |
@@ -168,9 +168,10 @@
 | [The-ORION-Project](https://github.com/enuminous/The-ORION-Project) | 4178 | 2098 | 171 | 231 | COMPLETE | [Files](repos/The-ORION-Project.json) |
 | [Toast-Cat-Gravity](https://github.com/enuminous/Toast-Cat-Gravity) | 26 | 4 | 1 | 4 | COMPLETE | [Files](repos/Toast-Cat-Gravity.json) |
 | [TOE-001](https://github.com/enuminous/TOE-001) | 38 | 11 | 11 | 18 | COMPLETE | [Files](repos/TOE-001.json) |
-| [Tokamak](https://github.com/enuminous/Tokamak) | 563 | 50 | 534 | 64 | COMPLETE | [Files](repos/Tokamak.json) |
+| [Tokamak](https://github.com/enuminous/Tokamak) | 663 | 61 | 633 | 81 | COMPLETE | [Files](repos/Tokamak.json) |
 | [Topology](https://github.com/enuminous/Topology) | 37 | 11 | 11 | 15 | COMPLETE | [Files](repos/Topology.json) |
 | [Tortoise](https://github.com/enuminous/Tortoise) | 77 | 7 | 3 | 10 | COMPLETE | [Files](repos/Tortoise.json) |
+| [trisphere](https://github.com/enuminous/trisphere) | 183 | 23 | 35 | 87 | COMPLETE | [Files](repos/trisphere.json) |
 | [Turtle](https://github.com/enuminous/Turtle) | 17 | 3 | 2 | 7 | COMPLETE | [Files](repos/Turtle.json) |
 | [Universal-Cognitive-Attractor](https://github.com/enuminous/Universal-Cognitive-Attractor) | 21 | 9 | 5 | 6 | COMPLETE | [Files](repos/Universal-Cognitive-Attractor.json) |
 | [Universe5](https://github.com/enuminous/Universe5) | 5 | 3 | 2 | 1 | COMPLETE | [Files](repos/Universe5.json) |

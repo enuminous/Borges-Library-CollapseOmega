@@ -1,7 +1,7 @@
 {
   "repository": "enuminous/trisphere",
   "default_branch": "main",
-  "tree_sha": "6735e3cab5c963a590e91acca31f9fd64e2cc1cf",
+  "tree_sha": "58c756870b601e7b83b6dcccec071daa2ca6d366",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
@@ -159,6 +159,16 @@
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
+      "path": "evidence/RETURN-MAP-001.json",
+      "blob_sha": "d6180e8fc7967b376e3f25cd200239263705f745",
+      "size_bytes": 383,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/evidence/RETURN-MAP-001.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
       "path": "evidence/RUN.md",
       "blob_sha": "ea56862cd0808dcf1c07d594789937497afd65b8",
       "size_bytes": 4580,
@@ -307,6 +317,16 @@
         "other"
       ],
       "url": "https://github.com/enuminous/trisphere/blob/main/protocol/pegasus.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "protocol/RETURN-MAP-001.md",
+      "blob_sha": "f206532cf8974db4330c8280f4ad705d3af2bef1",
+      "size_bytes": 3174,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/protocol/RETURN-MAP-001.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
@@ -571,6 +591,16 @@
         "data_or_result"
       ],
       "url": "https://github.com/enuminous/trisphere/blob/main/simulation/results/trajectories.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "simulation/return_map.py",
+      "blob_sha": "aa6904cf49ceda76ab7031386c3819f3d6c6de1d",
+      "size_bytes": 1771,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/simulation/return_map.py",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {

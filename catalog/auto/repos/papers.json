@@ -1,7 +1,7 @@
 {
   "repository": "enuminous/papers",
   "default_branch": "main",
-  "tree_sha": "144f0bda954f64a4de03d46ec9219df90d3dc7c7",
+  "tree_sha": "40ff7195e49d69e78afe6e4478d6f866009e4782",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
@@ -671,6 +671,48 @@
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
+      "path": "EFMW-HYP-001B/README.md",
+      "blob_sha": "d4fa6f26083d428123c16f7d284ba45eb6d2bafd",
+      "size_bytes": 1624,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-HYP-001B/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-HYP-001B/requirements.txt",
+      "blob_sha": "871c966c09f89af68c058514f0f7ecce9f1578d3",
+      "size_bytes": 27,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-HYP-001B/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-HYP-001B/run.py",
+      "blob_sha": "30b40744b856fc00651cd427f07dd8240f4d8c85",
+      "size_bytes": 1792,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-HYP-001B/run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-HYP-001B/summary.csv",
+      "blob_sha": "b557bf7fd89a67f7940cd41388ae19ec7cd6bfaf",
+      "size_bytes": 975,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-HYP-001B/summary.csv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
       "path": "EFMW-INT-001-Preregistered-Audit-Benchmark-Protocol-2026-11-13.md",
       "blob_sha": "1bd37e6d2610bea8f76bcd49abef817543603c05",
       "size_bytes": 12120,
@@ -833,6 +875,29 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/EFMW-Scientific-Validation-Roadmap-2026-11-15.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-TLON-001-002-Tlonification-Simulation-and-Self-Assessment-2026-11-25.md",
+      "blob_sha": "76ddc9fd3bbbf2baedb8d418f5c4e7e788e4decb",
+      "size_bytes": 5657,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-TLON-001-002-Tlonification-Simulation-and-Self-Assessment-2026-11-25.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-TLON-AUDIT-001-Ontological-Zoo-2026-11-25.md",
+      "blob_sha": "92930e88c5d1f18edd37e8e96585b40790e707f9",
+      "size_bytes": 9098,
+      "kinds": [
+        "document",
+        "data_or_result",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-TLON-AUDIT-001-Ontological-Zoo-2026-11-25.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
@@ -1570,8 +1635,8 @@
     },
     {
       "path": "index.html",
-      "blob_sha": "2a46d09bdc1d36cf49056433f1db249cd74e3f0a",
-      "size_bytes": 51103,
+      "blob_sha": "619346b3f49ece5a811b2bda9c63896e5bbc80ba",
+      "size_bytes": 51912,
       "kinds": [
         "document",
         "papers_document"
@@ -2028,8 +2093,8 @@
     },
     {
       "path": "README.md",
-      "blob_sha": "18670e7f1c2c93baa8cba3bb94dacf4ee0f3a27f",
-      "size_bytes": 66171,
+      "blob_sha": "5161aeb8616a5bb006ac93f3094e6f22d3637528",
+      "size_bytes": 66650,
       "kinds": [
         "document",
         "papers_document"
@@ -5561,6 +5626,16 @@
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
+      "path": "research/rh-reconstruction-zoo-2026-11-24/RH-Reconstruction-Zoo-Evidence.zip",
+      "blob_sha": "4bf56236fa30ac03a955183721e48ae907c3dfad",
+      "size_bytes": 299313,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/research/rh-reconstruction-zoo-2026-11-24/RH-Reconstruction-Zoo-Evidence.zip",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
       "path": "research/rotation-convergence-001/COSMOLOGY-PROTOCOL.md",
       "blob_sha": "2f2baeb9b1c6d439b2a5471261592ee598155509",
       "size_bytes": 2709,
@@ -6185,6 +6260,30 @@
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
+      "path": "RH-Reconstruction-Zoo-Audit-2026-11-24.md",
+      "blob_sha": "da2ef714ee635cad5f480371f871ab299f0c55bb",
+      "size_bytes": 19603,
+      "kinds": [
+        "document",
+        "data_or_result",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/RH-Reconstruction-Zoo-Audit-2026-11-24.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "RH-Reconstruction-Zoo-Audit-2026-11-24.pdf",
+      "blob_sha": "b551f6b2351d29e728697a406cc3f781cd616783",
+      "size_bytes": 223132,
+      "kinds": [
+        "document",
+        "data_or_result",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/RH-Reconstruction-Zoo-Audit-2026-11-24.pdf",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
       "path": "RHC-001-EFMW-Rahasya-Pressure-Cycle-Formalization.md",
       "blob_sha": "734737688ef7f40a5bd001d0fe118001e4483b16",
       "size_bytes": 22712,
@@ -6406,6 +6505,17 @@
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
+      "path": "The-World-Will-Be-Tlon-2026-11-25.md",
+      "blob_sha": "2250714b9299dfcb8ddcc6521853a970de7d0769",
+      "size_bytes": 2411,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/The-World-Will-Be-Tlon-2026-11-25.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
       "path": "The_Record_Donald_J_Trump_Research_Draft.docx",
       "blob_sha": "48b51f01574e585e72dfe0c5cfd66584e5f9364f",
       "size_bytes": 105656,
@@ -6525,6 +6635,17 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/TriSphere-Blueprint-Equation-10-Corrected-2026-11-24.docx",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TriSphere-Equation-10-Attracting-Return-Map-2026-11-25.md",
+      "blob_sha": "1e00149973d496981759a27bed4295611d828376",
+      "size_bytes": 3290,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/TriSphere-Equation-10-Attracting-Return-Map-2026-11-25.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {

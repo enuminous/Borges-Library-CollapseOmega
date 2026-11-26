@@ -1,6 +1,6 @@
 # Sophia's Complete Public Papers Document Shelf
 
-**Snapshot:** 2026-11-25T00:54:38+00:00
+**Snapshot:** 2026-11-26T00:31:59+00:00
 **Evidence:** file inventory, not a journal peer-review or publication-status assertion.
 
 [Universal catalogue](overview.md) · [Source repository](https://github.com/enuminous/papers)
@@ -41,6 +41,8 @@
 | EFMW-Humanoid-Platform-System-Engineering-Specification-v0.1-2026-11-11.md | 58273 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-Humanoid-Platform-System-Engineering-Specification-v0.1-2026-11-11.md) |
 | EFMW-HYP-001-Testable-Physical-Predictions-2026-11-12.md | 5995 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-HYP-001-Testable-Physical-Predictions-2026-11-12.md) |
 | EFMW-HYP-001A-Known-Zero-Recovery-2026-11-13.md | 4876 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-HYP-001A-Known-Zero-Recovery-2026-11-13.md) |
+| EFMW-HYP-001B/README.md | 1624 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-HYP-001B/README.md) |
+| EFMW-HYP-001B/requirements.txt | 27 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-HYP-001B/requirements.txt) |
 | EFMW-INT-001-Preregistered-Audit-Benchmark-Protocol-2026-11-13.md | 12120 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-INT-001-Preregistered-Audit-Benchmark-Protocol-2026-11-13.md) |
 | EFMW-MWI-001-Four-World-Record-Entanglement-Test.md | 11691 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-MWI-001-Four-World-Record-Entanglement-Test.md) |
 | EFMW-Physical-Computation-Hypothesis.md | 15292 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-Physical-Computation-Hypothesis.md) |
@@ -55,6 +57,8 @@
 | EFMW-Physical-Validation-Research-Roadmap-2026-11-03.md | 9602 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-Physical-Validation-Research-Roadmap-2026-11-03.md) |
 | EFMW-RP-001-Bubble-Memory-Detection-and-Identifiability.md | 34251 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-RP-001-Bubble-Memory-Detection-and-Identifiability.md) |
 | EFMW-Scientific-Validation-Roadmap-2026-11-15.md | 35435 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-Scientific-Validation-Roadmap-2026-11-15.md) |
+| EFMW-TLON-001-002-Tlonification-Simulation-and-Self-Assessment-2026-11-25.md | 5657 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-TLON-001-002-Tlonification-Simulation-and-Self-Assessment-2026-11-25.md) |
+| EFMW-TLON-AUDIT-001-Ontological-Zoo-2026-11-25.md | 9098 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-TLON-AUDIT-001-Ontological-Zoo-2026-11-25.md) |
 | EFMW-Zoo-R001-Primordial-Recursion-Boundary.md | 12079 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-Zoo-R001-Primordial-Recursion-Boundary.md) |
 | EFMW_Boundary_of_Established_Physics.md | 26760 | [Open](https://github.com/enuminous/papers/blob/main/EFMW_Boundary_of_Established_Physics.md) |
 | EFMW_Four_Proposed_Laws_Article.md | 10452 | [Open](https://github.com/enuminous/papers/blob/main/EFMW_Four_Proposed_Laws_Article.md) |
@@ -89,7 +93,7 @@
 | Human-Centric-AGI-Partnerships.md | 19960 | [Open](https://github.com/enuminous/papers/blob/main/Human-Centric-AGI-Partnerships.md) |
 | HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.docx | 56814 | [Open](https://github.com/enuminous/papers/blob/main/HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.docx) |
 | HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.md | 38693 | [Open](https://github.com/enuminous/papers/blob/main/HYP-001-P2-Memory-Hysteresis-Experimental-Protocol-2026-11-16.md) |
-| index.html | 51103 | [Open](https://github.com/enuminous/papers/blob/main/index.html) |
+| index.html | 51912 | [Open](https://github.com/enuminous/papers/blob/main/index.html) |
 | IST-001-Deriving-Informational-Stress-from-Covariant-Memory-and-Reservoir-Models-2026-11-09.md | 10938 | [Open](https://github.com/enuminous/papers/blob/main/IST-001-Deriving-Informational-Stress-from-Covariant-Memory-and-Reservoir-Models-2026-11-09.md) |
 | IST-FAM-001-Referee-Review-and-Spectral-Novelty-Audit-2026-11-09.md | 21247 | [Open](https://github.com/enuminous/papers/blob/main/IST-FAM-001-Referee-Review-and-Spectral-Novelty-Audit-2026-11-09.md) |
 | Master-LightWeb-Namespace.md | 25678 | [Open](https://github.com/enuminous/papers/blob/main/Master-LightWeb-Namespace.md) |
@@ -121,7 +125,7 @@
 | QNET-001-artifacts/requirements.txt | 79 | [Open](https://github.com/enuminous/papers/blob/main/QNET-001-artifacts/requirements.txt) |
 | QNET-001-Dynamical-Connections-and-Dimensionality-Obstructions.md | 30502 | [Open](https://github.com/enuminous/papers/blob/main/QNET-001-Dynamical-Connections-and-Dimensionality-Obstructions.md) |
 | Quantum-Math-the-Greek-Way-Music-of-the-Spheres.md | 17990 | [Open](https://github.com/enuminous/papers/blob/main/Quantum-Math-the-Greek-Way-Music-of-the-Spheres.md) |
-| README.md | 66171 | [Open](https://github.com/enuminous/papers/blob/main/README.md) |
+| README.md | 66650 | [Open](https://github.com/enuminous/papers/blob/main/README.md) |
 | Recursive-Coherence-Monitoring-Synthetic-Control-Degradation.md | 15211 | [Open](https://github.com/enuminous/papers/blob/main/Recursive-Coherence-Monitoring-Synthetic-Control-Degradation.md) |
 | research/cl33-review-2026-10-25/README.md | 2709 | [Open](https://github.com/enuminous/papers/blob/main/research/cl33-review-2026-10-25/README.md) |
 | research/cmb-alignment/nonzero-vorticity/v1/DERIVATION.md | 17260 | [Open](https://github.com/enuminous/papers/blob/main/research/cmb-alignment/nonzero-vorticity/v1/DERIVATION.md) |
@@ -276,6 +280,8 @@
 | research/unity-001/phase-5/PREDICTION_001.md | 2664 | [Open](https://github.com/enuminous/papers/blob/main/research/unity-001/phase-5/PREDICTION_001.md) |
 | research/unity-001/phase-5/README.md | 1534 | [Open](https://github.com/enuminous/papers/blob/main/research/unity-001/phase-5/README.md) |
 | research/unity-001/source-screen/README.md | 6234 | [Open](https://github.com/enuminous/papers/blob/main/research/unity-001/source-screen/README.md) |
+| RH-Reconstruction-Zoo-Audit-2026-11-24.md | 19603 | [Open](https://github.com/enuminous/papers/blob/main/RH-Reconstruction-Zoo-Audit-2026-11-24.md) |
+| RH-Reconstruction-Zoo-Audit-2026-11-24.pdf | 223132 | [Open](https://github.com/enuminous/papers/blob/main/RH-Reconstruction-Zoo-Audit-2026-11-24.pdf) |
 | RHC-001-EFMW-Rahasya-Pressure-Cycle-Formalization.md | 22712 | [Open](https://github.com/enuminous/papers/blob/main/RHC-001-EFMW-Rahasya-Pressure-Cycle-Formalization.md) |
 | Rotation-Under-Constraint-Covariant-and-Source-First-Audits-ROT004-ROT008-2026-11-17.md | 27959 | [Open](https://github.com/enuminous/papers/blob/main/Rotation-Under-Constraint-Covariant-and-Source-First-Audits-ROT004-ROT008-2026-11-17.md) |
 | Self-Replicating-Prompt-Injections-Coherence-Parasites.md | 13605 | [Open](https://github.com/enuminous/papers/blob/main/Self-Replicating-Prompt-Injections-Coherence-Parasites.md) |
@@ -296,6 +302,7 @@
 | The-Signed-Memory-Identity-and-Human-Self-Correction-2026-11-06.md | 17404 | [Open](https://github.com/enuminous/papers/blob/main/The-Signed-Memory-Identity-and-Human-Self-Correction-2026-11-06.md) |
 | The-Theory-That-Was-Allowed-to-Fail-2026-11-09.md | 25718 | [Open](https://github.com/enuminous/papers/blob/main/The-Theory-That-Was-Allowed-to-Fail-2026-11-09.md) |
 | The-Universe-Has-Been-Formally-Diagnosed-A-Satirical-Zoo-Paper.md | 11788 | [Open](https://github.com/enuminous/papers/blob/main/The-Universe-Has-Been-Formally-Diagnosed-A-Satirical-Zoo-Paper.md) |
+| The-World-Will-Be-Tlon-2026-11-25.md | 2411 | [Open](https://github.com/enuminous/papers/blob/main/The-World-Will-Be-Tlon-2026-11-25.md) |
 | The_Record_Donald_J_Trump_Research_Draft.docx | 105656 | [Open](https://github.com/enuminous/papers/blob/main/The_Record_Donald_J_Trump_Research_Draft.docx) |
 | The_Record_Donald_J_Trump_Research_Draft.pdf | 578513 | [Open](https://github.com/enuminous/papers/blob/main/The_Record_Donald_J_Trump_Research_Draft.pdf) |
 | TheObservablePast-Reconstruction.md | 19482 | [Open](https://github.com/enuminous/papers/blob/main/TheObservablePast-Reconstruction.md) |
@@ -306,6 +313,7 @@
 | TORTOISE-KAIROSEED-Independent-Evidence-Ablation-2026-11-08.md | 10720 | [Open](https://github.com/enuminous/papers/blob/main/TORTOISE-KAIROSEED-Independent-Evidence-Ablation-2026-11-08.md) |
 | TRANCHE_IV_THEOREM_REGISTER.md | 2539 | [Open](https://github.com/enuminous/papers/blob/main/TRANCHE_IV_THEOREM_REGISTER.md) |
 | TriSphere-Blueprint-Equation-10-Corrected-2026-11-24.docx | 1737929 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-Blueprint-Equation-10-Corrected-2026-11-24.docx) |
+| TriSphere-Equation-10-Attracting-Return-Map-2026-11-25.md | 3290 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-Equation-10-Attracting-Return-Map-2026-11-25.md) |
 | TriSphere-Tokamak-Model-Comparison-2026-11-19.md | 2711 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-Tokamak-Model-Comparison-2026-11-19.md) |
 | Two-Oscillators-One-Missing-Force-EFMW-F03.md | 14676 | [Open](https://github.com/enuminous/papers/blob/main/Two-Oscillators-One-Missing-Force-EFMW-F03.md) |
 | Two-Paths-to-Rotation.md | 35607 | [Open](https://github.com/enuminous/papers/blob/main/Two-Paths-to-Rotation.md) |
@@ -322,4 +330,4 @@
 | WITD-002-Where-Does-the-Memorys-Energy-Go-2026-11-05.md | 15106 | [Open](https://github.com/enuminous/papers/blob/main/WITD-002-Where-Does-the-Memorys-Energy-Go-2026-11-05.md) |
 | WORLD-GRID-005-Equal-Budget-Negative-Result.md | 11723 | [Open](https://github.com/enuminous/papers/blob/main/WORLD-GRID-005-Equal-Budget-Negative-Result.md) |
 
-**Document-like files listed:** 314
+**Document-like files listed:** 322

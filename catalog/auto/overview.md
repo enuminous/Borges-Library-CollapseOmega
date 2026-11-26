@@ -1,17 +1,17 @@
 # Sophia's Universal Catalogue — Public Source Snapshot
 
-**Generated:** 2026-11-25T00:54:38+00:00 UTC  
+**Generated:** 2026-11-26T00:31:59+00:00 UTC  
 **Scope:** ALL discoverable PUBLIC owner repositories. Private repositories and connected cloud files are excluded.  
 **Scientific caution:** Metadata only. Filename claims of PASS, proof, verification or discovery have NOT been reviewed.
 
-**Discovered:** 172 repositories; 170 complete; 0 stale; 2 incomplete.
-**Inventory:** 144021 files, 9076 documents, 30315 data/result candidates, 119806 reproducibility-source candidates.
+**Discovered:** 173 repositories; 171 complete; 0 stale; 2 incomplete.
+**Inventory:** 144118 files, 9101 documents, 30381 data/result candidates, 119828 reproducibility-source candidates.
 
 [Machine-readable manifest](manifest.json) · [All files in papers](papers.md) · [Searchable catalogue](../index.html)
 
 | Repository | All files | Documents | Results/data | Code/proof source | Coverage | Inventory |
 |---|---:|---:|---:|---:|---|---|
-| [papers](https://github.com/enuminous/papers) | 630 | 314 | 175 | 91 | COMPLETE | [Files](repos/papers.json) |
+| [papers](https://github.com/enuminous/papers) | 641 | 322 | 180 | 92 | COMPLETE | [Files](repos/papers.json) |
 | [accelerando-8192](https://github.com/enuminous/accelerando-8192) | 28 | 3 | 0 | 0 | COMPLETE | [Files](repos/accelerando-8192.json) |
 | [Alchemy-of-Emergence](https://github.com/enuminous/Alchemy-of-Emergence) | 20 | 14 | 2 | 1 | COMPLETE | [Files](repos/Alchemy-of-Emergence.json) |
 | [alex-mrtb-verify-bundle](https://github.com/enuminous/alex-mrtb-verify-bundle) | 106 | 15 | 15 | 11 | COMPLETE | [Files](repos/alex-mrtb-verify-bundle.json) |
@@ -34,7 +34,7 @@
 | [Bat](https://github.com/enuminous/Bat) | 17 | 3 | 3 | 7 | COMPLETE | [Files](repos/Bat.json) |
 | [Beaver](https://github.com/enuminous/Beaver) | 17 | 10 | 4 | 5 | COMPLETE | [Files](repos/Beaver.json) |
 | [Bison](https://github.com/enuminous/Bison) | 17 | 10 | 4 | 5 | COMPLETE | [Files](repos/Bison.json) |
-| [Black-Hole-Horizon](https://github.com/enuminous/Black-Hole-Horizon) | 43 | 11 | 16 | 10 | COMPLETE | [Files](repos/Black-Hole-Horizon.json) |
+| [Black-Hole-Horizon](https://github.com/enuminous/Black-Hole-Horizon) | 62 | 15 | 20 | 19 | COMPLETE | [Files](repos/Black-Hole-Horizon.json) |
 | [Boardy-Monolithic-Lean4-Zoo](https://github.com/enuminous/Boardy-Monolithic-Lean4-Zoo) | 28 | 11 | 10 | 6 | COMPLETE | [Files](repos/Boardy-Monolithic-Lean4-Zoo.json) |
 | [Bonobo](https://github.com/enuminous/Bonobo) | 17 | 10 | 4 | 5 | COMPLETE | [Files](repos/Bonobo.json) |
 | [Borges-Library-CollapseOmega](https://github.com/enuminous/Borges-Library-CollapseOmega) | 20 | 10 | 0 | 5 | COMPLETE | [Files](repos/Borges-Library-CollapseOmega.json) |
@@ -166,12 +166,13 @@
 | [StorySpace](https://github.com/enuminous/StorySpace) | 13 | 8 | 0 | 2 | COMPLETE | [Files](repos/StorySpace.json) |
 | [Termite](https://github.com/enuminous/Termite) | 17 | 10 | 4 | 5 | COMPLETE | [Files](repos/Termite.json) |
 | [The-ORION-Project](https://github.com/enuminous/The-ORION-Project) | 4178 | 2098 | 171 | 231 | COMPLETE | [Files](repos/The-ORION-Project.json) |
+| [Tlonify](https://github.com/enuminous/Tlonify) | 28 | 9 | 20 | 4 | COMPLETE | [Files](repos/Tlonify.json) |
 | [Toast-Cat-Gravity](https://github.com/enuminous/Toast-Cat-Gravity) | 26 | 4 | 1 | 4 | COMPLETE | [Files](repos/Toast-Cat-Gravity.json) |
 | [TOE-001](https://github.com/enuminous/TOE-001) | 38 | 11 | 11 | 18 | COMPLETE | [Files](repos/TOE-001.json) |
-| [Tokamak](https://github.com/enuminous/Tokamak) | 663 | 61 | 633 | 81 | COMPLETE | [Files](repos/Tokamak.json) |
+| [Tokamak](https://github.com/enuminous/Tokamak) | 699 | 64 | 669 | 88 | COMPLETE | [Files](repos/Tokamak.json) |
 | [Topology](https://github.com/enuminous/Topology) | 37 | 11 | 11 | 15 | COMPLETE | [Files](repos/Topology.json) |
 | [Tortoise](https://github.com/enuminous/Tortoise) | 77 | 7 | 3 | 10 | COMPLETE | [Files](repos/Tortoise.json) |
-| [trisphere](https://github.com/enuminous/trisphere) | 183 | 23 | 35 | 87 | COMPLETE | [Files](repos/trisphere.json) |
+| [trisphere](https://github.com/enuminous/trisphere) | 186 | 24 | 36 | 88 | COMPLETE | [Files](repos/trisphere.json) |
 | [Turtle](https://github.com/enuminous/Turtle) | 17 | 3 | 2 | 7 | COMPLETE | [Files](repos/Turtle.json) |
 | [Universal-Cognitive-Attractor](https://github.com/enuminous/Universal-Cognitive-Attractor) | 21 | 9 | 5 | 6 | COMPLETE | [Files](repos/Universal-Cognitive-Attractor.json) |
 | [Universe5](https://github.com/enuminous/Universe5) | 5 | 3 | 2 | 1 | COMPLETE | [Files](repos/Universe5.json) |

@@ -1,6 +1,6 @@
 # Sophia's Complete Public Papers Document Shelf
 
-**Snapshot:** 2026-11-26T00:31:59+00:00
+**Snapshot:** 2026-11-27T00:41:22+00:00
 **Evidence:** file inventory, not a journal peer-review or publication-status assertion.
 
 [Universal catalogue](overview.md) · [Source repository](https://github.com/enuminous/papers)
@@ -18,6 +18,7 @@
 | Beyond-the-Trace-ROT-009-Exact-Einstein-Source-Obstruction-2026-11-17.md | 21163 | [Open](https://github.com/enuminous/papers/blob/main/Beyond-the-Trace-ROT-009-Exact-Einstein-Source-Obstruction-2026-11-17.md) |
 | Bloke-Parallel-Qudit-Sheets-Referee-Report-2026-11-01.md | 19715 | [Open](https://github.com/enuminous/papers/blob/main/Bloke-Parallel-Qudit-Sheets-Referee-Report-2026-11-01.md) |
 | BSD-Three-Prime-Parity-and-Fixed-Invariants.md | 24024 | [Open](https://github.com/enuminous/papers/blob/main/BSD-Three-Prime-Parity-and-Fixed-Invariants.md) |
+| Can-Space-Be-Made-of-Quantum-Connections-2026-11-26.md | 15261 | [Open](https://github.com/enuminous/papers/blob/main/Can-Space-Be-Made-of-Quantum-Connections-2026-11-26.md) |
 | CFSG-Preliminary-Audit-Source-Preflight-and-Rebuild-Status-2026-10-30.md | 18139 | [Open](https://github.com/enuminous/papers/blob/main/CFSG-Preliminary-Audit-Source-Preflight-and-Rebuild-Status-2026-10-30.md) |
 | CL33-Review-and-Reproducibility-Repair.md | 21756 | [Open](https://github.com/enuminous/papers/blob/main/CL33-Review-and-Reproducibility-Repair.md) |
 | CLAUDE-EFMW-EXP-001.md | 16065 | [Open](https://github.com/enuminous/papers/blob/main/CLAUDE-EFMW-EXP-001.md) |
@@ -55,6 +56,19 @@
 | EFMW-Physical-Validation-Attempt-008-Finite-Range-Degeneracy-2026-11-03.md | 3184 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-Physical-Validation-Attempt-008-Finite-Range-Degeneracy-2026-11-03.md) |
 | EFMW-Physical-Validation-Recursive-Closure-2026-11-03.md | 6802 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-Physical-Validation-Recursive-Closure-2026-11-03.md) |
 | EFMW-Physical-Validation-Research-Roadmap-2026-11-03.md | 9602 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-Physical-Validation-Research-Roadmap-2026-11-03.md) |
+| EFMW-QG-014-Local-Rank-2-Gauge-Symmetry-and-the-Relativistic-Obstruction-2026-11-26.md | 9569 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-QG-014-Local-Rank-2-Gauge-Symmetry-and-the-Relativistic-Obstruction-2026-11-26.md) |
+| EFMW-QG-015-Relativistic-Gauge-Geometry-2026-11-26.md | 9715 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-QG-015-Relativistic-Gauge-Geometry-2026-11-26.md) |
+| EFMW-QG-016-Gravity-Meets-Matter-2026-11-26.md | 13276 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-QG-016-Gravity-Meets-Matter-2026-11-26.md) |
+| EFMW-QG-017-R-Exact-Replay-and-Cross-Integrator-Validation-2026-11-26.md | 5259 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-QG-017-R-Exact-Replay-and-Cross-Integrator-Validation-2026-11-26.md) |
+| EFMW-QG-017-Reciprocal-Einstein-Matter-Dynamics-2026-11-26.md | 8029 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-QG-017-Reciprocal-Einstein-Matter-Dynamics-2026-11-26.md) |
+| EFMW-QG-018-Inhomogeneous-Reciprocal-Gravity-2026-11-26.md | 8350 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-QG-018-Inhomogeneous-Reciprocal-Gravity-2026-11-26.md) |
+| EFMW-QG-019-Quantum-Matter-Dynamical-Geometry-2026-11-26.md | 7500 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-QG-019-Quantum-Matter-Dynamical-Geometry-2026-11-26.md) |
+| EFMW-QG-020-Quantization-of-the-Gravitational-Tensor-Field-2026-11-26.md | 9157 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-QG-020-Quantization-of-the-Gravitational-Tensor-Field-2026-11-26.md) |
+| EFMW-QG-021-Quantum-Matter-and-Newtonian-Backreaction-2026-11-26.md | 6617 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-QG-021-Quantum-Matter-and-Newtonian-Backreaction-2026-11-26.md) |
+| EFMW-QG-022-Newtonian-Quantum-Matter-and-Tensor-Geometry-2026-11-26.md | 10129 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-QG-022-Newtonian-Quantum-Matter-and-Tensor-Geometry-2026-11-26.md) |
+| EFMW-QG-023-Covariant-Quantum-Matter-Geometry-Interaction-2026-11-26.md | 11755 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-QG-023-Covariant-Quantum-Matter-Geometry-Interaction-2026-11-26.md) |
+| EFMW-QG-024-Quantum-Gravitational-Causality-2026-11-26.md | 7723 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-QG-024-Quantum-Gravitational-Causality-2026-11-26.md) |
+| EFMW-Quantum-Gravity-Interim-Report-QG-003-013-2026-11-26.md | 15669 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-Quantum-Gravity-Interim-Report-QG-003-013-2026-11-26.md) |
 | EFMW-RP-001-Bubble-Memory-Detection-and-Identifiability.md | 34251 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-RP-001-Bubble-Memory-Detection-and-Identifiability.md) |
 | EFMW-Scientific-Validation-Roadmap-2026-11-15.md | 35435 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-Scientific-Validation-Roadmap-2026-11-15.md) |
 | EFMW-TLON-001-002-Tlonification-Simulation-and-Self-Assessment-2026-11-25.md | 5657 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-TLON-001-002-Tlonification-Simulation-and-Self-Assessment-2026-11-25.md) |
@@ -314,6 +328,7 @@
 | TRANCHE_IV_THEOREM_REGISTER.md | 2539 | [Open](https://github.com/enuminous/papers/blob/main/TRANCHE_IV_THEOREM_REGISTER.md) |
 | TriSphere-Blueprint-Equation-10-Corrected-2026-11-24.docx | 1737929 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-Blueprint-Equation-10-Corrected-2026-11-24.docx) |
 | TriSphere-Equation-10-Attracting-Return-Map-2026-11-25.md | 3290 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-Equation-10-Attracting-Return-Map-2026-11-25.md) |
+| TriSphere-INT-001-Stability-Is-Not-Computational-Memory-2026-11-26.md | 3703 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-INT-001-Stability-Is-Not-Computational-Memory-2026-11-26.md) |
 | TriSphere-Tokamak-Model-Comparison-2026-11-19.md | 2711 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-Tokamak-Model-Comparison-2026-11-19.md) |
 | Two-Oscillators-One-Missing-Force-EFMW-F03.md | 14676 | [Open](https://github.com/enuminous/papers/blob/main/Two-Oscillators-One-Missing-Force-EFMW-F03.md) |
 | Two-Paths-to-Rotation.md | 35607 | [Open](https://github.com/enuminous/papers/blob/main/Two-Paths-to-Rotation.md) |
@@ -330,4 +345,4 @@
 | WITD-002-Where-Does-the-Memorys-Energy-Go-2026-11-05.md | 15106 | [Open](https://github.com/enuminous/papers/blob/main/WITD-002-Where-Does-the-Memorys-Energy-Go-2026-11-05.md) |
 | WORLD-GRID-005-Equal-Budget-Negative-Result.md | 11723 | [Open](https://github.com/enuminous/papers/blob/main/WORLD-GRID-005-Equal-Budget-Negative-Result.md) |
 
-**Document-like files listed:** 322
+**Document-like files listed:** 337

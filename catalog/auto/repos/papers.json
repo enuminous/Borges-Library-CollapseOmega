@@ -1,7 +1,7 @@
 {
   "repository": "enuminous/papers",
   "default_branch": "main",
-  "tree_sha": "40ff7195e49d69e78afe6e4478d6f866009e4782",
+  "tree_sha": "747ad27e49ab90f0eb43e42b6cd7758670c5752c",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
@@ -370,6 +370,17 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/BSD-Three-Prime-Parity-and-Fixed-Invariants.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "Can-Space-Be-Made-of-Quantum-Connections-2026-11-26.md",
+      "blob_sha": "57ba20a9ee6aa440b264b5f5fe2b25cb9269515e",
+      "size_bytes": 15261,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/Can-Space-Be-Made-of-Quantum-Connections-2026-11-26.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
@@ -852,6 +863,151 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/EFMW-Physical-Validation-Research-Roadmap-2026-11-03.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-QG-014-Local-Rank-2-Gauge-Symmetry-and-the-Relativistic-Obstruction-2026-11-26.md",
+      "blob_sha": "280a5dec677d8dd0ad84caf2f4859a483ca4f266",
+      "size_bytes": 9569,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-QG-014-Local-Rank-2-Gauge-Symmetry-and-the-Relativistic-Obstruction-2026-11-26.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-QG-015-Relativistic-Gauge-Geometry-2026-11-26.md",
+      "blob_sha": "bfb84c77c88325c47e6e33a4b33f8247143dcd51",
+      "size_bytes": 9715,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-QG-015-Relativistic-Gauge-Geometry-2026-11-26.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-QG-016-Gravity-Meets-Matter-2026-11-26.md",
+      "blob_sha": "74ac8b40b5a0fe875261df4a3532d68ae554840c",
+      "size_bytes": 13276,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-QG-016-Gravity-Meets-Matter-2026-11-26.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-QG-017-R-Exact-Replay-and-Cross-Integrator-Validation-2026-11-26.md",
+      "blob_sha": "4b5b193585b08008f4d78345010b45304468cf99",
+      "size_bytes": 5259,
+      "kinds": [
+        "document",
+        "data_or_result",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-QG-017-R-Exact-Replay-and-Cross-Integrator-Validation-2026-11-26.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-QG-017-Reciprocal-Einstein-Matter-Dynamics-2026-11-26.md",
+      "blob_sha": "06c2615ec0a3c91acf15a555067a6534baa6b017",
+      "size_bytes": 8029,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-QG-017-Reciprocal-Einstein-Matter-Dynamics-2026-11-26.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-QG-018-Inhomogeneous-Reciprocal-Gravity-2026-11-26.md",
+      "blob_sha": "d2ead98a62353d8d525348215cbef709a25a6d12",
+      "size_bytes": 8350,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-QG-018-Inhomogeneous-Reciprocal-Gravity-2026-11-26.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-QG-019-Quantum-Matter-Dynamical-Geometry-2026-11-26.md",
+      "blob_sha": "87d5d013c4a5557d84d0c7e29532b5a8398a3990",
+      "size_bytes": 7500,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-QG-019-Quantum-Matter-Dynamical-Geometry-2026-11-26.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-QG-020-Quantization-of-the-Gravitational-Tensor-Field-2026-11-26.md",
+      "blob_sha": "d8e5d94ff64a98601f8aec4e1b862e2e2220769e",
+      "size_bytes": 9157,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-QG-020-Quantization-of-the-Gravitational-Tensor-Field-2026-11-26.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-QG-021-Quantum-Matter-and-Newtonian-Backreaction-2026-11-26.md",
+      "blob_sha": "eaf1b0a231412d3801ec742905d1f7f067c3b132",
+      "size_bytes": 6617,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-QG-021-Quantum-Matter-and-Newtonian-Backreaction-2026-11-26.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-QG-022-Newtonian-Quantum-Matter-and-Tensor-Geometry-2026-11-26.md",
+      "blob_sha": "5caa8f5a72749cc2f83df8f0c42fc7751f4dd1f4",
+      "size_bytes": 10129,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-QG-022-Newtonian-Quantum-Matter-and-Tensor-Geometry-2026-11-26.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-QG-023-Covariant-Quantum-Matter-Geometry-Interaction-2026-11-26.md",
+      "blob_sha": "aaca5f24417799003fb3e1f52b815f56980a8937",
+      "size_bytes": 11755,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-QG-023-Covariant-Quantum-Matter-Geometry-Interaction-2026-11-26.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-QG-024-Quantum-Gravitational-Causality-2026-11-26.md",
+      "blob_sha": "bfb6f53db2e1f76a9801ad6c65fc802bb7bad77e",
+      "size_bytes": 7723,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-QG-024-Quantum-Gravitational-Causality-2026-11-26.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-Quantum-Gravity-Interim-Report-QG-003-013-2026-11-26.md",
+      "blob_sha": "381ae15bb8ce2fed7e71263d607d91a888853ad6",
+      "size_bytes": 15669,
+      "kinds": [
+        "document",
+        "data_or_result",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-Quantum-Gravity-Interim-Report-QG-003-013-2026-11-26.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
@@ -6646,6 +6802,17 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/TriSphere-Equation-10-Attracting-Return-Map-2026-11-25.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TriSphere-INT-001-Stability-Is-Not-Computational-Memory-2026-11-26.md",
+      "blob_sha": "ee086e966e74cf9c0473dd233782126c7ca6c94f",
+      "size_bytes": 3703,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/TriSphere-INT-001-Stability-Is-Not-Computational-Memory-2026-11-26.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {

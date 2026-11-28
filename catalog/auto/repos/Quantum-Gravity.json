@@ -1,7 +1,7 @@
 {
   "repository": "enuminous/Quantum-Gravity",
   "default_branch": "main",
-  "tree_sha": "ebe3638fed3ccad7d3f931e1dc8df6565f0c3916",
+  "tree_sha": "d07cbde5b11788d5147c931584a6e572ec43cc2d",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
@@ -1224,6 +1224,137 @@
         "other"
       ],
       "url": "https://github.com/enuminous/Quantum-Gravity/blob/main/QG-024/summary.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "QG-025/initial_attempt.py",
+      "blob_sha": "58ba4a30672fc675113348062efeefc4051bb072",
+      "size_bytes": 7805,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Quantum-Gravity/blob/main/QG-025/initial_attempt.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "QG-025/initial_failure.log",
+      "blob_sha": "07380152127a99b34bad51e4cf5b91c73cb30f80",
+      "size_bytes": 902,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Quantum-Gravity/blob/main/QG-025/initial_failure.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "QG-025/log.txt",
+      "blob_sha": "9ef4e3a49a3028349ebc5b2969130928d15ba45d",
+      "size_bytes": 2313,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Quantum-Gravity/blob/main/QG-025/log.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "QG-025/MANIFEST.sha256",
+      "blob_sha": "01a831cfed2206994aa00f35d7a885ed501b6e34",
+      "size_bytes": 1041,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Quantum-Gravity/blob/main/QG-025/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "QG-025/pilot.log",
+      "blob_sha": "40568098dfe0c75d2929938fcd4d2cce7fdf944f",
+      "size_bytes": 1297,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Quantum-Gravity/blob/main/QG-025/pilot.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "QG-025/pilot.py",
+      "blob_sha": "a1ce545b2a93be061330f1528a43128b221162d5",
+      "size_bytes": 2536,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Quantum-Gravity/blob/main/QG-025/pilot.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "QG-025/pre_execution.sha256",
+      "blob_sha": "cbc6d289ca62140defe7656ead839e6131fe67f4",
+      "size_bytes": 151,
+      "kinds": [
+        "other"
+      ],
+      "url": "https://github.com/enuminous/Quantum-Gravity/blob/main/QG-025/pre_execution.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "QG-025/protocol.md",
+      "blob_sha": "a8aa159b20b599bc81e804e0b63c99113c439348",
+      "size_bytes": 1935,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Quantum-Gravity/blob/main/QG-025/protocol.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "QG-025/PUBLICATION.md",
+      "blob_sha": "b14271f1da45135e1ac7682a2e51f00e7c363dff",
+      "size_bytes": 1179,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Quantum-Gravity/blob/main/QG-025/PUBLICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "QG-025/README.md",
+      "blob_sha": "eeebbcfa5bcb09d53d393a13a68d9584f0131aae",
+      "size_bytes": 10387,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Quantum-Gravity/blob/main/QG-025/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "QG-025/replay_verification.txt",
+      "blob_sha": "84d31cef157106ebc66424d72cada2522db1484e",
+      "size_bytes": 71,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/Quantum-Gravity/blob/main/QG-025/replay_verification.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "QG-025/requirements.txt",
+      "blob_sha": "871c966c09f89af68c058514f0f7ecce9f1578d3",
+      "size_bytes": 27,
+      "kinds": [
+        "document"
+      ],
+      "url": "https://github.com/enuminous/Quantum-Gravity/blob/main/QG-025/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "QG-025/run.py",
+      "blob_sha": "dbd9ef94c450b4971be59cd401ea8e62afe95349",
+      "size_bytes": 7854,
+      "kinds": [
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/Quantum-Gravity/blob/main/QG-025/run.py",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {

@@ -1,7 +1,7 @@
 {
   "repository": "enuminous/papers",
   "default_branch": "main",
-  "tree_sha": "747ad27e49ab90f0eb43e42b6cd7758670c5752c",
+  "tree_sha": "7491c32ccc384632c5f3d1d4491a2ae338d5d7e6",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
@@ -1008,6 +1008,17 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/EFMW-Quantum-Gravity-Interim-Report-QG-003-013-2026-11-26.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "EFMW-Quantum-Gravity-Microscopic-Constraint-Obstruction-QST-001-QG-030-2026-11-27.md",
+      "blob_sha": "643f45107557aa36d2ce4cfea1e9c04fcf829bb9",
+      "size_bytes": 34906,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/EFMW-Quantum-Gravity-Microscopic-Constraint-Obstruction-QST-001-QG-030-2026-11-27.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {
@@ -6813,6 +6824,28 @@
         "papers_document"
       ],
       "url": "https://github.com/enuminous/papers/blob/main/TriSphere-INT-001-Stability-Is-Not-Computational-Memory-2026-11-26.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TriSphere-MAG-001-Net-Zero-Directional-Order-and-EuSi-2026-11-26.md",
+      "blob_sha": "5a2002ffa9ef53482445cbea58baa0195adeeccb",
+      "size_bytes": 7783,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/TriSphere-MAG-001-Net-Zero-Directional-Order-and-EuSi-2026-11-26.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "TriSphere-MAG-002-Emergent-Directional-Order-and-the-Scalar-Breathing-Obstruction-2026-11-26.md",
+      "blob_sha": "0867b9f54ed6cd6c212e6772fb045146448dd9ba",
+      "size_bytes": 8403,
+      "kinds": [
+        "document",
+        "papers_document"
+      ],
+      "url": "https://github.com/enuminous/papers/blob/main/TriSphere-MAG-002-Emergent-Directional-Order-and-the-Scalar-Breathing-Obstruction-2026-11-26.md",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {

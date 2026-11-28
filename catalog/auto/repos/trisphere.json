@@ -1,7 +1,7 @@
 {
   "repository": "enuminous/trisphere",
   "default_branch": "main",
-  "tree_sha": "86115e01fdde06df9f06ecadfb3b576a6288121b",
+  "tree_sha": "aa816ea3ccbf173dbc7c63c8b2dc556273e21a06",
   "visibility": "public",
   "status": "COMPLETE",
   "content_review": "NONE",
@@ -259,6 +259,542 @@
         "reproducibility_source"
       ],
       "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-INT-001/run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-001/MANIFEST.sha256",
+      "blob_sha": "a25a2caa11822fa7c439160b4d8e1998c7f39a1d",
+      "size_bytes": 541,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-001/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-001/PUBLICATION.md",
+      "blob_sha": "91916a15fe3ae7c46f0d9817d3d744cbe5ff996d",
+      "size_bytes": 589,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-001/PUBLICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-001/README.md",
+      "blob_sha": "e5ebbfe9bbc83d1e83d766ddf34f892ad2c49666",
+      "size_bytes": 7039,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-001/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-001/requirements.txt",
+      "blob_sha": "d59d856f1cc6c05962ca6bd4f14dd3315acd207c",
+      "size_bytes": 13,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-001/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-001/run.py",
+      "blob_sha": "7fdf50061ee917cc9a3894ae585387ab46c080fe",
+      "size_bytes": 6288,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-001/run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-001/summary.tsv",
+      "blob_sha": "92e43caa195b408b3422743e453eefc0d3211527",
+      "size_bytes": 1421,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-001/summary.tsv",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-002/initial_failure.log",
+      "blob_sha": "af2b91a25d967a1b212e187227a97bd5bcd45889",
+      "size_bytes": 794,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-002/initial_failure.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-002/initial_run.py",
+      "blob_sha": "93335d14ac0550dbe6aed4c26fd780fa04978546",
+      "size_bytes": 6343,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-002/initial_run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-002/log.txt",
+      "blob_sha": "64856c807f8409a8f82826c3f2c5cd0290a3c55f",
+      "size_bytes": 5384,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-002/log.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-002/MANIFEST.sha256",
+      "blob_sha": "feed4deb5d4f6f83569ee9a92345fc24918798c6",
+      "size_bytes": 630,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-002/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-002/protocol.md",
+      "blob_sha": "2547976fdfe7a8cc41aab381b8a553f04bf5297b",
+      "size_bytes": 1266,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-002/protocol.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-002/README.md",
+      "blob_sha": "6c4d2beae0069fda1a61f868fd2c9566e705eb9f",
+      "size_bytes": 8185,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-002/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-002/requirements.txt",
+      "blob_sha": "871c966c09f89af68c058514f0f7ecce9f1578d3",
+      "size_bytes": 27,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-002/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-002/results.json",
+      "blob_sha": "fc195ce0d9bfcfef84cc7ac938e20130797f31c4",
+      "size_bytes": 540327,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-002/results.json",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-002/run.py",
+      "blob_sha": "0a2bcdaa7ed4823accaa420f1a4052078c12a066",
+      "size_bytes": 6388,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-002/run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-003/OUTPUTS.sha256",
+      "blob_sha": "f80adc0d6bcc8bab8361dabded7ff2330b59864d",
+      "size_bytes": 215,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-003/OUTPUTS.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-003/protocol.md",
+      "blob_sha": "47399f9d6964bf90485adb0f98643a729d8aec9f",
+      "size_bytes": 1928,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-003/protocol.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-003/README.md",
+      "blob_sha": "9cefc14547924117d322705424ed2086ab4fb932",
+      "size_bytes": 4385,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-003/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-003/requirements.txt",
+      "blob_sha": "871c966c09f89af68c058514f0f7ecce9f1578d3",
+      "size_bytes": 27,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-003/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-003/run.py",
+      "blob_sha": "937f05ef7b2886e0759b26da6409bc5f1e189f04",
+      "size_bytes": 5797,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-003/run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-004/mag003_reference.py",
+      "blob_sha": "937f05ef7b2886e0759b26da6409bc5f1e189f04",
+      "size_bytes": 5797,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-004/mag003_reference.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-004/MANIFEST.sha256",
+      "blob_sha": "fa48895e9d4768413e4709b20fd22036ed4c1191",
+      "size_bytes": 795,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-004/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-004/pre_execution.sha256",
+      "blob_sha": "b2ff8dad8bded6d09dca0214fa1f4c97ed235701",
+      "size_bytes": 151,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-004/pre_execution.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-004/protocol.md",
+      "blob_sha": "c2e4a5f4e9412965f4f81042eec16cd7a7b5d544",
+      "size_bytes": 2059,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-004/protocol.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-004/PUBLICATION.md",
+      "blob_sha": "9e9c70bc43dfc21c7bc7032ff177bde1944ae9e8",
+      "size_bytes": 1073,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-004/PUBLICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-004/README.md",
+      "blob_sha": "31677125855e38a7fdcb95f58e996417b28983df",
+      "size_bytes": 6030,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-004/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-004/requirements.txt",
+      "blob_sha": "c929a968d85c9915d68cbc891a756e3a5bd06257",
+      "size_bytes": 41,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-004/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-004/run.py",
+      "blob_sha": "f31b3bdd15c2af828ae5e126abd4d9c6e4491480",
+      "size_bytes": 7576,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-004/run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-005/mag003_reference.py",
+      "blob_sha": "937f05ef7b2886e0759b26da6409bc5f1e189f04",
+      "size_bytes": 5797,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-005/mag003_reference.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-005/mag004_reference.py",
+      "blob_sha": "f31b3bdd15c2af828ae5e126abd4d9c6e4491480",
+      "size_bytes": 7576,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-005/mag004_reference.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-005/MANIFEST.sha256",
+      "blob_sha": "df0011cf8bd5d839cc1d1e7d031d4196bf351093",
+      "size_bytes": 801,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-005/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-005/pre_execution.sha256",
+      "blob_sha": "d863b419b0f4e857a2338955f057f44cf51b5d75",
+      "size_bytes": 406,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-005/pre_execution.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-005/protocol.md",
+      "blob_sha": "e794fd9f179d6f1ddd85e7ad9d15f680cba89199",
+      "size_bytes": 2133,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-005/protocol.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-005/PUBLICATION.md",
+      "blob_sha": "9e9c70bc43dfc21c7bc7032ff177bde1944ae9e8",
+      "size_bytes": 1073,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-005/PUBLICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-005/README.md",
+      "blob_sha": "01ea1677f3e4e31427565f4ffa8607dcfb19314d",
+      "size_bytes": 8611,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-005/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-005/requirements.txt",
+      "blob_sha": "c929a968d85c9915d68cbc891a756e3a5bd06257",
+      "size_bytes": 41,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-005/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-MAG-005/run.py",
+      "blob_sha": "da7f7d0f4f9456a42b3fc31288b67e2894e52d9b",
+      "size_bytes": 7579,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-MAG-005/run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-SD-001/drv_exc_reference.py",
+      "blob_sha": "895f5e1573d664cdf36070678efd5b112412ab1a",
+      "size_bytes": 6341,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-SD-001/drv_exc_reference.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-SD-001/log.txt",
+      "blob_sha": "125175a0a3c3af62d009daf1f7727a0440f5c68a",
+      "size_bytes": 1428,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-SD-001/log.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-SD-001/MANIFEST.sha256",
+      "blob_sha": "42d257b6f16c3f123833186702197cfe74eca257",
+      "size_bytes": 1047,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-SD-001/MANIFEST.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-SD-001/pre_execution.sha256",
+      "blob_sha": "80211ce711c5d3d21d71c7d78695468839dd863f",
+      "size_bytes": 238,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-SD-001/pre_execution.sha256",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-SD-001/protocol.md",
+      "blob_sha": "4a9e17b9f3d6e0e419c872a1d2460b09c8eb5d31",
+      "size_bytes": 2180,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-SD-001/protocol.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-SD-001/PUBLICATION.md",
+      "blob_sha": "0c5bfb3c466931b2eb1da7ab4f0aed85bb4a3413",
+      "size_bytes": 1748,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-SD-001/PUBLICATION.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-SD-001/README.md",
+      "blob_sha": "07e0f27931d0291eef7ccb52aa03ce22a7c6ac56",
+      "size_bytes": 8106,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-SD-001/README.md",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-SD-001/replay.log",
+      "blob_sha": "125175a0a3c3af62d009daf1f7727a0440f5c68a",
+      "size_bytes": 1428,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-SD-001/replay.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-SD-001/replay_verification.txt",
+      "blob_sha": "32fd7b22d4133e312bbb3641353d2dab91c3e7bd",
+      "size_bytes": 36,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-SD-001/replay_verification.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-SD-001/requirements.txt",
+      "blob_sha": "871c966c09f89af68c058514f0f7ecce9f1578d3",
+      "size_bytes": 27,
+      "kinds": [
+        "document",
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-SD-001/requirements.txt",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-SD-001/run.py",
+      "blob_sha": "73054169bfeb0d0ac5b6bdf77a26cded4534a082",
+      "size_bytes": 9308,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-SD-001/run.py",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-SD-001/supplement.log",
+      "blob_sha": "9f68f336488b5e22f7688af2991e6e7e63bc3402",
+      "size_bytes": 1022,
+      "kinds": [
+        "data_or_result"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-SD-001/supplement.log",
+      "review_status": "UNREVIEWED_METADATA_ONLY"
+    },
+    {
+      "path": "experiments/TRISPHERE-SD-001/supplement.py",
+      "blob_sha": "7d60e83234fff880a82ef26acd07edc67132f52e",
+      "size_bytes": 2475,
+      "kinds": [
+        "data_or_result",
+        "reproducibility_source"
+      ],
+      "url": "https://github.com/enuminous/trisphere/blob/main/experiments/TRISPHERE-SD-001/supplement.py",
       "review_status": "UNREVIEWED_METADATA_ONLY"
     },
     {

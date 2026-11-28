@@ -1,17 +1,17 @@
 # Sophia's Universal Catalogue — Public Source Snapshot
 
-**Generated:** 2026-11-27T00:41:22+00:00 UTC  
+**Generated:** 2026-11-28T00:07:34+00:00 UTC  
 **Scope:** ALL discoverable PUBLIC owner repositories. Private repositories and connected cloud files are excluded.  
 **Scientific caution:** Metadata only. Filename claims of PASS, proof, verification or discovery have NOT been reviewed.
 
 **Discovered:** 173 repositories; 171 complete; 0 stale; 2 incomplete.
-**Inventory:** 144258 files, 9169 documents, 30410 data/result candidates, 119859 reproducibility-source candidates.
+**Inventory:** 144324 files, 9202 documents, 30463 data/result candidates, 119874 reproducibility-source candidates.
 
 [Machine-readable manifest](manifest.json) · [All files in papers](papers.md) · [Searchable catalogue](../index.html)
 
 | Repository | All files | Documents | Results/data | Code/proof source | Coverage | Inventory |
 |---|---:|---:|---:|---:|---|---|
-| [papers](https://github.com/enuminous/papers) | 656 | 337 | 182 | 92 | COMPLETE | [Files](repos/papers.json) |
+| [papers](https://github.com/enuminous/papers) | 659 | 340 | 182 | 92 | COMPLETE | [Files](repos/papers.json) |
 | [accelerando-8192](https://github.com/enuminous/accelerando-8192) | 28 | 3 | 0 | 0 | COMPLETE | [Files](repos/accelerando-8192.json) |
 | [Alchemy-of-Emergence](https://github.com/enuminous/Alchemy-of-Emergence) | 20 | 14 | 2 | 1 | COMPLETE | [Files](repos/Alchemy-of-Emergence.json) |
 | [alex-mrtb-verify-bundle](https://github.com/enuminous/alex-mrtb-verify-bundle) | 106 | 15 | 15 | 11 | COMPLETE | [Files](repos/alex-mrtb-verify-bundle.json) |
@@ -150,7 +150,7 @@
 | [Phoenix](https://github.com/enuminous/Phoenix) | 17 | 10 | 4 | 5 | COMPLETE | [Files](repos/Phoenix.json) |
 | [Pulse](https://github.com/enuminous/Pulse) | 17 | 3 | 3 | 7 | COMPLETE | [Files](repos/Pulse.json) |
 | [QST](https://github.com/enuminous/QST) | 7 | 3 | 1 | 2 | COMPLETE | [Files](repos/QST.json) |
-| [Quantum-Gravity](https://github.com/enuminous/Quantum-Gravity) | 126 | 54 | 24 | 32 | COMPLETE | [Files](repos/Quantum-Gravity.json) |
+| [Quantum-Gravity](https://github.com/enuminous/Quantum-Gravity) | 139 | 60 | 27 | 35 | COMPLETE | [Files](repos/Quantum-Gravity.json) |
 | [Ramtastic](https://github.com/enuminous/Ramtastic) | 252 | 34 | 135 | 99 | COMPLETE | [Files](repos/Ramtastic.json) |
 | [Raven](https://github.com/enuminous/Raven) | 17 | 3 | 3 | 7 | COMPLETE | [Files](repos/Raven.json) |
 | [Research-Program](https://github.com/enuminous/Research-Program) | 8 | 5 | 0 | 2 | COMPLETE | [Files](repos/Research-Program.json) |
@@ -172,7 +172,7 @@
 | [Tokamak](https://github.com/enuminous/Tokamak) | 699 | 64 | 669 | 88 | COMPLETE | [Files](repos/Tokamak.json) |
 | [Topology](https://github.com/enuminous/Topology) | 37 | 11 | 11 | 15 | COMPLETE | [Files](repos/Topology.json) |
 | [Tortoise](https://github.com/enuminous/Tortoise) | 77 | 7 | 3 | 10 | COMPLETE | [Files](repos/Tortoise.json) |
-| [trisphere](https://github.com/enuminous/trisphere) | 194 | 28 | 40 | 90 | COMPLETE | [Files](repos/trisphere.json) |
+| [trisphere](https://github.com/enuminous/trisphere) | 244 | 52 | 90 | 102 | COMPLETE | [Files](repos/trisphere.json) |
 | [Turtle](https://github.com/enuminous/Turtle) | 17 | 3 | 2 | 7 | COMPLETE | [Files](repos/Turtle.json) |
 | [Universal-Cognitive-Attractor](https://github.com/enuminous/Universal-Cognitive-Attractor) | 21 | 9 | 5 | 6 | COMPLETE | [Files](repos/Universal-Cognitive-Attractor.json) |
 | [Universe5](https://github.com/enuminous/Universe5) | 5 | 3 | 2 | 1 | COMPLETE | [Files](repos/Universe5.json) |

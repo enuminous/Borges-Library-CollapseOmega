@@ -1,6 +1,6 @@
 # Sophia's Complete Public Papers Document Shelf
 
-**Snapshot:** 2026-11-27T00:41:22+00:00
+**Snapshot:** 2026-11-28T00:07:34+00:00
 **Evidence:** file inventory, not a journal peer-review or publication-status assertion.
 
 [Universal catalogue](overview.md) · [Source repository](https://github.com/enuminous/papers)
@@ -69,6 +69,7 @@
 | EFMW-QG-023-Covariant-Quantum-Matter-Geometry-Interaction-2026-11-26.md | 11755 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-QG-023-Covariant-Quantum-Matter-Geometry-Interaction-2026-11-26.md) |
 | EFMW-QG-024-Quantum-Gravitational-Causality-2026-11-26.md | 7723 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-QG-024-Quantum-Gravitational-Causality-2026-11-26.md) |
 | EFMW-Quantum-Gravity-Interim-Report-QG-003-013-2026-11-26.md | 15669 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-Quantum-Gravity-Interim-Report-QG-003-013-2026-11-26.md) |
+| EFMW-Quantum-Gravity-Microscopic-Constraint-Obstruction-QST-001-QG-030-2026-11-27.md | 34906 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-Quantum-Gravity-Microscopic-Constraint-Obstruction-QST-001-QG-030-2026-11-27.md) |
 | EFMW-RP-001-Bubble-Memory-Detection-and-Identifiability.md | 34251 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-RP-001-Bubble-Memory-Detection-and-Identifiability.md) |
 | EFMW-Scientific-Validation-Roadmap-2026-11-15.md | 35435 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-Scientific-Validation-Roadmap-2026-11-15.md) |
 | EFMW-TLON-001-002-Tlonification-Simulation-and-Self-Assessment-2026-11-25.md | 5657 | [Open](https://github.com/enuminous/papers/blob/main/EFMW-TLON-001-002-Tlonification-Simulation-and-Self-Assessment-2026-11-25.md) |
@@ -329,6 +330,8 @@
 | TriSphere-Blueprint-Equation-10-Corrected-2026-11-24.docx | 1737929 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-Blueprint-Equation-10-Corrected-2026-11-24.docx) |
 | TriSphere-Equation-10-Attracting-Return-Map-2026-11-25.md | 3290 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-Equation-10-Attracting-Return-Map-2026-11-25.md) |
 | TriSphere-INT-001-Stability-Is-Not-Computational-Memory-2026-11-26.md | 3703 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-INT-001-Stability-Is-Not-Computational-Memory-2026-11-26.md) |
+| TriSphere-MAG-001-Net-Zero-Directional-Order-and-EuSi-2026-11-26.md | 7783 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-MAG-001-Net-Zero-Directional-Order-and-EuSi-2026-11-26.md) |
+| TriSphere-MAG-002-Emergent-Directional-Order-and-the-Scalar-Breathing-Obstruction-2026-11-26.md | 8403 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-MAG-002-Emergent-Directional-Order-and-the-Scalar-Breathing-Obstruction-2026-11-26.md) |
 | TriSphere-Tokamak-Model-Comparison-2026-11-19.md | 2711 | [Open](https://github.com/enuminous/papers/blob/main/TriSphere-Tokamak-Model-Comparison-2026-11-19.md) |
 | Two-Oscillators-One-Missing-Force-EFMW-F03.md | 14676 | [Open](https://github.com/enuminous/papers/blob/main/Two-Oscillators-One-Missing-Force-EFMW-F03.md) |
 | Two-Paths-to-Rotation.md | 35607 | [Open](https://github.com/enuminous/papers/blob/main/Two-Paths-to-Rotation.md) |
@@ -345,4 +348,4 @@
 | WITD-002-Where-Does-the-Memorys-Energy-Go-2026-11-05.md | 15106 | [Open](https://github.com/enuminous/papers/blob/main/WITD-002-Where-Does-the-Memorys-Energy-Go-2026-11-05.md) |
 | WORLD-GRID-005-Equal-Budget-Negative-Result.md | 11723 | [Open](https://github.com/enuminous/papers/blob/main/WORLD-GRID-005-Equal-Budget-Negative-Result.md) |
 
-**Document-like files listed:** 337
+**Document-like files listed:** 340

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "name": "Sophia's public publications, documents, results and source catalogue",
-  "generated_at_utc": "2026-11-27T00:41:22+00:00",
+  "generated_at_utc": "2026-11-28T00:07:34+00:00",
   "scope": "All PUBLIC GitHub repositories owned by enuminous; all non-vendor/default-branch files",
   "excluded": "Private repositories, connected Drive/Gmail/Library files, non-default branches, unlisted releases",
   "evidence_rule": "METADATA ONLY; DO NOT infer PASS, theorem verification or physical reality from titles",
@@ -11,13 +11,13 @@
   "incomplete_repositories": 2,
   "coverage_complete": false,
   "totals": {
-    "document": 9169,
-    "papers_document": 337,
-    "data_or_result": 30410,
-    "reproducibility_source": 119859,
+    "document": 9202,
+    "papers_document": 340,
+    "data_or_result": 30463,
+    "reproducibility_source": 119874,
     "media": 2073,
-    "other": 10958,
-    "files": 144258
+    "other": 10960,
+    "files": 144324
   },
   "errors": [
     {
@@ -34,11 +34,11 @@
       "name": "papers",
       "repository": "enuminous/papers",
       "default_branch": "main",
-      "tree_sha": "747ad27e49ab90f0eb43e42b6cd7758670c5752c",
-      "files": 656,
+      "tree_sha": "7491c32ccc384632c5f3d1d4491a2ae338d5d7e6",
+      "files": 659,
       "counts": {
-        "document": 337,
-        "papers_document": 337,
+        "document": 340,
+        "papers_document": 340,
         "data_or_result": 182,
         "reproducibility_source": 92,
         "media": 10,
@@ -528,7 +528,7 @@
       "name": "Borges-Library-CollapseOmega",
       "repository": "enuminous/Borges-Library-CollapseOmega",
       "default_branch": "main",
-      "tree_sha": "840a7f10bb1e02e32cbe6963574222a2767c9474",
+      "tree_sha": "07af03ebfd51b0dadacaad1569e156aa589d046e",
       "files": 20,
       "counts": {
         "document": 10,
@@ -2675,15 +2675,15 @@
       "name": "Quantum-Gravity",
       "repository": "enuminous/Quantum-Gravity",
       "default_branch": "main",
-      "tree_sha": "ebe3638fed3ccad7d3f931e1dc8df6565f0c3916",
-      "files": 126,
+      "tree_sha": "d07cbde5b11788d5147c931584a6e572ec43cc2d",
+      "files": 139,
       "counts": {
-        "document": 54,
+        "document": 60,
         "papers_document": 0,
-        "data_or_result": 24,
-        "reproducibility_source": 32,
+        "data_or_result": 27,
+        "reproducibility_source": 35,
         "media": 0,
-        "other": 17
+        "other": 19
       },
       "status": "COMPLETE",
       "inventory": "repos/Quantum-Gravity.json",
@@ -3093,13 +3093,13 @@
       "name": "trisphere",
       "repository": "enuminous/trisphere",
       "default_branch": "main",
-      "tree_sha": "86115e01fdde06df9f06ecadfb3b576a6288121b",
-      "files": 194,
+      "tree_sha": "aa816ea3ccbf173dbc7c63c8b2dc556273e21a06",
+      "files": 244,
       "counts": {
-        "document": 28,
+        "document": 52,
         "papers_document": 0,
-        "data_or_result": 40,
-        "reproducibility_source": 90,
+        "data_or_result": 90,
+        "reproducibility_source": 102,
         "media": 1,
         "other": 52
       },
